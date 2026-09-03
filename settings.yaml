@@ -1,0 +1,30 @@
+settings:
+  # Optional but recommended for polite API usage.
+  # Put your email here, e.g. "name@example.com".
+  contact_email: "feir1996@outlook.com"
+
+  output_dir: "docs"
+  state_file: "state/articles.json"
+
+  # Each GitHub Action run checks papers published in the last 35 days.
+  # Existing DOI/title hashes in state/articles.json prevent duplicate work.
+  crossref_lookback_days: 10
+  crossref_rows_per_journal: 1000
+
+  # Keep 1 year of state; expose up to 180 days in the RSS feeds.
+  state_retention_days: 365
+  feed_history_days: 180
+  max_items_per_channel: 300
+
+  # Abstract completion.
+  min_abstract_chars: 80
+  max_enrichment_attempts: 2
+  use_openalex: true
+  use_publisher_page: true
+
+  request_timeout_seconds: 25
+  request_delay_seconds: 0.10
+
+  # Leave blank on GitHub. The script infers:
+  # https://USERNAME.github.io/REPOSITORY
+  site_base_url: ""

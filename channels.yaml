@@ -1,0 +1,41 @@
+# Channels and keywords supplied by the user.
+# Matching is case-insensitive across title OR abstract.
+# No additional scientific synonyms are added here.
+
+channels:
+  tropical-cyclone:
+    label: "Tropical Cyclone"
+    enabled: true
+    fields: ["title", "abstract"]
+    mode: "any"
+    keywords:
+      - "tropical cyclone"
+      - "typhoon"
+      - "tropical storm"
+      - "tropical convection"
+      - "hurricane"
+    exclude: []
+
+  machine-learning:
+    label: "Machine Learning"
+    enabled: true
+    fields: ["title", "abstract"]
+    mode: "any"
+    keywords:
+      - "machine learning"
+      - "AI model"
+      - "deep learning"
+      - "neural network"
+      - "artificial intelligence"
+    exclude: []
+
+  low-altitude-economy:
+    label: "Low-altitude Economy"
+    enabled: true
+    fields: ["title", "abstract"]
+    mode: "any"
+    keywords:
+      - "low-altitude meteorology"
+      - "low-altitude weather"
+      - "low-altitude meteorological"
+    exclude: []

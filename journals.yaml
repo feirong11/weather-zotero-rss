@@ -1,0 +1,116 @@
+# 22 journals supplied by the user.
+# "name" preserves the user's list label.
+# "canonical_title" is only metadata displayed in the generated RSS.
+# The monitor uses ISSN to query Crossref, which is more stable for unattended
+# GitHub Actions than relying on 22 publisher-specific RSS endpoint formats.
+
+journals:
+  - name: "Journal of the Atmospheric Sciences"
+    canonical_title: "Journal of the Atmospheric Sciences"
+    issn: "0022-4928"
+    enabled: true
+
+  - name: "Journal of Climate"
+    canonical_title: "Journal of Climate"
+    issn: "0894-8755"
+    enabled: true
+
+  - name: "Monthly Weather Review"
+    canonical_title: "Monthly Weather Review"
+    issn: "0027-0644"
+    enabled: true
+
+  - name: "Bulletin of the American Meteorological Society"
+    canonical_title: "Bulletin of the American Meteorological Society"
+    issn: "0003-0007"
+    enabled: true
+
+  - name: "Journal of Applied Meteorology and Climatology"
+    canonical_title: "Journal of Applied Meteorology and Climatology"
+    issn: "1558-8424"
+    enabled: true
+
+  - name: "Journal of Atmospheric and Oceanic Technology"
+    canonical_title: "Journal of Atmospheric and Oceanic Technology"
+    issn: "0739-0572"
+    enabled: true
+
+  - name: "Weather and Forecasting"
+    canonical_title: "Weather and Forecasting"
+    issn: "0882-8156"
+    enabled: true
+
+  - name: "Geophysical Research Letters"
+    canonical_title: "Geophysical Research Letters"
+    issn: "0094-8276"
+    enabled: true
+
+  - name: "Journal of Geophysical Research: Atmospheres"
+    canonical_title: "Journal of Geophysical Research: Atmospheres"
+    issn: "2169-897X"
+    enabled: true
+
+  - name: "Journal of Advances in Modeling Earth Systems"
+    canonical_title: "Journal of Advances in Modeling Earth Systems"
+    issn: "1942-2466"
+    enabled: true
+
+  - name: "Journal of the Meteorological Society of Japan"
+    canonical_title: "Journal of the Meteorological Society of Japan"
+    issn: "0026-1165"
+    enabled: true
+
+  - name: "Quarterly Journal of the Royal Meteorological Society"
+    canonical_title: "Quarterly Journal of the Royal Meteorological Society"
+    issn: "0035-9009"
+    enabled: true
+
+  - name: "International Journal of Climatology"
+    canonical_title: "International Journal of Climatology"
+    issn: "0899-8418"
+    enabled: true
+
+  - name: "Atmospheric Science Letters"
+    canonical_title: "Atmospheric Science Letters"
+    issn: "1530-261X"
+    enabled: true
+
+  - name: "Advances in Atmospheric Sciences"
+    canonical_title: "Advances in Atmospheric Sciences"
+    issn: "0256-1530"
+    enabled: true
+
+  - name: "Boundary-Layer Meteorology"
+    canonical_title: "Boundary-Layer Meteorology"
+    issn: "0006-8314"
+    enabled: true
+
+  - name: "Atmospheric Research"
+    canonical_title: "Atmospheric Research"
+    issn: "0169-8095"
+    enabled: true
+
+  - name: "Atmospheric and Oceanic Science Letters"
+    canonical_title: "Atmospheric and Oceanic Science Letters"
+    issn: "1674-2834"
+    enabled: true
+
+  - name: "Nature"
+    canonical_title: "Nature"
+    issn: "0028-0836"
+    enabled: true
+
+  - name: "Science"
+    canonical_title: "Science"
+    issn: "0036-8075"
+    enabled: true
+
+  - name: "Nature Communications"
+    canonical_title: "Nature Communications"
+    issn: "2041-1723"
+    enabled: true
+
+  - name: "Scientific Reports"
+    canonical_title: "Scientific Reports"
+    issn: "2045-2322"
+    enabled: true
