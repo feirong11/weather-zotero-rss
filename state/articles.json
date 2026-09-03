@@ -431,8 +431,8 @@
       "issn": "0894-8755",
       "first_seen": "2026-09-03T15:07:27+00:00",
       "last_seen": "2026-09-03T15:07:27+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:27+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:36+00:00",
       "matched_channels": {}
     },
     "doi:10.1175/jcli-d-25-0743.1": {
@@ -1173,8 +1173,8 @@
       "issn": "0003-0007",
       "first_seen": "2026-09-03T15:07:28+00:00",
       "last_seen": "2026-09-03T15:07:28+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:28+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:38+00:00",
       "matched_channels": {}
     },
     "doi:10.1175/bams-d-25-0201.1": {
@@ -2783,8 +2783,8 @@
       "issn": "0094-8276",
       "first_seen": "2026-09-03T15:07:30+00:00",
       "last_seen": "2026-09-03T15:07:30+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:30+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:39+00:00",
       "matched_channels": {}
     },
     "doi:10.1029/2026gl124082": {
@@ -3723,8 +3723,8 @@
       "issn": "2169-897X",
       "first_seen": "2026-09-03T15:07:31+00:00",
       "last_seen": "2026-09-03T15:07:31+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:31+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:40+00:00",
       "matched_channels": {}
     },
     "doi:10.1029/2026jd047590": {
@@ -4377,8 +4377,8 @@
       "issn": "1942-2466",
       "first_seen": "2026-09-03T15:07:32+00:00",
       "last_seen": "2026-09-03T15:07:32+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:32+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:41+00:00",
       "matched_channels": {}
     },
     "doi:10.1002/qj.70302": {
@@ -4612,8 +4612,8 @@
       "issn": "0899-8418",
       "first_seen": "2026-09-03T15:07:34+00:00",
       "last_seen": "2026-09-03T15:07:34+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:34+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:42+00:00",
       "matched_channels": {}
     },
     "doi:10.1002/joc.70576": {
@@ -4864,8 +4864,8 @@
       "issn": "1530-261X",
       "first_seen": "2026-09-03T15:07:35+00:00",
       "last_seen": "2026-09-03T15:07:35+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:35+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:43+00:00",
       "matched_channels": {}
     },
     "doi:10.1002/asl2.70060": {
@@ -5216,8 +5216,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:46+00:00",
       "last_seen": "2026-09-03T15:07:46+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:46+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:44+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109019": {
@@ -5270,8 +5270,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:47+00:00",
       "last_seen": "2026-09-03T15:07:47+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:47+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:45+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109063": {
@@ -5291,8 +5291,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:48+00:00",
       "last_seen": "2026-09-03T15:07:48+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:48+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:46+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109024": {
@@ -5316,8 +5316,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:48+00:00",
       "last_seen": "2026-09-03T15:07:48+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:48+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:46+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109056": {
@@ -5343,8 +5343,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:49+00:00",
       "last_seen": "2026-09-03T15:07:49+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:49+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:47+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109022": {
@@ -5368,8 +5368,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:49+00:00",
       "last_seen": "2026-09-03T15:07:49+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:49+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:47+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109066": {
@@ -5392,8 +5392,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:50+00:00",
       "last_seen": "2026-09-03T15:07:50+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:50+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:48+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109064": {
@@ -5413,8 +5413,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:51+00:00",
       "last_seen": "2026-09-03T15:07:51+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:51+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:48+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109304": {
@@ -5434,8 +5434,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:51+00:00",
       "last_seen": "2026-09-03T15:07:51+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:51+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:49+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109036": {
@@ -5456,8 +5456,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:52+00:00",
       "last_seen": "2026-09-03T15:07:52+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:52+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:49+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.108991": {
@@ -5481,8 +5481,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:52+00:00",
       "last_seen": "2026-09-03T15:07:52+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:52+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:50+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109051": {
@@ -5529,8 +5529,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:53+00:00",
       "last_seen": "2026-09-03T15:07:53+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:53+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:50+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109060": {
@@ -5574,8 +5574,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:54+00:00",
       "last_seen": "2026-09-03T15:07:54+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:54+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:51+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109034": {
@@ -5613,8 +5613,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:55+00:00",
       "last_seen": "2026-09-03T15:07:55+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:55+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:52+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109061": {
@@ -5659,8 +5659,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:56+00:00",
       "last_seen": "2026-09-03T15:07:56+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:56+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:52+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109053": {
@@ -5685,8 +5685,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:56+00:00",
       "last_seen": "2026-09-03T15:07:56+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:56+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:53+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109030": {
@@ -5718,8 +5718,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:57+00:00",
       "last_seen": "2026-09-03T15:07:57+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:57+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:53+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109038": {
@@ -5742,8 +5742,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:57+00:00",
       "last_seen": "2026-09-03T15:07:57+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:57+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:54+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109018": {
@@ -5765,8 +5765,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:58+00:00",
       "last_seen": "2026-09-03T15:07:58+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:58+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:55+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109310": {
@@ -5785,8 +5785,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:58+00:00",
       "last_seen": "2026-09-03T15:07:58+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:58+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:55+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109037": {
@@ -5832,8 +5832,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:07:59+00:00",
       "last_seen": "2026-09-03T15:07:59+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:07:59+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:56+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109031": {
@@ -5859,8 +5859,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:08:00+00:00",
       "last_seen": "2026-09-03T15:08:00+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:00+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:56+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109042": {
@@ -5884,8 +5884,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:08:00+00:00",
       "last_seen": "2026-09-03T15:08:00+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:00+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:57+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109049": {
@@ -5931,8 +5931,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:08:01+00:00",
       "last_seen": "2026-09-03T15:08:01+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:01+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:57+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109062": {
@@ -6006,8 +6006,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:08:02+00:00",
       "last_seen": "2026-09-03T15:08:02+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:02+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:58+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109052": {
@@ -6028,8 +6028,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:08:03+00:00",
       "last_seen": "2026-09-03T15:08:03+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:03+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:58+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109041": {
@@ -6051,8 +6051,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:08:03+00:00",
       "last_seen": "2026-09-03T15:08:03+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:03+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:05:59+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109040": {
@@ -6081,8 +6081,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:08:04+00:00",
       "last_seen": "2026-09-03T15:08:04+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:04+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:00+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.atmosres.2026.109005": {
@@ -6111,8 +6111,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-09-03T15:08:04+00:00",
       "last_seen": "2026-09-03T15:08:04+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:04+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:00+00:00",
       "matched_channels": {}
     },
     "doi:10.1016/j.aosl.2025.100721": {
@@ -7698,8 +7698,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:08:24+00:00",
       "last_seen": "2026-09-03T15:08:24+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:24+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:02+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02781-1": {
@@ -7872,8 +7872,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:08:32+00:00",
       "last_seen": "2026-09-03T15:08:32+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:32+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:04+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/s41586-026-10983-w": {
@@ -8358,8 +8358,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:08:41+00:00",
       "last_seen": "2026-09-03T15:08:41+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:41+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:11+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02756-2": {
@@ -8399,8 +8399,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:08:43+00:00",
       "last_seen": "2026-09-03T15:08:43+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:43+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:12+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02119-x": {
@@ -8438,8 +8438,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:08:45+00:00",
       "last_seen": "2026-09-03T15:08:45+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:45+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:13+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02456-x": {
@@ -8476,8 +8476,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:08:48+00:00",
       "last_seen": "2026-09-03T15:08:48+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:08:48+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:15+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02383-x": {
@@ -8945,8 +8945,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:09:09+00:00",
       "last_seen": "2026-09-03T15:09:09+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:09:09+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:16+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02733-9": {
@@ -10032,8 +10032,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:09:44+00:00",
       "last_seen": "2026-09-03T15:09:44+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:09:44+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:17+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02513-5": {
@@ -10194,8 +10194,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:09:50+00:00",
       "last_seen": "2026-09-03T15:09:50+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:09:50+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:18+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02550-0": {
@@ -10232,8 +10232,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:09:52+00:00",
       "last_seen": "2026-09-03T15:09:52+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:09:52+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:19+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02094-3": {
@@ -10272,8 +10272,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:09:54+00:00",
       "last_seen": "2026-09-03T15:09:54+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:09:54+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:21+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02634-x": {
@@ -10291,8 +10291,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-03T15:09:55+00:00",
       "last_seen": "2026-09-03T15:09:55+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:09:55+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:22+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02569-3": {
@@ -10674,8 +10674,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:11+00:00",
       "last_seen": "2026-09-03T15:10:11+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:11+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:23+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aeb0054": {
@@ -10726,8 +10726,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:11+00:00",
       "last_seen": "2026-09-03T15:10:11+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:11+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:24+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.ael0147": {
@@ -10745,8 +10745,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:12+00:00",
       "last_seen": "2026-09-03T15:10:12+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:12+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:25+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aef0464": {
@@ -10883,8 +10883,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:13+00:00",
       "last_seen": "2026-09-03T15:10:13+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:13+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:25+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aek4631": {
@@ -10920,8 +10920,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:13+00:00",
       "last_seen": "2026-09-03T15:10:13+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:13+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:26+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aec5252": {
@@ -11050,8 +11050,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:14+00:00",
       "last_seen": "2026-09-03T15:10:14+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:14+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:26+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aek5038": {
@@ -11073,8 +11073,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:15+00:00",
       "last_seen": "2026-09-03T15:10:15+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:15+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:27+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aeh4348": {
@@ -11093,8 +11093,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:15+00:00",
       "last_seen": "2026-09-03T15:10:15+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:15+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:27+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aeb5274": {
@@ -11206,8 +11206,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:16+00:00",
       "last_seen": "2026-09-03T15:10:16+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:16+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:28+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aek4499": {
@@ -11255,8 +11255,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:18+00:00",
       "last_seen": "2026-09-03T15:10:18+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:18+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:29+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aec2171": {
@@ -11346,8 +11346,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:19+00:00",
       "last_seen": "2026-09-03T15:10:19+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:19+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:29+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aej2018": {
@@ -11385,8 +11385,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:19+00:00",
       "last_seen": "2026-09-03T15:10:19+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:19+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:30+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.ady4523": {
@@ -11555,8 +11555,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-03T15:10:20+00:00",
       "last_seen": "2026-09-03T15:10:20+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:10:20+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:30+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aef8268": {
@@ -24806,8 +24806,8 @@
       "issn": "2045-2322",
       "first_seen": "2026-09-03T15:12:17+00:00",
       "last_seen": "2026-09-03T15:12:17+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-03T15:12:17+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-03T16:06:35+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/s41598-026-65838-1": {
@@ -48734,6 +48734,339 @@
       "last_seen": "2026-09-03T15:17:21+00:00",
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-03T15:17:21+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1175/bams-d-25-0009.1": {
+      "key": "doi:10.1175/bams-d-25-0009.1",
+      "doi": "10.1175/bams-d-25-0009.1",
+      "title": "Decision Calendars for Cold Regions Hydrological Forecasting: Collaboration in the Transboundary Yukon River Basin",
+      "abstract": "Abstract Supporting decision making in hydrological forecasting depends on aligning scientific outputs with the practical needs and timelines of operational centers. This study documents the collaborative development of decision calendars with forecasters from the Alaska-Pacific River Forecast Center and the Yukon Government River Forecast Center in the transboundary, high-latitude Yukon River Basin, where hydrology is dominated by cold region processes. Decision calendars were used as a tool to synthesize shared operational knowledge, map recurring forecasting modes to an annual cycle, and identify critical timing for monitoring, forecasting and communication. The process highlighted challenges in transitioning research advances into operational practice, including reconciling data sources, communication needs, and the integration of new models and methods. Decision calendars inform the development of open-source forecasting workflows using the existing operational software framework. They also provide a basis for developing user-informed evaluation that assesses forecast performance based on operational needs. Findings emphasize the importance of knowledge sharing and structured methods to exchange information in developing actionable hydrological science. Lessons learned from the Yukon River Basin may be transferable to other regions seeking to improve forecast usability and uptake through structured collaboration between researchers and operational forecasters.",
+      "link": "https://doi.org/10.1175/bams-d-25-0009.1",
+      "authors": [
+        "David R. Casson",
+        "Andrea J. Ray",
+        "Anthony Bier",
+        "Holly Goulding",
+        "Dave Streubel",
+        "Johnse Ostman",
+        "Crane Johnson",
+        "Darri Eythorsson",
+        "Martyn P. Clark"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Bulletin of the American Meteorological Society",
+      "journal_label": "Bulletin of the American Meteorological Society",
+      "issn": "0003-0007",
+      "first_seen": "2026-09-03T16:05:38+00:00",
+      "last_seen": "2026-09-03T16:05:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109306": {
+      "key": "doi:10.1016/j.atmosres.2026.109306",
+      "doi": "10.1016/j.atmosres.2026.109306",
+      "title": "Multidirectional moisture transport and dynamic–thermodynamic mechanisms of a short-duration heavy precipitation case on the Northern Slope of the Tianshan Mountains",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109306",
+      "authors": [
+        "Zhiyi Li",
+        "Junqiang Yao",
+        "Changchun Xu",
+        "Yu Luo",
+        "Ting Zhang"
+      ],
+      "published": "2026-09-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-09-03T16:05:52+00:00",
+      "last_seen": "2026-09-03T16:05:52+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-03T16:05:52+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109311": {
+      "key": "doi:10.1016/j.atmosres.2026.109311",
+      "doi": "10.1016/j.atmosres.2026.109311",
+      "title": "Contrasting ambient environments of locally generated short- and long-lived warm-sector heavy precipitation events over the South China coast",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109311",
+      "authors": [
+        "Haisheng Liu",
+        "Xiaogang Huang",
+        "Jianfang Fei",
+        "Xiaoping Cheng",
+        "Xiadong An",
+        "Xiangrong Yang",
+        "Jing Sun",
+        "Chi Zhang"
+      ],
+      "published": "2026-09-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-09-03T16:05:59+00:00",
+      "last_seen": "2026-09-03T16:05:59+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-03T16:05:59+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77349-8": {
+      "key": "doi:10.1038/s41467-026-77349-8",
+      "doi": "10.1038/s41467-026-77349-8",
+      "title": "Microenvironment-aware transcriptome reconstruction in spatial transcriptomics",
+      "abstract": "Imaging-based spatial transcriptomics provides single-cell resolution, but remains limited to targeted gene panels, leaving much of the transcriptome and cellular-state variation unobserved. Existing approaches infer unmeasured genes primarily through transcriptional alignment between spatial and reference datasets, which effectively recover broad cell identities, but may not fully capture context-dependent variation within cell types. Here we show that local microenvironmental organization is associated with transcriptional variation beyond cell identity and provides complementary constraints for transcriptome reconstruction. Based on this observation, we present Emerge, a microenvironment-aware framework that integrates transcriptional identity with the local microenvironment to reconstruct transcriptome-scale expression. Across MERFISH and Xenium datasets spanning neural and tumor ecosystems, we show that Emerge improves recovery of structured transcriptional variation and reveals coordinated relationships among cellular states, ecological niches and intercellular communication programs that are only partially captured by targeted gene panels. Together, we demonstrate that Emerge extends transcriptome reconstruction from gene completion to context-aware recovery of cellular states. Current methods for spatial transcriptomics data analysis do not fully capture context-dependent variation within cell types. Here the authors present Emerge, which integrates cellular identity with tissue environments to reveal hidden cellular states and microenvironment-associated transcriptional programs.",
+      "link": "https://doi.org/10.1038/s41467-026-77349-8",
+      "authors": [
+        "Shi-Tong Yang",
+        "Pai Peng",
+        "Hui-Feng He",
+        "Meng-Guo Wang",
+        "Bo-Han Si",
+        "Xiao-Fei Zhang",
+        "Luonan Chen"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-03T16:06:31+00:00",
+      "last_seen": "2026-09-03T16:06:31+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-03T16:06:31+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69070-9": {
+      "key": "doi:10.1038/s41598-026-69070-9",
+      "doi": "10.1038/s41598-026-69070-9",
+      "title": "Quantification of intervertebral disc degeneration using dual-energy computed tomography collagen maps: a comparative study with MRI Pfirrmann grading",
+      "abstract": "Abstract To determine the correlation between quantitative HU values derived from DECT collagen maps and the MRI-based Pfirrmann grade. We retrospectively reviewed IVDs in patients who underwent both spinal DECT and MRI within one year. CT scans were acquired using single-source DECT at 80 and 135-kVp with automatic exposure control. Three readers scored IVDs according to Pfirrmann et al. on T2-weighted MRI images. Quantitative evaluation involved placing three standardized regions of interest in each IVD in DECT-based cMaps; in corresponding 135-kVp DECT scans and MRI images. Mean density measurements of AF and NP were compared with PF-grades using linear mixed model analysis. We included 339 IVDs of 97 patients [mean age 59.1 years]; (53 women [mean age 63.5 years] and 44 men [mean age 53.8 years]). cMap analysis revealed a significant difference of AF and NP collagen and chondroitin density between PF-grade I and V(AF: MD = − 31.1HU (95% CI − 59.5 to − 2.7), p = 0.032;NP:MD = − 37.8HU (95% CI − 73.6 to − 2.0), p = 0.038). 135-kVp DECT showed no IVD density reduction corresponding to PF-grades. MRI showed significant reduction of signal intensities in AF and NP with increasing PF-grades. IVD collagen and chondroitin density declined with increasing PF-grade in DECT-based cMaps, suggesting DECT-based cMaps as an additional tool for IVD classification.",
+      "link": "https://doi.org/10.1038/s41598-026-69070-9",
+      "authors": [
+        "Lara Farkic",
+        "Carsten Stelbrink",
+        "Friedemann Goehler",
+        "Kerstin Rubarth",
+        "Yan Klosterkemper",
+        "Friederike Schömig",
+        "Matthias Pumberger",
+        "Denis Poddubnyy",
+        "Dominik Deppe",
+        "Robert Biesen",
+        "Mikhail Protopopov",
+        "Torsten Diekhoff",
+        "Julian Pohlan"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-03T16:06:34+00:00",
+      "last_seen": "2026-09-03T16:06:34+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69230-x": {
+      "key": "doi:10.1038/s41598-026-69230-x",
+      "doi": "10.1038/s41598-026-69230-x",
+      "title": "Effect of gradient phase-change temperatures on the thermal performance of floor heating systems with encased phase-change materials",
+      "abstract": "As phase-change materials (PCMs) are increasingly used in radiant floor heating systems (RFHS), their ability to reduce temperature fluctuations and improve energy efficiency has been widely demonstrated. However, existing studies have primarily focused on PCMs with a single phase-change temperature, whereas gradient PCMs in encased floor systems remain insufficiently investigated. This study proposes an optimized design that integrates gradient PCMs into a single–layer encased RFHS. A computational fluid dynamics (CFD) model was used to systematically investigate the effects of the phase-change temperature ranges of the inner and outer PCM layers on the thermal behavior of the RFHS. The results reveal a distinct optimization mechanism between the two PCM layers: the outer PCM layer dominates the floor surface response speed and temperature uniformity by regulating heat transfer near the floor surface, whereas the inner PCM layer governs the heat release rate and high-temperature duration by controlling latent heat storage near the hot water pipe. By optimizing the phase-change temperature gradients of the inner and outer PCM layers, the optimal configuration was identified (outer layer: 32–37 ℃; inner layer: 38–43 ℃). Compared with the conventional singletemperature PCM design, the optimized system achieved a 9.89% increase in phase-change rate, a 24.32% extension in high-temperature duration, a 1.8% rise in average temperature, and a 5.41% reduction in temperature fluctuation. This study provides theoretical guidance and technical support for improving the thermal efficiency of encased RFHS and promoting their application in green buildings.",
+      "link": "https://doi.org/10.1038/s41598-026-69230-x",
+      "authors": [
+        "Cuiping Zang",
+        "Yandong Tang",
+        "Zhenyu Wang",
+        "Yanna Gao"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-03T16:06:34+00:00",
+      "last_seen": "2026-09-03T16:06:34+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-03T16:06:34+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-67209-2": {
+      "key": "doi:10.1038/s41598-026-67209-2",
+      "doi": "10.1038/s41598-026-67209-2",
+      "title": "A trustworthy anatomically-guided region-aware deep learning framework for automated Alzheimer’s disease classification from brain MRI",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-67209-2",
+      "authors": [
+        "M. Vengateshwaran",
+        "P. Kola Sujatha",
+        "A. Kannan"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-03T16:06:35+00:00",
+      "last_seen": "2026-09-03T16:06:35+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-69926-0": {
+      "key": "doi:10.1038/s41598-026-69926-0",
+      "doi": "10.1038/s41598-026-69926-0",
+      "title": "Oral midazolam combined with brief inhaled sevoflurane provides effective sedation for paediatric magnetic resonance imaging",
+      "abstract": "To evaluate the efficacy and safety of a non-invasive sedation protocol combining oral midazolam solution with a brief inhaled sevoflurane for outpatient pediatric magnetic resonance imaging (MRI) examinations. Prospective, single-center, randomized controlled trial with blinded outcome assessment. Outpatient pediatric MRI unit at Xi’an International Medical Center Hospital, China. 104 children aged 1–6 years, ASA physical status I-II, scheduled for single-site MRI under sedation. Patients were randomized to: (1) oral midazolam (0.82 mg/kg) plus inhaled sevoflurane (MS group, n = 35); (2) intranasal dexmedetomidine (3 µg/kg) plus inhaled sevoflurane (DS group, n = 34); (3) intranasal dexmedetomidine monotherapy with sham inhalation (DA group, n = 35). Sedation success rate (proportion achieving MRI scan without rescue sedation). Sedation success was 91.4% (32/35) in MS, 47.1% (16/34) in DS, and 25.7% (9/35) in DA groups. Rescue sedation was required in 8.6%, 52.9%, and 74.3% of cases, respectively. Patient behavior scores during premedication were significantly better in MS vs. DS or DA. Mask acceptance was higher in MS and DA vs. DS. Median time from premedication to scan start was 32, 27, and 30 min, respectively. Recovery time was comparable across groups. Adverse events were mild and infrequent, with hypoxemia (SpO₂ <95%) occurring in 8.6% (MS) and 5.9% (DS). No serious adverse events occurred. Oral midazolam combined with brief inhaled sevoflurane demonstrated higher sedation success rates compared with the intranasal dexmedetomidine-based regimens tested in this study for pediatric MRI.",
+      "link": "https://doi.org/10.1038/s41598-026-69926-0",
+      "authors": [
+        "Hongfei Xiong",
+        "Jing Liu",
+        "Anke Niu",
+        "Guangbo Liu",
+        "Yunyun Zhang",
+        "Ziwen Wei",
+        "Wenwen Liang",
+        "Xuemei Zhao",
+        "Siyuan Li",
+        "Rongliang Xue"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-03T16:06:36+00:00",
+      "last_seen": "2026-09-03T16:06:36+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-03T16:06:36+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68821-y": {
+      "key": "doi:10.1038/s41598-026-68821-y",
+      "doi": "10.1038/s41598-026-68821-y",
+      "title": "Automated cervical vertebral maturation staging using deep learning: an anatomically guided framework for orthodontic skeletal maturity assessment",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-68821-y",
+      "authors": [
+        "Noraina Hafizan Norman",
+        "Marshima Mohd Rosli",
+        "Nagham Mohammed Al-Jaf",
+        "Norhasmira Mohammad",
+        "Mohd Yusmiaidil Putera Mohd Yusof"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-03T16:06:37+00:00",
+      "last_seen": "2026-09-03T16:06:37+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-67356-6": {
+      "key": "doi:10.1038/s41598-026-67356-6",
+      "doi": "10.1038/s41598-026-67356-6",
+      "title": "Comparative evaluation of calcined paper mill sludge, montmorillonite, and their composite adsorbents for mature landfill leachate treatment",
+      "abstract": "Mature landfill leachate is difficult to treat because refractory dissolved organic matter produces high chemical oxygen demand (COD), intense color, and poor biodegradability. This study compared calcined paper mill sludge (PMS-A), montmorillonite (Mt), and a novel calcined PMS–Mt composite for simultaneous COD and color removal from mature landfill leachate. Adsorbents were characterized by SEM, EDAX, FTIR, nitrogen sorption, and point-of-zero-charge analysis, and evaluated in batch experiments. At the optimized conditions (pH ≈ 7, 80 g L⁻¹ adsorbent, 90 min, and 250 rpm), PMS-A achieved the highest color and COD removals (98% and 92%), followed by PMS–Mt composite (96% and 76%) and Mt (50% and 60%). Although Mt had the greatest specific surface area, its lower performance showed that surface chemistry and site accessibility were more influential than surface area alone. The pseudo-second-order and Elovich models provided the best fit to the kinetic data. COD adsorption was generally better described by the Freundlich isotherm, whereas color isotherm behavior differed among the adsorbents. These empirical fits were not interpreted as proof of a specific adsorption mechanism. The required dosage of 80 g L⁻¹ and energy-intensive calcination remain important scale-up constraints. Overall, PMS-A showed the strongest technical performance, supporting further work on dosage reduction, regeneration, continuous-flow operation, and techno-economic assessment.",
+      "link": "https://doi.org/10.1038/s41598-026-67356-6",
+      "authors": [
+        "Elham Falahati Naghibi",
+        "Mohammad Shirmardi",
+        "Abdoliman Amouei",
+        "Seyed Mahmoud Mehdinia",
+        "Neda Ahmadzadeh Tori",
+        "Hajar Tabarinia"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-03T16:06:37+00:00",
+      "last_seen": "2026-09-03T16:06:37+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-03T16:06:37+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68985-7": {
+      "key": "doi:10.1038/s41598-026-68985-7",
+      "doi": "10.1038/s41598-026-68985-7",
+      "title": "Neural responses to AIGC based on the associative propositional evaluation model",
+      "abstract": "Artificial Intelligence-Generated Content (AIGC) can improve production efficiency and reduce creation costs, but consumer evaluations of AIGC applications remain mixed. Based on the Associative-Propositional Evaluation (APE) model, we used event-related potentials (ERPs) to examine consumers’ automatic neural responses and behavioral judgments of AIGC applications across different levels of emotional engagement.Pairing positive adjectives with AIGC content elicited more negative N2 amplitudes, which reflects early cognitive conflict or mismatch during associative-dominant processing. In high-emotional-engagement scenarios, negative adjectives triggered more negative N2 amplitudes than in low-emotional conditions, showing that early evaluative processing is modulated by the application context.Behaviorally, acceptance rates for negative adjectives were higher than for positive adjectives in low-emotional scenarios, meaning implicit responses differ across emotional contexts.These findings offer preliminary neurophysiological evidence for AIGC evaluation, but the results should be interpreted with caution. The N2 component primarily indexes early cognitive conflict, and is not a process-specific marker of definitive attitude valence. The study uses a small, non-probability volunteer sample, which limits the generalizability of the findings. Future research needs to replicate these effects with larger, more representative populations to validate the results.",
+      "link": "https://doi.org/10.1038/s41598-026-68985-7",
+      "authors": [
+        "Dong Lv",
+        "Rui Sun",
+        "Shukun Qin",
+        "Qiuhua Zhu",
+        "Yue Cheng"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-03T16:06:38+00:00",
+      "last_seen": "2026-09-03T16:06:38+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-03T16:06:38+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "artificial intelligence"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-69899-0": {
+      "key": "doi:10.1038/s41598-026-69899-0",
+      "doi": "10.1038/s41598-026-69899-0",
+      "title": "Pathological personality traits and problematic pornography use: the mediating role of life satisfaction",
+      "abstract": "Abstract Although pathological personality traits have been associated with problematic pornography use (PPU), limited evidence has examined the cognitive-affective mechanisms through which these variables are statistically associated. In particular, the potential mediating role of life satisfaction has received little attention, especially within a DSM-5 dimensional personality framework and a non-Western context. This study tested an I-PACE-informed statistical mediation model in which life satisfaction statistically mediated the association between pathological personality traits and PPU among Iranian adults. In this cross-sectional descriptive-correlational study, a convenience online sample of 591 Iranian adults aged 18–40 years residing in Tehran completed the Problematic Pornography Use Scale, Personality Inventory for DSM-5–Brief Form, and the Satisfaction With Life Scale. Covariance-based structural equation modeling (CB-SEM) with maximum likelihood estimation and 5,000 bias-corrected bootstrap resamples was used to examine the hypothesized associations among pathological personality traits, satisfaction with life, and problematic pornography use. Pathological personality traits were negatively associated with life satisfaction (β = −0.472, p < .001) and positively associated with PPU (β = 0.303, p < .001), while life satisfaction was negatively associated with PPU (β = −0.450, p < .001). The standardized indirect effect through life satisfaction was statistically significant (β = 0.212, 95% bias-corrected CI [0.176, 0.253], p < .001), and the standardized total effect of pathological personality traits on PPU was β = 0.516. The findings indicate that lower life satisfaction may represent an important cognitive-affective correlate in the statistical association between dimensional pathological personality traits and PPU. By integrating subjective well-being into an I-PACE-informed account of PPU, this study extends understanding of psychological factors that may be relevant to future longitudinal research and clinical formulation.",
+      "link": "https://doi.org/10.1038/s41598-026-69899-0",
+      "authors": [
+        "Peyman MamSharifi",
+        "Faramarz Sohrabi",
+        "Ahmad Borjali",
+        "Enayatollah Zamanpour",
+        "Farideh HosseinSabet"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-03T16:06:39+00:00",
+      "last_seen": "2026-09-03T16:06:39+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69051-y": {
+      "key": "doi:10.1038/s41598-026-69051-y",
+      "doi": "10.1038/s41598-026-69051-y",
+      "title": "Associations between maturation assessment methods and growth-related injury occurrence in a German Bundesliga youth football academy",
+      "abstract": "Abstract Peak height velocity (PHV) marks a sensitive period for adolescent athletes with increased injury risk. This prospective observational study explores how different maturation assessment methods are associated with injury occurrence, particularly growth-related injuries, during PHV in elite youth football players. Maturation of male U9-U16 players from the academy of a German Bundesliga club was assessed four times over one year using nine different methods (Mirwald, Moore, Fransen: ± 6/12 months, Khamis-Roche 85–96%/88–96%, ultrasonic BAUSport). Maturation was categorised into three periods relative to players’ PHV (Pre-PHV, PHV, Post-PHV). For each assessment-quarter, injury occurrence was categorised as no injury, growth-related, non-contact, or contact. Injury occurrence across maturation periods was analysed in a Bayesian multinomial regression using data from 205 players (619 assessments). In this single-academy cohort, only the ultrasonic BAUSport-defined PHV period was associated with higher odds of growth-related injury, as results reveal lower odds versus no injury in Pre- and Post-PHV periods (OR = 0.33 and 0.17) relative to PHV. Most methods demonstrated higher odds of non-contact injury versus no injury with progressive maturation, while contact injuries did not differ between maturation periods. This preliminary association warrants evaluation in larger longitudinal cohorts with exposure data before informing monitoring or prevention practice. Clinical trial registration: The study was registered at the German Clinical Trial Register ( www.drks.de ; DRKS00036919).",
+      "link": "https://doi.org/10.1038/s41598-026-69051-y",
+      "authors": [
+        "Felix Laukhardt",
+        "Tobias Engeroff",
+        "Sebastian Schneider",
+        "Christian Haser",
+        "Daniel Niederer",
+        "David Groneberg",
+        "Winfried Banzer"
+      ],
+      "published": "2026-09-03T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-03T16:06:39+00:00",
+      "last_seen": "2026-09-03T16:06:39+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
       "matched_channels": {}
     }
   }
