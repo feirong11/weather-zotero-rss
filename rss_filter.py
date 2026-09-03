@@ -398,14 +398,16 @@ def infer_site_base_url(settings: dict) -> str:
     return "."
 
 
-def rss_item(parent: ET.Element, article: dict, channel_label: str, hits: list[str]) -> None:
+def rss_item(parent: ET.Element, article: dict, channel_slug: str, channel_label: str, hits: list[str]) -> None:
     item = ET.SubElement(parent, "item")
     ET.SubElement(item, "title").text = article.get("title") or "(untitled)"
     ET.SubElement(item, "link").text = article.get("link") or (
         f"https://doi.org/{article['doi']}" if article.get("doi") else ""
     )
     guid = ET.SubElement(item, "guid", {"isPermaLink": "false"})
-    guid.text = article.get("key", "")
+    # Make the RSS item identity channel-specific. This prevents a reader from
+    # treating the same DOI appearing in two topic feeds as the same feed item.
+    guid.text = f"urn:weather-zotero-rss:{channel_slug}:{article.get('key', '')}"
 
     abstract = article.get("abstract", "")
     ET.SubElement(item, "description").text = abstract
@@ -437,6 +439,11 @@ def write_feed(path: Path, articles: list[dict], slug: str, label: str, base_url
     ET.SubElement(channel, "link").text = f"{base_url}/{slug}.xml" if base_url != "." else f"{slug}.xml"
     ET.SubElement(channel, "description").text = f"Filtered journal articles for: {label}"
     ET.SubElement(channel, "lastBuildDate").text = format_datetime(utcnow())
+
+    # Explicit, stable channel identity for feed readers.
+    ET.SubElement(channel, f"{{{DC}}}identifier").text = f"urn:weather-zotero-rss:channel:{slug}"
+    ET.SubElement(channel, f"{{{ATOM}}}id").text = f"urn:weather-zotero-rss:channel:{slug}"
+
     self_link = ET.SubElement(channel, f"{{{ATOM}}}link", {
         "rel": "self",
         "type": "application/rss+xml",
@@ -445,7 +452,7 @@ def write_feed(path: Path, articles: list[dict], slug: str, label: str, base_url
 
     for article in articles:
         hits = (article.get("matched_channels") or {}).get(slug, [])
-        rss_item(channel, article, label, hits)
+        rss_item(channel, article, slug, label, hits)
 
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
