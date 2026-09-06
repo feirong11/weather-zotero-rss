@@ -63491,6 +63491,201 @@
       "enrichment_attempts": 0,
       "last_enrichment_attempt": "",
       "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69370-0": {
+      "key": "doi:10.1038/s41598-026-69370-0",
+      "doi": "10.1038/s41598-026-69370-0",
+      "title": "Bifurcation analysis of continuous and discrete time predator-prey models with habitat complexity",
+      "abstract": "This paper investigates a predator-prey model with a Holling Type II functional response in the presence of habitat complexity. The model is formulated in continuous time and discretized using the forward Euler scheme to obtain its discrete counterpart. Fundamental dynamical properties, including positivity, boundedness, equilibrium existence, and local stability, are established for both systems. The dynamical behavior of the continuous model is further explored through Hopf and transcritical bifurcation analyses, whereas Neimark-Sacker bifurcation is investigated in the discrete framework. In addition, Turing instability analysis is performed for the reaction-diffusion system. Finally, numerical simulations are presented to validate the theoretical results.",
+      "link": "https://doi.org/10.1038/s41598-026-69370-0",
+      "authors": [
+        "C Umasankar",
+        "M. Sivakumar",
+        "S. Dharani",
+        "Yong-Ki Ma"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T06:29:46+00:00",
+      "last_seen": "2026-09-06T06:29:46+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T06:29:46+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70219-9": {
+      "key": "doi:10.1038/s41598-026-70219-9",
+      "doi": "10.1038/s41598-026-70219-9",
+      "title": "F13A1 enhances temozolomide resistance in glioblastoma via activation of the NF-κB signalling pathway",
+      "abstract": "Acquired resistance to temozolomide (TMZ) is a principal driver of therapeutic failure and tumour recurrence in glioblastoma (GBM). This study sought to elucidate the molecular underpinnings of this resistance, aiming to identify viable prognostic markers and therapeutic targets to refine personalized treatment strategies. We integrated gene expression and clinical data from the GEO, TCGA, and CGGA databases. A multipronged approach combining bioinformatics screening with in vitro and in vivo experiments was employed to elucidate the role and mechanism of the candidate gene F13A1 in GBM malignancy and chemoresistance. Our analysis identified F13A1 as a gene whose elevated expression compared with that in lower-grade gliomas or normal tissue strongly correlated with adverse prognosis and higher pathological grade in GBM. The results of functional assays demonstrated that F13A1 knockdown markedly attenuated the proliferative, migratory, and invasive capacities of GBM cells, while they were also resensitized to TMZ. Conversely, F13A1 overexpression resulted in the opposite phenotype, significantly enhancing these malignant traits and increasing TMZ resistance. Mechanistically, pathway enrichment analyses linked F13A1 to epithelial–mesenchymal transition (EMT) and NF-κB signalling. We further established that F13A1 inhibition suppressed both EMT progression and NF-κB pathway activation, thereby counteracting malignant behaviour and drug resistance. Notably, TNF-α stimulation effectively rescued the sh-F13A1-mediated phenotype, confirming the involvement of this pathway. Our findings collectively indicate that F13A1 facilitates GBM aggression and TMZ resistance through the NF-κB-driven induction of EMT. These results suggest that F13A1 is a compelling prognostic biomarker and promising candidate for targeted therapeutic intervention in GBM.",
+      "link": "https://doi.org/10.1038/s41598-026-70219-9",
+      "authors": [
+        "Xiaobin Bai",
+        "Beichen Zhang",
+        "Haoyu Zhou",
+        "Jia Wang",
+        "Xiao Yu",
+        "Zhounan Wang",
+        "Bin Liu",
+        "Wei Wu",
+        "Xiaoye Guo",
+        "Wanfu Xie"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T06:29:47+00:00",
+      "last_seen": "2026-09-06T06:29:47+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T06:29:47+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69501-7": {
+      "key": "doi:10.1038/s41598-026-69501-7",
+      "doi": "10.1038/s41598-026-69501-7",
+      "title": "Optimizing multi-gene co-expression with large plasmids",
+      "abstract": "Large plasmids are often avoided in mammalian co-transfection due to the assumption that they transfect poorly, driving the use of multiple smaller plasmids. Here, we pair finite-state-projection modeling with flow cytometry experiments to compare one-, two-, and three-plasmid delivery of GFP/BFP/RFP. Estimated entry rates were size-independent from 4.9 to 16.4 kb, indicating that plasmid length is not the dominant barrier in this range. Our results suggest that using lipofectamine slightly increases co-transfection efficiency due to the ability of lipoplexes to shuttle multiple plasmids for sizes < 17 kb. Additionally, we show that contrary to current beliefs, putting all genes onto the same plasmid both increases the probability that a cell will express all genes of interest and results in a tighter correlation of gene expression levels compared to these multi-plasmid systems. Ultimately, these results suggest that in the context of lipofectamine 2000-mediated transfection of plasmids sized 4.9–16.4 kb transiently expressing fluorescent reporters into HEK293 cells, single larger plasmids encoding multiple genes outperform equivalent systems using multiple smaller plasmids. This benefit suggests that single-plasmid design strategies should be investigated more thoroughly as they could benefit a broad variety of applications such as viral-vector production.",
+      "link": "https://doi.org/10.1038/s41598-026-69501-7",
+      "authors": [
+        "Sarah I. Hernandez",
+        "Casey-Tyler Berezin",
+        "Miranda Nowak",
+        "Jean Peccoud",
+        "Connor King"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T06:29:48+00:00",
+      "last_seen": "2026-09-06T06:29:48+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T06:29:48+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70403-x": {
+      "key": "doi:10.1038/s41598-026-70403-x",
+      "doi": "10.1038/s41598-026-70403-x",
+      "title": "The association between perceived social support and glycemic status transitions: a 3-year longitudinal study of Iranian adults",
+      "abstract": "This three-year longitudinal study investigates the association of Perceived Social Support and its subscales with changes in blood-glucose status among Iranian adults. In a three-year cohort of 1,458 Iranian adults, perceived social support was measured with the 12-item Iranian version of Multidimensional Scale of Perceived Social Support (MSPSS), capturing family, friend and significant-other subscales. Glycemic status was classified as normal, pre-diabetes or diabetes. Multiple multinomial logistic regression models were used to analyze the association between changes in perceived social support scores and transitions in Glycemic status. The results showed that the proportion of individuals with normal glycemic status decreasing over time in both sexes (8.72% in men, 5.72% in women). Throughout follow-up, both men and women reported their highest perceived social support from family and the lowest from friends, with overall support scores rising in both sexes. Fully adjusted analyses showed that each one-unit increase in significant other support was associated with a lower risk of progressing from pre-diabetes to diabetes in all participants (OR = 0.93, 95% CI: 0.88, 1.00). In addition, increased family support in men was associated with a lower risk of progressing from normal to abnormal glycemic status (OR = 0.93, 95% CI: 0.87, 0.99). Tailoring interventions to individuals’ glycemic status and reinforcing the most influential sources of perceived social support may help preserve a larger normoglycaemic population.",
+      "link": "https://doi.org/10.1038/s41598-026-70403-x",
+      "authors": [
+        "Reza Yari-Boroujeni",
+        "Neda Cheraghloo",
+        "Neda Izadi",
+        "Fereidoun Azizi",
+        "Parisa Amiri"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T06:29:49+00:00",
+      "last_seen": "2026-09-06T06:29:49+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T06:29:49+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68952-2": {
+      "key": "doi:10.1038/s41598-026-68952-2",
+      "doi": "10.1038/s41598-026-68952-2",
+      "title": "Machine learning identifies plasma-derived exosomal miRNAs associated with low muscle mass in Tibetan patients with rheumatoid arthritis",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-68952-2",
+      "authors": [
+        "Li Tang",
+        "Zhigang Lin",
+        "Linmeng Zou",
+        "Yongmei Hu",
+        "Shan Gao",
+        "Wen Pan",
+        "Ling Wei",
+        "Mo Chen"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T06:29:50+00:00",
+      "last_seen": "2026-09-06T06:29:50+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-68991-9": {
+      "key": "doi:10.1038/s41598-026-68991-9",
+      "doi": "10.1038/s41598-026-68991-9",
+      "title": "Abnormal brain activity in patients with migraine without aura based on resting-state functional magnetic resonance imaging",
+      "abstract": "Migraine is a neurovascular disorder that adversely affects both individuals and society. Although previous studies have observed abnormal brain activity in patients with migraine, the specific patterns of neural dysfunction and their relationship with clinical symptoms remain incompletely understood. Resting-state functional magnetic resonance imaging data and clinical information were collected from 39 patients with migraine without aura (MwoA) and 26 healthy controls (HC). The amplitude of low-frequency fluctuations (zALFF), regional homogeneity (ReHo), and independent component analysis (ICA) were used to examine local brain activity and functional network alterations in patients with MwoA. Sleep quality was assessed using the Pittsburgh Sleep Quality Index (PSQI). Group comparisons were conducted with age, sex, years of education, Zung Self-Rating Depression Scale (SDS), Self-Rating Anxiety Scale (SAS), and PSQI scores as covariates. Pearson correlation analysis was used to explore associations between abnormal brain activity and clinical scale scores. Compared with HC, the MwoA group exhibited significantly higher scores on the SDS, SAS, and PSQI (all p < 0.001). The zALFF values were significantly decreased in the bilateral inferior temporal gyrus (ITG), and ReHo values were decreased in the left caudate nucleus (CN) in the MwoA group (p < 0.05). HC showed increased functional connectivity in the bilateral lingual gyrus, right middle temporal gyrus, right inferior parietal lobule and supramarginal gyrus, right precuneus, left middle frontal gyrus, and right precentral gyrus (p < 0.05). After adjusting for SDS, SAS, and PSQI, the original zALFF and ReHo differences were not significant; however, within-network connectivity decreases persisted in 13 of 23 ICA components, with one surviving Bonferroni correction (p_corrected = 0.019). Exploratory correlation analyses revealed that right PCU functional connectivity was positively correlated with PCS scores (r = 0.426, p = 0.007), surviving Bonferroni correction, while right ITG–6-item Headache Impact Test (r = − 0.359, p = 0.025) and left CN–duration (r = − 0.373, p = 0.019) correlations did not survive correction. This exploratory study provides preliminary insights into the neural mechanisms involved in emotional and pain processing in patients with MwoA. By demonstrating that large-scale network connectivity alterations persist after controlling for mood and sleep, the findings distinguish migraine-specific neural changes from comorbid psychiatric symptoms. These results contribute to a better understanding of migraine pathophysiology and provide a theoretical basis for future research. However, validation in larger, independent cohorts is necessary before any clinical applications can be considered.",
+      "link": "https://doi.org/10.1038/s41598-026-68991-9",
+      "authors": [
+        "Fang Cheng",
+        "Changlin Wang",
+        "Qiaoqiao Xu",
+        "Li Ye",
+        "Chunhua Xi",
+        "Chenghua Xu"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T06:29:50+00:00",
+      "last_seen": "2026-09-06T06:29:50+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T06:29:50+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70197-y": {
+      "key": "doi:10.1038/s41598-026-70197-y",
+      "doi": "10.1038/s41598-026-70197-y",
+      "title": "Optimizing phosphorus management in canola (Brassica napus L.) through integrated soil, foliar, and fertigation applications under greenhouse conditions",
+      "abstract": "Purpose This study evaluated the effectiveness of foliar spray and fertigation using phosphoric acid combined with soil application of triple superphosphate (TSP) on growth indices, phosphorus uptake, and phosphorus use efficiency in canola grown under low available soil phosphorus. Methods Treatments included different levels of soil-applied TSP as basal fertilization, foliar application of phosphoric acid, and phosphoric acid fertigation. The experiment was conducted in phosphorus-deficient soil (1.6 mg P kg⁻¹) using a factorial arrangement in a completely randomized design with three replications. Results At 0% basal TSP, fertigation increased shoot dry weight by 92% compared to untreated plants, while foliar spray showed no significant effect. With 10% basal application, foliar spray enhanced shoot dry weight by 14% and P uptake by 43%. Moreover, the combination of 50% basal soil application, foliar spray, and fertigation produced results comparable to those of the optimum 100% soil application without fertigation and foliar spray. Under 50% basal TSP application, foliar application of 0.5% phosphoric acid increased agronomic P use efficiency from 90.67 to 99.78 and P recovery efficiency from 23% to 31%. A significant positive correlation (R = 0.735) was found between shoot P concentration at pre-flowering and shoot dry weight. Conclusions The integrated use of phosphoric acid via foliar spray and fertigation successfully met the crop’s phosphorus requirements, allowing a 50% reduction in basal soil phosphorus fertilizer without compromising growth. This approach supports sustainable phosphorus management in canola production.",
+      "link": "https://doi.org/10.1038/s41598-026-70197-y",
+      "authors": [
+        "Catherine Shams Moorkani",
+        "Hossein Mirseyed Hosseini",
+        "Fereydun Nourgholipour",
+        "Arzhang Fathi Gerdelidani",
+        "Hassan Etesami"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T06:29:51+00:00",
+      "last_seen": "2026-09-06T06:29:51+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T06:29:51+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69783-x": {
+      "key": "doi:10.1038/s41598-026-69783-x",
+      "doi": "10.1038/s41598-026-69783-x",
+      "title": "Integrated phytoremediation and MgO Si HAP biochar for heavy metal remediation and maize productivity",
+      "abstract": "Heavy metal contamination in agricultural soils limits crop productivity and presents food safety risks. This study explores an integrated approach combining phytoremediation (PHY) and biochar amendments, specifically a Magnesium Oxide–Silicon–Hydroxyapatite (MOSi-HAP) biochar system, to improve soil health and agricultural output. A 120-day pot experiment was conducted, consisting of two phases: Phase 1 compared different phytoremediation plants (Brassica juncea L, Vetiveria zizanioides L, Helianthus annuus L), MOSi-HAP biochar (3% w/w), and their combination; Phase 2 assessed maize growth in treated soil versus control. Results indicated that the integrated treatment significantly enhanced soil quality by boosting parameters such as porosity (+ 5.8%), water-holding capacity (+ 12.9%), organic carbon (to 1.10%), and cation exchange capacity (to 12.0 cmol kg⁻¹), while reducing heavy metals (Cd, Pb, As, Ni) by 93.8%, 94.3%, 94.2%, and 94.1%, respectively. Maize growth improved, with increases in plant height (from 103 ± 2 cm to 137 ± 3 cm), biomass (from 305 ± 5 g to 528 ± 8 g), and grain yield (from 4.2 ± 0.2 t ha⁻¹ to 7.1 ± 0.3 t ha⁻¹, a + 69.0% increase). Nutrient uptake of nitrogen, phosphorus, and potassium also rose significantly, alongside enhancements in antioxidant enzyme activities and a reduction in oxidative damage (malondialdehyde levels decreased by 69.1%). Grain concentrations of heavy metals fell by 98.0–98.5%, remaining below international food safety standards. Overall, the PHY + MOSi-HAP biochar method effectively reduced heavy metal bioavailability and accumulation, while improving soil quality and maize productivity under pot-culture conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-69783-x",
+      "authors": [
+        "Sivakumar Durairaj",
+        "Shankar Durairaj",
+        "Chitranjan Kumar",
+        "H. R. Bhanuprakash"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T06:29:52+00:00",
+      "last_seen": "2026-09-06T06:29:52+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T06:29:52+00:00",
+      "matched_channels": {}
     }
   }
 }
