@@ -64566,6 +64566,320 @@
           "neural network"
         ]
       }
+    },
+    "doi:10.1016/j.atmosres.2026.109320": {
+      "key": "doi:10.1016/j.atmosres.2026.109320",
+      "doi": "10.1016/j.atmosres.2026.109320",
+      "title": "Classification of summer Tibetan Plateau zonal shear lines and associated precipitation mechanisms under different circulation patterns",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109320",
+      "authors": [
+        "Xiaohong Bao",
+        "Xiuping Yao",
+        "Yubin Yu"
+      ],
+      "published": "2026-09-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-09-06T18:26:25+00:00",
+      "last_seen": "2026-09-06T18:26:25+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T18:26:25+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69157-3": {
+      "key": "doi:10.1038/s41598-026-69157-3",
+      "doi": "10.1038/s41598-026-69157-3",
+      "title": "CNN framework enhanced with attention weighed and optimized features for state-of-health estimation of lithium-ion batteries",
+      "abstract": "Accurate estimation of Lithium-ion battery State of Health (SoH) is crucial for battery energy storage system safety and reliability and remaining service life. Nonlinear degradation characteristics, capacity fading, and operating condition variations, however, hinder the accuracy of the conventional model based and deep learning methods. The major drawback of the existing hybrid methods is that they lack the ability to prioritize the degradation features and do not optimize the parameters optimally, which leads to poor generalization when the batteries are operated under different conditions. To solve these problems, a hybrid framework for SoH estimation is proposed, which is based on CNN-AM-APO. To overcome these issues, a hybrid framework, namely CNN-AM-APO is proposed for SoH estimation. To extract hierarchical degradation features from the battery discharge signals, a proposed framework uses one-dimensional CNN for extracting degradation features, and an adaptive channel attention mechanism is used to emphasize degradation-sensitive information and suppress all channels irrelevant to degradation. Artificial Protozoa Optimization (APO) is added to perform adaptive exploration/exploitation for optimizing the network parameters and hence stabilizing the convergence and minimizing the prediction error. The proposed framework is tested with the publicly available lithium-ion battery degradation dataset under the similar preprocessing, training and testing conditions. The proposed model outperforms CNN, CNN-LSTM, CNN-AM, and CNN-LSTM-APO models based on experimental results with an MSE value of 0.000426, RMSE value of 0.020639, MAE value of 0.017381, MAPE value of 0.023530, and R² value of 95.60%. The results show that the proposed framework can be used for intelligent battery management systems and real-time lithium-ion battery health monitoring, and that the integration of attention-guided feature refinement and the optimization of parameters through the APO can enhance prediction accuracy, convergence stability, and generalization capability.",
+      "link": "https://doi.org/10.1038/s41598-026-69157-3",
+      "authors": [
+        "S. Arulmozhi",
+        "Ruban Nersisson"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:32+00:00",
+      "last_seen": "2026-09-06T18:26:32+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T18:26:32+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-68887-8": {
+      "key": "doi:10.1038/s41598-026-68887-8",
+      "doi": "10.1038/s41598-026-68887-8",
+      "title": "Vestibular time constant and individual susceptibility to motion sickness in real-world driving",
+      "abstract": "Abstract Motion sickness is an important challenge for the acceptance of autonomous vehicles. Although the Motion Sickness Susceptibility Questionnaire (MSSQ) is widely used, it relies on retrospective self-report and does not directly capture vestibular characteristics. This study examined the association between the vestibular time constant (VTC), which reflects the velocity storage mechanism, and motion sickness severity during on-road driving. VTC was measured in 24 female adults; 21 completed four 30-min acceleration sessions, and all 24 completed nine 30-min deceleration sessions involving regenerative braking. Motion sickness severity was repeatedly assessed using the Misery Scale (MISC). MSSQ scores showed weak, non-significant associations with MISC-derived outcomes, whereas longer VTCs were associated with greater symptom severity, particularly under deceleration and among participants who developed symptoms. Participant-level receiver operating characteristic analyses showed that the VTC discriminated participants who reached the nausea threshold (MISC ≥ 6) better than the MSSQ. Under deceleration, this difference was significant (area under the curve, 0.89 versus 0.60; DeLong p = 0.048). VTC associations were descriptively stronger under deceleration, possibly reflecting condition-specific characteristics of braking-related vestibular stimulation. These findings indicate that the VTC provides objective physiological information that may complement questionnaire-based susceptibility assessment in automotive environments.",
+      "link": "https://doi.org/10.1038/s41598-026-68887-8",
+      "authors": [
+        "Seonghyeon Kim",
+        "Jaesik Yang",
+        "Sung Kwang Hong",
+        "M. Ercan Altinsoy"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:34+00:00",
+      "last_seen": "2026-09-06T18:26:34+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69124-y": {
+      "key": "doi:10.1038/s41598-026-69124-y",
+      "doi": "10.1038/s41598-026-69124-y",
+      "title": "Thermal-aware multi-objective optimization of battery swapping station with operational cost and battery degradation considerations",
+      "abstract": "The swift growth in electric vehicle usage and the need for a high-performance energy supply chain have become a research hotspot. The battery swapping station (BSS) approach is considered a promising alternative to conventional charge-only scheme. However, the problem of effective control of operations in BSS poses several important challenges, as it requires joint minimization of expenses and battery degradation. In current study, a multi-objective MILP formulation framework is proposed for BSS operation to concentrate on optimizing the operational cost, battery degradation, and thermal stress. The proposed model considers battery State-of-charge (SoC) dynamics, time of use electricity pricing, demand uncertainties, battery aging phenomenon, grid interaction constraints, and vehicle to grid (V2G) functionality. The enhanced formulation of epsilon-constraint approach helps to generate Pareto-efficient solutions, which enable decision-makers to assess the trade-off between financial effectiveness and operational sustainability. Evaluation of the proposed model on a public dataset including, Tsinghua taxi fleet, NEPRA electricity tariff, and NASA battery aging data, achieves a considerable improvement in cost reduction (11.1%) and in battery life prolongation (38.0%). The sensitivity analysis in terms of the peak-to-off-peak price ratio, fleet size, ambient temperature, and battery chemistry confirms the robustness of the proposed model. The framework provides a fair thermal-aware solution to maintain a balance between energy consumption and cost sustainability.",
+      "link": "https://doi.org/10.1038/s41598-026-69124-y",
+      "authors": [
+        "Asif Ali",
+        "Zhizhen Liu",
+        "Asim Shahzad"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:34+00:00",
+      "last_seen": "2026-09-06T18:26:34+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T18:26:34+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70419-3": {
+      "key": "doi:10.1038/s41598-026-70419-3",
+      "doi": "10.1038/s41598-026-70419-3",
+      "title": "Petrogenesis of El-Aradyia late-Ediacaran fluorite-bearing granites, Central Eastern Desert of Egypt",
+      "abstract": "El-Aradyia fluorite-bearing granites (EFBGs) are exposed in the Central Eastern Desert of Egypt. EFBGs have a range of composition from syenogranite to alkali-feldspar granites. They display ferroan, high-K calc-alkaline and weakly peraluminous granites characters. Based on their K/Rb ratios and high SiO2 contents, EFBGs are categorised as highly differentiated and highly evolved granites. Thermobarometric measurements refer to the crystallisation of EFBGs under magma conditions include, temperatures between 679 and 766 °C, pressures between 2 and 5 kbars, and log fO2 between − 17 and − 15. The low oxygen fugacity values of EFBGs along with appearance of normative ilmenite, indicates their crystallisation under reducing conditions. Trace elements classified EFBGs as A2-subtype granites, which were formed during post-collisional crustal extensional stage of the Pan-African Orogeny. EFBGs were derived by partial melting of lower crustal source (i.e. tonalites-granodiorite) with limited mantle contribution. Subsequently, the generated magmas were evolved through extensive fractional crystallization by K-feldspar and other accessory minerals. Concurrently, the volatiles/fluids enhanced the partial melting of the pre-existing tonalite-granodiorite source. The REEs tetrad effect and non-CHARAC elemental behavior in EFBGs samples support the role of magmatic and melt-fluid interaction processes in their magmatic evolution. The textural features of the accessory fluorite, along with the change in the Y concentration from the core to the rim, support their magmatic-hydrothermal origin.",
+      "link": "https://doi.org/10.1038/s41598-026-70419-3",
+      "authors": [
+        "W. Elwan",
+        "I. A. El Akeed",
+        "K. M. Abdelfadil",
+        "F. Khedr"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:34+00:00",
+      "last_seen": "2026-09-06T18:26:34+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T18:26:34+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69466-7": {
+      "key": "doi:10.1038/s41598-026-69466-7",
+      "doi": "10.1038/s41598-026-69466-7",
+      "title": "HE-CloudML: a privacy-preserving framework for secure machine learning inference over encrypted cloud data using homomorphic encryption",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-69466-7",
+      "authors": [
+        "Abdullahi Ahmed Abdirahman",
+        "Abdirahman Osman Hashi",
+        "Ubaid Mohamed Dahir",
+        "Mohamed Abdirahman Elmi"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:35+00:00",
+      "last_seen": "2026-09-06T18:26:35+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-68755-5": {
+      "key": "doi:10.1038/s41598-026-68755-5",
+      "doi": "10.1038/s41598-026-68755-5",
+      "title": "Deep learning technique for rice leaf disease classification and severity level identification via Hybrid ResConvolutional Neural Network",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-68755-5",
+      "authors": [
+        "R. Creesy",
+        "K. Michael Mahesh"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:35+00:00",
+      "last_seen": "2026-09-06T18:26:35+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning",
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-68886-9": {
+      "key": "doi:10.1038/s41598-026-68886-9",
+      "doi": "10.1038/s41598-026-68886-9",
+      "title": "Quantitative versus qualitative MRI criteria for cervical spinal canal stenosis and cord compression: a comparative analysis and their relationship with clinical symptoms",
+      "abstract": "Abstract Cervical spinal canal stenosis (CSCS) and spinal cord compression are important causes of neurological dysfunction, yet the correlation between imaging findings and clinical symptoms is variable. This study aimed to compare quantitative and qualitative MRI criteria for CSCS and cord compression and evaluate their relationship with clinical manifestations. In this prospective cross-sectional study, 1,084 patients referred for cervical spine MRI were screened, with 296 patients demonstrating stenosis included in the analysis. Clinical severity was assessed using the Modified Japanese Orthopaedic Association (mJOA) score. MRI evaluations included five quantitative parameters—Maximum Canal Compression (MCC), Maximum Spinal Cord Compression (MSCC), Spinal Cord Occupation Ratio (SCOR), Compression Ratio (CR), and Transverse Area (TA)—and a four-grade qualitative grading system based on the degree of subarachnoid space obliteration and spinal cord impingement. Statistical analyses assessed correlations between imaging metrics and clinical scores, agreement between quantitative and qualitative assessments, and the ability of MRI parameters to discriminate neurological deficits. MCC, MSCC, and CR showed strong agreement with qualitative grades and significantly differentiated stenosis severity ( p < 0.001), whereas SCOR and TA were less discriminative. Quantitative metrics correlated with clinical deficits, including upper limb motor and sensory impairments and sphincter dysfunction, but correlations with overall mJOA scores were modest. Patients with cord signal changes exhibited higher MCC and MSCC and lower CR and TA. Quantitative MRI metrics provide an objective and reproducible assessment of cervical stenosis and complement qualitative grading. While these measures are associated with specific neurological deficits, imaging alone cannot fully predict overall clinical severity. Integrating quantitative and qualitative evaluations may enhance diagnostic accuracy and inform patient management.",
+      "link": "https://doi.org/10.1038/s41598-026-68886-9",
+      "authors": [
+        "Saeed Kargar-soleimanabad",
+        "Sajjad Najafi",
+        "Elham Bazaz-Parikhani",
+        "Malihe Bahadoran-Shirvan",
+        "Farnaz Godazandeh"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:35+00:00",
+      "last_seen": "2026-09-06T18:26:35+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-67605-8": {
+      "key": "doi:10.1038/s41598-026-67605-8",
+      "doi": "10.1038/s41598-026-67605-8",
+      "title": "Resilient localization for mobile robots using multi-sensor fusion and a hybrid learning-filtering framework",
+      "abstract": "Abstract Reliable localization is required for autonomous mobile robots when individual sensing streams become noisy, intermittent, or unavailable. This study evaluates a multi-sensor fusion framework that combines LiDAR, monocular vision, GPS, UWB, and IMU data using three strategies: (i) a baseline Extended Kalman Filter (EKF); (ii) a dual-stage sequential EKF that refines LiDAR-Inertial Odometry (LIO) before the final fusion stage; and (iii) a hybrid learning-filtering approach in which modality-specific learned motion and position estimates are incorporated into an EKF. All evaluations were conducted in ROS-Gazebo under nominal operation and controlled sensor-degradation/dropout conditions. Relative to the controller-derived reference trajectory, the standard EKF achieved 0.2235 m RMSE and the dual-stage EKF achieved 0.2029 m RMSE, a descriptive reduction of approximately 9.2% for the reported run. The hybrid learning-EKF achieved 0.212 m RMSE under nominal sensing and 0.384 m RMSE during the tested failure sequence. These results support the evaluated fusion designs under the reported simulation conditions, but they do not establish statistical generalization or universal real-world resilience; independent ground truth, repeated trials, GPS ablation, and physical validation remain necessary.",
+      "link": "https://doi.org/10.1038/s41598-026-67605-8",
+      "authors": [
+        "Muhammad Shahzad Alam Khan",
+        "Anas Bin Aqeel",
+        "Hassan Elahi",
+        "Faraz Kunwar",
+        "Danish Hussain",
+        "Anjum Naeem Malik"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:35+00:00",
+      "last_seen": "2026-09-06T18:26:35+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69706-w": {
+      "key": "doi:10.1038/s41598-026-69706-w",
+      "doi": "10.1038/s41598-026-69706-w",
+      "title": "Descriptor completion and cascade transfer for strength prediction in high strength steels",
+      "abstract": "Accurate prediction of tensile strength (TS) and yield strength (YS) in high-strength steels (HSS) is hindered by incomplete microstructural reporting in literature-derived datasets, even though mechanical behaviour is governed by strong composition-process-structure-property coupling. Here, we develop a physics-informed machine-learning framework that distinguishes two routes for improving strength prediction under descriptor incompleteness: explicit microstructural descriptor completion and indirect TS-to-YS cascade transfer. Missing microstructural features were reconstructed using a hybrid scheme combining thermodynamic calculations, K-nearest-neighbour (KNN) estimation, and expert-guided scoring, yielding an enriched composition-process-microstructure (CPM) descriptor space in addition to a composition-process (CP) baseline. Direct and cascade prediction strategies were then evaluated under matched retained-feature budgets and repeated random train/test partitioning within a leakage-controlled workflow. Completed microstructural descriptors consistently entered compact retained subsets and produced generally favourable mean changes in direct HSS strength prediction across repeated partitions. The largest representative improvement was observed for YS under the compact 10-feature setting, where single-split test R² increased from 0.815 to 0.901, while repeated evaluation also indicated reduced between-partition variability in several key comparisons. By contrast, cascade prediction showed only conditional benefits. In the descriptor-limited CP space, it improved single-split held-out YS prediction for HSS, but this advantage did not persist as a mean gain under repeated evaluation and did not generalize to aluminium alloys. Once completed microstructural descriptors were explicitly available in the CPM space, cascade prediction no longer provided a robust advantage over direct modelling. SHAP and residual analyses further showed that descriptor completion shifted the model toward physically relevant structural state variables, whereas predicted TS acted mainly as an auxiliary surrogate when such information was absent. Overall, within the present small-sample, literature-derived regime, explicit microstructural descriptor completion provided the more practically supported route than indirect target transfer. Cascade learning should therefore be regarded as a context-dependent auxiliary strategy whose usefulness is greatest under descriptor-limited conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-69706-w",
+      "authors": [
+        "Hong Li",
+        "Wanlin Wang",
+        "Kun Dou",
+        "Artem Okulov"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:35+00:00",
+      "last_seen": "2026-09-06T18:26:35+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T18:26:35+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69879-4": {
+      "key": "doi:10.1038/s41598-026-69879-4",
+      "doi": "10.1038/s41598-026-69879-4",
+      "title": "Effects of ammonium to nitrate ratio on vase life and stem strength of gerbera cut flowers",
+      "abstract": "The postharvest quality of gerbera cut flowers a major floricultural commodity is largely limited by stem bending and abbreviated vase life. Although nitrogen form is a critical preharvest variable, the optimum ammonium‑to‑nitrate (NH₄⁺/NO₃⁻) ratio for extending postharvest longevity has not been established. This study demonstrates that a moderate NH₄⁺/NO₃⁻ ratio of 20:80 was associated with the longest vase life and greatest stem rigidity among the treatments tested by enhancing calcium uptake and improving plant water relations. In a controlled study with two cultivars (‘Stanza’ and ‘Double Dutch’), the 20:80 ratio was associated with the longest vase life (14.20 days) and greatest stem strength among the treatments tested, whereas a high-ammonium ratio (60:40) reduced vase life by 28.3% and stem strength by up to 32.2%. This reduction was closely associated with decreased concentrations of calcium in the stem and lower RWC in the leaves. Cultivar choice was also critical, with ‘Double Dutch’ accumulating more calcium and exhibiting the best postharvest performance. Our results suggest that calcium-mediated stem integrity may be a key mechanism connecting nitrogen form to postharvest quality, although further research is needed to confirm this hypothesis. We demonstrate a direct, practical approach, based on the 20:80 NH₄⁺/NO₃⁻ ratio to minimize financial loss in commercial floriculture. In addition, our data provide a physiological basis for using N form to enhance Ca‑dependent stem integrity in cut flowers, offering a practical strategy to help reduce postharvest losses in gerbera production.",
+      "link": "https://doi.org/10.1038/s41598-026-69879-4",
+      "authors": [
+        "Mohammad Ali Khalaj",
+        "Mostafa Koozehgar Kaleji",
+        "Nasim Safari"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:36+00:00",
+      "last_seen": "2026-09-06T18:26:36+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T18:26:36+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70245-7": {
+      "key": "doi:10.1038/s41598-026-70245-7",
+      "doi": "10.1038/s41598-026-70245-7",
+      "title": "An eight-variable risk model for short- and long-term mortality in hospitalized heart failure",
+      "abstract": "Abstract Heart failure (HF) is a leading cause of hospitalization and death worldwide, yet most prognostic models target long-term outcomes and are not optimized for acute-phase risk stratification. This study developed and externally validated an 8-variable Cox model for predicting 28-day and 1-year all-cause mortality in hospitalized HF patients, following the TRIPOD statement. Using the MIMIC-IV v3.1 database ( n = 12,269) for development and temporal validation and a Chinese cohort ( n = 1284; 1,278 with complete data) for geographic external validation, LASSO-penalized Cox regression was used for variable selection. The 28-day model achieved C-index values of 0.738, 0.736, and 0.830 in the development, temporal validation, and Guangdong cohorts, respectively, and showed better discrimination than the 1-year model (ΔC-index = 0.058 in the development set). The systemic immune-inflammation index (SII) showed a stronger association with 28-day mortality (HR 1.40, 95% CI 1.32–1.48) than with 1-year mortality (HR 1.18, 95% CI 1.14–1.23; bootstrap interaction P = 0.001). A web-based risk calculator was externally validated after slope + intercept recalibration. The 8-variable model and calculator provide practical tools for early HF risk stratification.",
+      "link": "https://doi.org/10.1038/s41598-026-70245-7",
+      "authors": [
+        "Tao Chen",
+        "Ming Li",
+        "Qiong You",
+        "Songzhan Yuan",
+        "Can Chen"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:37+00:00",
+      "last_seen": "2026-09-06T18:26:37+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69282-z": {
+      "key": "doi:10.1038/s41598-026-69282-z",
+      "doi": "10.1038/s41598-026-69282-z",
+      "title": "Quality gated multimodal fusion improves scene construction and interaction experience in augmented reality digital media",
+      "abstract": "Augmented reality now carries a great deal of digital media production, yet its scene construction still suffers from registration drift, asynchronous sensor streams, unnatural interaction and excessive cognitive load. We address these coupled problems with an integrated framework. Hardware-triggered acquisition and timestamping disciplined by the Precision Time Protocol feed a quality-gated cross-modal attention model whose fusion weights follow per-modality reliability rather than fixed priors. A dynamic scene construction algorithm then couples semantic matching, layout optimization by covariance matrix adaptation and harmonic relighting, so that virtual content stays geometrically and photometrically consistent with the room around it, while an adaptive feedback policy driven by the decoder’s uncertainty estimates tunes interaction cues to the demand of the current task. On a corpus of 184 controlled sequences together with public benchmark subsets, running on a HoloLens 2 platform, the system reaches 91.4% fusion accuracy at a median end-to-end latency of 16.8 ms with a 95th percentile of 18.9 ms, and its robustness margin widens when two modalities degrade at once. A within-subjects user study (n = 50) recorded reliable gains in immersion, presence, usability, satisfaction and cognitive load, with an exploratory analysis suggesting that first-time users benefit more than experienced ones. The approach offers a coherent path toward AR digital media that remains usable beyond enthusiast audiences, although outdoor scalability, hardware dependence and long-session fatigue all remain open.",
+      "link": "https://doi.org/10.1038/s41598-026-69282-z",
+      "authors": [
+        "Jundan Wang",
+        "Yifan Zhang"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:37+00:00",
+      "last_seen": "2026-09-06T18:26:37+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-06T18:26:37+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-025-22054-7": {
+      "key": "doi:10.1038/s41598-025-22054-7",
+      "doi": "10.1038/s41598-025-22054-7",
+      "title": "A decade of evaluating burnout among American medical students using the OLBI-MS",
+      "abstract": "Abstract Burnout among physicians is a growing concern, particularly during recent years in the setting of the Covid-19 pandemic. Recently, greater attention has been paid to researching physician burnout and its downstream effects (i.e. depression, suicidality); however, a majority of this research has focused on resident and attending physician populations. Medical students are a similarly vulnerable population, but the literature on medical student burnout is limited. Specifically, there is no existing literature that evaluates the trend of medical student burnout over recent years, particularly since the Covid-19 pandemic—a time when students navigated challenges related to their clinical experiences and virtual coursework. The aim of this study is to better understand the prevalence of feelings of burnout among American medical students, and evaluate the trend since the mid-2010s. Further, this study aims to compare average burnout scores among 2nd and 4th year medical students, to analyze the relationship between academic year and feelings of exhaustion and disengagement. We analyzed national data collected from the American Association of Medical Colleges’ Year Two and Graduation Questionnaire, each of which includes an Oldenburg Burnout Inventory for Medical Students. We found that since 2014, levels of reported exhaustion have significantly increased among medical students. We also found that between 2nd and 4th year students, the 4th year students have consistently reported lower levels of burnout than their 2nd year counterparts over time. Finally, we also found that burnout scores peaked among 2nd year medical students at the time of the Covid-19 pandemic, and have since trended down. These findings provide an essential understanding of burnout trends among American medical students, and can be utilized to help medical educators plan the timing and objectives of wellness interventions.",
+      "link": "https://doi.org/10.1038/s41598-025-22054-7",
+      "authors": [
+        "Leah Teresa Rosen",
+        "Richard Friedman"
+      ],
+      "published": "2026-09-06T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-06T18:26:37+00:00",
+      "last_seen": "2026-09-06T18:26:37+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
