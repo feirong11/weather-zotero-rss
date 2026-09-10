@@ -80461,8 +80461,8 @@
       "issn": "1558-8424",
       "first_seen": "2026-09-09T18:30:10+00:00",
       "last_seen": "2026-09-09T18:30:10+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-09T18:30:10+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-10T00:32:35+00:00",
       "matched_channels": {}
     },
     "doi:10.1175/waf-d-25-0176.1": {
@@ -83715,6 +83715,1100 @@
       "last_seen": "2026-09-09T18:31:33+00:00",
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-09T18:31:33+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-26-0118.1": {
+      "key": "doi:10.1175/jcli-d-26-0118.1",
+      "doi": "10.1175/jcli-d-26-0118.1",
+      "title": "A new diagnostic of air-sea interaction reveals ocean control of turbulent heat flux in the South Asian Summer Monsoon",
+      "abstract": "Abstract Air-sea interaction plays a central role in the South Asian summer monsoon through exchanges of heat, moisture, and momentum between the ocean and atmosphere. The air-sea heat flux responds to internal variability in the ocean and atmosphere and to feedbacks arising from their interaction. Depending on whether SST drives turbulent heat flux or vice versa, the interaction may be classified as ocean- or atmosphere-controlled. We develop a method to quantify the air-sea interaction regime for each location and day of year by analyzing lagged correlations between SST and turbulent heat flux records from satellite observations or reanalysis. We apply this method to the northern Indian Ocean and find that the basin exhibits a coherent shift from atmosphere control to ocean control during the summer monsoon onset and a return to atmosphere control during the monsoon retreat, highlighting the importance of oceanic processes such as advection and entrainment. The Arabian Sea exhibits a more pronounced shift between atmosphere and ocean control than the Bay of Bengal, suggesting the importance of upper-ocean stratification and mixing in regulating turbulent heat flux. The diagnosed regimes agree well between blended satellite products and reanalysis, demonstrating robustness across datasets. Comparison with a partial mixed layer heat budget from mooring deployments in the Arabian Sea and Bay of Bengal supports the physical interpretation of the diagnosed air-sea interaction regimes, with particularly good agreement in the Arabian Sea. Our method may provide a useful diagnostic for evaluating air-sea interaction within coupled models of the ocean and atmosphere.",
+      "link": "https://doi.org/10.1175/jcli-d-26-0118.1",
+      "authors": [
+        "Alex Kinsella",
+        "Amala Mahadevan"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-09-10T00:32:31+00:00",
+      "last_seen": "2026-09-10T00:32:31+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/mwr-d-25-0281.1": {
+      "key": "doi:10.1175/mwr-d-25-0281.1",
+      "doi": "10.1175/mwr-d-25-0281.1",
+      "title": "The Value of Radio Occultation Data in Global NWP: An OSSE on the Impact of Profile Volume, Geographical Distribution, and Satellite Bias Correction",
+      "abstract": "Abstract An observing system simulation experiment framework was developed to quantify the impact of increasing the number and improving the distribution of radio occultation profiles on global numerical weather prediction (NWP) skill. Experiments were conducted assimilating between 6,000 and 100,000 daily radio occultation soundings within a representative 2035 observing system. Results show substantial improvements in forecast skill even with a modest number of 6,000 profiles per day, particularly in the stratosphere, with progressively smaller gains as the number of radio occultation soundings increases. Assimilating 6,000 daily radio occultation soundings reduces stratospheric model bias by 1–3 K, acting as an “anchor” that stabilizes the data assimilation system, prevents model drift, and improves the bias correction of satellite radiances. Although improvements do not saturate, returns diminish near 50,000–100,000 radio occultation daily profiles. While this trend is consistent with earlier findings, our study provides a more definitive quantification of these impacts by using significantly higher vertical model resolution within a future-looking observing system framework. Additional experiments show that a more uniform spatial and temporal sounding distribution yields small forecast improvements relative to orbit-driven or polar-concentrated sampling. However, these benefits are much smaller than the impact of any of the configurations tested here relative to a configuration without radio occultation data. These results demonstrate the continued high value of radio occultation observations for global NWP and emphasize the benefits of both increasing the number of daily soundings and optimizing their global distribution.",
+      "link": "https://doi.org/10.1175/mwr-d-25-0281.1",
+      "authors": [
+        "Lidia Cucurull",
+        "Sean P. F. Casey",
+        "Andres Vidal",
+        "Agnes H. N. Lim"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Monthly Weather Review",
+      "journal_label": "Monthly Weather Review",
+      "issn": "0027-0644",
+      "first_seen": "2026-09-10T00:32:32+00:00",
+      "last_seen": "2026-09-10T00:32:32+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/mwr-d-26-0085.1": {
+      "key": "doi:10.1175/mwr-d-26-0085.1",
+      "doi": "10.1175/mwr-d-26-0085.1",
+      "title": "Large climate model ensembles reveal underdispersion in seasonal Atlantic tropical cyclone counts",
+      "abstract": "Abstract Seasonal Atlantic tropical cyclone (TC) counts are commonly modeled as a conditional Poisson process, implying that the distribution of possible seasonal outcomes—the range of TC counts that could plausibly occur in a given year—exhibits equidispersion for a given climate state, with its variance equal to its mean. This assumption underlies many statistical frameworks used for seasonal TC prediction and risk assessment, yet to the best of our knowledge has not been extensively tested directly. Using large ensembles from physics-based climate models (AM2.5-C360 and HiRAM) and a deep learning-based climate emulator (ACE2; Ai2 Climate Emulator version 2), we examine the distributional properties of seasonal TC counts in a controlled modeling framework. Across all models and years, we find that the ensemble distribution of within-season TC counts is systematically underdispersed relative to the Poisson distribution, with ensemble variances smaller than their corresponding means. This result provides evidence against modeling the SST-conditioned Atlantic TC count distribution with a Poisson distribution and instead supports the use of the Binomial distribution. This representation of the Atlantic TC counts implies the following physical interpretation of TC genesis: TCs develop in two stages 1) first from a finite number of seed disturbances, and 2) followed by a seed-TC transition that is governed by large-scale environmental conditions. We fit seasonal TC count distributions from a 1,000-member ACE2 ensemble to the Poisson and Binomial distributions and find statistical evidence that the Binomial formulation provides a better fit to TC count distributions. The Poisson assumption is not supported by current climate model simulations, given that simulated seasonal TC counts are more constrained than implied by traditional Poisson-based frameworks.",
+      "link": "https://doi.org/10.1175/mwr-d-26-0085.1",
+      "authors": [
+        "E. L. Levin",
+        "G. A. Vecchi",
+        "G. Villarini"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Monthly Weather Review",
+      "journal_label": "Monthly Weather Review",
+      "issn": "0027-0644",
+      "first_seen": "2026-09-10T00:32:32+00:00",
+      "last_seen": "2026-09-10T00:32:32+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ],
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1175/mwr-d-26-0045.1": {
+      "key": "doi:10.1175/mwr-d-26-0045.1",
+      "doi": "10.1175/mwr-d-26-0045.1",
+      "title": "On the seasonal predictability of the 2020 North Atlantic tropical cyclone season",
+      "abstract": "Abstract The 2020 Atlantic tropical cyclone (TC) season was unprecedented, producing a record storm count that exceeded the seasonal forecasted ranges, despite their anticipation of high activity. Here we assess the likelihood of the extreme 2020 season given the observed sea surface temperature (SST) forcing by examining a hierarchy of statistical, dynamical, and deep learning (DL) modeling frameworks, all constrained by observed SSTs. Although physics-based models anticipated a moderately active season, the observed outcome lay beyond their ensemble ranges. To investigate this result, we first test if the 2020 large-scale environment was conducive to a hyperactive season. Although the 2020 conditions were relatively favorable for TCs, they were not indicative of potentially record-breaking TC activity. We also generate 1,000 samples of plausible 2020 Atlantic TC season outcomes given the observed SSTs by leveraging a DL model. From this large ensemble, the observed season emerges as a 0.5% event, which is highly unlikely, but not implausible. These results suggest that SST forcing provided a limited seasonal signal, and that internal atmospheric variability could have driven the observed hyperactivity on top of the moderately favorable large-scale conditions. The inability of physics-based model ensembles to encompass the observed outcome does not indicate a model failure, but reflects both limited predictability from SST forcing and the inability of relatively small ensembles (N=O(10)) to sample and estimate extreme tail risk like the 2020 season, seasons which are extremely unlikely any given year but have a substantial probability of occurring some year across decades.",
+      "link": "https://doi.org/10.1175/mwr-d-26-0045.1",
+      "authors": [
+        "E. L. Levin",
+        "M. Chien",
+        "E. A. Barnes",
+        "H. He",
+        "G. A. Vecchi",
+        "W. Yang"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Monthly Weather Review",
+      "journal_label": "Monthly Weather Review",
+      "issn": "0027-0644",
+      "first_seen": "2026-09-10T00:32:32+00:00",
+      "last_seen": "2026-09-10T00:32:32+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ],
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1175/jamc-d-26-0021.1": {
+      "key": "doi:10.1175/jamc-d-26-0021.1",
+      "doi": "10.1175/jamc-d-26-0021.1",
+      "title": "A hybrid dynamical-statistical scheme to enhance summer precipitation prediction skill over eastern China one year ahead",
+      "abstract": "Abstract Accurate prediction of summer precipitation is vital for disaster prevention in eastern China. However, skillful forecasts one year ahead remain a significant challenge. This study evaluates the predictability of summer precipitation over eastern China one year ahead in the Japanese SINTEX-F2 model. Evaluations indicate that the SINTEX-F2 model lacks skills in directly predicting the dominant modes and interannual variations of summer precipitation. Nevertheless, the model demonstrates skills in predicting some key drivers of summer precipitation over eastern China: sea surface temperature anomalies over the Maritime Continent and the tropical Atlantic, and an anomalous cyclone over southern Maritime Continent. We therefore establish a statistical relationship between these drivers and summer precipitation in eastern China in observations. By applying the SINTEX-F2 predicted drivers to the observed statistical relationship and subsequently using a cumulative distribution function matching correction, a hybrid dynamical-statistical prediction scheme is developed. This scheme overall improves forecast skills for precipitation interannual increment over eastern China, notably increasing the anomaly correlation coefficient from approximately 0.15 to 0.45 over Central-North China. It also effectively predicts the amplitude of the observed interannual variability. Additionally, benefiting from the improved prediction of interannual increment, the summer precipitation prediction skill also increases over South China, the northern part of North China, and the northwestern part of Northeast China. These findings highlight a scalable hybrid prediction scheme that improves the long-term predictability of eastern China summer precipitation. This methodology holds significant potential for enhancing early warning systems and informing climate adaptation planning.",
+      "link": "https://doi.org/10.1175/jamc-d-26-0021.1",
+      "authors": [
+        "Shimei Wu",
+        "Jianqi Sun",
+        "Shui Yu"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Journal of Applied Meteorology and Climatology",
+      "journal_label": "Journal of Applied Meteorology and Climatology",
+      "issn": "1558-8424",
+      "first_seen": "2026-09-10T00:32:35+00:00",
+      "last_seen": "2026-09-10T00:32:35+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77418-y": {
+      "key": "doi:10.1038/s41467-026-77418-y",
+      "doi": "10.1038/s41467-026-77418-y",
+      "title": "Himito: a graph-based toolkit for mitochondrial genome analysis using long reads",
+      "abstract": "Understanding the genetic and epigenetic regulation of mitochondrial DNA (mtDNA) is essential for elucidating mechanisms of aging and disease. Long-read sequencing can span the mitochondrial genome and capture base-modification signals, yet analytical tools remain limited. We developed Himito, a graph-based toolkit for analyzing mitochondrial genome using long reads. Himito filters reads originating from nuclear mitochondrial insertions (NUMTs), constructs a sequence graph to represent mtDNA diversity, assembles primary haplotypes, calls variants, and analyzes 5-methylcytosine (5mC) modifications within a unified framework. Benchmarking on reference datasets shows Himito achieves superior performance in assembly and variant calling compared with existing tools. Applied to the All of Us (AoU) v8 dataset, Himito identified pathogenic mtDNA variants, revealed population-scale haplogroup diversity, and uncovered age-related genetic and epigenetic patterns. These results demonstrate that long-read sequencing, combined with graph-based analysis, enables integrated characterization of mitochondrial genomic and epigenomic variation. Himito is available at https://github.com/broadinstitute/Himito. Himito is a graph-based toolkit for long-read mitochondrial genome analysis. It integrates NUMT filtering, haplotype assembly, variant calling, and methylation profiling, providing a comprehensive framework for studying mtDNA in aging and human disease.",
+      "link": "https://doi.org/10.1038/s41467-026-77418-y",
+      "authors": [
+        "Hang Su",
+        "Yongqing Huang",
+        "Timothy J. Durham",
+        "Nahyun Kong",
+        "Emma Casey",
+        "David Benjamin",
+        "Sheng Chih Jin",
+        "Namrata Gupta",
+        "Niall Lennon",
+        "Stacey Gabriel",
+        "Shawn Levy",
+        "Chelsea Berngruber",
+        "Jane Grimwood",
+        "Donna M. Muzny",
+        "Richard A. Gibbs",
+        "Ginger A. Metcalf",
+        "Fritz J. Sedlazeck",
+        "Joshua D. Smith",
+        "Evan E. Eichler",
+        "Kimberly F. Doheny",
+        "Kiran V. Garimella"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-10T00:32:51+00:00",
+      "last_seen": "2026-09-10T00:32:51+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:32:51+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77172-1": {
+      "key": "doi:10.1038/s41467-026-77172-1",
+      "doi": "10.1038/s41467-026-77172-1",
+      "title": "Slow modulation unlocks mode-locking via parametric amplification in photonic molecule",
+      "abstract": "Artificial photonic molecule systems consisted of coupled ring resonators have emerged as a promising platform for simulating programmable discrete energy levels and transitions in quantum optics. This capability has led to diverse applications, such as optical frequency combs, avalanche photodiodes, photonic molecule switches and spectrometers. In this work, we unveil the parametric amplification in a photonic molecule, which generates mode-locked pulses at a significantly low modulation frequency matching the photonic molecule’s level spacing. Proof-of-principle experiments are performed using fiber-based cavities. The results show stable mode-locking at a modulation frequency significantly lower than the free-spectral-range (FSR) of the rings, with a ratio reaching up to 1:75, and potential for further reduction through parametric optimization. These findings overcome the strict requirement in active mode-locking where the modulation is usually resonant with the FSR. Our design, in turn, enables the realization of integrated pulsed laser sources within small-footprint resonators under slow and broadband modulation. Additionally, the generated mode-locked pulses from our approach demonstrate burst-mode emission with adjustable powers. This feature allows for the precise customization of optimal pulse fluences, which can be beneficial for various applications, ranging from precision matching to spectroscopy. Artificial photonic molecules provide photonic-based platform for quantum optical applications relying on mode-locking techniques, yet photonic integration presents inherent challenges. Here, the authors demonstrate a parametric resonance mechanism in a photonic molecule by achieving modulations slower than the free-spectralrange of the ring resonator.",
+      "link": "https://doi.org/10.1038/s41467-026-77172-1",
+      "authors": [
+        "Dong Liu",
+        "Yadong Jiao",
+        "Luojia Wang",
+        "Zhaohui Dong",
+        "Yanyan He",
+        "Guangzhen Li",
+        "Yikai Su",
+        "Xianfeng Chen",
+        "Xingchen Ji",
+        "Luqi Yuan"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-10T00:32:52+00:00",
+      "last_seen": "2026-09-10T00:32:52+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:32:52+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77548-3": {
+      "key": "doi:10.1038/s41467-026-77548-3",
+      "doi": "10.1038/s41467-026-77548-3",
+      "title": "A dual-site oral nanovaccine programs anti-colorectal tumor immunity from small intestinal priming to large intestinal boosting",
+      "abstract": "Oral vaccines hold great promise for colorectal cancer (CRC) immunotherapy but are limited by inefficient mucosal delivery and a lack of spatiotemporal control over immune activation. Here we report a spatiotemporally programmed oral nanovaccine that implements a dual-site vaccination strategy through a sequential and causally linked immune cascade, initiating immune priming in Peyer’s patches of the small intestine and subsequently amplifying immunity at colorectal tumor sites. The nanovaccine (DPML@OVA-CpG), composed of antigen- and CpG-loaded mesoporous polydopamine nanoparticles stabilized by β-glucan and plant-derived lipids, resists gastrointestinal degradation and targets gut-associated lymphoid tissues. Following oral administration, it induces robust systemic effector and memory T cell responses via small intestinal priming, while a fraction traffics to colorectal tumors. There, near-infrared irradiation triggers immunogenic cell death of tumor cells and, together with locally released CpG, converts tumors into autologous in situ vaccine factories. This spatiotemporally orchestrated strategy achieves potent therapeutic efficacy against liver metastatic CRC, extending survival compared to PD-L1 antibody therapy and traditional single-site oral vaccination. Here the authors report the design and characterization of a nano-vaccine composed of antigen- and CpG-loaded nanoparticles stabilized by β glucan and plant-derived lipids, showing that, after oral administration, it induces immune priming in the small intestine as well as acts as in situ vaccine to trigger anti-tumor immunity in colorectal cancer.",
+      "link": "https://doi.org/10.1038/s41467-026-77548-3",
+      "authors": [
+        "Kun Yang",
+        "Haiting Xu",
+        "Ga Liu",
+        "Shengfei Bao",
+        "Qiang Yang",
+        "Qiang Gao",
+        "Li Chen",
+        "Yingui Cao",
+        "Yajun Wang",
+        "Menghang Zu",
+        "Jinyao Liu",
+        "Bo Xiao"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-10T00:32:53+00:00",
+      "last_seen": "2026-09-10T00:32:53+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:32:53+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77365-8": {
+      "key": "doi:10.1038/s41467-026-77365-8",
+      "doi": "10.1038/s41467-026-77365-8",
+      "title": "Atlas of genetic architecture and exploratory temporal interaction networks of plasma protein-based organ and system aging",
+      "abstract": "Organ-level investigations provide insights into inter-individual heterogeneity in health and disease, yet aging across organs and systems remains incompletely understood. Leveraging plasma proteomic data from 53,014 UK Biobank participants, we construct 16 organ- and system-specific aging clocks that show 5436 significant associations with 1059 diseases (i.e., 655 incident and 404 prevalent diseases) and widespread responses to 841 diverse environmental factors, highlighting organ-specific and pan-organ patterns. These clocks are benchmarked against two existing models and then externally validated in the China Kadoorie Biobank (n = 3977), supporting their robustness and generalizability. Genetic analyses identify 261 genomic loci associated with these clocks, revealing organ-specific and pleiotropic genetic architectures. Notably, the immune system and liver exhibit the strongest genetic connectivity with other organ systems, closely mirroring their phenotypic correlations. Using longitudinal data from 1006 participants, we apply a multitask Bayesian framework to explore potential temporal interaction networks across organs and systems, identifying temporal precedence of the immune system, liver and stomach, with sex-specific patterns characterized by stronger arterial precedence in females and stomach precedence in males. Together, this study provides a comprehensive atlas integrating genetic, environmental, and interactive insights into multiple plasma protein-based organ and system aging, informing future research on targeted anti-aging strategies. This study provides a comprehensive atlas integrating genetic, environmental, and interactive insights into organ and system aging using multiple plasma protein-based networks, informing future research on targeted anti-aging strategies.",
+      "link": "https://doi.org/10.1038/s41467-026-77365-8",
+      "authors": [
+        "Fan Pu",
+        "Xueqing Jia",
+        "Xiaoxi Hu",
+        "Youheng Wu",
+        "Ciyun Zhao",
+        "Yanjie Zhao",
+        "Jiening Yu",
+        "Shuming Wang",
+        "Shuhui Wu",
+        "Shenghan Wang",
+        "Duoduo Fu",
+        "Dianqing Chen",
+        "Yishan Wang",
+        "Zhiyong Zhao",
+        "Dan Wu",
+        "Nan Liu",
+        "Junfang Chen",
+        "Xiaofeng Wang",
+        "Juulia Jylhävä",
+        "Chiara Herzog",
+        "Alan A. Cohen",
+        "Huaidong Du",
+        "Derrick Bennett",
+        "Robin Walters",
+        "Canqing Yu",
+        "Jun Lv",
+        "Zhengming Chen",
+        "Liming Li",
+        "Li Jin",
+        "Dianjianyi Sun",
+        "Zixin Hu",
+        "Zuyun Liu"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-10T00:32:54+00:00",
+      "last_seen": "2026-09-10T00:32:54+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:32:54+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77454-8": {
+      "key": "doi:10.1038/s41467-026-77454-8",
+      "doi": "10.1038/s41467-026-77454-8",
+      "title": "A topographic protomap in mouse subplate neurons precedes the onset of sensory experience",
+      "abstract": "Within sensory systems, thalamic projections to layer 4 (L4) neurons establish precise neocortical topography. During development, thalamic axons first synapse onto subplate neurons (SPNs) beneath the cortical plate, however, how thalamic inputs are organized within the subplate is unknown. To examine SPN organization and activity, we generated an inducible Cplx3-CreER mouse driver line to examine SPNs during development. Before sensory onset, we found that Cplx3+ SPNs in the auditory and visual cortices exhibited topographically organized spontaneous activity. Stimulating thalamocortical afferents evoked robust responses in auditory cortex SPNs, indicating functional thalamic input, while cochlear ablation or enucleation dramatically reduced spontaneous activity among Cplx3+ SPNs, indicating that peripherally-generated activity propagates to the subplate. After ear canal opening, Cplx3+ SPNs responded reliably to sound with coarse tonotopy. Thus, Cplx3+ SPNs receive topographically organized input and integrate spontaneous and sensory-driven activity, which may shape refinement of nascent brain circuits. The authors find that subplate neurons receive organized eye- and ear-driven activity before sensory experience and maturation of layer 4 inputs in mice. They persist, receive thalamic inputs, and retain tonotopic responses, suggesting a role in sensory computation.",
+      "link": "https://doi.org/10.1038/s41467-026-77454-8",
+      "authors": [
+        "Travis A. Babola",
+        "Minzi Chang",
+        "Rachel Jun",
+        "Marina Cardoso de Oliveira",
+        "Jessica E. Messier",
+        "Yunru Chen",
+        "Lillian Choi",
+        "Dave R. Gutierrez",
+        "Patrick O. Kanold"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-10T00:32:55+00:00",
+      "last_seen": "2026-09-10T00:32:55+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:32:55+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77559-0": {
+      "key": "doi:10.1038/s41467-026-77559-0",
+      "doi": "10.1038/s41467-026-77559-0",
+      "title": "Stress-induced membrane insertion at the β-barrel assembly machinery complex regulates BepA metalloprotease activity",
+      "abstract": "Proteases must be tightly regulated to prevent uncontrolled degradation, yet the mechanisms ensuring such control remain poorly understood. Members of the widespread M48 metalloprotease family are kept inactive by an autoinhibitory plug that blocks catalytic water activation, but how this plug is released remained elusive. Here, using genetic, biochemical and cryo-EM approaches, we discover the activation mechanism of BepA, a quality-control protease that preserves outer membrane integrity by surveilling the β-barrel assembly machinery (BAM) in Gram-negative bacteria. Our cryo-EM analysis of BepA engaged with a stalled BAM-substrate assembly complex revealed that a flexible, unstructured α6-lid covering the active site in the latent protein functions as a molecular harpoon, inserting into the outer membrane when a substrate stalls at BAM and thereby docking BepA at the complex. This membrane anchoring promotes displacement of the autoinhibitory plug and unlocks protease activity precisely where and when it is needed. Thus, a dual enzyme activation mechanism is coupled to membrane association under stress, ensuring that BepA remains inactive until properly localized. Our findings reveal how membranes themselves can license protease activation, a principle that may extend beyond M48 metalloproteases. Proteases must be tightly controlled to clear faulty proteins without damaging cells. Here, authors show that stress-induced membrane insertion activates BepA at stalled outer-membrane protein assembly sites, enabling precise quality control.",
+      "link": "https://doi.org/10.1038/s41467-026-77559-0",
+      "authors": [
+        "Henri Voedts",
+        "Phuong Chi Nguyen",
+        "Van Son Nguyen",
+        "Pauline Leverrier",
+        "Bogdan I. Iorga",
+        "Seung Hyun Cho",
+        "Han Remaut",
+        "Jean-François Collet"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-10T00:32:56+00:00",
+      "last_seen": "2026-09-10T00:32:56+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:32:56+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77328-z": {
+      "key": "doi:10.1038/s41467-026-77328-z",
+      "doi": "10.1038/s41467-026-77328-z",
+      "title": "Direct in-situ observation of hydrogen-enhanced diffusive deformation at the crack tip in pure aluminium",
+      "abstract": "Reliable service of lightweight high-strength alloys in energy efficient structures is challenged by hydrogen embrittlement. Extensive research efforts have been devoted to uncovering the mechanism underlying the phenomenon for decades, primarily focusing on the interaction between hydrogen and dislocations. Nonetheless, the explicit role of hydrogen in the direct vicinity of a propagating crack tip, wherein the deformation carriers nucleate, remains obscure. Here, by using in-situ high-resolution environmental transmission electron microscopy, we directly capture hydrogen-enhanced diffusive deformation-mediated crack propagation in pure Al, manifesting vacancy formation and atomic diffusion on the crack tip surface. This is corroborated by density functional theory calculations revealing considerably weakened Al-Al bonds at the adsorption sites and lowered energy barriers for vacancy formation and adatom diffusion. This diffusive cracking pathway is applicable under high hydrogen fugacity and low strain rates, which imposes evident effects on bulk materials. The findings point to restraining atomic diffusion to alleviate the hydrogen-assisted cracking in advanced aluminum alloys. The role of hydrogen at crack tips remains ambiguous. Here, the authors directly observe hydrogen-enhanced diffusive deformation at the atomic level and demonstrate the formation of vacancies as well as atomic diffusion, which contribute to crack propagation.",
+      "link": "https://doi.org/10.1038/s41467-026-77328-z",
+      "authors": [
+        "Lei Jiang",
+        "Yuan Ma",
+        "Xinyang Yu",
+        "Binglu Zhang",
+        "Xiang Wang",
+        "Yang He",
+        "Luning Wang",
+        "Jianxin Xie",
+        "Lijie Qiao"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-10T00:32:57+00:00",
+      "last_seen": "2026-09-10T00:32:57+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:32:57+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70676-2": {
+      "key": "doi:10.1038/s41598-026-70676-2",
+      "doi": "10.1038/s41598-026-70676-2",
+      "title": "Performance of AI-based diabetic retinopathy screening is highly dependent on evaluation setting: a five-year, multi-framework study",
+      "abstract": "Abstract Despite near-perfect performance reported on benchmark datasets, the real-world behavior of artificial intelligence (AI) systems for diabetic retinopathy (DR) screening remains insufficiently characterized. Here, we report a multi-framework evaluation of OphtAI, a CE-marked AI system for automated detection of referable DR and diabetic macular edema from color fundus photographs. The system was initially validated on the Messidor-2 benchmark dataset and subsequently assessed across three independent evaluation settings: a large-scale masked comparative study (US Veterans Affairs), an external validation using handheld fundus photography in Finland, and an open, large-scale comparative evaluation within the UK National Health Service. Across these evaluation frameworks, substantial variability in observed sensitivity and specificity was found. These variations occurred across settings differing in imaging devices, population characteristics, referral definitions, and handling of ungradable images. In masked settings, interpretation of comparative performance was limited by the lack of system-level attribution, while open evaluations remained sensitive to protocol design. Taken together, these results show that performance in AI-based DR screening is not a fixed property of a system, but an emergent property of the evaluation framework. This work calls for context-aware validation strategies and more standardized evaluation protocols for clinical AI systems.",
+      "link": "https://doi.org/10.1038/s41598-026-70676-2",
+      "authors": [
+        "Gwenolé Quellec",
+        "Mathieu Lamard",
+        "Sarah Matta",
+        "Laurent Borderie",
+        "Philippe Zhang",
+        "Paola Ortega Saborio",
+        "Pierre Deman",
+        "Alexandre Le Guilcher",
+        "Ali Erginay",
+        "Anna-Maria Kubin",
+        "Nina Hautala",
+        "Petri Huhtinen",
+        "Béatrice Cochener",
+        "Pascale Massin"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:01+00:00",
+      "last_seen": "2026-09-10T00:33:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "artificial intelligence"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-68435-4": {
+      "key": "doi:10.1038/s41598-026-68435-4",
+      "doi": "10.1038/s41598-026-68435-4",
+      "title": "Identification and biological characterization of Nigrospora sphaerica, the causal agent of jackfruit leaf spot, in China",
+      "abstract": "Abstract Jackfruit ( Artocarpus heterophyllus Lam.) is a valuable tropical fruit crop in southern China, yet little information is available regarding the pathogens affecting its foliage. In July 2023, typical leaf spot symptoms were observed on jackfruit plants in Nanning, Guangxi, China, which prompted an investigation into the causal agent. The colonies of the pathogen isolated from the symptomatic leaves appeared white initially, and gradually turned gray, the conidia were black, spherical to subspherical. Based on morphological observations and phylogenetic analyses, the pathogen was identified as Nigrospora sphaerica . The symptoms caused by inoculation of healthy leaves with N. sphaerica isolates were similar to those of jackfruit leaf spot observed in the field, and the pathogen was re-isolated from artificially inoculated symptomatic leaves. This was the first report of N. sphaerica causing leaf spot on jackfruit in China. Further biological characterization demonstrated that the pathogen achieved optimal mycelial growth at 28 °C on PDA medium, with maximal mycelial growth obtained at pH 8 and pH 9, which were not significantly different ( P < 0.05); among all tested media, malt extract agar was the optimum medium for mycelial growth. Soluble starch and beef extract powder served as the optimal carbon and nitrogen sources, respectively. In addition, 55 °C for 10 min was the lethal temperature for mycelial growth. These findings provide critical insights into the biology of N. sphaerica and its potential impact on jackfruit production. Understanding its optimal growth conditions may aid in developing management strategies to mitigate disease spread and reduce crop losses. Subsequent studies should explore disease epidemiology and potential control measures.",
+      "link": "https://doi.org/10.1038/s41598-026-68435-4",
+      "authors": [
+        "Weiyan Ye",
+        "Pengjin Zhu",
+        "Chenxin Yi",
+        "Xiangwei Ma",
+        "Hailing Tang",
+        "Qiqi Song",
+        "Xiuguan Tang",
+        "Yingjun Du",
+        "Jianjun Liang",
+        "Hailan Zhou"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:01+00:00",
+      "last_seen": "2026-09-10T00:33:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70626-y": {
+      "key": "doi:10.1038/s41598-026-70626-y",
+      "doi": "10.1038/s41598-026-70626-y",
+      "title": "ZUP1 contributes to cisplatin resistance and treg-related signaling in non–small cell lung cancer",
+      "abstract": "Abstract Acquired cisplatin resistance limits platinum chemotherapy efficacy in non–small cell lung cancer (NSCLC) and is accompanied by tumor immune microenvironment (TME) remodeling. We integrated public NSCLC single-cell RNA-seq datasets to compare cellular composition and CellChat-inferred communication between post-chemotherapy remission and relapse/resistant tumors, and validated ZUP1 expression and prognostic relevance in TCGA and external cohorts. In cisplatin-resistant A549/R and SK-MES-1/R cells, we generated stable ZUP1 knockdown and assessed proliferation, tumorsphere growth and formation, apoptosis (Annexin V/PI) and BAX/BCL2 expression, and xenograft growth. Tumor cell–peripheral Treg co-cultures were used to quantify the proportion of FOXP3⁺ cells within the gated CD4⁺ population. Natural-product screening was guided by molecular docking, and ZUP1–compound binding was evaluated by surface plasmon resonance (SPR). Peimisine responses were compared between parental and cisplatin-resistant cells. In A549/R cells, experimentally measured viability across a peimisine–cisplatin concentration matrix and cisplatin dose–response curves at fixed peimisine concentrations were used to evaluate changes in cisplatin sensitivity. Resistant tumors exhibited remodeled cellular composition and enhanced intercellular communication, including increased epithelial-to-Treg signaling. ZUP1 was upregulated in resistant models and associated with unfavorable prognosis. ZUP1 knockdown suppressed growth and tumorsphere formation, increased apoptosis, reduced tumorigenicity in vivo, and reduced the proportion of CD4⁺FOXP3⁺ Treg-like cells in co-culture. Peimisine directly bound ZUP1 by SPR, inhibited resistant cell growth, and was associated with lower estimated cisplatin IC₅₀ values in A549/R cells at fixed peimisine concentrations. ZUP1 contributes to the maintenance of cisplatin-resistant growth and is associated with enhanced Treg-related immunosuppressive signaling in NSCLC. Peimisine directly binds ZUP1 and may serve as a preliminary natural-product lead for further target-validation and combination studies.",
+      "link": "https://doi.org/10.1038/s41598-026-70626-y",
+      "authors": [
+        "Wanyan Xiong",
+        "Zhixuan Deng",
+        "Fang Ding",
+        "Zhike Xiao",
+        "Wang Shi",
+        "Gang Gu",
+        "Nan Yan"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:01+00:00",
+      "last_seen": "2026-09-10T00:33:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70124-1": {
+      "key": "doi:10.1038/s41598-026-70124-1",
+      "doi": "10.1038/s41598-026-70124-1",
+      "title": "Robust parameter estimation for the Double K distribution in heavy-tailed sea clutter using a multi-population genetic algorithm",
+      "abstract": "Abstract The Double K (KK) distribution, a hierarchical compound model in which the texture component follows a K-distribution, provides a flexible framework for heavy-tailed sea clutter under high sea states, but its practical use depends on reliable estimation of multiple coupled parameters. This study proposes a KK-distribution parameter estimation method based on a multi-population genetic algorithm (MPGA). The method formulates parameter estimation as a nonlinear optimization problem that jointly minimizes the discrepancies between the theoretical and empirical probability density function (PDF) and cumulative distribution function (CDF) at histogram sampling points. Relative to the standard genetic algorithm (SGA), the MPGA preserves population diversity and mitigates premature convergence in multi-parameter search. Monte Carlo simulations show that the proposed method delivers higher estimation accuracy and stronger convergence stability than the SGA, while additional tests clarify how sample size and histogram bin width affect estimation performance. Additional comparisons with particle swarm optimization and differential evolution, together with statistical tests, ablation analysis, and hyperparameter sensitivity experiments, further characterize the accuracy–cost trade-off of the proposed estimator. Experiments on measured sea-clutter data show that the KK model with MPGA-estimated parameters fits heavy-tailed behavior more accurately than the K distribution and the generalized Pareto distribution. For the McMaster University Intelligent Pixel Processing (IPIX) datasets, the proposed method achieves Kolmogorov-Smirnov (K-S) distances of 0.0128 and 0.0164 and root-mean-square deviation (RMSD) values of 0.0042 and 0.0060, all lower than the benchmark values. Additional X-band measured datasets under sea states 2–4 support the practical applicability of the KK fitting framework across different clutter conditions. These results indicate that the proposed method provides an effective and practical solution for KK-distribution parameter estimation and heavy-tailed sea-clutter modeling.",
+      "link": "https://doi.org/10.1038/s41598-026-70124-1",
+      "authors": [
+        "Bin Yang",
+        "Hua Tong",
+        "Lei Qiao",
+        "Lu Zhang",
+        "Aifu Han"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:01+00:00",
+      "last_seen": "2026-09-10T00:33:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71208-8": {
+      "key": "doi:10.1038/s41598-026-71208-8",
+      "doi": "10.1038/s41598-026-71208-8",
+      "title": "Green synthesis of Mn2O3-Mn3O4 nanocomposite using Clitoria ternatea L. (Bluebutterfly) flowers extract and its colloidal gel based microextraction application",
+      "abstract": "In this study, Mn₂O₃–Mn₃O₄ nanocomposite was synthesized using water extract of Clitoria ternatea L. flowers. A colloidal gel of the synthesized nanocomposite was prepared using a choline chloride/phenol (1:2) deep eutectic solvent (DES). The synthesized nanocomposite and colloidal gel were characterized by SEM, TEM, SAED, XRD, and FT-IR spectroscopy. Subsequently, a Mn₂O₃–Mn₃O₄/DES-based colloidal gel extraction method was developed for the separation and preconcentration of methylene blue from water samples prior to UV–Vis spectrophotometric determination. Response surface methodology (RSM) based on a Box–Behnken design was employed to optimize the main experimental parameters, including nanocomposite amount, sample volume, colloidal gel volume, and pH. The linear, interaction, and quadratic effects of these parameters on the extraction performance were also evaluated. Under the optimized conditions, the developed method exhibited a working range of 2–120 µg L⁻¹, with a coefficient of determination (R²) of 0.994, a limit of detection (LOD) of 0.56 µg L⁻¹, and an enrichment factor (EF) of 33.6. The developed method was subsequently applied to real water samples. The greenness of the method was evaluated using the AGREE tool, demonstrating that the proposed method provides a reliable and sustainable alternative for the routine determination of methylene blue in water samples.",
+      "link": "https://doi.org/10.1038/s41598-026-71208-8",
+      "authors": [
+        "Figen Erek",
+        "Mustafa Tüzen"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:01+00:00",
+      "last_seen": "2026-09-10T00:33:01+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:01+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71038-8": {
+      "key": "doi:10.1038/s41598-026-71038-8",
+      "doi": "10.1038/s41598-026-71038-8",
+      "title": "Participatory assessment of agricultural value chain dynamics and market opportunities for smallholder farmers in climate-vulnerable coastal Bangladesh",
+      "abstract": "Despite the critical role of agricultural value chains in enhancing market competitiveness and smallholder livelihoods, systematic assessments integrating participatory commodity prioritization with market opportunity analysis remain limited in climate-vulnerable coastal regions. This mixed-methods study employed a participatory value chain selection matrix to identify priority commodities and develop intervention strategies for smallholder farmers in Khulna district of Bangladesh. Quantitative survey data (n = 384) were triangulated with 12 focus group discussions and 24 key informant interviews conducted during August-September 2024. Vegetables, goat, and carp fish emerged as the three highest-priority commodities, selected based on women’s participation potential, income generation capacity, climate resilience, and investment feasibility. Value chain mapping revealed that beparis — mobile traders — dominate intermediation across all three commodities, concentrating market power and generating trust deficits that constrain smallholder price outcomes. Economic analysis confirmed viable profitability, with vegetables yielding the highest proportional margin (63–65%) followed by goat (60%) and carp fish (45%). Critical constraints include transportation deficits, price information asymmetries, market syndicate dominance, and climate-induced risks. Proposed interventions encompass union-level product collection points, app-based price dissemination, farmer-intermediary coordination, and strengthened farmer representation in marketing committees. These findings contribute to inclusive value chain development and climate-resilient livelihoods in coastal Bangladesh and comparable systems globally.",
+      "link": "https://doi.org/10.1038/s41598-026-71038-8",
+      "authors": [
+        "Muhammad Humayun Kabir",
+        "Sharif Ahammad",
+        "Chamon Ara Afroz",
+        "Md. Hayder Khan Sujan"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:02+00:00",
+      "last_seen": "2026-09-10T00:33:02+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:02+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69854-z": {
+      "key": "doi:10.1038/s41598-026-69854-z",
+      "doi": "10.1038/s41598-026-69854-z",
+      "title": "PediaRespECG: open-source synthetic pediatric ECG platform for respiratory monitoring applications",
+      "abstract": "Accurate respiratory monitoring using lightweight ECG-based sensors is an emerging capability of digital health technologies with particular promise for pediatric care. However, development and benchmarking of ECG-derived respiratory rate (EDRR) and apnea-detection algorithms in children are limited by the lack of physiologically grounded datasets capturing developmental changes in cardiorespiratory coupling from birth through adolescence. Age-dependent variation in ECG-encoded respiratory signatures—including amplitude modulation, respiratory sinus arrhythmia, and baseline wander—complicates algorithm validation, and existing ECG simulators do not model pediatric physiology or permit independent control of these respiratory encoding mechanisms. We present PediaRespECG, an open-source Python platform that generates respiratory-encoded pediatric ECG waveforms using age-dependent physiologic models or user-specified heart and respiratory rates, independently tunable encoding mechanisms, and deterministic synthesis with seed-controlled stochastic perturbations. The framework supports configurable apnea and hypopnea events together with optional, separately parameterized bradycardia responses. It outputs ECG signals, ground-truth respiratory annotations, and machine-readable metadata, enabling transparent benchmarking and reproducible evaluation of EDRR and physiologic inference algorithms.",
+      "link": "https://doi.org/10.1038/s41598-026-69854-z",
+      "authors": [
+        "Jesse D. Roberts"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:03+00:00",
+      "last_seen": "2026-09-10T00:33:03+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:03+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71146-5": {
+      "key": "doi:10.1038/s41598-026-71146-5",
+      "doi": "10.1038/s41598-026-71146-5",
+      "title": "Overexpression of miR-144-3p inhibits the expression of NLRP3 in fibroblast-like synoviocytes of osteoarthritis",
+      "abstract": "To investigate whether overexpression of miR-144-3p can inhibit the activation of the NLRP3 inflammasome and the release of associated inflammatory factors in osteoarthritis. In this study, human FLS were stimulated by LPS to establish an in vitro inflammatory model, and transfected with miR-144-3p mimic, inhibitor and their corresponding negative control. The mRNA and protein expressions of NLRP3 inflammasome related molecules were detected by RT-qPCR and Western blot. The levels of IL-1β, IL-18 and TNF-α in the culture supernatant were detected by ELISA. The rat model of osteoarthritis-like joint injury was established by intra-articular injection of MIA, and the corresponding miRNA intervention was given. Synovial inflammation, collagen deposition and cartilage tissue damage were evaluated by histological staining and pathological scoring. Overexpression of miR-144-3p significantly suppressed LPS-induced FLS proliferation. RT-qPCR analysis revealed that miR-144-3p overexpression markedly reduced the mRNA levels of NLRP3, ASC, and pro-caspase-1; Western blot analysis further confirmed a decrease in the protein levels of these NLRP3 inflammasome-related molecules. Meanwhile, ELISA results demonstrated a significant reduction in the release levels of IL-1β and TNF-α. In vivo experiments further indicated that overexpression of miR-144-3p alleviated inflammatory responses and synovial tissue pathological damage in OA models, suggesting that miR-144-3p may exert protective effects by suppressing NLRP3 inflammasome-mediated inflammatory responses. Overexpression of miR-144-3p can alleviate LPS-induced FLS inflammatory response, which is associated with the decreased expression level of NLRP3 inflammasoma-related molecules. In the osteoarthritis-like joint injury model induced by MIA, miR-144-3p intervention was correlated with the reduction of synovial inflammation, fibrosis and cartilage tissue pathological damage. However, since caspase-1 cleavage, IL-1β and IL-18 maturation, ASC spot formation, and GSDMD cleavage were not examined in this study, further experiments are needed to prove that miR-144-3p directly inhibits the complete activation process of NLRP3 inflammasome.",
+      "link": "https://doi.org/10.1038/s41598-026-71146-5",
+      "authors": [
+        "Yitong Ding",
+        "Ke Ning",
+        "Yajun Fu",
+        "Ziqi Fan",
+        "Yangfei Yi",
+        "Can Liu",
+        "Jie Wen",
+        "Yufei Li"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:04+00:00",
+      "last_seen": "2026-09-10T00:33:04+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:04+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68884-x": {
+      "key": "doi:10.1038/s41598-026-68884-x",
+      "doi": "10.1038/s41598-026-68884-x",
+      "title": "A hybrid deep and handcrafted feature learning approach for imbalanced wafer map defect classification",
+      "abstract": "Reliable wafer map defect classification is important for semiconductor yield analysis, but it remains challenging because labeled wafer maps are often limited, class distributions are highly imbalanced, and many deep models provide limited interpretability. This paper presents a compact data-centric framework that integrates conditional generative augmentation, dual-branch deep feature extraction, and hand-crafted geometric descriptors for imbalanced wafer map defect classification. A class- and mask-conditioned StyleGAN2-ADA generator is used offline to synthesize minority-class wafer maps, and the resulting samples are filtered before being merged with the training set. For classification, a global-local encoder models whole-wafer context and local defect patterns, while a branch-relative positional cross-attention module enables local patch features to selectively attend to wafer-level contextual information. The positional encodings preserve token structure within each branch but do not impose a one-to-one absolute-coordinate alignment between a crop and the full wafer. To complement the deep representation, five interpretable hand-crafted feature groups are extracted, including radial profile, angular profile, connected component count, eccentricity, and edge concentration. The global and local deep encoders are shallow MobileNetV2-derived branches, while their cross-attention-fused representation is combined with a projected hand-crafted feature vector and classified by a compact classification head trained with Class-Balanced Focal Loss. Experiments on the public WM-811K dataset show that the proposed framework achieves 98.89% accuracy and 94.41% macro F1-score under the reported split. Additional ablation studies indicate that mask-conditioned generation, positional cross-attention, hand-crafted features, multi-scale local patches, and class-balanced focal learning each contribute to the final performance. The deployed classifier contains 64,967 trainable parameters, excluding the offline generator and non-trainable hand-crafted feature computation.",
+      "link": "https://doi.org/10.1038/s41598-026-68884-x",
+      "authors": [
+        "Qiuhan Hu"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:05+00:00",
+      "last_seen": "2026-09-10T00:33:05+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:05+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71080-6": {
+      "key": "doi:10.1038/s41598-026-71080-6",
+      "doi": "10.1038/s41598-026-71080-6",
+      "title": "Addressing the challenges of remote diagnostics: diagnostic yield of point-of-care nucleic acid amplification tests (NAAT) versus conventional culture for the detection of skin ulcer pathogens",
+      "abstract": "Abstract Identification of pathogenic bacteria in skin ulcers typically relies on conventional culture; however, culture outcome can be compromised by extended transport times to centralised laboratories. Point-of-care Nucleic Acid Amplification Tests (NAAT) offer a rapid alternative in these settings. This study compared the diagnostic yield of point-of-care NAAT versus conventional culture for the detection of Staphylococcus aureus and Streptococcus pyogenes . A prospective, cross-sectional study was conducted at a remote emergency department (n = 768). Triple swabs were collected from patients presenting with skin ulcers (n = 106). Detection rates were compared between centralised conventional culture (subject to transport delays) and on-site NAAT (isothermal and thermal cycling). S. aureus was the most prevalent pathogen (23% via culture vs. 44% via NAAT). Overall, NAAT identified target pathogens approximately twice as frequently as culture. These differences were statistically significant for S. aureus ( p < 0.001). NAAT provides significantly higher yield than conventional culture in this remote setting where long transport times may compromise bacterial viability.",
+      "link": "https://doi.org/10.1038/s41598-026-71080-6",
+      "authors": [
+        "Ulrich Orda",
+        "Sabine Orda",
+        "Ronny Gunnarsson"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:06+00:00",
+      "last_seen": "2026-09-10T00:33:06+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70868-w": {
+      "key": "doi:10.1038/s41598-026-70868-w",
+      "doi": "10.1038/s41598-026-70868-w",
+      "title": "Modeling and prediction of a fractional-order jerk chaotic system using radial basis function neural networks",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-70868-w",
+      "authors": [
+        "Huda M. Alshanbari",
+        "Munirah Alsahli",
+        "Shah Sawar",
+        "Ahmad Ramin Rahnaward"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:06+00:00",
+      "last_seen": "2026-09-10T00:33:06+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70576-5": {
+      "key": "doi:10.1038/s41598-026-70576-5",
+      "doi": "10.1038/s41598-026-70576-5",
+      "title": "External validation of a deep learning model for hip fracture detection on pelvic radiographs and its effect on radiology resident performance",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-70576-5",
+      "authors": [
+        "Jin Rong Tan",
+        "Jared Jue Ying Yeo",
+        "P. Chandra Mohan",
+        "Yet Yen Yan",
+        "Hong Choon Oh",
+        "Yan Gao"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:06+00:00",
+      "last_seen": "2026-09-10T00:33:06+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70542-1": {
+      "key": "doi:10.1038/s41598-026-70542-1",
+      "doi": "10.1038/s41598-026-70542-1",
+      "title": "Sustainable recycling of used engine oil using MEK and 1 butanol solvent extraction with activated carbon adsorption for process optimization and technoeconomic analysis",
+      "abstract": "Sustainable management of waste engine oil is critical for environmental protection, particularly in developing economies where recycling infrastructure remains underdeveloped. This study investigates the economic viability and technical performance of an innovative dual-solvent adsorption technique combining methyl ethyl ketone (MEK) and 1-butanol (25% each by volume) with activated carbon adsorption (0.1 g/L) for recycling 15W-40 used engine oil. The method’s novelty lies in three aspects: (1) synergistic use of equal-proportion dual solvents with complementary polarities (MEK dielectric constant 18.5; 1-butanol 17.8), (2) low-temperature operation (42.2 °C) reducing energy consumption by approximately 65% compared to thermal treatment, and (3) first comprehensive economic feasibility analysis for the Ethiopian context using locally sourced materials. Under optimized conditions (42.2 °C, 50 min contact time) determined via Response Surface Methodology (RSM) with Box-Behnken Design (R2 = 0.9724), the process achieved 65.2 ± 0.4% recovery efficiency. Recycled oil met ASTM specifications: density 901.2 kg/m3 at 15 °C, kinematic viscosity 14.1 mm2/s at 100 °C, flash point 219 °C. Economic analysis revealed initial investment of $28.52, operational cost of $27.68 per 15L batch, generating net profit of $10.00 per batch at market price of $2.50/L. Optimization strategies including solvent recovery (85% efficiency) and scale-up to 150L batches could reduce production cost to $0.50/L, making the process commercially viable. The method demonstrates that solvent-based adsorption offers an environmentally sound (65% lower carbon footprint than thermal treatment) and economically attractive alternative for decentralized used oil recycling in resource-constrained settings.",
+      "link": "https://doi.org/10.1038/s41598-026-70542-1",
+      "authors": [
+        "Negasa Abdena Alemu",
+        "Ramesh Babu Nallamothu",
+        "Getachew Alemayehu Lakew"
+      ],
+      "published": "2026-09-10T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:06+00:00",
+      "last_seen": "2026-09-10T00:33:06+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:06+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70316-9": {
+      "key": "doi:10.1038/s41598-026-70316-9",
+      "doi": "10.1038/s41598-026-70316-9",
+      "title": "Flexible wireless charger for automated guided vehicle in smart warehouses",
+      "abstract": "Automated guided vehicle (AGV) systems in warehouses, used for transporting and sorting goods in automated production lines, are currently improving and automating each stage of the process using various AGV types. This paper presents a study on a converter designed for flexible and efficient wireless power conversion for multiple automated robots operating on a DC microgrid in a smart warehouse. The converter facilitates bidirectional power exchange via four ports integrated into one AGV and between different AGVs without requiring additional systems within the automated robot. The microgrid system will have a rigid structure, similar to a charging distribution grid designed for automated robots. With wireless power transmission, flexible energy exchange is possible between the DC microgrid and the automated robots in both directions, and between the robots themselves when not in proximity to a fixed charging point within the DC microgrid, particularly during transport. A basic design for a circular wireless transmission coil, suitable for the robot’s shape, is proposed. This design demonstrates how changes in coil area and eccentricity in communication directions impact transmission performance. A prototype, five times smaller in size, has been deployed and tested. It successfully transmitted an average of approximately 170 W of power over a distance of 12 cm with an efficiency of nearly 68.72%. This principle can be appropriately applied to various mobile and autonomous platforms with limited payload space, where remote power and renewable energy sources are needed.",
+      "link": "https://doi.org/10.1038/s41598-026-70316-9",
+      "authors": [
+        "Nguyen The Vinh",
+        "Dao Tuan Anh",
+        "Hong-Son Vu"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:07+00:00",
+      "last_seen": "2026-09-10T00:33:07+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:07+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70901-y": {
+      "key": "doi:10.1038/s41598-026-70901-y",
+      "doi": "10.1038/s41598-026-70901-y",
+      "title": "Mamba-powered attention for auxiliary diagnosis of cervical cancer",
+      "abstract": "Cervical cancer is the fourth most common malignant tumor among women worldwide, with particularly severe morbidity and mortality rates in areas with limited medical resources. A severe shortage of pathologists leads to insufficient screening coverage and low diagnostic efficiency. Deep learning technology offers new possibilities for computer-aided diagnosis; however, existing convolutional networks have limited receptive fields, making it difficult to model long-range spatial dependencies in billion-pixel full-slice images. While Vision Transformer possess global modeling capabilities, they impose an unbearable computational burden. More critically, existing methods cannot effectively combine local cellular features with global tissue information, neglecting the bidirectional information flow inherent in cervical pathology diagnosis. Based on this, this paper proposes a cervical cancer auxiliary diagnostic model, MPA-ADC, based on Mamba and attention mechanisms. This model comprises a segmentation network MANet and a dual-path classification network DPNet: MANet achieves efficient global feature capture through parallel Mamba modules and is enhanced by a multi-scale attention mechanism to improve feature fusion capabilities; DPNet extracts subtle features at the cellular level and structural information at the tissue level through independent local and global paths, respectively. Unlike existing works that simply stack modules, MPA-ADC formalizes the multi-scale feature coordination problem of pathological images into a dual-path state-space evolution problem and constructs an end-to-end solution with a state-space model as the mathematical kernel and an attention mechanism as the routing protocol. Experiments on the cervical cancer dataset show that this method achieves good performance in both cell nucleus segmentation and lesion classification tasks.",
+      "link": "https://doi.org/10.1038/s41598-026-70901-y",
+      "authors": [
+        "Li Wen",
+        "Xiaoqing Zhang",
+        "Fangfang Gou",
+        "Jia Wu"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:08+00:00",
+      "last_seen": "2026-09-10T00:33:08+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:08+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70283-1": {
+      "key": "doi:10.1038/s41598-026-70283-1",
+      "doi": "10.1038/s41598-026-70283-1",
+      "title": "Optimized universal power converter for hybrid electric vehicles: AI-driven control for PV-wind assisted charging",
+      "abstract": "This paper presents an optimized reduced-switch universal power converter for renewable-energy-assisted electric vehicle charging applications. Unlike conventional universal converters that require a large number of semiconductor devices for different power conversion functions, the proposed topology integrates AC–DC rectification, DC–DC buck/boost conversion, DC–AC inversion, and AC–AC voltage regulation within a single compact architecture using six active switches, four thyristors, two inductors, and two capacitors. The reduced-switch configuration decreases switching stress, conduction losses, and maximum switch current while maintaining bidirectional power conversion capability. A supervised feed-forward artificial neural network (ANN) controller is employed as a supervisory controller to perform operating-mode selection, duty-ratio optimization, firing-angle regulation, and switching-state generation under varying source and load conditions. The ANN is trained offline using MATLAB/Simulink-generated datasets and executed online with low computational complexity, enabling real-time implementation at a 20 kHz switching frequency. The converter is validated through detailed MATLAB/Simulink simulations and a 250 W laboratory prototype operating in all four conversion modes. Experimental investigations demonstrate stable voltage regulation under load variations, a maximum conversion efficiency of 96.98%, and an output total harmonic distortion (THD) of 3.02%, satisfying high-quality power conversion requirements. Compared with conventional universal converters, the proposed converter achieves lower component count, reduced switching stress, and improved conversion efficiency, making it a promising compact power-conditioning solution for renewable-energy-assisted hybrid electric vehicle energy management and multifunctional power conversion systems.",
+      "link": "https://doi.org/10.1038/s41598-026-70283-1",
+      "authors": [
+        "K. Suresh",
+        "E. Parimalasundar",
+        "A. Arunraja",
+        "Aravind Pitchai",
+        "Tesfaye belay"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:08+00:00",
+      "last_seen": "2026-09-10T00:33:08+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:08+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-69134-w": {
+      "key": "doi:10.1038/s41598-026-69134-w",
+      "doi": "10.1038/s41598-026-69134-w",
+      "title": "A hybrid feature hashing approach with temporal validation for efficient forgery detection of frame duplication",
+      "abstract": "Abstract This study presented a hybrid framework for detecting video duplication forgery by leveraging deep learning, hashing techniques, and motion analysis. Two novel approaches were explored to evaluate the trade-off between processing speed and detection accuracy. The first approach employed a window-based strategy, using ResNet-50 for feature extraction and MD5 hashing to identify potential duplicates, yielding fast execution times. The second approach improved upon this by implementing a two-stage validation process: hash-based candidate selection, followed by temporal and structural validation using a gap threshold and optical flow analysis, thereby significantly enhancing detection accuracy. Experimental evaluations on the SULFA, TDTVD, and Fadl datasets using the proposed group-based approach demonstrate key quantitative outcomes, achieving an accuracy of 100%, a precision of 99.91%, and an F1-score of 100% on average using MD5 hashing, surpassing QPCET hashing’s 98.2% accuracy, a precision of 94.6%, and an F1-score of % 90.8%. This ensures reliable detection of duplicate frames and yields a 65.85% reduction in execution time relative to frame-wise processing while maintaining detection accuracy. This paper’s contributions include a robust, scalable video pipeline that achieves state-of-the-art performance on benchmark datasets, a 25-frame-window recommendation that balances accuracy and speed, and validation of MD5’s effectiveness relative to QPCET for forgery detection. These findings advance automated video authentication, with implications for digital forensics, surveillance, and the verification of social media content.",
+      "link": "https://doi.org/10.1038/s41598-026-69134-w",
+      "authors": [
+        "Mona M. Ali",
+        "Neveen I. Ghali",
+        "Hanaa M. Hamza",
+        "Khalid M. Hosny"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:09+00:00",
+      "last_seen": "2026-09-10T00:33:09+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-68972-y": {
+      "key": "doi:10.1038/s41598-026-68972-y",
+      "doi": "10.1038/s41598-026-68972-y",
+      "title": "Lattice Boltzmann method based analysis of flow regime transitions around inline rectangular cylinders",
+      "abstract": "This study numerically investigates incompressible two-dimensional laminar flow around two rectangular cylinders arranged in tandem configuration using the lattice Boltzmann method (LBM). Simulations are performed at a constant Reynolds number Re = 200 while the gap ratio (G) between the cylinders is varied in the range 0 ≤ G ≤ 10. The aspect ratio (AR) of both cylinders is fixed at 3:2. Effects of cylinder spacing on wake development, vortex formation, pressure distribution, and streamline topology were systematically analyzed. The prominent flow regimes revealed from computations include the single slender body, alternate reattachment flow, intermittent shedding and the binary vortex street. The power spectrum of the lift coefficient (CL) reveals frequency variations in lift for both cylinders across the different regimes. An increase in Strouhal number (St) correlates with gap spacing, linked to pronounced bending of shear layers detaching from the cylinders. Pressure distribution is found to be non-uniform due to irregular shear layer separation and reattachment. Critical gap spacing values of G = 2, 3, and 9 are identified as pivotal for abrupt changes in wake modes and pressure distributions, where fluid force parameters exhibit local maxima, minima, or sudden extreme jumps. The second cylinder encounters a net reverse drag force within the range of G = 0 to 3, whereas the first cylinder exhibits positive average drag force across all values of G. Findings indicate that these rectangular shapes experience significant alterations in flow structures and force fluctuations compared to their square counter parts.",
+      "link": "https://doi.org/10.1038/s41598-026-68972-y",
+      "authors": [
+        "Neelam Tahir",
+        "Waqas Sarwar Abbasi",
+        "Afraz Hussain Majeed",
+        "Wubshet Ibrahim"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:09+00:00",
+      "last_seen": "2026-09-10T00:33:09+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:09+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70160-x": {
+      "key": "doi:10.1038/s41598-026-70160-x",
+      "doi": "10.1038/s41598-026-70160-x",
+      "title": "Investigating neural mechanisms of error-related negativity using dynamic causal modeling in the Flanker task",
+      "abstract": "One of the biomarkers for brain’s error monitoring is the error-related negativity (ERN), which is a negative deflection occurring approximately 50 milliseconds after an erroneous response. However, few studies have applied dynamic causal modeling (DCM) to ERN signals with a group-level Parametric Empirical Bayes (PEB) approach. In this study, we applied DCM for event-related potential (ERP) and PEB to investigate the role of the dorsal anterior cingulate cortex (dACC), a key region in error monitoring, and its interactions with supplementary motor area (SMA) and inferior frontal gyrus (IFG). Utilizing the COG-BCI database, Bayesian Model Selection (BMS) identified Model 11 as the winning model (protected exceedance probability = 0.55). PEB analyses revealed that an increase in reaction time was selectively related to the modulation of extrinsic (both forward and backward) connectivity, rather than intrinsic connectivity. An increase in right SMA to dACC connection strength was observed in subjects with longer reaction time. This study provides guidelines for future studies applying DCM to ERP data to investigate ERN signals in the Flanker task.",
+      "link": "https://doi.org/10.1038/s41598-026-70160-x",
+      "authors": [
+        "Pannapat Aschariyapakorn",
+        "Dollaporn Anopas"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:10+00:00",
+      "last_seen": "2026-09-10T00:33:10+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:10+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68504-8": {
+      "key": "doi:10.1038/s41598-026-68504-8",
+      "doi": "10.1038/s41598-026-68504-8",
+      "title": "Mapping the metabolic correlates of working memory in a naturalistic environment: a whole-room indirect calorimetry study",
+      "abstract": "Abstract Whole-room indirect calorimetry (WRIC) is an advanced platform to assess basal and activity-related metabolic expenditure, but its sensitivity to cognitive activity-induced metabolic fluctuations remains largely unexplored. In this exploratory study, we investigated whether WRIC measurements covary with variations in working memory load. Eighteen healthy adults completed two experimental sessions inside a WRIC chamber: a working memory task (n-back, with increasing difficulty) and a control simple reaction time (SRT) task. Oxygen consumption and carbon dioxide production were continuously recorded to derive metabolic rate (MR) and respiratory exchange ratio (RER) at 1-min resolution, alongside subjective workload ratings (NASA-TLX) and electrodermal activity for autonomic arousal. Linear mixed-effects models applied to 4-min downsampled WRIC data revealed significant effects of task session, block, and subjective workload on both MR and RER, even after controlling for autonomic arousal. Downsampling reduced residual serial dependence while preserving the time-varying structure of the physiological predictors. Block-wise metabolic fluctuations were observed across the cognitive and control sessions, although nonlinear patterns at high task difficulty should be interpreted cautiously in the absence of direct behavioral evidence for performance floor effects. These findings provide preliminary evidence that WRIC-derived metabolic measures may provide an ecologically valid exploratory approach for investigating cognition-metabolism interactions.",
+      "link": "https://doi.org/10.1038/s41598-026-68504-8",
+      "authors": [
+        "Enrico Cipriani",
+        "Gianluca Rho",
+        "Paolo Piaggi",
+        "Alessio Basolo",
+        "Alberto Landi",
+        "Ferruccio Santini",
+        "Angelo Gemignani",
+        "Alberto Greco",
+        "Danilo Menicucci"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:11+00:00",
+      "last_seen": "2026-09-10T00:33:11+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68166-6": {
+      "key": "doi:10.1038/s41598-026-68166-6",
+      "doi": "10.1038/s41598-026-68166-6",
+      "title": "Dynamic modeling and optimization of a pendulum-type laser leveling system based on eddy current damping",
+      "abstract": "To investigate the dynamic characteristics and eddy current damping behavior of the automatic leveling system in a pendulum-type laser level, a single-degree-of-freedom dynamic model and an analytical eddy current damping model were established. The relationships among magnetic flux density, conductor geometric parameters, and damping coefficient were analyzed theoretically. A three-dimensional finite element electromagnetic model was developed in COMSOL Multiphysics to evaluate the damping performance under different structural configurations. Furthermore, free-decay experiments were conducted to validate the numerical results. The results demonstrate that a smaller copper–magnet gap, a thicker permanent magnet, and the incorporation of a magnetic back iron significantly improve the damping performance. Moreover, the effects of conductor dimensions and thickness on the damping coefficient are highly nonlinear, and the damping enhancement gradually approaches saturation as the conductor size increases.",
+      "link": "https://doi.org/10.1038/s41598-026-68166-6",
+      "authors": [
+        "Yizheng Ge",
+        "Shudong Zhuang",
+        "Hongshuang Zhang",
+        "Rugao He",
+        "Yuxuan Zhou",
+        "Jiarui Zhu",
+        "Zhizhou Wang",
+        "Xinyan Cao"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:11+00:00",
+      "last_seen": "2026-09-10T00:33:11+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:11+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69424-3": {
+      "key": "doi:10.1038/s41598-026-69424-3",
+      "doi": "10.1038/s41598-026-69424-3",
+      "title": "Reducing cost of fluorescent microscopy through dye exclusion, distillation techniques, and deep learning",
+      "abstract": "Abstract High Content Screening (HCS) via the Cell Painting assay is a powerful drug discovery tool, but the requirement for five fluorescent channels significantly increases the cost and complexity of image acquisition. Current deep learning models for HCS are trained and evaluated on all five channels, and it remains unclear whether robust biological representations can be maintained when channels are removed at inference time. This work introduces Channel-Reduced DINO (CR-DINO), a self-distillation method built on the DINO framework that generates rich HCS image representations from a reduced number of channels. CR-DINO employs a teacher-student architecture in which the teacher retains full five-channel visibility while the student receives progressively fewer channels following a curriculum-inspired schedule. This scheduled reduction, moving from five channels down to two over the course of training, encourages the student to learn cross-channel dependencies rather than relying on information directly available in its input. Experiments on the Bray dataset, validated through Mode of Action prediction, biological activity property prediction, and image–structure retrieval tasks, show that using only two channels (DNA and Mito) provides results on par with those using the full set, and that CR-DINO recovers performance even for the least informative channel pair (ER and AGP). These results highlight the potential of our method to significantly reduce the reagent and acquisition costs of consecutive HCS experiments without sacrificing the depth of biological insights.",
+      "link": "https://doi.org/10.1038/s41598-026-69424-3",
+      "authors": [
+        "Adriana Borowa",
+        "Bartosz Zieliński",
+        "Dawid Rymarczyk"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:12+00:00",
+      "last_seen": "2026-09-10T00:33:12+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-68280-5": {
+      "key": "doi:10.1038/s41598-026-68280-5",
+      "doi": "10.1038/s41598-026-68280-5",
+      "title": "Fingolimod attenuates inflammatory and fibrotic remodeling but fails to restore cardiac function in experimental chronic Chagas cardiomyopathy",
+      "abstract": "Chronic Chagas cardiomyopathy (CCC), caused by Trypanosoma cruzi infection, is characterized by persistent inflammation, progressive fibrosis, and cardiac dysfunction, with limited therapeutic options once cardiomyopathy is established. Given the central role of sphingosine-1-phosphate (S1P) signaling in immune regulation and cardiovascular homeostasis, we investigated the therapeutic effects of Fingolimod, a functional S1P receptor modulator, in a murine model of established CCC. Chronically infected C57BL/6 mice were orally treated with Fingolimod (0.3 mg·kg⁻1), and cardiac inflammation, fibrosis, gene expression, cytokine production, parasite burden, and functional outcomes were evaluated. Fingolimod significantly reduced myocardial leukocyte infiltration, collagen deposition, galectin-3 expression, cardiac expression of inflammatory and profibrotic genes, and circulating IFN-γ and TNF-α levels, supporting attenuation of Th1-driven inflammation and inflammatory sphingolipid signaling. In vitro, Fingolimod attenuated macrophage activation by reducing cytokine and nitric oxide production but showed limited activity against bloodstream T. cruzi trypomastigotes. Cardiac connexin 43 (Cx43) distribution was also qualitatively assessed, revealing persistent gap junction disorganization in infected mice with no apparent normalization following Fingolimod treatment. However, these anti-inflammatory and antifibrotic effects were not accompanied by significant reductions in myocardial parasite burden, recovery of exercise capacity, or reversal of established electrocardiographic abnormalities. Together, these findings indicate that pharmacological modulation of S1P signaling attenuates pathological myocardial inflammation and remodeling but is insufficient to control parasite burden or restore cardiac function in established experimental CCC. These results support the potential of Fingolimod as an immunomodulatory strategy that could be explored as an adjunct to antiparasitic therapy, particularly to target persistent inflammatory and fibrotic processes that may continue despite parasite-directed treatment. Further studies evaluating combined antiparasitic and S1P-targeted therapies, as well as cardiovascular safety and optimal treatment regimens, are warranted.",
+      "link": "https://doi.org/10.1038/s41598-026-68280-5",
+      "authors": [
+        "Juliana F. Vasconcelos",
+        "Breno C. Barreto",
+        "Malena Feitoza",
+        "Cássio S. Meira",
+        "Daniela N. Silva",
+        "Girlaine C. Santos",
+        "Maria Vitória G. das Neves",
+        "Carine Azevedo",
+        "Pâmela Daltro",
+        "Simone G. Macambira",
+        "Milena B. P. Soares"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:12+00:00",
+      "last_seen": "2026-09-10T00:33:12+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:12+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70178-1": {
+      "key": "doi:10.1038/s41598-026-70178-1",
+      "doi": "10.1038/s41598-026-70178-1",
+      "title": "A human-centred spectral enrichment framework for enhanced patient-focused skin cancer screening using deep learning",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-70178-1",
+      "authors": [
+        "Teng-Li Lin",
+        "Yaswanth Nagisetti",
+        "Riya Karmakar",
+        "Arvind Mukundan",
+        "Manasa Sogi",
+        "Chia-Chien Wu",
+        "Shang-Chin Hsieh",
+        "Hsiang-Chen Wang"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:13+00:00",
+      "last_seen": "2026-09-10T00:33:13+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-69086-1": {
+      "key": "doi:10.1038/s41598-026-69086-1",
+      "doi": "10.1038/s41598-026-69086-1",
+      "title": "Two phases of rapid loess deposition during the last deglaciation and mid-Holocene in central Sweden",
+      "abstract": "Abstract High-latitude regions are emerging as sensitive and potentially expanding sources of atmospheric mineral dust under contemporary climate warming. Aeolian activity in sub-Arctic landscapes such as Sweden during the last deglaciation may therefore act as a valuable analogue for understanding these future high-latitude dust–climate feedbacks. However, the timing and drivers of postglacial aeolian activity in Sweden remains uncertain. Furthermore, Swedish wind-blown loess deposits are thin and prone to reworking, complicating reliable age determination. Here, we combine high sampling resolution luminescence (quartz OSL, feldspar IRSL) and radiocarbon dating with complementary sedimentological, mineral magnetic and multi-proxy luminescence signal analyses to resolve postglacial–Holocene aeolian activity at Brattforsheden, Värmland. Our analyses demonstrate the value of luminescence sensitivity and portable OSL for assessing age reliability and differentiating between reworked and in situ deposits in thin loess sediments. We show that an intense but short period of postglacial-Holocene aeolian activity occurred in central Sweden immediately following deglaciation, with dust activity persisting for ~ 1500 years after regional ice retreat. We also reveal a later aeolian reworking phase linked to local fire activity at ~ 7 ka, setting new constraints on high-latitude dust dynamics under changing conditions, and implying that even during peak Holocene warmth the landscape was sensitive to aeolian reworking and dust emission could occur.",
+      "link": "https://doi.org/10.1038/s41598-026-69086-1",
+      "authors": [
+        "Calum J. Edward",
+        "Yunus Baykal",
+        "Helena Alexanderson",
+        "Jenny Sjöström",
+        "Malin E. Kylander",
+        "Carlos Ortiz",
+        "Daniel Ellerton",
+        "Jan-Pieter Buylaert",
+        "Anu Kaakinen",
+        "Thomas Stevens"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:13+00:00",
+      "last_seen": "2026-09-10T00:33:13+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70873-z": {
+      "key": "doi:10.1038/s41598-026-70873-z",
+      "doi": "10.1038/s41598-026-70873-z",
+      "title": "A physics-guided neural network framework for special segment section prediction and automated preliminary design of special truss moment frames",
+      "abstract": "Abstract Special truss moment frames are ductile steel structural systems with excellent energy dissipation capacity. Their design follows the capacity design principle, in which members outside the special segment remain essentially elastic while plastic deformation is concentrated within the special segment through chord-member yielding. This paper proposes a physics-guided neural network framework for special segment section prediction in special truss moment frames and develops a front-end web-based prediction platform for preliminary member selection based on special-segment design parameters. The proposed framework predicts the section properties of the special segment, including the chord-member plastic section modulus, chord-member moment of inertia, vertical-member plastic section modulus, and vertical-member moment of inertia. Engineering design equations and an expected-shear-strength consistency constraint are incorporated into the learning process to integrate data-driven prediction with mechanical consistency. To evaluate in-distribution predictive performance while avoiding augmentation-induced data leakage, the original 154 floor-level samples were divided before data augmentation. Gaussian-noise augmentation was applied only to the training samples, increasing the 123 original training samples to 492 samples, while the 31 test samples were retained in their original, non-augmented form. The expected-shear-strength consistency assessment further showed that the predicted section-property combinations maintained reasonable consistency with the mechanical relationships required by capacity design. The feasibility of simplified automated preliminary member selection was further demonstrated through a 4-story, 45-ft-span special truss moment frame example. Additionally, a lightweight web-based application was developed using Streamlit for real-time prediction of section properties and expected maximum shear strength through interactive parameter input, facilitating rapid comparison of design alternatives at the preliminary design stage. The proposed framework provides a physically guided design-support approach for special-segment section-property prediction and simplified automated preliminary member selection in special truss moment frame design.",
+      "link": "https://doi.org/10.1038/s41598-026-70873-z",
+      "authors": [
+        "Ming-Zhan Lai",
+        "Yu-Hao Feng",
+        "Yu Ge"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:13+00:00",
+      "last_seen": "2026-09-10T00:33:13+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70340-9": {
+      "key": "doi:10.1038/s41598-026-70340-9",
+      "doi": "10.1038/s41598-026-70340-9",
+      "title": "Microwave-assisted green extraction of Shorea robusta seed oil and its application as a sustainable cocoa butter alternative in dark chocolate",
+      "abstract": "The global chocolate industry is increasingly seeking sustainable alternatives to cocoa butter due to fluctuations in cocoa production and supply. The extraction of Shorea robusta (Sal) seed oil was optimized in this study by response surface methodology (RSM)-based microwave-assisted extraction (MAE). The potential of Sal seed oil as an alternative to cocoa butter in dark chocolate was assessed. The optimized extraction conditions were 879 W microwave power, 38.81 min extraction time, and a seed-to-solvent ratio of 1:18.86 (w/v; 10 g seed powder:188.64 mL n-hexane), to obtain 21.28 ± 0.68% oil. The extracted oil had low moisture (0.35%), density (0.873 g/mL), peroxide (1.12 meq O2/kg), and acid (2.54 mg KOH/g) values, and a fatty acid profile dominated by stearic (43.37%) and oleic (40.81%) acids. Differential scanning calorimetry showed a melting profile resembling that of cocoa butter. Dark chocolates made with 5% Sal oil substitution exhibited physicochemical, textural, and thermal properties similar to the cocoa butter control, while maintaining desirable storage stability over one month, with minimal changes in peroxide value, free fatty acid content, water activity, and bloom development. The MAE was more efficient than the previously optimised conventional solvent extraction process, with 9% less solvent required per gram of oil recovered 84.5% reduction in total extraction time. Overall, the RSM-optimized MAE process provides an efficient and relatively greener approach for the recovery of high-quality Sal seed oil and supports its potential as a sustainable alternative to cocoa butter in dark chocolate formulations within currently permitted substitution levels.",
+      "link": "https://doi.org/10.1038/s41598-026-70340-9",
+      "authors": [
+        "Devika Thapa",
+        "Bindu Naik",
+        "Ritesh Mishra",
+        "Arun Kumar Gupta",
+        "Per Erik Joakim Saris",
+        "Vijay Kumar",
+        "Javed Masood Khan"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:13+00:00",
+      "last_seen": "2026-09-10T00:33:13+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:13+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70257-3": {
+      "key": "doi:10.1038/s41598-026-70257-3",
+      "doi": "10.1038/s41598-026-70257-3",
+      "title": "A coarse registration framework for 3D point clouds based on partial assignment and hypothesis feedback",
+      "abstract": "Reliable coarse registration remains challenging when point-cloud scans have limited overlap and some keypoints lack valid correspondences. Conventional descriptor matching selects correspondences independently, which can produce many-to-one matches and force keypoints from non-overlapping regions into incorrect correspondences. To address this problem, we propose a Hypothesis-Feedback Partial Assignment framework (HFPA) for coarse registration. HFPA constructs candidate correspondences from ISS keypoints and FPFH descriptors and provides each source keypoint with an unmatched option through a source-specific dummy node. An augmented Hungarian assignment jointly determines real matches and rejection states while enforcing one-to-one constraints on real target keypoints. Correspondence residuals under rigid-transformation hypotheses are then fed back to update the matching and rejection costs. The correspondences are iteratively refined, and the final coarse transformation is estimated using RANSAC. On indoor scan pairs with different overlap levels, HFPA achieved the same registration recall as Full Hungarian but a lower mean rRMSE. On the eight-scene low-overlap subset, HFPA achieved a registration recall of 62.5%, compared with 37.5% for Full Hungarian and 50.0% for FPFH + NNDR. These results show that source-specific dummy nodes and hypothesis-residual feedback reduce forced incorrect correspondences and improve the reliability of conventional local-descriptor pipelines for low-overlap coarse registration.",
+      "link": "https://doi.org/10.1038/s41598-026-70257-3",
+      "authors": [
+        "Run Wang",
+        "Genyou Liu",
+        "Longxiang Yi"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:14+00:00",
+      "last_seen": "2026-09-10T00:33:14+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:14+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70548-9": {
+      "key": "doi:10.1038/s41598-026-70548-9",
+      "doi": "10.1038/s41598-026-70548-9",
+      "title": "Evaluation of condylar position changes following TMJ arthrocentesis in patients with unilateral anterior disc displacement with reduction: a prospective self-controlled clinical study",
+      "abstract": "Temporomandibular disorders (TMDs), particularly anterior disc displacement with reduction (ADDWR), affect the temporomandibular joint and may alter condylar position and joint spaces. Cone-beam computed Tomography (CBCT) enables accurate three-dimensional evaluation of TMJ osseous structures; however, evidence regarding condylar positional changes after TMJ arthrocentesis remains limited. Therefore, this study aimed to evaluate the relationship between condylar position and unilateral anterior disc displacement with reduction before and after TMJ arthrocentesis using CBCT imaging. This prospective self-controlled clinical study included 14 patients diagnosed with unilateral ADDWR. Clinical diagnosis was established based on diagnostic criteria for temporomandibular disorders (DC/TMD) and severity of the condition using Helkimo’s dysfunction index. CBCT examinations were performed before treatment and three months after TMJ arthrocentesis. Joint space measurements were assessed bilaterally in sagittal, coronal, and axial views, including superior, anterior, posterior, medial, and lateral joint spaces. TMJ arthrocentesis was performed on the symptomatic side using 150 mL of Ringer’s lactate solution under local anesthesia. Clinical outcomes including maximum interincisal opening (MIO), TMJ pain, dysfunction, clicking, and mandibular deviation were also evaluated. Statistical analysis was performed with significance set at p < 0.05. Before treatment, symptomatic joints demonstrated smaller joint space measurements compared with asymptomatic joints; however, these differences were not statistically significant (p > 0.05). Following arthrocentesis, no statistically significant changes in condylar position or joint spaces were observed on the symptomatic side. A significant reduction in superior joint space was detected on the asymptomatic side during follow-up (p = 0.013). Clinically, significant improvements were observed in MIO (p = 0.003), TMJ dysfunction (p = 0.001), and TMJ pain (p = 0.001) after treatment. Significant negative correlations were identified between clinical dysfunction scores and superior, medial, and lateral joint space measurements. TMJ arthrocentesis significantly improved clinical symptoms and mandibular function in patients with unilateral ADDWR, while no statistically significant changes in condylar position or joint-space dimensions were detected on CBCT during the three-month follow-up. Trial registration: NCT06856811.",
+      "link": "https://doi.org/10.1038/s41598-026-70548-9",
+      "authors": [
+        "Suha H. ALMuqayad",
+        "Sam A. Da’er",
+        "Sarah I. Mohammed",
+        "Ghada H. Al-Muqayad",
+        "Ahmed A. Madfa"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:15+00:00",
+      "last_seen": "2026-09-10T00:33:15+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:15+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68668-3": {
+      "key": "doi:10.1038/s41598-026-68668-3",
+      "doi": "10.1038/s41598-026-68668-3",
+      "title": "In vitro effect of a chickpea-dark chocolate snack on gut microbiota composition and activity",
+      "abstract": "The gut microbiota plays a key role in host nutrition and immune regulation, and its composition and function are strongly influenced by diet. Functional foods can positively influence microbial composition and activity, positioning the gut microbiome as a key target for nutritional interventions. Here, we evaluated the effects of a novel legume snack consisting of chickpeas and dark chocolate on short-chain fatty acid (SCFA) production and gut microbiota composition using an in vitro human colon model. Faecal samples from three healthy donors were inoculated under anaerobic conditions and exposed to chickpeas, chocolate, or the combined snack for 48 h. SCFA concentrations were quantified over time, and 16 S rRNA gene sequencing was used to assess microbial community composition. SCFA increased over fermentation time: the snack promoted higher acetate, propionate and, to a lesser extent, butyrate production compared with the control and individual ingredients, with the most consistent effects observed after 48 h. Microbiota profiling indicated that donor variability, incubation time and treatment contributed to differences in overall microbial composition. Differential abundance analysis, accounting for fermentation time, identified specific bacterial genera significantly associated with treatment after multiple testing correction. Moreover, several bacterial taxa showed positive associations with SCFA production and fermentation progression, suggesting links between microbial compositional shifts and functional metabolic activity during fermentation. Overall, these findings suggest that the chickpea-dark chocolate snack may represent a fermentable substrate capable of modulating microbial activity and SCFA production under in vitro conditions, providing preliminary evidence to support further investigation of its potential functional properties.",
+      "link": "https://doi.org/10.1038/s41598-026-68668-3",
+      "authors": [
+        "Gaia de Simone",
+        "Wing Suet Koon",
+        "Laura Bordoni",
+        "Robyn Curry",
+        "Emad Shehata",
+        "Mark Philo",
+        "Cara-Jane Moss",
+        "David Baker",
+        "Kaden Muffett",
+        "Falk Hildebrand",
+        "Rosita Gabbianelli",
+        "Maria H. Traka"
+      ],
+      "published": "2026-09-09T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-10T00:33:16+00:00",
+      "last_seen": "2026-09-10T00:33:16+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-10T00:33:16+00:00",
       "matched_channels": {}
     }
   }
