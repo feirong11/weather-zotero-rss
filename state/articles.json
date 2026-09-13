@@ -100959,6 +100959,29 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-13T00:33:35+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69821-8": {
+      "key": "doi:10.1038/s41598-026-69821-8",
+      "doi": "10.1038/s41598-026-69821-8",
+      "title": "Molecular detection and biovar characterization of Brucella melitensis in sera from wright-positive individuals in western Iran",
+      "abstract": "Abstract Brucellosis remains a major zoonotic disease and an important public health concern in western Iran. This study aimed to molecularly detect Brucella spp., identify Brucella melitensis , and characterize its biovar in serum samples from Wright-positive individuals in five western provinces of Iran. A total of 100 serum samples from Wright-positive individuals were analyzed by PCR targeting the bcsp31 gene for Brucella spp. and the IS711 gene for B. melitensis . Biovar characterization of B. melitensis -positive samples was performed by PCR-RFLP analysis of the omp2a and omp2b genes using PstI and HinfI restriction enzymes. Brucella DNA was detected in 52/100 (52.0%) samples, of which 20/52 (38.5%) were identified as B. melitensis . PCR positivity was significantly associated with sex ( P = 0.018) and Wright agglutination titer ( P = 0.047), whereas no significant association was observed with age group ( P = 0.119) or province ( P = 0.738). PCR-RFLP analysis revealed the biovar 1 restriction pattern in all molecularly characterized B. melitensis DNA-positive samples. These findings demonstrate that PCR-based molecular assays provide valuable complementary evidence alongside serological testing for the investigation of human brucellosis. Further studies incorporating additional species-specific molecular assays are warranted to characterize the remaining Brucella DNA-positive samples and better define the distribution of Brucella species in western Iran.",
+      "link": "https://doi.org/10.1038/s41598-026-69821-8",
+      "authors": [
+        "Navid Hassanvand",
+        "Ehsan Rashidian",
+        "Ali Forouharmehr",
+        "Amin Jaydari",
+        "Heidar Rahimi"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-13T06:34:19+00:00",
+      "last_seen": "2026-09-13T06:34:19+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
