@@ -100822,6 +100822,143 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-12T18:26:44+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1029/2025jd044824": {
+      "key": "doi:10.1029/2025jd044824",
+      "doi": "10.1029/2025jd044824",
+      "title": "New Insights Into Nighttime Marine Sulfur and Nitrogen Chemistry and Related New Particle Formation Using the CLEPS Model",
+      "abstract": "Abstract Nucleation of aerosol particles is the main source of cloud condensation nuclei over most oceans. Dimethyl sulfide (DMS) is the volatile gas released by the marine biota suspected to drive nucleation over the ocean and it is often the only marine nucleation precursor gas implemented in atmospheric models. Using deck borne air‐sea enclosures, previous work reported nighttime nucleation related to nitrate ions (NO 3 − ) and presumed potential marine nitrogen biological‐emitted precursors. In the present study, the enclosure's headspace and seawater chemistry are simulated using CLEPS, a multiphase atmospheric chemistry model. Simulations first allowed to relate the aqueous DMS production rate to marine biology and indicated that any increases in ozone concentrations that would occur in the future should deplete DMS seawater emissions via enhanced aqueous reactivity. We then also show that nighttime production of nitric oxide (NO), expressed as a function of DMS production rate, was proficient to retrieve a profile of nitric acid (HNO 3 ) matching the observed NO 3 − temporal variability. Simulated HNO 3 concentrations were eventually used, together with measured particle formation rates, to derive a new nucleation parameterization. However, while these results demonstrate the value of CLEPS in interpreting in situ measurements, they also suggest that developments aimed at optimizing the model for describing ocean‐atmosphere exchanges of other important VOCs such as isoprene and monoterpenes and the halogen chemistry should be carried out in the future to enable more in‐depth studies of this specific environment.",
+      "link": "https://doi.org/10.1029/2025jd044824",
+      "authors": [
+        "R. Salignat",
+        "G. Chamba",
+        "L. Pailler",
+        "A. Colomb",
+        "M. Leriche",
+        "L. Deguillaume",
+        "C. Rose",
+        "K. Sellegri"
+      ],
+      "published": "2026-09-12T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-13T00:33:22+00:00",
+      "last_seen": "2026-09-13T00:33:22+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71538-7": {
+      "key": "doi:10.1038/s41598-026-71538-7",
+      "doi": "10.1038/s41598-026-71538-7",
+      "title": "Identification and preliminary validation of key exosome-related genes in nasopharyngeal carcinoma through integrative bioinformatics and experimental approaches",
+      "abstract": "Abstract Exosomes have emerged as significant contributors to the progression of nasopharyngeal carcinoma (NPC). However, the characterization of exosome-related gene (ERG) signatures and their immunological relevance in NPC remains limited. This study systematically identified and validated key ERGs in NPC through integrative bioinformatics and machine-learning approaches. Datasets GSE12452 and GSE53819, in addition to known ERGs, were obtained from public databases. Identification of key ERGs employed machine learning, expression verification, and receiver operating characteristic (ROC) curve analysis. Gene set enrichment analysis (GSEA), immune infiltration analysis, in silico compound-target prediction, and molecular docking were also conducted. The expression of key genes underwent experimental validation in clinical NPC tissue samples. A total of 11 candidate genes emerged from machine learning analysis. Of these, LDHA , PIGR , and POSTN demonstrated significant differential expression and passed ROC curve evaluation in both GSE12452 and GSE53819. GSEA revealed involvement of these genes in pathways related to cell cycle checkpoints and DNA replication. Immune infiltration analysis indicated a significantly lower proportion of neutrophils in NPC samples compared to controls, alongside an increased proportion of type 2 helper T cells. Correlation analysis showed that LDHA and POSTN were negatively correlated with neutrophils, while PIGR displayed a positive correlation. Additionally, drug prediction and molecular docking (binding energy: −8.552 kcal/mol) indicated strong binding between LDHA and CHEMBL2058994. Subsequent 100-ns molecular dynamics simulations affirmed the structural and energetic stability of the LDHA –CHEMBL2058994 complex in silico, suggesting its potential as a candidate for further experimental and pharmacological evaluation in NPC. RT-qPCR validation confirmed significant differential expression for LDHA and PIGR , whereas POSTN exhibited a consistent trend without reaching statistical significance in NPC tissue. This study identified three key ERG candidate genes ( LDHA , PIGR , and POSTN ) with potential biomarker value. RT-qPCR validation confirmed significant differential expression of LDHA and PIGR , while POSTN showed a consistent upregulation trend in nasopharyngeal carcinoma tissues but did not reach statistical significance, requiring further evaluation in a larger sample cohort.",
+      "link": "https://doi.org/10.1038/s41598-026-71538-7",
+      "authors": [
+        "Liuqian Wang",
+        "Yan Zhang",
+        "Li Zhao",
+        "Di Ji",
+        "Guojing Tan",
+        "Yi Zhang",
+        "Yu Huo",
+        "Anchun Deng"
+      ],
+      "published": "2026-09-12T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-13T00:33:32+00:00",
+      "last_seen": "2026-09-13T00:33:32+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70155-8": {
+      "key": "doi:10.1038/s41598-026-70155-8",
+      "doi": "10.1038/s41598-026-70155-8",
+      "title": "Conduct problems and associated factors among governmental secondary school students in Dessie City, Northeast Ethiopia: a cross-sectional study",
+      "abstract": "Conduct problems are behavioral and mental health disorders typically emerging in childhood or adolescence, characterized by persistent violations of others’ rights or societal norms, such as aggression, destruction, deceit, or theft. Despite significant impact, their prevalence among government secondary school students in Dessie City, Ethiopia, remains understudied. This study aimed to assess the prevalence and associated factors of conduct problems among these students in Northeast Ethiopia. An institution-based cross-sectional study was conducted from June 1–30, 2024, using multistage stratified sampling to select 570 government secondary school students. Data were collected via a self-administered questionnaire, measuring conduct problems with an adapted DSM-5-based parent-reported Disruptive Behavior Disorder (DBD) rating scale. Data were coded, entered into Epi Data 4.6, and exported to SPSS 26 for analysis using bivariable and multivariable logistic regression. Results are reported as adjusted odds ratios (AORs) with 95% confidence intervals (CIs), with significance set at p < 0.05. The prevalence of conduct problems was 7.4% (95% CI: 5.3–9.6). High levels of adverse childhood experiences were reported by 10.9% (n = 62). Multivariable analysis identified significant associated factors: male gender (AOR = 2.52, 95% CI: 1.05–6.07), age 16–18 years (AOR = 4.07, 95% CI: 1.29–12.77), problematic substance use (AOR = 3.00, 95% CI: 1.31–6.91), adverse childhood experiences (AOR = 2.72, 95% CI: 1.02–7.26), low maternal education (AOR = 4.33, 95% CI: 1.19–15.63), and permissive parenting style (AOR = 3.53, 95% CI: 1.48–8.40). The prevalence of conduct problems among students in Dessie City is comparable to global rates. Key associated factors include male gender, older adolescence (16–18 years), problematic substance use, adverse childhood experiences, low maternal education, and permissive parenting. Interventions should focus on enhancing parental skills, promoting maternal education, preventing early substance use, and strengthening school-based counseling and help-seeking behavior to improve student resilience and impulse control.",
+      "link": "https://doi.org/10.1038/s41598-026-70155-8",
+      "authors": [
+        "Eyob Melesse",
+        "Jemal Seid",
+        "Betelhem Fekadu",
+        "Zelalem Birhan",
+        "Solomon Yimer",
+        "Tilahun Ali",
+        "Maregu Shegaw",
+        "Asmare Belete",
+        "Bethelhem Yimam",
+        "Habtam Gelaye",
+        "Yosef Zenebe",
+        "Tamrat Anbesaw",
+        "Muhammed Seid"
+      ],
+      "published": "2026-09-12T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-13T00:33:32+00:00",
+      "last_seen": "2026-09-13T00:33:32+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-13T00:33:32+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70120-5": {
+      "key": "doi:10.1038/s41598-026-70120-5",
+      "doi": "10.1038/s41598-026-70120-5",
+      "title": "A lightweight and explainable conversational AI framework for natural language SQL learning without large language models",
+      "abstract": "Natural language interfaces are increasingly used to support programming education and database interaction. However, many recent Text-to-SQL systems rely heavily on Large Language Models (LLMs), which require substantial computational resources and often operate as opaque black-box models. This paper presents a lightweight conversational AI system that helps beginners learn SQL through interactive, natural language conversations. The proposed chatbot uses natural language to create and execute SQL database queries without using Large Language Models (LLMs). The proposed system is a blend of rule-based dialogue management and machine learning that provides interpretability in natural language to SQL translation. The proposed chatbot was developed using the Rasa framework that employs a Dual Intent and Entity Transformer (DIET) as an intent recognition classifier and a hybrid entity extraction pipeline that merges statistical modeling with regex-based pattern matching. The proposed system facilitates create, read, update, and delete (CRUD) database interactions using natural language and integrates multilayer error management. The proposed system consumes fewer resources in contrast to the LLM-based methods that require powerful computing resources. An experimental test that used more than 500 labeled examples reported that the system has 92.68% intent recognition and 98.30% entity extraction accuracy. Similarly, SQL query generation accuracy was evaluated using 100 natural language queries, and the system achieved 90.0% overall accuracy. These results reveal that lightweight interpretable systems can be as effective or more effective at SQL query generation.",
+      "link": "https://doi.org/10.1038/s41598-026-70120-5",
+      "authors": [
+        "Bahasuru Nayanakantha",
+        "Kaneeka Vidanage",
+        "Smita Nirkhi",
+        "Sabyasachi Bhattacharyya"
+      ],
+      "published": "2026-09-12T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-13T00:33:34+00:00",
+      "last_seen": "2026-09-13T00:33:34+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-13T00:33:34+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70879-7": {
+      "key": "doi:10.1038/s41598-026-70879-7",
+      "doi": "10.1038/s41598-026-70879-7",
+      "title": "Microstate analysis from resting state electroencephalography in patients with bipolar disorder converted from major depressive disorder",
+      "abstract": "Limited comparative studies on the neuropathologies of major depressive disorder (MDD) and bipolar disorder (BD) necessitate deeper investigation. We compared the electroencephalography (EEG) microstate characteristics of patients with BD converted from MDD, using machine-learning to evaluate if specific features can distinguish between the two disorders. We enrolled 53 drug-naïve MDD and 17 transitioned to BD patients. Clinical parameters assessed included bipolarity, depression, anxiety, impulsivity, and cognitive functions. Resting-state EEG microstate analysis was conducted to compare features between groups and correlate them with clinical characteristics. In the whole frequency band (1–30 Hz), microstate B showed longer duration, increased occurrence, and wider coverage in the converted BD group compared to the MDD group. Transition probabilities to B from microstates A, C, and D were notably higher in converted BD patients. Transitions from D to A in the delta band correlated with impulsivity measures. Classification of groups using microstate features achieved 75.71% accuracy (95% CI 65.71%–85.71%; p < 0.001), 70.59% sensitivity (95% CI 47.06%–88.24%; p = 0.027), 77.36% specificity (95% CI 66.04%–88.68%; p < 0.001), and ROC-AUC of 0.766 (95% CI 0.644–0.875; p < 0.001). The study’s limitations include a small BD group size, age difference between groups, cross-sectional design limiting causal interpretations, and relatively low microstate global explained variance (GEV) value. These preliminary and exploratory findings suggest that microstate features may provide potentially informative candidate features for future studies aimed at distinguishing patients with MDD from those who later converted to BD.",
+      "link": "https://doi.org/10.1038/s41598-026-70879-7",
+      "authors": [
+        "Hyeon-Ah Lee",
+        "Young Wook Song",
+        "Euijin Kim",
+        "Ho Sung Lee",
+        "Sungkean Kim",
+        "Ji Sun Kim"
+      ],
+      "published": "2026-09-12T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-13T00:33:35+00:00",
+      "last_seen": "2026-09-13T00:33:35+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-13T00:33:35+00:00",
+      "matched_channels": {}
     }
   }
 }
