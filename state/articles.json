@@ -103327,6 +103327,655 @@
           "deep learning"
         ]
       }
+    },
+    "doi:10.1002/joc.70591": {
+      "key": "doi:10.1002/joc.70591",
+      "doi": "10.1002/joc.70591",
+      "title": "Impacts of Eastern Tropical Pacific Sea Surface Temperature Patterns on Winter Precipitation in the United States",
+      "abstract": "ABSTRACT Winter precipitation across the United States is strongly influenced by climate variability in the eastern tropical Pacific, particularly from El Niño‐Southern Oscillation (ENSO). However, ENSO alone cannot fully explain the range of observed precipitation anomalies. This study investigates the influence of sea surface temperature anomaly (SSTA) patterns in the eastern tropical Pacific, identified using cluster analysis, on winter precipitation across the continental US. The SSTA clusters were used to composite precipitation data from the National Centers for Environmental Information and synoptic‐scale variables from reanalysis fields. Cluster 1, most similar to weak El Niño and neutral ENSO, is associated with below‐normal precipitation in the Upper Midwest and wetter conditions in southern California. Cluster 2, most similar to La Niña, shows widespread below‐normal precipitation across the Southwest and Great Plains alongside a wet Southeast. Cluster 3, also resembling La Niña, produces below‐normal precipitation across the southern United States and Mid‐Atlantic and above‐normal precipitation in the Pacific Northwest. Cluster 4, most similar to El Niño, is associated with enhanced precipitation across much of the southern United States, excluding California and drier conditions in the Intermountain West and Midwest. Compared to composites computed from ENSO phases, the SSTA and precipitation clusters exhibit statistically significantly lower internal variability, indicated by reduced standard deviations and overall stronger correlations between composite means and their respective member years. By leveraging thermal wind considerations, this study links cluster precipitation patterns to the meridional displacement of the jet stream via exploration of 250–700 hPa thickness gradient and 250‐hPa jet stream anomalies. These relationships are further supported by corresponding Pacific‐North American (PNA) patterns in the 500‐hPa geopotential height anomalies. The direct association of each cluster's SSTA structure with downstream precipitation, along with synoptic‐scale analysis to explain observed precipitation patterns, enables this approach to provide further insights into wintertime US precipitation variability.",
+      "link": "https://doi.org/10.1002/joc.70591",
+      "authors": [
+        "Jason Finley",
+        "Boniface Fosu",
+        "Chris Furhmann",
+        "Andrew Mercer",
+        "Johna Rudzin",
+        "Kimberly M. Wood"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-14T00:34:36+00:00",
+      "last_seen": "2026-09-14T00:34:36+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1002/joc.70590": {
+      "key": "doi:10.1002/joc.70590",
+      "doi": "10.1002/joc.70590",
+      "title": "Improving Meteorological Drought Forecasting Through a CPO ‐Tuned VMD ‐Liquid Neural Network",
+      "abstract": "ABSTRACT This paper introduces a novel hybrid model for one‐month‐ahead meteorological drought forecasting. The proposed approach employs the Crested Porcupine Optimizer (CPO) to adaptively tune the key parameters of Variational Mode Decomposition (VMD). This optimization step effectively decomposes and denoises the raw Standardized Precipitation‐Evapotranspiration Index (SPEI) time series, yielding cleaner input features for a liquid neural network (LNN) regression model. To develop parsimonious CPO‐VMD‐LNN models, the most informative inputs are selected via mutual information between SPEI and lagged decomposed vectors. The effectiveness of the model was evaluated through two case studies in the eastern and western regions of the Urmia Lake Basin, Iran. Comparative analysis against three benchmark models, namely SARIMA, LSTM, and LNN, demonstrated that the proposed hybrid model consistently outperformed the alternatives in both regions. Notably, the CPO‐VMD‐LNN achieved root mean square errors below 0.25 across the study areas, highlighting its strong potential for operational drought forecasting tasks.",
+      "link": "https://doi.org/10.1002/joc.70590",
+      "authors": [
+        "Ali Danandeh Mehr",
+        "Abdelkader T. Ahmed",
+        "Mir Jafar Sadegh Safari",
+        "Enrico Creaco",
+        "S. Adarsh"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-14T00:34:36+00:00",
+      "last_seen": "2026-09-14T00:34:36+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-69712-y": {
+      "key": "doi:10.1038/s41598-026-69712-y",
+      "doi": "10.1038/s41598-026-69712-y",
+      "title": "First genomic evidence of inbreeding in South American pumas and the role of Andean climate history in shaping genetic diversity",
+      "abstract": "Abstract Climatic oscillations in the Andes have repeatedly reshaped habitats over millions of years, yet their long-term genomic consequences for carnivores with broad geographic distributions remain unclear. Given the long evolutionary history of pumas ( Puma concolor ) in South America, the continent has long been considered a reservoir of genetic diversity. Here, we generated whole-genome sequences from pumas across ecologically distinct regions of Ecuador to test how paleoclimate shaped population structure and demography, and to assess patterns of contemporary genetic diversity across populations. Our results suggest that northwestern forest pumas persisted within environmentally stable habitats over the last 100 kyr, while periods of greater climatic similarity around 17 kya may have reduced environmental barriers and provided conditions more favorable for habitat connectivity and puma dispersal along the western Andean and Pacific coastal regions. On a more recent timescale, our results suggest that the collapse of Indigenous human populations around 400 years ago may have promoted a marked increase in puma population size. Despite this, we provide the first evidence of inbreeding in South American pumas, indicating that recent fragmentation over the last 70 years is disrupting historically connected populations. Together, our findings suggest that Ecuadorian pumas have experienced contrasting historical demographic and evolutionary trajectories and, consequently, may face different contemporary conservation risks. Northwestern populations require corridor restoration to preserve gene flow, whereas isolated southern populations may need more targeted interventions to prevent further genomic erosion.",
+      "link": "https://doi.org/10.1038/s41598-026-69712-y",
+      "authors": [
+        "Daniel E. Chavez",
+        "Chiara Correa-Zanotti",
+        "Nicole Ormaza",
+        "David Mora",
+        "María B. Cabezas",
+        "Carolina Sáenz",
+        "Ernesto Arbelaez",
+        "Lauren Ong",
+        "Alexander Medina",
+        "Robert K. Wayne",
+        "Tuyen Ong",
+        "Rebecca Zug"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:45+00:00",
+      "last_seen": "2026-09-14T00:34:45+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-55882-2": {
+      "key": "doi:10.1038/s41598-026-55882-2",
+      "doi": "10.1038/s41598-026-55882-2",
+      "title": "Field validation and engineering application of pressure-dispersed prestressed CFRP anchor cables for stabilizing toppling unstable rock slopes",
+      "abstract": "Abstract This study evaluates the geomechanically efficacy and stability control of toppling-prone hazardous rock slopes subjected to multi-field coupled configurations, utilizing prestressed carbon fiber reinforced polymer (CFRP) anchor cables. A three-dimensional finite-element geomechanically model capturing sandstone heterogeneity and macro-discontinuity characteristics was established using the Midas GTS NX platform, with the transient structural responses comprehensively analyzed across natural, torrential precipitation, and dynamic seismic scenarios. The empirical-numerical metrics demonstrate that under natural configurations, the prestressed CFRP anchor cables significantly reconstruct the internal strain field, elevating the slope safety factor from 1.165 to 1.432 and reducing the rock mass displacement from 2.907 to 1.452 mm. All past assertive mechanisms such as “restricting hydraulic infiltration” have been thoroughly expunged. The revised text frame refocuses the mechanism around the “maintenance of effective stress gradients” and explicit boundary conditions appropriate for a single-case investigation.",
+      "link": "https://doi.org/10.1038/s41598-026-55882-2",
+      "authors": [
+        "Qiang Wang",
+        "Jingcheng Yuan",
+        "Kui Huang",
+        "Jinyu Hu",
+        "Zijian Wang",
+        "Gang He",
+        "Wenping Lan",
+        "Shuangqing Tang"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:45+00:00",
+      "last_seen": "2026-09-14T00:34:45+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-67698-1": {
+      "key": "doi:10.1038/s41598-026-67698-1",
+      "doi": "10.1038/s41598-026-67698-1",
+      "title": "Gravure secure ink with enhanced anticounterfeiting protection in pharmaceutical packaging",
+      "abstract": "Abstract Conventional anticounterfeiting solutions predominantly offer single-layer or secondary packaging-focused protection. Security ink formulations form the foundation of modern anticounterfeiting and brand protection technologies, providing optical and functional responses for product authentication. A dual-response gravure security ink formulation is presented, to strengthen the authenticity and traceability of pharmaceutical products. The stable ink exhibits authentication capability, producing both a visual luminescence and an audible beep response when illuminated using a 980 nm laser light and an IR taggant reader, respectively. The gravure prints on foil substrates exhibit functional stability, print durability, and good performance even under harsh environmental conditions for practical application. This gravure ink printed medicine strips, aligned precisely with UV-filtered inspection windows of a sealed secondary packaging carton could be rapidly and non-destructively verified, thereby ensuring packaging integrity during authentication. The security features being directly embedded onto gravure-printed primary foil strips enhance resistance to counterfeiting, tampering, and substitution at the individual-strip level. The formulated ink also demonstrates good printability on paper substrates, strong film adhesion, high photostability under prolonged UV exposure, and robust resistance to mechanical abrasion, supporting its suitability for broader real-world applications.",
+      "link": "https://doi.org/10.1038/s41598-026-67698-1",
+      "authors": [
+        "P J Anand",
+        "Rakshitha K Jain",
+        "Dhanya Sunil"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:45+00:00",
+      "last_seen": "2026-09-14T00:34:45+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-51315-2": {
+      "key": "doi:10.1038/s41598-026-51315-2",
+      "doi": "10.1038/s41598-026-51315-2",
+      "title": "Synthesis, characterization and comparative study of Zn, Fe, and Cu MOFs-impregnated polysulfone mixed-matrix membranes for CO2/N2 gas separation",
+      "abstract": "Decarbonization from fossil-combusted flue gas is crucial for recovering carbon sources and mitigating global warming risks. Composite membranes made of polysulfone (PSF) were created by doping Fe, Cu, and Zn metal-organic frameworks (MOFs). Synthesized MOF nanomaterials and membranes were characterized using advanced techniques to assess their structural, crystalline, morphological, thermal and decarbonization properties. Chemical characteristics of materials assessed through FTIR spectroscopy corroborated formation of MOFs nanocrystals. Crystalline phases of prepared MOF-based materials were established by XRD patterns. SEM-EDX micrographs indicated decent surface topography, uniform nanofiller distribution and compatible filler-matrix adhesion. Characteristic temperatures and improved thermal stability of membranes were inferred by TGA thermograms. Decarbonization efficiency of produced membranes determined by single- and mixed-gas permeation experiments using Gas Permeation rig indicated CO2 permeability improvement of about 2, 2.2 and 3.8 along with CO2/N2 permselectivity enhancement of 1.6, 1.5 and 2.1 for Cu, Zn and Fe based composite membranes, respectively.",
+      "link": "https://doi.org/10.1038/s41598-026-51315-2",
+      "authors": [
+        "Yinglian Qin",
+        "Ghulam Rasool",
+        "Muhammad Sarfraz",
+        "Hamid Raza",
+        "Muneerah Alomar",
+        "Maryam Al Huwayz",
+        "Shili Li",
+        "Adeolu A. Adediran"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:45+00:00",
+      "last_seen": "2026-09-14T00:34:45+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:45+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-57014-2": {
+      "key": "doi:10.1038/s41598-026-57014-2",
+      "doi": "10.1038/s41598-026-57014-2",
+      "title": "Uncovering the genomic landscape of Mycobacterium bovis in Wales",
+      "abstract": "Abstract Bovine tuberculosis (bTB), caused by the bacterium Mycobacterium bovis , is one of the most pressing animal health issues in Wales today. It negatively impacts cattle health, affects profitability and trade, and can decimate years of genetic improvement towards desirable production traits. It also imposes substantial financial, social, and psychological burdens on farming communities. Eradication of bTB requires an understanding of local transmission pathways to target effective disease-control interventions. In this study, we characterised the genomic diversity of M. bovis across Wales by analysing the genome sequence of 379 M. bovis isolates obtained from culture-positive animals in Wales in 2021. Analyses uncovered three prevalent clusters that are geographically distinct. A further three clusters containing fewer isolates were also geographically separated, two of which had particularly large SNP distances from most other Welsh isolates, suggesting independent introductions of M. bovis strains that are not endemic to Wales. Fine-scale and epidemiologically relevant genetic structuring was identified within the six main clusters, indicating region-specific evolution, which can drive local disease dynamics. Finally, SNPs were identified in coding genes that have the potential for important advantageous physiological consequences that may impact host-pathogen interactions and necessitate further investigation.",
+      "link": "https://doi.org/10.1038/s41598-026-57014-2",
+      "authors": [
+        "Amy J. E. Healey",
+        "Cate L. Williams",
+        "Nicholas J. Dimonaco",
+        "Terry Galloway",
+        "Richard J. Ellis",
+        "Eleftheria Palkopoulou",
+        "James Strong",
+        "Amanda J. Gibson",
+        "R. Glyn Hewinson",
+        "Jessica C. A. Friedersdorff"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:48+00:00",
+      "last_seen": "2026-09-14T00:34:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-53016-2": {
+      "key": "doi:10.1038/s41598-026-53016-2",
+      "doi": "10.1038/s41598-026-53016-2",
+      "title": "Quality, chemical composition, and antimicrobial potential of Citrus peel essential oils against urinary tract infection pathogens",
+      "abstract": "Abstract Urinary tract infection (UTI) is one of the most common microbial infections worldwide, and the growing resistance to conventional antibiotics highlights the need for alternative therapies. This study evaluated the quality, chemical composition, and antimicrobial activity of Citrus peel essential oils (CPEOs) against six UTI-causing pathogens: Pseudomonas aeruginosa ATCC 27853, Klebsiella pneumoniae ATCC 2537, Enterococcus faecalis ATCC 29212, Staphylococcus aureus ATCC 6538, Candida albicans ATCC 10231, and Aspergillus niger ATCC 6275. Essential oils were extracted from the peels of C. aurantiifolia , C. limon , C. nobilis , C. amblycarpa , and C. sinensis , and their quality parameters were assessed in comparison with ISO standards. The chemical composition determined using gas chromatography–mass spectrometry (GC–MS), revealed limonene, β-pinene, γ-terpinene, and linalool as the predominant constituents, which were further validated by Fourier-transform infrared spectroscopy (FTIR) analysis. Antimicrobial activity was examined using inhibition zone and minimum inhibitory concentration (MIC) assays. The results showed that C. limon essential oil (CLEO) exhibited the strongest antimicrobial activity, with inhibition zones reaching up to 81.17 ± 0.827 mm against K. pneumoniae and MIC values as low as 2 µg/mL against C . albicans . In contrast, C. sinensis and C. nobilis essential oils displayed weaker activity, and no significant inhibition was observed against P. aeruginosa . The strong antimicrobial activity of CLEO is likely associated with its higher γ-terpinene content, which is known to disrupt microbial membranes and induce cell death. Overall, these findings highlight CPEOs, particularly CLEO, as promising natural antimicrobial agents for the prevention and management of UTI.",
+      "link": "https://doi.org/10.1038/s41598-026-53016-2",
+      "authors": [
+        "Farah Aprisza Sheelmarevaa",
+        "Pramesthi Reitza Navisya Vasall",
+        "Fauzan Setiawan",
+        "Nandang Permadi",
+        "Jamaludin Al-Anshori",
+        "Yaya Rukayadi",
+        "Faridah Abas",
+        "Euis Julaeha"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:48+00:00",
+      "last_seen": "2026-09-14T00:34:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70746-5": {
+      "key": "doi:10.1038/s41598-026-70746-5",
+      "doi": "10.1038/s41598-026-70746-5",
+      "title": "Shear wave elastography tracking evaluation of tubulointerstitial fibrosis: a longitudinal study in a rat model",
+      "abstract": "Renal biopsy is invasive and unsuitable for repeated monitoring of tubulointerstitial fibrosis (TIF). This study evaluated whether renal shear wave elastography (SWE) tracks TIF progression in rats with diabetic nephropathy (DN). The DN group underwent renal ultrasound, urinary microalbumin (MALB) measurement and renal biopsy at weeks 0, 2, 4, and 6. The control group was assessed at baseline. Longitudinal trends and within-subject associations were evaluated using linear mixed-effects models, repeated-measures correlation, and Lin’s concordance correlation coefficient (CCC). Diagnostic performance was assessed using clustered bootstrap analysis, and robustness of rmcorr estimates was evaluated through leave-one-rat-out influence analysis. At baseline, the DN group showed greater renal length and transverse diameter and higher MALB, blood glucose and SWE values than the control group (all P < 0.05). TIF and SWE increased over time (both P < 0.001), whereas MALB and renal morphometric parameters did not show significant time trends. SWE was associated with TIF within subjects (r = 0.617, P < 0.001) and showed significant concordance (CCC = 0.712, 95% CI 0.501–0.843). For diagnosing fibrosis, SWE achieved the highest diagnostic performance across all tested TIF thresholds (5%-50%). Sensitivity analyses confirmed the robustness of rmcorr estimates. This study supports SWE as a potential noninvasive imaging marker for monitoring renal fibrotic progression.",
+      "link": "https://doi.org/10.1038/s41598-026-70746-5",
+      "authors": [
+        "Junyan Wu",
+        "Yuegui Wang",
+        "Kunli Cai",
+        "Zhongping Zhang",
+        "Junyan Xue",
+        "Yanqiong Xu",
+        "Haolin Shen"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:48+00:00",
+      "last_seen": "2026-09-14T00:34:48+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:48+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70711-2": {
+      "key": "doi:10.1038/s41598-026-70711-2",
+      "doi": "10.1038/s41598-026-70711-2",
+      "title": "ARISE-Net enables interpretable next-day wellness-risk prediction from longitudinal athlete monitoring data",
+      "abstract": "Longitudinal athlete-monitoring data provide an opportunity to anticipate short-term wellness deterioration and support proactive training-load management, but many existing sports-injury and wellness prediction studies rely on small static tabular datasets, weak leakage control, limited calibration analysis, and insufficiently specified interpretability procedures. We propose ARISE-Net (Adaptive Risk-aware Interpretable Structure-Enhanced Network), a temporal risk-representation framework for next-day athlete wellness-risk prediction. Given a 14-day trailing window of daily training-load and self-reported wellness channels, ARISE-Net combines input feature attention, a bidirectional recurrent temporal encoder, prototype-based feature grouping, dual-path local–structural fusion, and a variational risk head trained with a supervised focal objective and KL regularization. The learned temporal risk embedding is then integrated with a gradient-boosted backbone through validation-only stacking. The primary evaluation was conducted on the longitudinal SoccerMon corpus, comprising 50 elite female football players monitored over two seasons. The task was to predict next-day elevated perceived stress from 15 daily monitoring channels under a temporally separated within-cohort holdout, supplemented by a subject-grouped evaluation for unseen-athlete generalization; the positive-class prevalence was 0.258. ARISE-Net achieved the highest point estimate of PR-AUC (0.880; subject-cluster bootstrap 95% CI [0.849, 0.906]) among fifteen methods, with an F1 score of 0.832 and an MCC of 0.768. No statistically significant differences in PR-AUC or AUROC were detected between ARISE-Net and the strongest modern baselines, including FT-Transformer and CatBoost. In contrast, ARISE-Net significantly outperformed the binary persistence baseline and several conventional baselines, including logistic regression, KNN, naïve Bayes, and decision tree, under paired subject-clustered testing. A complementary athlete-grouped evaluation preserved the relative model ranking with moderately lower absolute performance (fold-mean PR-AUC 0.812 ± 0.034), indicating that the findings were not driven solely by athlete identity. Interpretability was assessed using a bounded, multi-method procedure: attention was treated as an internal localization signal and was cross-checked with SHAP values, permutation importance, temporal-attention profiles, channel-by-day attention maps, and layer-wise representation separability. These analyses localized the model’s focus to recent fatigue and stress dynamics but were not interpreted as causal evidence. Auxiliary experiments on SIRP, UFIP, and AIP were retained only as static tabular sanity checks. Because the primary evidence comes from a single elite female football cohort and a subjective wellness endpoint, external validation across sports, sexes, monitoring systems, and clinically adjudicated injury outcomes is required before broad deployment.",
+      "link": "https://doi.org/10.1038/s41598-026-70711-2",
+      "authors": [
+        "Qiang Liu",
+        "Qichao Sun"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:48+00:00",
+      "last_seen": "2026-09-14T00:34:48+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:48+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70163-8": {
+      "key": "doi:10.1038/s41598-026-70163-8",
+      "doi": "10.1038/s41598-026-70163-8",
+      "title": "Biogenic sulfuric acid-driven leaching coupled with ionic liquid-modified solvent extraction for enhanced copper recovery from waste telecommunications printed circuit boards",
+      "abstract": "Growing volumes of electronic waste (e-waste) highlight the need for improved approaches to recovering valuable metals, particularly copper, from waste telecommunications printed circuit boards (WTPCBs). Although bioleaching has been investigated for copper recovery from e-waste, the downstream separation of copper from the metal-rich leachate generated by bioleaching has received comparatively limited attention. To our knowledge, this study is the first to investigate a hybrid approach for copper recovery from WTPCBs that combines spent-medium bioleaching with ionic-liquid (IL)-assisted solvent extraction (SX). The composition of the WTPCB was determined by ICP-OES elemental analysis, which revealed copper as the predominant metal (2.7 × 10⁵ mg/kg). FTIR analysis identified carbonyl, silicate, and hydroxyl functional groups and confirmed the presence of clear structural changes after bioleaching. Acidithiobacillus thiooxidans cultures reached peak biogenic sulfuric acid production after 17 days, and these metabolites were then used for bioleaching to solubilize a significant amount of the metals. The use of cell-free metabolites eliminates microbial toxicity and removes pulp-density limitations. Using the optimized conditions of 30 °C, 50.0 g/l pulp density, and 140 rpm resulted in substantial copper dissolution (7241.0 mg/l) after 7 days. Subsequently, copper recovery from the bioleachate done through SX. While di-(2-ethylhexyl) phosphoric acid (D2EHPA) alone extracted 1050.0 mg/l Cu, incorporating 1-butyl-3-methylimidazolium chloride ([BMIM][Cl]) significantly improved performance, reaching 2715.2 mg/l at an optimal D2EHPA/[BMIM][Cl] ratio (D/I) of 1/2. Further optimization by adjusting the aqueous phase pH to 4.3 and adding sodium acetate increased extraction to 3199.7 mg/l. Five stages of extraction achieved an overall copper recovery of 80.0%, while subsequent stripping with 2 M H₂SO₄ recovered 60.0% of the loaded copper. By integrating bioleaching with IL-assisted SX, the study supports the development of an efficient route for high copper recovery at ambient temperature with lower energy and reagent demand, offering a potential bench-scale framework for sustainable WTPCB recycling.",
+      "link": "https://doi.org/10.1038/s41598-026-70163-8",
+      "authors": [
+        "Atusa Samaei",
+        "Zahra Shokri",
+        "Seyyed Mohammad Mousavi",
+        "Reza Soleimani"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:49+00:00",
+      "last_seen": "2026-09-14T00:34:49+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:49+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70752-7": {
+      "key": "doi:10.1038/s41598-026-70752-7",
+      "doi": "10.1038/s41598-026-70752-7",
+      "title": "A hybrid ResNet-101 and random forest framework for high-precision multiclass tomato leaf disease classification",
+      "abstract": "Abstract Tomato (Solanum lycopersicum) is among the most common horticultural crops that are grown all over the world due to its rich nutritional value as well as the wide use of tomatoes in everyday cooking. In spite of its value, the production of tomatoes suffers a lot because of the spread of leaf diseases that have the potential of lowering the crop by a huge margin and undermining the quality of the fruits. Early and proper detection of the disease is thus necessary to help in sustaining agricultural practices and reducing losses that may be incurred by farmers. The paper introduces a smart yet very precise disease prediction model which combines deep learning and conventional machine learning methods. The proposed system is a combination of ResNet-101 strong feature extraction and other customized convolutional neural network (CNN) layers to ensure the extraction of the fine-grained disease specific patterns. The features obtained are then determined as categories with the help of a Random Forest algorithm that increases the strength and trustworthiness of the final forecasts. The model was trained on a varied dataset of ten different tomato leaf diseases of which it was able to generalize over a broad scope of pathological conditions. The experimental findings indicate that the hybrid architecture attains an amazing classification accuracy of 98.72% which shows that it is effective in detecting the symptoms of a disease in its early stages. In general, the suggested solution has a high possibility of real-time implementation within agricultural settings. This system can help farmers to make timely interventions by facilitating automatic and accurate diagnosis of the disease in the field thus enhancing crop health, crop productivity, and sustainable production.",
+      "link": "https://doi.org/10.1038/s41598-026-70752-7",
+      "authors": [
+        "Aditya Basavaraj Halingali",
+        "Prakash K. Aithal",
+        "Sridhara Shankarappa"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:50+00:00",
+      "last_seen": "2026-09-14T00:34:50+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning",
+          "deep learning",
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71610-2": {
+      "key": "doi:10.1038/s41598-026-71610-2",
+      "doi": "10.1038/s41598-026-71610-2",
+      "title": "Virtual surgical planning-to-actual surgical outcome discrepancies following artificial intelligence-assisted and manual three-dimensional cephalometric tracing in orthognathic surgical planning",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-71610-2",
+      "authors": [
+        "Sae-Hoon Baek",
+        "Soo-Hwan Byun",
+        "Yoo-Sung Nam",
+        "Sang-Yoon Park",
+        "Sang-Min Yi",
+        "In-Young Park",
+        "Sung-Woon On",
+        "Iman Malakuti",
+        "Byoung-Eun Yang"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:50+00:00",
+      "last_seen": "2026-09-14T00:34:50+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "artificial intelligence"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71307-6": {
+      "key": "doi:10.1038/s41598-026-71307-6",
+      "doi": "10.1038/s41598-026-71307-6",
+      "title": "Valorisation of high-alumina ferroalloy slags into high-performance geopolymer composites within a circular economy approach for sustainable construction materials",
+      "abstract": "This study was conducted to address the critical environmental and economic challenges of metallurgical waste accumulation and rising CO₂ emission costs by valorising highly contaminated, high-alumina ferroalloy slags into sustainable, high-performance geopolymer composites. To achieve this, the present work investigates the synthesis, characterization, and performance evaluation of geopolymer composites based on ferrovanadium and aluminum-chromium slags with controlled variation of SiO2 content. The experimental procedure included mechanical activation and particle size reduction of slag precursors, followed by physicochemical characterization using X-ray fluorescence (XRF), X-ray diffraction (XRD), thermogravimetric analysis (TG), and scanning electron microscopy (SEM). Geopolymer formulations were prepared using potassium silicate solution as an alkaline activator, with subsequent incorporation of SiO₂, graphite, carbon fibers, and silica sand. Hardened specimens were cured under ambient conditions for 28 days prior to testing. Phase analysis of high-alumina ferroalloy slags confirmed the presence of crystalline constituents including Grossite (CaAl4O7), Hibonite (CaAl12O19), Corundum (α-Al₂O₃), Spinel (MgAl2O4), and Ye’elimite (C4A3S), which governed the reactivity and structural evolution of the geopolymer matrix. Mechanical testing revealed a systematic increase in compressive strength with increasing SiO2 content, from 3.53 MPa to 7.23 MPa in case of geopolymers based on ferrovanadium slag (no. 1). A corresponding increase in thermal conductivity was observed, ranging from 1.29 W/m·K to 1.43 W/m·K. Compressive strength for geopolymer composites based on aluminum-chromium slag (no. 3) was in the range of 2.37 MPa to 12.54 MPa, meanwhile, the influence of sand additives was also determined. While the compressive strength of alkali-activated geopolymers based on aluminum-chromium slag (no. 2) was increased with the growth of binder content, namely from 2.99 MPa to 56.4 MPa. Microstructural observations indicated progressive densification and reduction of porosity with increasing silica content, consistent with the mechanical and thermal results. The obtained results demonstrate that ferroalloy slags are suitable precursors for geopolymer synthesis, while SiO2 content serves as a critical parameter controlling the balance between mechanical strength, thermal transport properties, and microstructural compactness.",
+      "link": "https://doi.org/10.1038/s41598-026-71307-6",
+      "authors": [
+        "Viktor Sinelnikov",
+        "Piotr Łoś",
+        "Jan Novosád",
+        "Dorota Kalisz",
+        "Grzegorz Adamski",
+        "Izabela Górko",
+        "Piotr Czarnywojtek",
+        "Sergey Semiryagin",
+        "Katarzyna Ewa Łoś"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:50+00:00",
+      "last_seen": "2026-09-14T00:34:50+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:50+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71301-y": {
+      "key": "doi:10.1038/s41598-026-71301-y",
+      "doi": "10.1038/s41598-026-71301-y",
+      "title": "Systemic young blood plasma attenuates neuroinflammatory and neurovascular alterations in R6/2 Huntington’s disease mice",
+      "abstract": "Neuroinflammation and blood–brain barrier (BBB) disruption are increasingly implicated in Huntington’s disease (HD) pathophysiology. Microglial activation, mitochondrial dysfunction, and neurovascular instability are closely associated with mutant huntingtin (mHTT)-mediated neuronal vulnerability. Systemic factors present in young blood have been implicated in modulating inflammatory tone and vascular integrity; however, their impact on HD-associated neuroinflammatory cascades remains incompletely defined. Using the R6/2 transgenic mouse model of HD, we investigated whether systemic infusion of young blood plasma (YBP) modulates neuroinflammatory and neurovascular pathology. R6/2 mice received intravenous YBP from 8 to 12 weeks of age. Microglial responses (Iba1), BBB integrity (claudin-5, occludin, laminin, CD13), mitochondrial signaling (PGC-1α, p-AKT/AKT, p-CREB/CREB), apoptotic markers, and mHTT aggregation (EM48) were assessed. Behavioral performance was evaluated using novel object recognition and rotarod testing. YBP treatment significantly suppressed reduced Iba-1 immunoreactivityin the striatum. Concomitantly, tight junction and basement membrane proteins were upregulated, indicating stabilization of the neurovascular unit. These changes were accompanied by enhanced activation of the AKT–CREB–PGC-1α signaling axis and attenuation of pro-apoptotic signaling. In concordance with these coordinated molecular and inflammatory changes, YBP infusion was associated with reduced intranuclear mHTT aggregation and delayed cognitive and motor decline. Collectively, these findings suggest that systemic YBP modulates interconnected neuroinflammatory and survival pathways that are linked to improved pathological and functional outcomes. Systemic YBP infusion is associated with coordinated modulation of the neuroinflammatory–neurovascular axis in R6/2 mice. These findings support the concept that circulating systemic factors can influence inflammatory components of HD pathology and may represent a potential adjunctive therapeutic strategy.",
+      "link": "https://doi.org/10.1038/s41598-026-71301-y",
+      "authors": [
+        "Mijung Lee",
+        "Manho Kim"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:51+00:00",
+      "last_seen": "2026-09-14T00:34:51+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:51+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70694-0": {
+      "key": "doi:10.1038/s41598-026-70694-0",
+      "doi": "10.1038/s41598-026-70694-0",
+      "title": "Bioinformatics and machine learning-based exploration of psychological stress-related genes: clinical significance for diagnosis and molecular classification in acute myocardial infarction",
+      "abstract": "Abstract Acute myocardial infarction (AMI) substantially contributes to global mortality and disability, and psychological stress constitutes a crucial correlative factor in its pathogenesis. This study aimed to identify potential biomarkers linked to psychological‑stress‑related genes (PSRGs) in patients with AMI. Four integrated gene‑expression training datasets were obtained from the Gene Expression Omnibus (GEO) database, while PSRGs were retrieved from the GeneCards database. Multiple machine‑learning algorithms were utilized to screen feature genes, and ROC curves were used to assess diagnostic performance. Gene‑set enrichment analysis, ssGSEA and CIBERSORT were applied to explore signaling pathways and immune‑infiltration patterns. A diagnostic signature containing seven PSRGs (CTSD, ADM, SOCS3, CCL5, TSPO, STAT1, and S100A8) was constructed, attaining a cross‑validation AUC of 0.933 within the training cohort. GSE66360 was used for secondary candidate‑gene refinement based on expression consistency and signature reproducibility evaluation (refitted‑model AUC = 0.957). AMI patients were classified into molecular subtypes with distinct immunological traits according to 49 differentially expressed PSRGs. RT‑qPCR verified differential expression of these signature genes between AMI and control samples. Collectively, our findings provide correlational transcriptomic insights into PSRG‑associated AMI pathogenesis and support the development of candidate diagnostic biomarkers and molecular subtyping strategies.",
+      "link": "https://doi.org/10.1038/s41598-026-70694-0",
+      "authors": [
+        "Huijuan Li",
+        "Min Zhang",
+        "Zixin Xue",
+        "Feng Lu",
+        "Jieyun Liu"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:51+00:00",
+      "last_seen": "2026-09-14T00:34:51+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70913-8": {
+      "key": "doi:10.1038/s41598-026-70913-8",
+      "doi": "10.1038/s41598-026-70913-8",
+      "title": "Taguchi-based optimization of melting time in fin-enhanced cylindrical PCM containers under rotational and magnetic effects",
+      "abstract": "As the demand for energy continues to rise globally and the need for sustainable energy solutions intensifies, developing effective methods for energy storage becomes crucial. The present article explores the melting behavior of phase change materials (PCMs) in a cylindrical chamber using internal tubes integrated with axial fins in various configurations. The enthalpy-porosity method is applied in numerical simulations, incorporating RT82 as the PCM. The impact of different shapes and configurations of the internal tubes with fins on melting behavior is examined at various fixed and rotational speeds. The results indicate that, assuming a constant mass of PCM in the chamber, the arrangement of the cylinders and geometric shape significantly affect the melting process. Specifically, geometry C4 exhibits the fastest melting process. The arrangement of the cylinders influences the degree to which rotational speed affects the melting process, with improvements of about 2–3% observed only in geometry C2 as rotational speed increases. The magnetic field and its increased intensity positively impact the melting process, potentially accelerating it by up to 83%. The Taguchi method has been utilized for experimental design, examining the impact of key parameters on melting time to determine the optimal configuration.",
+      "link": "https://doi.org/10.1038/s41598-026-70913-8",
+      "authors": [
+        "Somayeh Davoodabadi Farahani",
+        "Ebrahim Hajian",
+        "Amir Davoodabadi Farahani"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:52+00:00",
+      "last_seen": "2026-09-14T00:34:52+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:52+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71773-y": {
+      "key": "doi:10.1038/s41598-026-71773-y",
+      "doi": "10.1038/s41598-026-71773-y",
+      "title": "Additive interaction between ultrasound-diagnosed metabolic dysfunction-associated steatotic liver disease and hyperuricemia on impaired fasting glucose: a large-scale cross-sectional study",
+      "abstract": "Hyperuricemia and metabolic dysfunction-associated steatotic liver disease (MASLD) independently contribute to dysglycemia, yet their additive interaction on impaired fasting glucose (IFG) remains unquantified. In this cross-sectional study, 17,980 adults undergoing health examinations in Jiaozuo, China (2025) were analyzed. Hyperuricemia was defined by sex-specific thresholds and MASLD by ultrasonography. Participants were cross-classified into four exposure groups. Additive interaction was assessed through relative excess risk due to interaction (RERI), attributable proportion (AP), and synergy index (S) from fully adjusted logistic regression. Restricted cubic splines explored non-linear relationships, and sex-stratified analyses were performed. After full adjustment, the odds of IFG were 2.04 (95% CI 1.70–2.45) for isolated hyperuricemia, 2.85 (95% CI 2.50–3.25) for isolated MASLD, and 4.82 (95% CI 4.10–5.67) for their combination. A positive additive interaction was observed: RERI = 0.93 (95% CI 0.15–1.71; P = 0.019), AP = 0.19 (95% CI 0.05–0.34; P = 0.009), S = 1.34 (95% CI 1.02–1.76; P = 0.035). Spline curves showed a steeper increase in predicted probability beginning around 360 µmol/L in individuals with MASLD, whereas the rise was modest until approximately 420 µmol/L among those without. The interaction estimates appeared larger in women and non-obese participants. Hyperuricemia and MASLD display a positive additive interaction on IFG prevalence. The observed pattern supports considering the combination of elevated uric acid and hepatic steatosis as a marker for intensified glucose surveillance, particularly in women and lean individuals. Prospective studies are needed to evaluate its utility in screening and intervention.",
+      "link": "https://doi.org/10.1038/s41598-026-71773-y",
+      "authors": [
+        "Wenwen Liang",
+        "Pengchang Wang"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:52+00:00",
+      "last_seen": "2026-09-14T00:34:52+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:52+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70730-z": {
+      "key": "doi:10.1038/s41598-026-70730-z",
+      "doi": "10.1038/s41598-026-70730-z",
+      "title": "Automatic P-wave detection using Zhanabaev entropy in seismic waveforms",
+      "abstract": "Abstract Accurate detection of P-wave arrival times is fundamental to earthquake localization, seismic monitoring, and early earthquake warning systems. Although deep learning approaches have recently demonstrated high performance in seismic phase picking, their dependence on large, labeled datasets, substantial computational requirements, and limited interpretability remain significant practical limitations. In this study, we propose a simple but effective method for automatic P-wave arrival detection based on entropy analysis of seismic signals in phase space. The proposed method represents seismic waveforms in a two-dimensional phase space constructed from the signal amplitude and its temporal derivative, enabling characterization of structural transitions associated with the onset of P-wave arrivals. The normalized information entropy ratio (IER) is computed from joint and conditional probability distributions within sliding time windows, and abrupt entropy transitions are used to identify arrival times. The method was evaluated using a globally compiled and filtered dataset of seismic events obtained from the EarthScope/IRIS data services, covering diverse seismic regions and recording conditions. A parameter sensitivity analysis was conducted for window size, discretization resolution, and entropy threshold. The proposed approach achieved a maximum P-wave detection recall of 94.4% under optimal parameter settings (ΔIER = 0.5, N = 5000, M = 70). These results demonstrate that phase-space entropy analysis is a promising and computationally efficient approach for automatic P-wave detection under the investigated experimental conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-70730-z",
+      "authors": [
+        "Margulan Ibraimov",
+        "Dauren Zhexebay",
+        "Alisher Skabylov",
+        "Alua Maksutova",
+        "Dina Alimbetova",
+        "Aldiyar Agishev",
+        "Serik Khokhlov",
+        "Yeldos Kozhagulov",
+        "Raikhan Azamat",
+        "Madina Zhakipova",
+        "Zhaoqiang Xia"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:53+00:00",
+      "last_seen": "2026-09-14T00:34:53+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71023-1": {
+      "key": "doi:10.1038/s41598-026-71023-1",
+      "doi": "10.1038/s41598-026-71023-1",
+      "title": "Numerical modeling and machine learning insight into potassium-based lead-free $$\\text {K}_{2}\\text {AgSbBr}_{6}$$ perovskite solar cells using SCAPS-1D",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-71023-1",
+      "authors": [
+        "Rupashree Dutta",
+        "C. Vrishab",
+        "Cherukupally Vivekananda",
+        "Akash Sharma"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:53+00:00",
+      "last_seen": "2026-09-14T00:34:53+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71053-9": {
+      "key": "doi:10.1038/s41598-026-71053-9",
+      "doi": "10.1038/s41598-026-71053-9",
+      "title": "APR-Net: a lightweight multi-scale attention network for oral disease detection",
+      "abstract": "Abstract Multiclass object detection in oral images is important for oral disease screening and computer-aided assessment. Existing lightweight detection models still suffer from insufficient recognition of fine-grained lesions, weak feature representation of low-contrast pathological regions, inadequate multi-scale feature fusion, and missed detections in visually complex oral scenes, which restrict the detection accuracy and recall of categories such as calculus, caries, gingivitis, hypodontia, tooth discoloration, and ulcer. To address these problems, this paper proposes APR-Net , a lightweight multi-scale attention network that integrates and adapts effective downsampling, feature fusion, and attention mechanisms for oral disease detection. Built upon the YOLOv8n framework, APR-Net first introduces an ADown-based lightweight downsampling strategy to reduce fine-grained lesion information loss during feature extraction. Then, RepNCSPELAN4 is adopted to construct a re-parameterized feature pyramid network, enhancing multi-scale feature aggregation for oral diseases of different sizes. Finally, a Partial Self-Attention(PSA) module is embedded after the SPPF layer to strengthen high-level semantic representation and improve the model’s sensitivity to weak-boundary and low-contrast lesion regions. Experimental results show that, compared with the original YOLOv8n, APR-Net improves Precision, Recall, F1-score, mAP50, mAP75, and mAP50–95 by 0.79, 2.85, 2.12, 2.54, 2.07, and 1.62 percentage points, respectively. Meanwhile, APR-Net reduces the number of parameters from 3.01M to 2.79M and increases the overall FPS from 163.14 to 312.16, demonstrating its effectiveness in achieving accurate, lightweight, and real-time multi-class oral disease detection.",
+      "link": "https://doi.org/10.1038/s41598-026-71053-9",
+      "authors": [
+        "Jiayi Peng",
+        "Ji Liu",
+        "Miao Yin",
+        "Yufeng Shen",
+        "Changzheng Liu",
+        "Zheng Zhou",
+        "Jie Zhou",
+        "Jia Liu",
+        "Ronghua Zhang",
+        "Qi Hong"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:53+00:00",
+      "last_seen": "2026-09-14T00:34:53+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71615-x": {
+      "key": "doi:10.1038/s41598-026-71615-x",
+      "doi": "10.1038/s41598-026-71615-x",
+      "title": "Triglyceride–glucose index‑integrated nomogram for six‑month outcomes after acute ST-elevation myocardial infarction",
+      "abstract": "Risk stratification after ST‑elevation myocardial infarction (STEMI) treated with percutaneous coronary intervention (PCI) remains challenging, particularly for identifying residual risk beyond established clinical scores. The triglyceride–glucose (TyG) index, a surrogate marker of insulin resistance, may provide additional prognostic information. To develop and internally validate a TyG‑integrated nomogram for 6‑month major adverse cardiovascular events (MACE) after index hospital admission in STEMI patients undergoing PCI. In this single‑centre ambispective cohort, 169 consecutive STEMI patients treated with primary PCI were enrolled. The primary endpoint was time to first MACE within 6 months after index hospital admission, defined as all‑cause death, non‑fatal myocardial infarction, target‑vessel revascularisation, hospitalisation for unstable angina or heart failure, or stroke/transient ischaemic attack. Candidate predictors were analysed using Cox regression with elastic‑net penalisation. The final model included TyG index, GRACE score, hemoglobin, and left ventricular ejection fraction (LVEF). Apparent and bootstrap optimism-corrected model performance were assessed. Thirty-nine of 169 patients (23.1%) experienced a first MACE within 6 months after index hospital admission. Compared with the TyG-excluded clinical model containing GRACE score, hemoglobin, and LVEF, addition of TyG improved global model fit (likelihood-ratio χ2 = 8.36, df = 1, p = 0.0038; Akaike information criterion, 314.6 to 308.3) and reclassification (integrated discrimination improvement, 0.038; continuous net reclassification improvement, 0.574), but did not improve apparent or optimism-corrected C-index discrimination. The full model had an apparent C-index of 0.859 (95% confidence interval, 0.799–0.920), an optimism-corrected C-index of 0.848, and an optimism-corrected calibration slope of 0.923. A nomogram combining the TyG index with GRACE score, hemoglobin, and LVEF was associated with improved global model fit and reclassification relative to a TyG-excluded clinical model, but did not improve C-index discrimination. External validation in larger, contemporary cohorts is needed before clinical implementation.",
+      "link": "https://doi.org/10.1038/s41598-026-71615-x",
+      "authors": [
+        "Truong Huy Hoang",
+        "Phuong Thi Ngoc Ha",
+        "Huy Duc Dinh"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:53+00:00",
+      "last_seen": "2026-09-14T00:34:53+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:53+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70431-7": {
+      "key": "doi:10.1038/s41598-026-70431-7",
+      "doi": "10.1038/s41598-026-70431-7",
+      "title": "A convolutional, scale-adaptive framework for large-scale shoreline change modeling",
+      "abstract": "Abstract Understanding sandy beach evolution under geologic, hydrodynamic, morphologic, and anthropogenic influences, and particularly future climate variability and sea level rise, has become increasingly important. Several numerical models have been developed to simulate sandy beach evolution, ranging from high-fidelity, process-based models to reduced-complexity approaches, to data-driven and hybrid methods, and spanning scales from relatively small (hundreds of m-days) to relatively large (hundreds of km-decades). Data-driven approaches, however, often lack explicit representation of the physical processes governing shoreline change, a key sandy beach evolution metric. Here, we present a hybrid, scale-adaptive convolutional framework for shoreline change modeling that bridges reduced-complexity and data-driven approaches and apply it to the U.S. Pacific Northwest sandy beach extents ( $$\\sim $$ 530 km across Oregon and Washington). Using 40 years (1984–2024) of primarily satellite-derived shoreline data, we hindcast shoreline position evolution across 22 littoral cells comprising over 10,000 transects at 50-m alongshore resolution. Hindcast results yield a median validation Root Mean Square Error of 14.1 m and a Mielke’s index of 0.51, similar to recent shoreline-change benchmarks. Our framework is based on a sum of convolution operations over hydrodynamic forcing with optimized kernel functions to model shoreline response. The resulting kernel shapes quantify the beach’s morphodynamic memory, revealing that geographical latitude primarily governs alongshore response timescales, while coastal orientation controls the intensity of cross-shore seasonal response, strengthening on more west-facing beaches. The framework’s computational efficiency and physical interpretability make it well-suited for future stochastic shoreline projections under changing climatic conditions, supporting informed coastal management and adaptation policies.",
+      "link": "https://doi.org/10.1038/s41598-026-70431-7",
+      "authors": [
+        "Mohsen Taherkhani",
+        "Sean Vitousek",
+        "Peter Ruggiero"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:54+00:00",
+      "last_seen": "2026-09-14T00:34:54+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70643-x": {
+      "key": "doi:10.1038/s41598-026-70643-x",
+      "doi": "10.1038/s41598-026-70643-x",
+      "title": "Development of an ecological greenness index (EGI) for urban environmental monitoring: a remote sensing and multivariate analytical approach",
+      "abstract": "Abstract Several remote sensing-based indices have been proposed. While most measures are disjointed, several integrated ecological indices are offered. The purpose of this study is to introduce an Ecological Greenness Index (EGI) as a composite and integrated ecological index. This index was established by combining eight remote sensing-derived indices, including NDVI, NDSI, NDBI, LST, LAI, and three Tasseled Cap indices. Principal Component Analysis (PCA) was used to reduce dimensionality among RS-based derived components. The PCA eigenvalues were used as weights in the fuzzy logic method. The fuzzy logic overlay method was used to combine the retained components and produce the final EGI map. The results showed that four principal components (SIPC1–SIPC4), which explained about 99.99% of the total variance, were used for the final EGI construction. The EGI was implemented and internally assessed in Tehran, Iran, as a case study. The eigenvalue (λ) of each retained SIPC was used to derive the component weights for EGI construction. The results revealed substantial regional heterogeneity: the mean quantity of EGI in Tehran’s northern area was 0.29 (e.g., District 1), while it reduced to 0.076 in southern districts (e.g., District 10). A north–south transect analysis confirmed a steep ecological gradient across the city. EGI integrated vegetation structure, soil exposure, moisture, thermal conditions, and built-up characteristics within a unified PCA–fuzzy framework. It provides a broader diagnostic representation of urban ecological greenness. Zonal statistics depicted the spatial variation of EGI across Tehran’s 22 administrative districts. Despite the limitations of this study, such as using single-season and 30 m resolution satellite data, the EGI provides a quantitative framework for monitoring urban ecology. It represents a potentially useful tool for cities facing rapid urbanization and ecological greenness changes. Based on this case study, the EGI framework has the potential to be used as an integrated environmental quality assessment tool. The EGI integrating multiple ecological dimensions that may complement established indices such as the Remote Sensing-based Ecological Index (RSEI) in complex urban environments. Generalization of the EGI requires independent validation across additional urban contexts.",
+      "link": "https://doi.org/10.1038/s41598-026-70643-x",
+      "authors": [
+        "Amir Houshang Ehsani",
+        "Hassan Darabi",
+        "Shakila Abedi",
+        "Seydeh Roya khamooshian",
+        "Faezeh pouyanejad"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:54+00:00",
+      "last_seen": "2026-09-14T00:34:54+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70297-9": {
+      "key": "doi:10.1038/s41598-026-70297-9",
+      "doi": "10.1038/s41598-026-70297-9",
+      "title": "Characterization and evaluation of the fertilizer valorization potential of municipal solid waste in Hosanna town, Hadiya zone, central Ethiopia",
+      "abstract": "The rapid urbanization and socioeconomic growth of Ethiopian cities generate substantial quantities of municipal solid waste (MSW), which causes serious urban environmental problems such as air, water, and soil pollution, disease spreading, drainage blockage and flooding. While resource recovery efforts have been studied across Ethiopia, previous studies, especially in Hosanna, Hadiya zone, central Ethiopia, have not provided comprehensive information on MSW generation rates, physical compositions, management practices, and fertilizer valorization potential. This study was aimed at evaluating the generation rates, physical composition, management practices, and fertilizer potential of MSW in Hosanna town. A mixed research design – combining both quantitative and qualitative approaches was used to collect data from three purposely selected Kebeles. Quantification of the MSW generation rate revealed 0.45 kg/person/day in households, while the commercial and institutional sectors generate 2.65 kg/shop/day and 2.85 kg/m2/day, respectively. Moderate correlation was observed between waste generation and socioeconomic characteristics such as family size, education, and income levels. The physical composition analysis of MSW revealed that 74% of the waste was biodegradable organic matter, suggesting encouraging potential for resource recovery. Further characterization of its composted physicochemical characteristics showed promising essential nutrients (TN, NO3−, NH4+, TP, PO43−, K, S, SO42−, Ca, Mg, B, Mn, Zn, Fe, and Cu), which may serve as eco-friendly organic fertilizer. However, more long-term research is needed to assess source-segregation efficiency, seasonal variations in waste generation and composition, and the presence of other chemical and biological pollutants that restrict its safety uses to foster broader implementation of MSW resource recovery and support sustainable socioeconomic and environmental development.",
+      "link": "https://doi.org/10.1038/s41598-026-70297-9",
+      "authors": [
+        "Arega Bekele",
+        "Berhanu Achamo",
+        "Zenebe Yirgu",
+        "Ermias Alayu"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:54+00:00",
+      "last_seen": "2026-09-14T00:34:54+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:54+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70948-x": {
+      "key": "doi:10.1038/s41598-026-70948-x",
+      "doi": "10.1038/s41598-026-70948-x",
+      "title": "Demographic and geographic disparities in adult intestinal infectious disease mortality in the United States from 1999 to 2023",
+      "abstract": "Intestinal infectious diseases (IID) pose significant health and financial burdens in the United States (US). This study analyzes demographic and geographic disparities in IID-associated mortality among US adults from 1999 to 2023. Retrospective data from the CDC WONDER database (1999–2023) were analyzed for decedents aged ≥ 25 years listing IID as an underlying or contributing cause of death. Age-adjusted mortality rates (AAMR) per 1,000,000 were calculated across sex, race/ethnicity, age, urbanization, and state (geographic analyses restricted to 1999–2020). Joinpoint regression estimated Annual Percent Changes (APC). Among 294,178 IID-associated deaths, AAMRs surged significantly from 1999 to 2005 (APC 28.07; p < 0.05) and 2005–2011 (APC 9.88; p < 0.05), followed by a decline through 2023 (APC − 4.94; p < 0.05). Males had higher mean AAMRs than females (54.3 vs. 52.7). Non-Hispanic (NH) Whites (54.3) and small/medium metropolitan areas (54.4) recorded the highest AAMRs among racial and geographic subgroups. US IID-associated mortality increased until 2011 before declining. Persistent disparities with the highest mortality burden among men, NH Whites, and residents of small/medium metropolitan areas highlight the need for targeted public health interventions.",
+      "link": "https://doi.org/10.1038/s41598-026-70948-x",
+      "authors": [
+        "Muhammad Shaheer Bin Faheem",
+        "Syed Tawassul Hassan",
+        "Muhammad Bilal Masood",
+        "Kantash Kumar",
+        "Mobeen Abid",
+        "Shanzay Akhtar",
+        "Syeda Lyba Onaiz",
+        "Omer Farooq",
+        "Sumaya Samadi"
+      ],
+      "published": "2026-09-13T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-14T00:34:54+00:00",
+      "last_seen": "2026-09-14T00:34:54+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-14T00:34:54+00:00",
+      "matched_channels": {}
     }
   }
 }
