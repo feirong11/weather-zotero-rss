@@ -105618,8 +105618,8 @@
       "issn": "0028-0836",
       "first_seen": "2026-09-14T18:30:23+00:00",
       "last_seen": "2026-09-14T18:30:23+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-14T18:30:23+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-15T00:34:50+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/d41586-026-02895-6": {
@@ -106693,6 +106693,435 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-14T18:30:50+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0688.1": {
+      "key": "doi:10.1175/jcli-d-25-0688.1",
+      "doi": "10.1175/jcli-d-25-0688.1",
+      "title": "Direct Radiative Impacts of Stratospheric Aerosols on the Tropical Troposphere: Clouds, Precipitation, and Circulation in Convection-Resolving and Global Simulations",
+      "abstract": "Abstract A concern for stratospheric aerosol injection (SAI) is that stratospheric aerosols could inadvertently alter rain and winds through mechanisms independent of the intended surface cooling. Here, we investigate how the tropical troposphere responds to SAI in models of different complexity, including convection-resolving mock-Walker and small-domain simulations as well as a global climate model, with sea surface temperature held fixed. Across models, we trace the mechanisms driving tropospheric impacts and identify modeling limitations that hinder accurate risk evaluation. SAI enhances downward longwave radiation from the warmed, aerosol-rich stratosphere, generating upper-tropospheric radiative heating that reduces cloudiness and suppresses convection, reducing precipitation. While our best estimate is a ∼2% tropical-mean precipitation reduction under strong SAI at fixed sea surface temperature, this is counteracted by cloud radiative responses that hinder predictability. Further, sensitivity experiments suggest that the precipitation response may hinge on how SAI is enacted, with higher and smaller particles both tending to weaken the precipitation response, in partial agreement with prior findings. Our convection-resolving simulations do not show that surface-temperature-independent effects of stratospheric aerosols inherently weaken the tropical overturning circulation, as previously suggested. While regional precipitation responses within the tropics could be substantial, our simulations suggest potential for lower risks than analogous volcanic events by releasing aerosols gradually, thereby mitigating land–sea circulation responses. These results clarify the mechanisms governing SAI hydroclimate impacts and reveal limitations affecting simulated outcomes from contemporary models. Consequently, near-term SAI deployment would carry the risk of being implemented without the ability to reliably predict its hydroclimate impacts. Significance Statement Stratospheric aerosol injection could help stabilize Earth’s temperature, but models have struggled to reliably predict its unintended climate impacts. This study uses a multimodel framework, including a novel application of convection-resolving simulations, to examine responses of clouds and rainfall to stratospheric aerosol injection in depth. Our findings clarify the mechanisms governing stratospheric aerosol impacts on tropical precipitation that operate independently of the intended surface cooling. Especially highlighted is how cloud radiative responses drive intermodel differences and reduce confidence in projections. Contrary to previous suggestions, our simulations lack a robust indication of weakened tropical circulation via surface-temperature-independent processes. These findings offer key insights for efforts to predict the hydroclimate risks associated with deliberate solar radiation management.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0688.1",
+      "authors": [
+        "Zachary McGraw",
+        "Lorenzo M. Polvani"
+      ],
+      "published": "2026-09-15T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-09-15T00:34:38+00:00",
+      "last_seen": "2026-09-15T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0650.1": {
+      "key": "doi:10.1175/jcli-d-25-0650.1",
+      "doi": "10.1175/jcli-d-25-0650.1",
+      "title": "Global Kilometer-Scale Simulations with ARP-GEM2: Effect of Parameterized Convection and Calibration",
+      "abstract": "Abstract The objective of this paper is twofold. First, it documents the second version of the global atmospheric model ARP-GEM and its calibration at kilometer-scale resolution. The model is currently able to run simulations at a resolution of up to 1.3 km. Second, this paper focuses on multiyear global atmospheric simulations at a 2.6-km resolution with and without parameterized convection and associated calibration. Simulations without deep convection tend to be similar to those with infinite, or at least large, entrainment values. Consistently, entrainment and detrainment can be used as primary drivers for the gradual reduction of convection as resolution increases. The results indicate that, in this hydrostatic model, parameterized convection still plays a significant role in the correct representation of the mean state at the kilometer scale. Additionally, they suggest some added value of high resolution in representing climate variability. However, a compromise between the adequate representation of the mean state and variability is necessary, as both are differently favored by the degree of parameterized convection.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0650.1",
+      "authors": [
+        "Olivier Geoffroy",
+        "David Saint-Martin"
+      ],
+      "published": "2026-09-15T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-09-15T00:34:38+00:00",
+      "last_seen": "2026-09-15T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-3918cover": {
+      "key": "doi:10.1175/jcli-3918cover",
+      "doi": "10.1175/jcli-3918cover",
+      "title": "Journal Information and Table of Contents",
+      "abstract": "",
+      "link": "https://doi.org/10.1175/jcli-3918cover",
+      "authors": [],
+      "published": "2026-09-15T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-09-15T00:34:38+00:00",
+      "last_seen": "2026-09-15T00:34:38+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-15T00:34:38+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0568.1": {
+      "key": "doi:10.1175/jcli-d-25-0568.1",
+      "doi": "10.1175/jcli-d-25-0568.1",
+      "title": "Top-of-Atmosphere Radiation over the Last Millennium Reconstructed from Proxies",
+      "abstract": "Abstract Earth’s energy imbalance at the top of the atmosphere is a key climate system metric, but its natural variability is poorly constrained by the short observational record and large uncertainty in coupled climate models. While existing ocean heat content reconstructions offer a longer perspective, they cannot separate the contributions of shortwave and longwave radiation, obscuring the underlying processes. We extend the energy-budget record into the preindustrial period by reconstructing the top-of-atmosphere radiation and related surface variables over the last millennium (850–2000 CE) using data assimilation, combining proxy data and dynamics from a coupled climate emulator. Validation reveals skill in the reconstructed radiation fields, especially in the global mean and the tropics. We find that the well-documented last-millennium cooling trend coincides with persistent energy loss, largest early in the millennium, and a reduction in upper-ocean heat content. The cooling trend differs by season and latitude, and is associated with anomalies in outgoing longwave radiation suggestive of an eastward shift in Indo-Pacific convection. Following large volcanic eruptions, ocean heat content anomalies persist for 10–20 years on average, supporting previous evidence that multidecadal cooling is forced by decadally paced eruptions. The reconstruction also reveals that the current rate of energy gain is unprecedented relative to the period before 1850. Significance Statement We use tree rings, corals, and ice cores to create the first reconstruction of energy entering and leaving the Earth system over the last 1000 years. Such a reconstruction of natural variability in Earth’s energy budget provides context for recent climate change. We find that the rate of energy gain associated with current global warming is unprecedented in the last millennium. Further, we find persistent heat loss associated with a global preindustrial cooling trend, and evidence that multidecadal cooling was forced by clusters of volcanic eruptions.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0568.1",
+      "authors": [
+        "Dominik Stiller",
+        "Gregory J. Hakim"
+      ],
+      "published": "2026-09-15T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-09-15T00:34:39+00:00",
+      "last_seen": "2026-09-15T00:34:39+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0668.1": {
+      "key": "doi:10.1175/jcli-d-25-0668.1",
+      "doi": "10.1175/jcli-d-25-0668.1",
+      "title": "Changes in Summer Extreme Wind Gusts in Southern and Northwestern China Associated with Distinct Atmospheric Circulation Patterns during 1961–2024",
+      "abstract": "Abstract Wind gusts—rapid surges in wind speed occurring within minutes or even seconds—pose significant risks to aviation, infrastructure, and human safety. Yet, the changes in extreme wind gusts (EWGs) across China remain poorly understood. Here, using the fifth generation ECMWF atmospheric reanalysis (ERA5) data, we examine long-term trends and variability in summer EWGs across China from 1961 to 2024. Southern China (SC) and northwestern China (NWC) emerge as key hotspots of summer EWG variations, exhibiting significant increases in EWG days and frequency over the past six decades. In SC, EWGs are associated with low pressure anomalies and intensified surface disturbances over the northern South China Sea and adjacent waters. In NWC, EWGs are significantly correlated with widespread low pressure anomalies from the Middle East to central Asia and increased surface disturbances in NWC. Anomalous midlatitude Rossby waves play a crucial role in both regions. In SC, they induce a northward shift of the northwestern Pacific subtropical high, heightening the likelihood of convective systems and typhoon landfalls. In NWC, they generate northeastward-tilting low pressure anomalies between the lower and midtroposphere, enhancing atmospheric baroclinicity. Both processes can result in more variable surface pressure, thereby being consistent with amplified disturbances and more frequent EWGs in SC and NWC. These findings enhance our understanding of the variability and dynamics of wind extremes in China, offering valuable implications for regional climate risk assessment and disaster preparedness. Significance Statement This study addresses a critical gap in understanding wind extremes across one of the world’s most populous and economically vital regions. We identify southern and northwestern China as emerging hotspots with rapidly increasing frequencies of summer extreme wind gusts, associated with distinct atmospheric circulation patterns. Our findings reveal that anomalous Rossby waves modulate wind gusts through region-specific mechanisms—displacing the subtropical high in southern China (SC) and enhancing baroclinicity in northwestern China. These insights advance our understanding of the variability and dynamics of wind extremes, with important implications for aviation safety, infrastructure resilience, and renewable energy management.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0668.1",
+      "authors": [
+        "Xi Chen",
+        "Jiayi Nie",
+        "Song Yang",
+        "Wentian Qiu",
+        "Qinghong Zhao",
+        "Kaiqiang Deng"
+      ],
+      "published": "2026-09-15T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-09-15T00:34:39+00:00",
+      "last_seen": "2026-09-15T00:34:39+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "typhoon"
+        ]
+      }
+    },
+    "doi:10.1175/jcli-d-25-0605.1": {
+      "key": "doi:10.1175/jcli-d-25-0605.1",
+      "doi": "10.1175/jcli-d-25-0605.1",
+      "title": "Contributions of Extreme and Nonextreme Precipitation to the Post-1993 Interdecadal Increase in Summer Rainfall over Southern China",
+      "abstract": "Abstract A pronounced interdecadal increase in summer (June–August) precipitation over southern China has been evident around 1993. Yet, the relative contributions of extreme precipitation (EP) and non-EP to this increase and the physical drivers remain poorly understood, despite their critical implications for water resource management and disaster preparedness. Our analysis shows that both EP and non-EP increased from 1979 to 1992 and from 1993 to 2006. Although EP accounts for only 26% of climatological rainfall, it explains a disproportionate 43% of the total increase, indicating an increased fractional contribution of EP to total precipitation amount. Notably, these increases are driven primarily by more frequent rainfall events rather than greater event intensity. The enhanced frequency of monsoon and tropical cyclone precipitation events is mainly caused by strengthened monsoon circulation and increased tropical cyclone passages over southern China, respectively, both tied to more occurrences of westward extensions of the western Pacific subtropical high. These findings highlight that circulation-driven increases in event occurrence frequency, rather than rainfall intensification, have governed the interdecadal precipitation increases in southern China. The results underscore the importance of considering precipitation occurrence frequency and intensity and their links to large-scale circulation for improving the simulation, projection, and interpretation of regional hydrological changes. Significance Statement Southern China has experienced a prominent interdecadal increase in summer rainfall around 1993, yet the processes driving this shift have remained unclear. This study shows that the rise was dominated by more frequent rainfall events rather than stronger ones. These changes are primarily driven by enhanced monsoon circulation and increased tropical cyclone passages associated with westward extensions of the western Pacific subtropical high. The results highlight the dominant role of circulation-driven frequency changes in shaping regional hydroclimate. Recognizing this mechanism is crucial for enhancing the reliability of regional climate projection and improving water resource management.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0605.1",
+      "authors": [
+        "Yaning Wang",
+        "Xinyu Li",
+        "Ming Luo",
+        "Zhen Liu"
+      ],
+      "published": "2026-09-15T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-09-15T00:34:39+00:00",
+      "last_seen": "2026-09-15T00:34:39+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ]
+      }
+    },
+    "doi:10.1175/jcli-d-25-0674.1": {
+      "key": "doi:10.1175/jcli-d-25-0674.1",
+      "doi": "10.1175/jcli-d-25-0674.1",
+      "title": "IOD-Induced Gill-Pattern Winds Determine the Interannual Variability of Southwest Monsoon Current Axis in the Southern Bay of Bengal",
+      "abstract": "Abstract The Southwest Monsoon Current (SMC) flowing from the Arabian Sea (AS) into the Bay of Bengal (BoB), driven by the summer monsoon, can significantly affect the thermohaline structure of the BoB and further influence summer monsoon variability through air–sea interaction. The SMC exhibited significant interannual variability, especially in its axis position during 1993–2022. Analysis reveals that the interannual variability of the SMC axis position is mainly related to the Indian Ocean dipole (IOD) and its induced Ekman effect, which is forced by local wind stress curl (WSC) in the southern BoB. A positive IOD triggers a Gill-pattern response in the eastern Indian Ocean, as well as an anomalous anticyclonic circulation over the BoB and an easterly wind anomaly across the equatorial Indian Ocean from June to September. The SMC axis migrates northward when there is a negative local WSC in the southern BoB during positive IOD, which leads to positive sea surface height anomalies (SSHA), and hence, the maximum meridional SSHA gradient shifts northward. The converse conditions apply during negative IOD. The influence of the equatorial wind anomaly on the SMC axis is weaker than the Ekman effects of the local wind anomaly in the southern BoB but opposite in direction. The counteraction between the eastern-boundary-reflected Rossby waves and the local negative and positive wind stress curl forcing induced by the positive and negative IOD events are quantitatively confirmed by analyzing vorticity balance and wind forcing over southern BoB using the vorticity budget and the 1.5-layer reduced-gravity model. Significance Statement Circulation anomalies in the Bay of Bengal, a critical region in the Asian monsoon system, redistribute temperature and salinity, potentially influencing monsoon evolution. This study investigates the response of the Southwest Monsoon Current to the Indian Ocean dipole, with a focus on the underlying wind-driven mechanisms. In the southern Bay of Bengal, sea surface height anomalies induced by the local wind stress curl surpass those forced remotely by equatorial wind-generated oceanic waves, leading to the migration of the southwestern monsoon current axis. These findings provide a refined mechanistic perspective on a key oceanic pathway linking Indian Ocean climate mode to the Asian monsoon.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0674.1",
+      "authors": [
+        "Huaming Huang",
+        "Lei Yang",
+        "Qihua Peng",
+        "Dongxiao Wang",
+        "Zhan Hu",
+        "Gayan Pathirana"
+      ],
+      "published": "2026-09-15T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-09-15T00:34:39+00:00",
+      "last_seen": "2026-09-15T00:34:39+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0549.1": {
+      "key": "doi:10.1175/jcli-d-25-0549.1",
+      "doi": "10.1175/jcli-d-25-0549.1",
+      "title": "Assessing Ocean Forcing on Sea Surface Temperature Variability from Surface Heat Budget",
+      "abstract": "Abstract This paper compares three methods for quantifying stochastic ocean forcing to low-frequency sea surface temperature (SST) variability from the surface heat budget in the framework of a simple stochastic climate model, especially in the case of red noise ocean forcing. The three methods are PT21 (Patrizio and Thompson), PT22 (Patrizio and Thompson), and LGD23 (Liu et al.). PT21 estimates the ratio of ocean over atmosphere forcing as the ratio of the covariance of SST tendency with ocean heat transport over the covariance with surface heat flux, while PT22 and LGD23 first derive the time series of oceanic and atmospheric forcing before estimating their ratio. The three methods are first applied to synthetic data of the stochastic climate model and then to the midlatitude North Atlantic in observations. It is found that the LGD23 method provides an unbiased estimation of oceanic forcing with a modest sampling error at low frequency, if the persistence time of the sea surface salinity can be treated as a good approximation of that of SST associated with ocean heat transport. The PT22 method has the smallest sampling error but tends to underestimate the ocean forcing modestly when the ocean forcing is a red noise process. The PT21 method gives the correct ratio of oceanic over atmospheric forcing in spectral density in theory but suffers from a very large sampling error for practical application to a dataset of a finite length of decades. We recommend the use of both LGD23 and PT22 as two complimentary methods for the estimation of ocean forcing, with the PT22 providing likely a lower bound for red noise ocean forcing. Significance Statement This paper compares three methods for estimating ocean forcing from the surface heat budget systematically and, therefore, provides a guideline for estimating ocean forcing in observations and climate models.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0549.1",
+      "authors": [
+        "Zhengyu Liu",
+        "Peng Gu"
+      ],
+      "published": "2026-09-15T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-09-15T00:34:39+00:00",
+      "last_seen": "2026-09-15T00:34:39+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-26-0115.1": {
+      "key": "doi:10.1175/jcli-d-26-0115.1",
+      "doi": "10.1175/jcli-d-26-0115.1",
+      "title": "Convectively Coupled Kelvin Waves over the Congo Basin: Modulation by Land Characteristics",
+      "abstract": "Abstract Convectively coupled Kelvin waves (CCKWs) are a prominent mode of tropical variability that organize convection and modulate rainfall, providing an important source of synoptic-to-subseasonal predictability. Most current understanding of CCKW structure and evolution is derived from oceanic environments, where surface conditions are relatively uniform and wave–convection coupling is coherent. Over the land, however, strong diurnal variability, heterogeneous surface properties, and complex terrain introduce additional processes that can substantially modify this coupling. Using reanalysis and satellite observations, we show that CCKWs over the Congo Basin depart from the canonical-ocean-based framework. The typical shallow–congestus–deep convective transition is weak, with limited shallow cloud development ahead of the active phase, particularly during daytime. Surface latent heat flux anomalies occur in phase with enhanced incoming solar radiation, indicating a thermodynamically driven response rather than the wind-stress-dominated mechanism common over oceans. During the suppressed phase, reduced cloud cover allows increased solar radiation to warm the surface, strengthening latent heat fluxes and promoting boundary layer growth and moistening. These processes progressively erode convective inhibition from below, while free-tropospheric adjustment becomes dominant only near the convective peak, implying a distinct pathway of convective preconditioning over the land. Topography and diurnally forced circulations further modulate wave evolution by locally triggering convection ahead of the large-scale active phase, partially offsetting wave-scale inhibition and advancing convective maxima. This work demonstrates that land–atmosphere interactions substantially reshape CCKW structure and convection over central Africa, highlighting the limitations of ocean-based Kelvin wave frameworks for continental environments. Significance Statement Convectively coupled Kelvin waves are large-scale weather systems that help organize tropical rainfall and affect weather patterns from daily to weekly time scales. Most of what we know about these waves comes from studies over the ocean. Here, we examine how they behave over the Congo Basin in central Africa. We find that conditions over the land, such as strong daytime heating, changes in surface moisture, and complex terrain, alter how these waves interact with clouds and rainfall. This study shows that Kelvin waves do not behave the same way over the land as they do over the ocean, emphasizing the need to better understand land–atmosphere processes to improve rainfall prediction in tropical Africa.",
+      "link": "https://doi.org/10.1175/jcli-d-26-0115.1",
+      "authors": [
+        "Zeyao Dong",
+        "Richard Washington"
+      ],
+      "published": "2026-09-15T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-09-15T00:34:39+00:00",
+      "last_seen": "2026-09-15T00:34:39+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77612-y": {
+      "key": "doi:10.1038/s41467-026-77612-y",
+      "doi": "10.1038/s41467-026-77612-y",
+      "title": "Predicting phase transitions across temperature, pressure, and chemical potential using exponentially tilted thermodynamic maps",
+      "abstract": "Predicting and characterizing phase transitions is crucial for understanding generic physical phenomena such as crystallization, protein folding, and others. However, directly observing phase transitions is not always easy, and we often have limited observations far from the phase boundary, measured under specific thermodynamic conditions. In this study, we propose a statistical-physics- and generative-AI-driven framework that uses such limited information to generate samples of different phases under arbitrary thermodynamic conditions, which we call Exponentially Tilted Thermodynamic Maps (expTM). The central idea is to map collected data into a simple, tractable prior expressed as an exponentially tilted Gaussian. We demonstrate how the variance and mean of the prior can be correlated with pairs of thermodynamic control variables, including temperature, pressure, and chemical potential. This gives us the ability to generate thermodynamically correct samples under any values of the control variables. To demonstrate the practical applicability of this approach, we use expTM to sample a lattice gas model with the grand canonical ensemble, capturing phase transitions under varying chemical potentials and temperatures. We further demonstrate how expTM can model the isothermal-isobaric ensemble, with which we predict different phases of CO2 under varying pressure conditions. Both examples are trained on very limited data far from the phase boundary. These results establish expTM as a robust tool for understanding phase transitions across diverse thermodynamic conditions requiring only a small number of observations. Predicting phase transitions may be challenging because of the complex structural reorganization of molecules between different phases. Here, authors develop a generative AI framework using limited training data to predict phase behavior across temperatures, pressures, and chemical potentials.",
+      "link": "https://doi.org/10.1038/s41467-026-77612-y",
+      "authors": [
+        "Suemin Lee",
+        "Ruiyu Wang",
+        "Lukas Herron",
+        "Pratyush Tiwary"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-15T00:34:55+00:00",
+      "last_seen": "2026-09-15T00:34:55+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-15T00:34:55+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71631-x": {
+      "key": "doi:10.1038/s41598-026-71631-x",
+      "doi": "10.1038/s41598-026-71631-x",
+      "title": "Multi-omics insights into the regulation of yak longissimus dorsi muscle by dietary energy levels",
+      "abstract": "Adipose deposition is a key determinant of meat quality and energy storage in yaks, bearing significant implications for livestock productivity in high-altitude regions. The yak (Bos grunniens), a distinctive cattle breed indigenous to the Qinghai–Tibet Plateau, is widely recognized for its remarkable adaptability to energy fluctuations. However, the molecular mechanisms by which dietary energy levels regulate muscle physiology and metabolism remain poorly understood. In this study, yaks were assigned to low-energy, medium-energy, and high-energy groups according to dietary composition and nutritional levels. Transcriptomic and metabolomic analyses were conducted to identify differentially expressed genes (DEGs) and differentially accumulated metabolites (DAMs), followed by KEGG enrichment analysis to construct relevant network interaction diagrams. Integrated transcriptome–metabolome analysis revealed that the DEGs and DAMs were significantly enriched in the mTOR signaling pathway, ABC transporters, central carbon metabolism in cancer, aminoacyl-tRNA biosynthesis, mineral absorption, biosynthesis of amino acids, glutathione metabolism, and 2-oxoglutarate metabolism pathways. Six DAMs were identified: L-ornithine, L-methionine, L-histidine, 3-methyl-L-histidine, L-isoleucine, and L-leucine. In the low‑energy versus high‑energy comparison, L‑isoleucine and L‑leucine showed correlative patterns related to fat deposition, with WARS identified as a candidate gene from multi‑omics correlation analysis. In the low‑energy versus medium‑energy comparison, L‑ornithine exhibited correlative patterns related to fat deposition, with GPX1 as a candidate hub gene. In the medium‑energy versus high‑energy comparison, correlative patterns of L‑ornithine and glycine were observed, with *ODC1*, *DOT1L*, and *AGT* proposed as candidate hub genes. Weighted gene co-expression network analysis (WGCNA) of the transcriptomic data, using the six DAMs as phenotypic traits, identified gene modules highly correlated with these metabolites. Corresponding enrichment analysis indicated that genes related to the metabolism of L-ornithine, L-methionine, L-histidine, L-isoleucine, and L-leucine were predominantly enriched in Gene Ontology terms such as cellular process, single-organism process, cell, cell part, binding, and catalytic activity. Pathways significantly enriched in relation to fat deposition included the PPAR signaling pathway, PI3K-Akt signaling pathway, and glycerolipid metabolism. Functional annotation suggested that CEBPA, GSK3B, CDKN1B, LPL, GPAT1/2, and FOS represent candidate genes potentially linked to adipogenesis based on existing literature; their actual biological functions in yak muscle require experimental validation. In conclusion, the significantly differentially expressed genes and metabolites show correlative patterns within the aforementioned metabolic pathways and represent promising candidate molecules for further investigation of muscle fat deposition in yaks.",
+      "link": "https://doi.org/10.1038/s41598-026-71631-x",
+      "authors": [
+        "Boxuan Yang",
+        "Xiangfei Zhang",
+        "Ying Yu",
+        "Xiaolin Luo",
+        "Tianwu An",
+        "Jiuqiang Guan",
+        "Qin Bai",
+        "Quan Sha",
+        "Mengen Xu",
+        "Hongwen Zhao"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-15T00:34:58+00:00",
+      "last_seen": "2026-09-15T00:34:58+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-15T00:34:58+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71305-8": {
+      "key": "doi:10.1038/s41598-026-71305-8",
+      "doi": "10.1038/s41598-026-71305-8",
+      "title": "Data-centric evaluation of reference-guided multimodal models for reliable railway fastener inspection",
+      "abstract": "Reliable railway fastener inspection is essential for maintaining infrastructure safety and supporting timely maintenance decisions. Large multimodal models (LMMs) offer a promising alternative to conventional supervised approaches; however, their reliability for fine-grained railway inspection remains poorly understood. Here, we present a data-centric conceptual framework for the systematic cross-paradigm evaluation of a supervised InceptionV3 baseline and large multimodal models under no-reference and reference-guided inspection settings. We further investigate the influence of data partitioning, structural consistency, and Chain-of-Thought (CoT) reasoning on multimodal inspection performance. The supervised baseline achieved stable and reliable results under conventional training conditions, whereas LMMs showed limited capability in no-reference settings. Introducing structurally consistent same-type reference images substantially improved the performance of several multimodal models, particularly under limited-data conditions. However, the effects of CoT reasoning were strongly model-dependent, yielding benefits for some models while degrading performance in others. Collectively, the findings suggest that, under the evaluated experimental conditions, multimodal inspection reliability is influenced more strongly by data-centric factors, including reference alignment, structural consistency, and data availability, than by model complexity alone. These results support the adoption of data-centric and deployment-oriented strategies for developing robust and reliable multimodal railway inspection systems.",
+      "link": "https://doi.org/10.1038/s41598-026-71305-8",
+      "authors": [
+        "Prapaporn Khantanas",
+        "Prush Sa-nga-ngam"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-15T00:34:59+00:00",
+      "last_seen": "2026-09-15T00:34:59+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-15T00:34:59+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71405-5": {
+      "key": "doi:10.1038/s41598-026-71405-5",
+      "doi": "10.1038/s41598-026-71405-5",
+      "title": "A multistage CT-based artificial intelligence system for microvessel density quantification in lung adenocarcinoma: correlation with histopathology",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-71405-5",
+      "authors": [
+        "Ronghua Wang",
+        "Lin Wang",
+        "Shuai Quan",
+        "Juan Guo",
+        "Xinzheng Wang",
+        "E. Linning",
+        "Jiangfeng Du"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-15T00:35:00+00:00",
+      "last_seen": "2026-09-15T00:35:00+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "artificial intelligence"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71627-7": {
+      "key": "doi:10.1038/s41598-026-71627-7",
+      "doi": "10.1038/s41598-026-71627-7",
+      "title": "Bone marrow miRNA signatures differentiate Waldenström macroglobulinemia from multiple myeloma and reflect disease‑specific regulatory programs",
+      "abstract": "Abstract Waldenström macroglobulinemia (WM) and multiple myeloma (MM) are biologically distinct monoclonal gammopathies with partly overlapping clinical and laboratory features. In this exploratory study, we compared WM with a non-IgM MM to investigate whether bone marrow miRNA expression patterns differ between these entities and whether selected miRNAs could provide biological or diagnostic insight. Small RNA sequencing of bone marrow-derived cell fractions identified eight miRNAs differentially expressed between WM and MM. Among them, miR-92a-3p and miR-155-5p were upregulated in WM and were subsequently validated by RT-qPCR, showing promising discriminatory performance in bone marrow samples. In contrast, analysis of circulating miRNAs in peripheral blood serum showed limited concordance with bone marrow expression and did not reliably distinguish WM from MM, suggesting that serum miRNA levels may be influenced by additional systemic, cellular, and microenvironmental factors. To explore the potential biological context of the dysregulated miRNAs, predicted target genes were integrated with protein–protein interaction network and functional enrichment analyses. These exploratory analyses highlighted several hub genes, including EGFR , KRAS , MAPK1 , STAT3 , PTEN , HIF1A , and CCND1, and suggested enrichment of pathways related to PI3K/Akt, MAPK, HIF-1, and EGFR signaling, cellular senescence, cell cycle, and immune regulation. Collectively, our findings indicate that selected bone marrow miRNAs, particularly miR-92a-3p and miR-155-5p, may help distinguish WM from MM in this cohort and may reflect differences in underlying cellular and regulatory programs. Further validation in independent cohorts, including diagnostically challenging IgM monoclonal gammopathies, is warranted.",
+      "link": "https://doi.org/10.1038/s41598-026-71627-7",
+      "authors": [
+        "Tereza Růžičková",
+        "Petra Vychytilová-Faltejsková",
+        "Lenka Radová",
+        "Monika Vlachová",
+        "Viera Sandecká",
+        "Marie Jarošová",
+        "Michal Kaščák",
+        "Sabina Ševčíková"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-15T00:35:00+00:00",
+      "last_seen": "2026-09-15T00:35:00+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71815-5": {
+      "key": "doi:10.1038/s41598-026-71815-5",
+      "doi": "10.1038/s41598-026-71815-5",
+      "title": "Treadmill exposure was associated with higher terminal measures of gastrointestinal function in male rats receiving D-galactose and loperamide",
+      "abstract": "Exercise may influence bowel function, but direct gastrointestinal functional outcomes in animals treated with D-galactose and loperamide remain insufficiently characterized. We conducted an exploratory endpoint-specific available-case secondary analysis of a broader six-arm experiment. Ten male rats were initially allocated to each source-project group; the present comparison involved blank controls (BC), D-galactose/loperamide-treated model animals (ACF), and model animals exposed to treadmill training (EX). Small-intestinal propulsion, fecal pellet output, and fecal moisture were available for six animals per group, but the retained records did not establish why exactly six had terminal measurements. Compared with ACF, EX showed higher propulsion (64.40 ± 8.52% vs. 44.33 ± 5.31%; difference, 20.07% points; 95% CI, 10.69–29.45), pellet output (10.56 ± 1.77 vs. 1.94 ± 0.39 pellets/6 h; difference, 8.61; 95% CI, 6.76–10.47), and moisture (41.92 ± 4.41% vs. 29.00 ± 4.80%; difference, 12.92% points; 95% CI, 6.98–18.86). Holm-adjusted Welch P values were 0.0021, < 0.001, and 0.0020; exact label-permutation P values were 0.0022 (Holm-adjusted, 0.0065) for each contrast. These findings describe treadmill-exposure-associated terminal differences. Informative endpoint non-availability, differential attrition, survivor bias, and the absence of matched sham treadmill handling, treadmill-environment exposure, and electrical-grid exposure preclude intention-to-treat and exercise-specific causal interpretation.",
+      "link": "https://doi.org/10.1038/s41598-026-71815-5",
+      "authors": [
+        "Qianhong Li",
+        "Minghui Jia",
+        "Yiming Zhang",
+        "Limeng Liu",
+        "Yongheng Zhao",
+        "Xuefeng Xi",
+        "Gaixia Hou"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-15T00:35:00+00:00",
+      "last_seen": "2026-09-15T00:35:00+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-15T00:35:00+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71075-3": {
+      "key": "doi:10.1038/s41598-026-71075-3",
+      "doi": "10.1038/s41598-026-71075-3",
+      "title": "Immune activation cytokines and metabolic risk factors in adults with metabolic syndrome",
+      "abstract": "Metabolic syndrome (MetS) is characterized by low-grade chronic inflammation and by an abnormal or dysregulated immune system. The connection between activated T-cells, by inflammatory cytokines and by different groups of metabolic abnormalities is not completely understood. This study aimed to investigate the associations of T-cell immune markers and inflammatory cytokines with metabolic syndrome and the number of its individual components. The study is a cross-sectional analysis including 300 adults with and without MetS. Patients with MetS were significantly older and had higher BMI (31.7 ± 5.34 vs. 27.9 ± 4.72 kg/m2, p < 0.001), glucose levels (6.99 ± 3.07 vs. 4.85 ± 0.89 mmol/L, p < 0.001) and HbA1c (6.63 ± 1.72% vs. 5.48 ± 0.66%, p < 0.001) than patients without MetS. Furthermore, patients with MetS had higher absolute numbers of CD3 + HLA-DR + T-cells (0.10 ± 0.06 vs. 0.08 ± 0.04 × 109 cells/L, p = 0.019), of CD4+CD25+ T cells(0.06 ± 0.03 vs. 0.05 ± 0.03 × 109 cells/L, p = 0.006), of IL-6 (3.62 ± 1.15 vs. 2.40 ± 0.93 pg/mL, p < 0.001), of IL-8 (24.7 ± 9.29 vs. 17.5 ± 7.51 pg/mL, p = 0.002) and of hsCRP (4.03 ± 2.75 vs. 2.54 ± 1.22 mg/L, p = 0.002). The number of MetS components was associated with higher concentrations of IL-6, IL-8, hsCRP, and levels of T-cell activation marker expression. In the multivariate model, age, female sex, prolonged sitting time, and hsCRP remained independently associated with MetS. Our findings support a coordinated immunometabolic dysfunction in MetS.",
+      "link": "https://doi.org/10.1038/s41598-026-71075-3",
+      "authors": [
+        "Dilfuza Mamraimova",
+        "Gulnaz Nuskabayeva",
+        "Karlygash Sadykova",
+        "Nursultan Nurdinov",
+        "Ugilzhan Tatykayeva",
+        "Dinara Azizkhojayeva",
+        "Assel Anarbayeva",
+        "Sirozhiddin Irismetov",
+        "Elmira Kozhambekova",
+        "Ainash Oshibayeva",
+        "Salim Berkinbayev",
+        "Arzu Mamutova"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-15T00:35:01+00:00",
+      "last_seen": "2026-09-15T00:35:01+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-15T00:35:01+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71911-6": {
+      "key": "doi:10.1038/s41598-026-71911-6",
+      "doi": "10.1038/s41598-026-71911-6",
+      "title": "Immunomodulatory responses and mitigation of Vibrio parahaemolyticus infection in white shrimp induced by heat-killed Vibrio parahaemolyticus",
+      "abstract": "This study investigated the immunoprotective efficacy of heat-killed Vibrio parahaemolyticus (HVp) at two concentrations, 1 × 105 CFU/mL (HVp5) and 1 × 107 CFU/mL (HVp7), administered via intramuscular injection in Litopenaeus vannamei. Immune parameters, carbohydrate metabolism, bacterial clearance efficiency, histopathology, and survival following pathogen challenge were comprehensively evaluated. HVp5 and HVp7 significantly enhanced innate immune responses, including elevated total and differential haemocyte counts, increased phenoloxidase and respiratory burst activities, heightened lysozyme levels, and improved phagocytic and bacterial clearance capacities. The immune responses were maintained over seven days, demonstrating effective immune priming. Furthermore, HVp-treated shrimp demonstrated more stable glucose and lactate profiles than shrimp injected with live V. parahaemolyticus, indicating improved energy regulation, and reduced metabolic disruption. The metabolic stability and immunological activation show that heat-killed bacteria are good immunostimulants that are safe to apply. The HVp5 and HVp7 groups showed significantly higher survival rates (66.67% and 70.83%, respectively) after exposure to the disease than the unimmunized control group (45.83%). A histological study supported the results even more. It demonstrated that the hepatopancreas tissue of the shrimp treated with HVp was mainly healthy, while the control group had extensive epithelial damage, which indicates V. parahaemolyticus pathology.",
+      "link": "https://doi.org/10.1038/s41598-026-71911-6",
+      "authors": [
+        "Suwaree Kitikiew",
+        "Nongnuch Laohavisuti",
+        "Cheng-Ying Li",
+        "Li-Yang Hsu",
+        "Sirithat Thiankham",
+        "Phunsin Kantha",
+        "Hsin-Wei Kuo",
+        "Winton Cheng"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-15T00:35:02+00:00",
+      "last_seen": "2026-09-15T00:35:02+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-15T00:35:02+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71639-3": {
+      "key": "doi:10.1038/s41598-026-71639-3",
+      "doi": "10.1038/s41598-026-71639-3",
+      "title": "An appraisal model linking epistemic beliefs, beliefs about errors, academic buoyancy, and academic risk-taking in preservice social studies teachers",
+      "abstract": "Academic risk-taking (ART) is a critical disposition for deep learning, yet the psychological processes associated with learners’ willingness to engage with academic uncertainty remain underexplored. Grounded in the cognitive appraisal and coping framework, this study examined how epistemic beliefs, constructive beliefs about errors, and academic buoyancy are associated with ART in teacher education contexts. A cross-sectional study was conducted with 434 preservice social studies teachers in Türkiye (63.8% female; mean age = 20.59 years). We tested a serial mediation model in which beliefs about errors and academic buoyancy were specified as sequential mediators of the association between epistemic beliefs and ART. Structural equation modeling indicated that epistemic beliefs had a significant positive total association with ART, whereas the direct association was nonsignificant after beliefs about errors and academic buoyancy were included in the model. The total indirect effect was significant, as were the specific indirect effects through beliefs about errors, academic buoyancy, and the proposed serial pathway from epistemic beliefs through beliefs about errors and academic buoyancy to ART. These findings suggest that the association between epistemic beliefs and ART is statistically accounted for primarily by the modeled indirect pathways and is consistent with an appraisal-based interpretation linking epistemic beliefs, error interpretations, academic buoyancy, and willingness to take academic risks. Because the study was cross-sectional, the observed pathways should be interpreted as model-consistent associations rather than evidence of temporal or causal processes. The findings identify potentially relevant areas for teacher education, including constructive engagement with errors and support for managing routine academic setbacks.",
+      "link": "https://doi.org/10.1038/s41598-026-71639-3",
+      "authors": [
+        "Servet Üztemur",
+        "Erkan Dinç",
+        "Ali Gökalp",
+        "I-Hua Chen",
+        "Dilek Turan Eroğlu",
+        "Chung-Ying Lin"
+      ],
+      "published": "2026-09-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-15T00:35:03+00:00",
+      "last_seen": "2026-09-15T00:35:03+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-15T00:35:03+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
     }
   }
 }
