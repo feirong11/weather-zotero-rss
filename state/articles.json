@@ -114663,6 +114663,703 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-16T00:33:24+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1007/s00376-026-5895-x": {
+      "key": "doi:10.1007/s00376-026-5895-x",
+      "doi": "10.1007/s00376-026-5895-x",
+      "title": "Warming-induced Decrease in Snowfall Fraction Shifts Runoff Seasonality over the Tibetan Plateau",
+      "abstract": "Climate warming facilitates a transition from snowfall to rainfall, altering snowpack dynamics and affecting runoff seasonality. The Tibetan Plateau, located at the westerly–monsoon transition zone, exhibits varied impacts of snowmelt on runoff across different climatic regions. Using monthly runoff data from nine snow-affected river basins, the runoff seasonality response to snowfall fraction changes is investigated during the historical (1998–2017) and future (2021–60) periods. Distinct seasonal runoff responses to decreasing snowfall fraction are observed across basins dominated by different climate regimes, with a critical snowfall fraction threshold of 0.5. Specifically, the center timing of runoff mass in westerly dominated basins shifts earlier, while it is delayed in monsoon-dominated basins. Seasonal runoff variability decreases with reduced snowfall fraction in westerly dominated basins, but increases in monsoon-dominated basins, primarily due to asymmetric cold–warm season runoff responses. In westerly basins, declining snowfall reduces both warm-and cold-season runoff, dampening the variability. In monsoon basins, warm-season runoff increases while cold-season runoff declines, amplifying the seasonality. This shift is driven by snowfall fraction effects on snowpack dynamics. Below the threshold, rapid spring snowmelt occurs with sensible heat flux dominance. Above the threshold, the persistent snowpack shifts energy partitioning toward latent heat flux, delaying and moderating peak runoff. Future projections indicate that runoff timing will advance by 22–29 days with reduced variability in westerly dominated basins, but delay by 18–20 days with increased variability in monsoon-dominated basins. Warming-induced earlier snowmelt will increase spring runoff, while rising evapotranspiration reduces summer and autumn water availability, exacerbating seasonal water shortages.",
+      "link": "https://doi.org/10.1007/s00376-026-5895-x",
+      "authors": [
+        "Yaling Chen",
+        "Xianhong Meng",
+        "Peili Wu",
+        "Jun Wen",
+        "Zhaoguo Li",
+        "Hao Chen",
+        "Lin Zhao",
+        "Lele Shu",
+        "Mingshan Deng",
+        "Wei Jin"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Advances in Atmospheric Sciences",
+      "journal_label": "Advances in Atmospheric Sciences",
+      "issn": "0256-1530",
+      "first_seen": "2026-09-16T06:33:18+00:00",
+      "last_seen": "2026-09-16T06:33:18+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:18+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1007/s00376-026-5906-y": {
+      "key": "doi:10.1007/s00376-026-5906-y",
+      "doi": "10.1007/s00376-026-5906-y",
+      "title": "Poleward Redistribution of Tropical Cyclone Hazards over East Asia",
+      "abstract": "Abstract Tropical cyclones (TCs) in the western North Pacific have undergone notable changes over recent decades alongside ocean warming and large-scale atmospheric circulation variability. Using TC best-track data from 1980 to 2025, we identify a pronounced poleward redistribution of TC occurrence across East Asia. This redistribution is characterized by decreasing landfall likelihood at lower latitudes and increasing likelihood at higher latitudes, despite a decline in basin-wide TC genesis frequency. Consistent with this pattern, TC activity exhibits a poleward shift, with reduced occurrence south of 30°N and enhanced activity at higher latitudes, accompanied by more landward- and poleward-oriented tracks. The ratio of landfalling TCs decreases south of 20°N but increases north of 30°N, providing direct quantitative evidence for this redistribution. In addition, TC translation speed has increased modestly, leading to shorter oceanic durations prior to landfall, particularly during the most recent decade, which further modulates coastal hazard patterns. In contrast, no significant long-term trend is found in lifetime maximum intensity, and mean intensity shows a slight weakening. These results suggest that recent changes in TC hazards are primarily driven by shifts in TC tracks and translation characteristics rather than systematic intensification. Overall, our findings highlight a coherent poleward redistribution of TC hazards along the East Asian coast, rather than a uniform increase, with important implications for regional coastal hazard patterns.",
+      "link": "https://doi.org/10.1007/s00376-026-5906-y",
+      "authors": [
+        "Jia Sun",
+        "Kang Sun",
+        "Shoude Guan",
+        "Qi Shu",
+        "Quan’an Zheng",
+        "Dejun Dai",
+        "Xuejun Xiong",
+        "Guihua Wang"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Advances in Atmospheric Sciences",
+      "journal_label": "Advances in Atmospheric Sciences",
+      "issn": "0256-1530",
+      "first_seen": "2026-09-16T06:33:21+00:00",
+      "last_seen": "2026-09-16T06:33:21+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ]
+      }
+    },
+    "doi:10.1007/s00376-026-6224-0": {
+      "key": "doi:10.1007/s00376-026-6224-0",
+      "doi": "10.1007/s00376-026-6224-0",
+      "title": "Changes of Köppen Climate Zones over China in Simulated Interglacial and Future Warm Intervals",
+      "abstract": "Köppen climate classification provides a threshold-based description of regional hydrothermal conditions and relates to the ecosystem. Comparing its changes under past natural warm intervals and future CO2-driven warming scenarios helps clarify how climate zones respond to different external forcings. In this study, the Köppen climate type changes over China and related mechanisms are investigated using multiple Coupled Model Intercomparison Project phase 6 (CMIP6) models under past and future warm conditions of the Last Interglacial (LIG; 127 ka), mid-Holocene (MH; 6 ka), and an idealized future warming scenario with a 1% CO2 increase per year (1pctCO2). The 1pctCO2 experiment shows the most extensive subtype-level Köppen climate changes, affecting 48% of national terrestrial land, compared to 38% in the LIG and 16% in the MH. Cold climate is the most sensitive type across the three warm intervals. Compared to the preindustrial period, the simulated tropical, arid, and temperate zones contract, but the cold zone expands during the interglacial epochs, related to increased temperature seasonality. In the future, all major types expand, except the polar zone. Temperature dominates these transitions across the three warm periods. Surface energy balance indicates that interglacial climate type shifts are linked to enhanced temperature seasonality due to the surface net shortwave radiation variations, whereas the 1pctCO2 experiment exhibits uniform seasonal warming over China driven by longwave radiation. Simulated interglacial climate type transitions qualitatively agree with site-based proxy reconstructions. These results highlight forcing-dependent climate zone responses, providing a paleoclimate reference for future climate–ecosystem boundary shifts in China.",
+      "link": "https://doi.org/10.1007/s00376-026-6224-0",
+      "authors": [
+        "Beilei Wu",
+        "Dabang Jiang"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Advances in Atmospheric Sciences",
+      "journal_label": "Advances in Atmospheric Sciences",
+      "issn": "0256-1530",
+      "first_seen": "2026-09-16T06:33:21+00:00",
+      "last_seen": "2026-09-16T06:33:21+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:21+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1007/s00376-026-5828-8": {
+      "key": "doi:10.1007/s00376-026-5828-8",
+      "doi": "10.1007/s00376-026-5828-8",
+      "title": "Turbulence Intermittency Characteristics and Energy Balance over Three Distinct Land Surfaces",
+      "abstract": "Turbulence intermittency is a frontier challenge in atmospheric turbulence research, affecting turbulent flux estimation and surface energy balance nonclosure. This study uses atmospheric boundary layer observations from three typical underlying surfaces in northern China to quantitatively investigate the characteristics of turbulence intermittency and its impact on energy balance closure. Particular attention is given to the consistency and variability of these characteristics across different surface types. The results indicate that turbulence intermittency exhibits broadly similar characteristics and effects over the three underlying surfaces. During burst periods of turbulence intermittency events, turbulent flux transport is enhanced, whereas sub-mesoscale motions contribute less to transport than turbulent motions. The opposite tendency is observed during quiescent periods. Stronger intermittency generally weakens turbulent flux transport. Empirical relationships are established between turbulence intermittency intensity, mean turbulent transport capacity, and background meteorological fields. The contribution of turbulence intermittency to surface energy balance closure appears to be a common feature across different surfaces. During burst periods, surface energy residuals decrease by 1.91–44.86 W m−2, and the mean closure ratios improve by 3%–39%. Tazhong station, which represents an arid region with strongly heterogeneous and thermally forced underlying surfaces, exhibits the strongest and most frequent turbulence intermittency. It also shows that more frequent co-occurrence of dynamical and thermal intermittency is associated with greater reductions in residuals and more pronounced improvements in closure. These findings may provide a basis for numerical simulations of turbulence intermittency and for refining turbulence parameterization schemes in atmospheric models.",
+      "link": "https://doi.org/10.1007/s00376-026-5828-8",
+      "authors": [
+        "Heying Chang",
+        "Yan Ren",
+        "Hongsheng Zhang",
+        "Wei Wei",
+        "Mingjie Ma",
+        "Jiening Liang",
+        "Pengfei Tian",
+        "Xianjie Cao",
+        "Jiayun Li",
+        "Lei Zhang"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Advances in Atmospheric Sciences",
+      "journal_label": "Advances in Atmospheric Sciences",
+      "issn": "0256-1530",
+      "first_seen": "2026-09-16T06:33:22+00:00",
+      "last_seen": "2026-09-16T06:33:22+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:22+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77716-5": {
+      "key": "doi:10.1038/s41467-026-77716-5",
+      "doi": "10.1038/s41467-026-77716-5",
+      "title": "Molecular mechanism of calcium inhibition in viral channelrhodopsins",
+      "abstract": "Abstract Viral channelrhodopsins (VCR1s) are giant-virus-encoded light-gated channels permeable to monovalent and divalent cations, including Na + and Ca 2+ ions, and inhibited by millimolar Ca 2+ concentrations. Here, we combine X-ray crystallography, time-resolved UV-vis spectroscopy, and ATR-FTIR spectroscopy to investigate molecular mechanisms of ion permeation and Ca 2+ -dependent inhibition in OLPVR1. An atomic resolution structure of OLPVR1 obtained in the presence of 10 mM CaCl 2 and 900 mM NaCl reveals a transient intracellular Ca 2+ binding site near T87 and T88, close to the retinal cofactor. Upon photoactivation, this Ca 2+ ion prevents a key rearrangement of the intracellular gate required for ion translocation, namely the flip of E44, thereby disrupting ion conduction. Instead, illumination leads to the accumulation of Na + ions between E44, S208 and the carbonyl oxygen of retinal-binding residue K204. Our findings reveal the molecular basis of Ca 2+ -dependent inhibition in VCR1s and provide a foundation for engineering enhanced tools for calcium optogenetics.",
+      "link": "https://doi.org/10.1038/s41467-026-77716-5",
+      "authors": [
+        "Dmitrii Zabelskii",
+        "Sergey Bukhdruker",
+        "Gerrit H. U. Lamm",
+        "Siarhei Bukhalovich",
+        "Mako Aoyama",
+        "Vsevolod Sudarev",
+        "Alexander Kuzmin",
+        "Mikihiro Shibata",
+        "Kota Kotayama",
+        "Hideki Kandori",
+        "Josef Wachtveitl",
+        "Ernst Bamberg",
+        "Valentin Gordeliy"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-16T06:33:43+00:00",
+      "last_seen": "2026-09-16T06:33:43+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77710-x": {
+      "key": "doi:10.1038/s41467-026-77710-x",
+      "doi": "10.1038/s41467-026-77710-x",
+      "title": "Hierarchical regulation of oxygen-sensing through coupled transducers in Arabidopsis thaliana",
+      "abstract": "Abstract The sensing of molecular oxygen is an essential component of development and environmental response in both animals and plants. Few substrates of the plant oxygen-sensing PLANT CYSTEINE OXIDASE (PCO) N-degron pathway have been identified. Here we show that HYPOXIA TRANSDUCER1 (HYT1, previously named HYPOXIA-RESPONSIVE UNKNOWN PROTEIN, HUP40), an angiosperm-specific tail anchored-domain protein, is a substrate of this pathway through a Cys-2 dependent N-degron. HYT1 is stabilised in response to acute hypoxia in root tissues and is associated with the endoplasmic reticulum and nucleus. Genetic evidence shows that HYT1 is an important component in the transduction of oxygen-sensing, required for tolerance to acute hypoxia and other stress responses. Expression of HYT1 is directly activated by group VII ETHYLENE RESPONSE FACTOR transcription factors (ERFVIIs), that are also pathway substrates. The relationship between ERFVIIs and HYT1 has properties of a coherent feed-forward loop initiated and maintained by hypoxia, providing a mechanism to ensure robust response to reduced oxygen.",
+      "link": "https://doi.org/10.1038/s41467-026-77710-x",
+      "authors": [
+        "Isabel Manrique-Gil",
+        "Charlene Dambire",
+        "Susana Ubeda-Tomás",
+        "Gunjan Sharma",
+        "Mohamad Abbas",
+        "Cristina Sousa Correia",
+        "Andrea Bombana",
+        "Ranjan Swarup",
+        "Nicholas J. Mitchell",
+        "Neil J. Oldham",
+        "Michael J. Holdsworth"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-16T06:33:43+00:00",
+      "last_seen": "2026-09-16T06:33:43+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77649-z": {
+      "key": "doi:10.1038/s41467-026-77649-z",
+      "doi": "10.1038/s41467-026-77649-z",
+      "title": "Topology-enhanced machine learning for speech signal processing",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41467-026-77649-z",
+      "authors": [
+        "Pingyao Feng",
+        "Qingrui Qu",
+        "Haiyu Zhang",
+        "Siheng Yi",
+        "Zhiwang Yu",
+        "Zeyang Ding",
+        "Yifei Zhu"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-16T06:33:43+00:00",
+      "last_seen": "2026-09-16T06:33:43+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-69094-1": {
+      "key": "doi:10.1038/s41598-026-69094-1",
+      "doi": "10.1038/s41598-026-69094-1",
+      "title": "Deep learning feature fusion with transfer learning for Alzheimer’s disease classification",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-69094-1",
+      "authors": [
+        "Gagana Nandikanti",
+        "Mohammad Hassanzadeh",
+        "Mohammad El-Yabroudi",
+        "Nabih Jaber"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:48+00:00",
+      "last_seen": "2026-09-16T06:33:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71499-x": {
+      "key": "doi:10.1038/s41598-026-71499-x",
+      "doi": "10.1038/s41598-026-71499-x",
+      "title": "Predictability of airflow obstruction using normal spirometry measurements",
+      "abstract": "Airflow Obstruction (AO) is of importance as it is a critical element of chronic respiratory diseases such as chronic obstructive pulmonary disease (COPD) and asthma. Early identification of AO helps to manage and to improve long-term outcomes. The aim is to assess the ability of spirometric markers to predict (the risk of) AO development in the general population. To this end, 5141 participants with at least two consecutive valid measurements were selected from the Austrian LEAD (Lung, hEart, sociAl, boDy) cohort. Participants had normal lung function, with no AO, and no prior diagnosis of asthma or COPD at baseline. Lung function (LF) predictors were used to develop statistical models predicting the incidence of AO at follow-up, approximately four years in advance. Beyond defining cut-offs to identify participants at risk, the analyses showed that a combined LF model provided higher discrimination than single-parameter models based on FEV₁ and FEF25–75%, while its discrimination was not significantly different from FEV₁/FVC. Incorporating total lung capacity (TLC) as a lung volume (LV) parameter into the LF model resulted in a small but statistically significant increase in discrimination (AUC = 0.901 vs. 0.891; ΔAUC = 0.010, p = 0.017). However, the added clinical value of lung volume parameter requires further evaluation. The positive predictive values (PPVs) of the models ranged from 0.08 to 0.16, indicating an increased probability of developing AO among participants identified as being at risk compared with the overall study population (0.0393); however, PPVs remained relatively low, consistent with the low incidence of AO in the study population.",
+      "link": "https://doi.org/10.1038/s41598-026-71499-x",
+      "authors": [
+        "Ahmad Karimi",
+        "Mohammad Azizzadeh",
+        "Hazim Abozid",
+        "Marie T. Grasl",
+        "Tobias L. Mraz",
+        "Marie-Kathrin Breyer",
+        "Emiel F.M. Wouters",
+        "Robab Breyer-Kohansal"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:48+00:00",
+      "last_seen": "2026-09-16T06:33:48+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:48+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69824-5": {
+      "key": "doi:10.1038/s41598-026-69824-5",
+      "doi": "10.1038/s41598-026-69824-5",
+      "title": "Predicting facial impressions using guided Grad-CAM and a large language model",
+      "abstract": "Facial impressions are central to social interaction, shaping judgments of attractiveness, dominance, and trustworthiness. Although psychophysical research has identified factors that contribute to these impressions, computational methods, particularly deep learning, offer a complementary, data-driven identification of impression-relevant facial cues. We trained a Visual Geometry Group 19-layer (VGG19) regression model to predict impression ratings from facial images and used explainable AI methods to interpret its predictions. We generated Grad-CAM and Guided Grad-CAM visualizations to identify decision-relevant facial regions at coarse and fine-grained levels. We used a large language model to produce structured, reproducible linguistic summaries of Guided Grad-CAM outputs and quantitatively cross-checked these summaries using an independent coarse region-of-interest (ROI) analysis that partitioned heatmap activation across the eyes, nose, mouth, and the remaining facial area. The results indicate impression-specific activation patterns. Attractiveness showed distributed emphasis across central facial regions, dominance involved balanced contributions with stable upper-face cues, and trustworthiness was characterized by strong mouth- and eye-related activation. The language-based summaries were repeatedly consistent with ROI-level distributions, supporting their use as constrained descriptions of salient activation patterns. This study demonstrated a practical workflow that integrated visualization, structured language outputs, and quantitative cross-checking to improve interpretability in facial impression prediction models.",
+      "link": "https://doi.org/10.1038/s41598-026-69824-5",
+      "authors": [
+        "Takanori Sano",
+        "Hideaki Kawabata"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:50+00:00",
+      "last_seen": "2026-09-16T06:33:50+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:50+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-67375-3": {
+      "key": "doi:10.1038/s41598-026-67375-3",
+      "doi": "10.1038/s41598-026-67375-3",
+      "title": "Enhancing shear capacity of wide RC beams with planted columns: steel rods vs. conventional stirrups",
+      "abstract": "Reinforced concrete (RC) wide beams supporting planted columns are frequently employed in non-seismic regions, particularly throughout the Middle East, to transfer concentrated gravity loads from upper floor levels. However, inadequate shear reinforcement in older or improperly detailed members makes these continuous load paths highly susceptible to sudden, brittle shear failures. While existing literature extensively documents the shear retrofitting of standard RC wide beams, the specific structural behavior and shear strengthening of wide beams subjected to highly concentrated loads from planted columns remains a significant research gap. This study addresses this by presenting a comprehensive experimental investigation evaluating two practical rehabilitation techniques. An experimental program comprising four large-scale RC wide beams, each measuring 1900 mm in length with a 650 × 200 mm cross-section, was conducted. Two unstrengthened beams served as baseline controls: one intentionally designed to experience shear failure, and another detailed with adequate internal shear reinforcement. The two remaining shear-deficient specimens were retrofitted using either vertically planted steel rods or near-surface mounted (NSM) U-shaped steel stirrups. The structural response of all specimens was critically evaluated based on crack propagation patterns, ultimate load-carrying capacity, load-displacement responses, and internal strain distributions. Experimental results demonstrated substantial performance enhancements; strengthening with planted steel rods and NSM stirrups increased the ultimate load capacity by 65% and 88%, respectively, compared directly to the unstrengthened shear-deficient control beam. Furthermore, analytical models were utilized to predict the theoretical shear capacities of all tested specimens, which demonstrated a highly accurate correlation with the observed experimental laboratory test findings.",
+      "link": "https://doi.org/10.1038/s41598-026-67375-3",
+      "authors": [
+        "Aref Abadel",
+        "Omar Al-Hamed",
+        "Hussein Elsanadedy",
+        "Tarek Almusallam",
+        "Husain Abbas",
+        "Yousef Al-Salloum"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:51+00:00",
+      "last_seen": "2026-09-16T06:33:51+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:51+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70181-6": {
+      "key": "doi:10.1038/s41598-026-70181-6",
+      "doi": "10.1038/s41598-026-70181-6",
+      "title": "Estimation of NATM excavation-support classes at tunnel excavation faces using a deep learning algorithm",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-70181-6",
+      "authors": [
+        "H. Selin Özdemir",
+        "Gokcen Gokceoglu",
+        "Nazli Tunar Ozcan",
+        "Candan Gokceoglu"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:52+00:00",
+      "last_seen": "2026-09-16T06:33:52+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71457-7": {
+      "key": "doi:10.1038/s41598-026-71457-7",
+      "doi": "10.1038/s41598-026-71457-7",
+      "title": "Gut–brain axis alterations suggest a low feed intake syndrome in weanling pigs",
+      "abstract": "Abrupt weaning imposes highly variable physiological stress on pigs, yet the mechanisms underlying this variability remain poorly understood. We applied an integrative approach combining transcriptomics, gastrointestinal phenotyping, and blood biomarkers to characterize gut–brain axis dynamics at one week post‑weaning (day 7) and at the end of the nursery phase (day 39) in pigs with divergent early ADG. Twenty‑four pigs of similar weaning weight (5.65 ± 1.0 kg) were selected from pens showing extreme early feed intake post-weaning and subsequently classified by average daily gain (ADG) as an early adaptation phenotype (n = 12/timepoint). RNA sequencing identified 40 and 46 differentially expressed genes (DEGs) in the ileum and hypothalamus, respectively, at day 7, and 119 and 80 DEGs at day 39. Low-ADG pigs at day 7 exhibited transcriptional signatures consistent with impaired intestinal barrier integrity and nutrient metabolism-related pathways together with hypothalamic activation of immune and appetite-suppressing signalling. These changes were accompanied by higher insulin (P = 0.020) and lower IGF-I (P = 0.036) and TNF-α (P = 0.016) concentrations. By day 39, digestive and metabolic pathways were upregulated in the ileum of Low-ADG pigs, whereas impaired gut integrity and altered hypothalamic signalling persisted. Low-ADG pigs also exhibited higher triglycerides (P = 0.028), insulin (P = 0.041), leptin (P = 0.003), and TNF-α (P = 0.035) concentrations, together with lower PYY (P = 0.022). Collectively, these findings suggest a “low feed intake syndrome”, in which early nutrient deprivation, compromised gut integrity, and dysregulated neuroendocrine signalling converge to perpetuate poor growth and long‑term maladaptation.",
+      "link": "https://doi.org/10.1038/s41598-026-71457-7",
+      "authors": [
+        "L. Ferreres-Serafini",
+        "H. M. J. Van Hees",
+        "S. M. Martín-Orúe",
+        "J. F. Pérez",
+        "T. G. Hulshof",
+        "L. M. Payling",
+        "L. Fabà"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:52+00:00",
+      "last_seen": "2026-09-16T06:33:52+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:52+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68563-x": {
+      "key": "doi:10.1038/s41598-026-68563-x",
+      "doi": "10.1038/s41598-026-68563-x",
+      "title": "Cyclosporin A triggers a RIG-I-mediated interferon response through multiple cellular processes",
+      "abstract": "Abstract The development of broad-spectrum antiviral agents is essential for preparedness against emerging viruses with pandemic potential. Cyclosporin A (CsA), a clinically approved immunosuppressant, has been shown to exert antiviral activity against a wide range of viruses. Recent evidence suggests that this effect is partially mediated through the induction of interferon lambda (IFN-λ), which in turn stimulates a set of interferon-stimulated genes (ISGs) that establish an antiviral cellular state. However, the molecular mechanisms underlying IFN-λ induction by CsA have remained poorly understood. Here, we demonstrate that CsA triggers a retinoic acid-inducible gene I (RIG-I)-dependent activation of the IFN-λ/ISG signaling axis. This is accompanied by the upregulation of mitochondrial double-stranded RNA (dsRNA). Importantly, we show that CsA causes pronounced alterations in the mitochondrial cristae network. CsA also impairs autophagy, as evidenced by reduced autophagosomal membrane formation and increased levels of the autophagy marker p62. Supporting a functional link, treatment with the autophagy inducer Torin-1 reverses CsA-induced dsRNA accumulation, IFN-λ expression and ISG transcription. Together, our data indicate that the antiviral activity of CsA is partially driven by converging cellular processes involving mitochondrial remodeling, dsRNA accumulation, and impaired autophagy, which collectively activate the RIG-I/IFN-λ/ISG axis, offering mechanistic insights with therapeutic implications.",
+      "link": "https://doi.org/10.1038/s41598-026-68563-x",
+      "authors": [
+        "Lars Meier",
+        "Martin Schauflinger",
+        "Pauline Neubecker",
+        "Dennis Freisem",
+        "Lena Gimpl",
+        "Michelle Gellhorn Serra",
+        "Helene Hoenigsperger",
+        "Benjamin Rupf",
+        "Susanne Herold",
+        "Stefan Bauer",
+        "Konstantin M. J. Sparrer",
+        "Stephan Becker",
+        "Lucie Sauerhering"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:52+00:00",
+      "last_seen": "2026-09-16T06:33:52+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69328-2": {
+      "key": "doi:10.1038/s41598-026-69328-2",
+      "doi": "10.1038/s41598-026-69328-2",
+      "title": "Exosomes from TGF-β1-pretreated mesenchymal stem cells alleviate neuronal injury in epilepsy by regulating the miR-132/SIRT1 axis via lncRNA UCA1",
+      "abstract": "Recently, mesenchymal stem cells (MSCs), valued for their multipotent properties, have attracted significant attention in disease therapy. Transforming growth factor-β1(TGF-β1), a cytokine involved in regulating cellular stress responses, is closely associated with neurological function and the differentiation of MSCs. The primary purpose of this research was to assess the neuroprotective capacity of exosomes from TGF-β1-pretreated human umbilical cord mesenchymal stem cells (hUCMSCs) on neuronal injury in epilepsy. In this study, we established epileptic models using male C57BL/6 mice and hippocampal Neurons. Exosomes from TGF-β1- pretreated hUCMSCs were characterized via transmission electron microscopy (TEM) combined with nanoparticle tracking analysis (NTA) and were then applied as a therapeutic intervention. Our research demonstrated that TGF-β1 upregulated the level of the long non-coding RNA urothelial carcinoma-associated 1 (lncRNA UCA1) in hUCMSC-derived exosomes. Exosomes from TGF-β1-pretreated hUCMSCs enhanced neuronal viability, inhibited apoptosis, and reduced inflammation and oxidative stress levels, whereas UCA1 knockdown reversed these beneficial effects. Furthermore, lncRNA UCA1 directly binds to miR-132. Knockdown of UCA1 upregulated miR-132 levels and downregulated SIRT1 expression; this downregulation could be rescued by inhibiting miR-132. In vivo, we further observed that exosomes from TGF-β1-pretreated hUCMSCs alleviated neuronal damage in the hippocampal CA3 region, inhibited glial activation, and suppressed the increase of related inflammatory factors. In contrast, UCA1 knockdown produced the opposite effects. The in vivo findings paralleled the results of the in vitro cell experiments. In conclusion, these results demonstrated that exosomes from TGF-β1-pretreated hUCMSCs exert anti-epileptic effects by modulating the lncRNA UCA1 / miR-132 / SIRT1 axis.",
+      "link": "https://doi.org/10.1038/s41598-026-69328-2",
+      "authors": [
+        "Tingting Yi",
+        "Mei Xu",
+        "Lihua Wang",
+        "Pengwei Wang"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:52+00:00",
+      "last_seen": "2026-09-16T06:33:52+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:52+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70005-7": {
+      "key": "doi:10.1038/s41598-026-70005-7",
+      "doi": "10.1038/s41598-026-70005-7",
+      "title": "High-efficiency production of multifunctional silver nanoparticles from Lagenaria siceraria Sandıklı ecotype via hydrothermal synthesis for biomedical and dielectric applications with phytochemical profiling",
+      "abstract": "Abstract Green synthesis of silver nanoparticles (AgNPs) offers a sustainable alternative to conventional, toxic chemical methods. This study investigates a combined hydrothermal-assisted green synthesis approach for AgNPs, utilizing a synergistic combined exocarp-mesocarp extract of Lagenaria siceraria sourced from the Sandıklı region of Turkiye. The principal methodological innovation of this work lies in the simultaneous utilization of both anatomical layers to maximize the phytochemical reducing and capping capacity, rather than simply relying on their synergistic effects. The phytochemical profile of the extract was comprehensively analyzed via LC-MS/MS, alongside quantitative assessments of total phenolic (TPC) and flavonoid (TFC) contents. Synthesized AgNPs were characterized using SEM-EDX, XRD, UV-Vis, FTIR, TGA, contact angle, and dielectric measurements. Biological performance was evaluated through total antioxidant/oxidant capacity (TAC/TOC), oxidative stress index (OSI), and antimicrobial assays against Escherichia coli, Staphylococcus aureus, and Candida albicans. LC-MS/MS revealed a rich bioactive profile dominated by quinic, protocatechuic, and caffeic acids. This integrated synthesis protocol enabled the high-yield (98% based on AgNO₃) production of highly crystalline, face-centered cubic (FCC) AgNPs with an average size of ~ 25 nm and a distinct surface plasmon resonance at 422 nm. FTIR and TGA confirmed the effective capping and thermal stability provided by the phytochemicals. While the plant extract (LSE) exhibited robust antioxidant activity comparable to Vitamin C, the synthesized AgNPs demonstrated a significant increase in TOC and OSI ( p < 0.05), indicating a shift toward a pro-oxidant character. Antimicrobial tests revealed that the AgNPs exhibited superior inhibitory activity against Gram-negative E. coli compared to the penicillin control, while showing moderate activity against S. aureus and C. albicans due to their complex cell wall structures. The Sandıklı ecotype of L. siceraria serves as a highly efficient, dual-action (reducing and capping) agent within this combined synthesis framework, highlighting the potential of the resulting nanomaterials not only for targeted antimicrobial applications but also as high-dielectric-performance materials for advanced electronic applications.",
+      "link": "https://doi.org/10.1038/s41598-026-70005-7",
+      "authors": [
+        "Mehmet Poyraz",
+        "Ibrahim Erol",
+        "Omer Hazman",
+        "Yildiz Leblebicier",
+        "Mustafa Abdullah Yilmaz",
+        "Oguz Cakir"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:53+00:00",
+      "last_seen": "2026-09-16T06:33:53+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71327-2": {
+      "key": "doi:10.1038/s41598-026-71327-2",
+      "doi": "10.1038/s41598-026-71327-2",
+      "title": "Integrative computational repositioning of Foretinib and PF-03715455 as potential GSTP1 inhibitors for cancer chemosensitization",
+      "abstract": "Glutathione S-transferase P1 (GSTP1) plays a key role in tumor progression and drug detoxification, making it a promising target for reversing chemoresistance in cancer cells. Although several GSTP1 inhibitors have been identified, none have progressed to clinical use, mainly because of low specificity and adverse effects. In this work, we used a virtual screening approach that integrates molecular docking and QSAR modeling to identify, through consensus, new GSTP1 inhibitors among approved and experimental compounds listed in the DrugBank database. PF-03715455 and Foretinib emerged as the most promising candidates among the top-ranked compounds, based on docking scores, predicted pIC₅₀ values, and binding free-energy analysis. Molecular dynamics (MD) simulations confirmed that both compounds maintained stable binding conformations and exhibited strong affinity for GSTP1, outperforming the reference inhibitor, TER117. This study presents a novel use of PF-03715455 and reveals a new mechanism for Foretinib, which stabilizes the dynamics essential for GSTP1 function and may prevent substrates from binding to the two active sites, H and G, thereby exerting potent inhibitory effects similar to those of reference inhibitors. This repositioning strategy could reduce costs and accelerate the discovery and development of GSTP1 inhibitors, paving the way for clinical use to improve chemosensitivity in cancer.",
+      "link": "https://doi.org/10.1038/s41598-026-71327-2",
+      "authors": [
+        "Marouane Aherkou",
+        "Mohammed Hakmi",
+        "Yassir Boulaamane",
+        "Azeddine Ibrahimi"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:53+00:00",
+      "last_seen": "2026-09-16T06:33:53+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:53+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71247-1": {
+      "key": "doi:10.1038/s41598-026-71247-1",
+      "doi": "10.1038/s41598-026-71247-1",
+      "title": "Mechanical fault diagnosis under long-tailed data: an improved federated learning method integrating attention, asymmetric convolution, and margin calibration",
+      "abstract": "Abstract Due to the inability to collect sufficient fault samples for specific types of gear and bearing faults, the data presents a long-tailed distribution, which hinders the effective construction of neural network diagnostic models. Furthermore, when Federated Learning (FL) methods are introduced to address this long-tail problem, they struggle to effectively extract feature information from samples belonging to the tail fault types. To address these issues, this paper proposes an improved FL method. Firstly, federated features are utilized to retrain the diagnostic model, enhancing the fault feature extraction capability for tail samples. Secondly, the Convolutional Block Attention Module (CBAM) mechanism is introduced to improve the Residual Network (ResNet) model within the FL framework, strengthening the capability and efficiency of extracting key local feature information from both channel and spatial dimensions. Thirdly, traditional convolution is replaced with asymmetric convolution to enhance the capability and efficiency of extracting asymmetric feature information from samples. Finally, a margin calibration algorithm is employed to optimize the network model's classification margin, thereby achieving higher diagnostic accuracy and efficiency. Experimental analysis based on measured fault samples from gears and bearings demonstrates that the proposed improved FL method effectively increases the average and maximum accuracy by 8.78% and 3.40%, respectively.",
+      "link": "https://doi.org/10.1038/s41598-026-71247-1",
+      "authors": [
+        "Zhaoqi Liu",
+        "Ang Cai",
+        "Zhen Xu"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:54+00:00",
+      "last_seen": "2026-09-16T06:33:54+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-67177-7": {
+      "key": "doi:10.1038/s41598-026-67177-7",
+      "doi": "10.1038/s41598-026-67177-7",
+      "title": "Quantifying temporal vulnerability of urban multi-modal transit networks under interdependent cascading failures",
+      "abstract": "Multi-modal public transit networks (MPTNs) are vulnerable to service disruptions that might diminish their utility and cause severe consequences. The present study assesses the vulnerability of MPTNs under different operating scenarios. By combining network topology, dynamic evolution, and passenger interchange characteristics, we propose a vulnerability assessment framework. The proposed assessment relies on dynamic flow redistribution rules based on the interlayer transfer coefficient and sequential network characteristic indicators, which are crucial for improving service quality and mitigating cascading failures. The results indicate that MPTNs are less vulnerable as station capacity increases. Moreover, MPTNs are more robust during off-peak scenarios. However, when a failure occurs, the vulnerability of the network increases with the interlayer flow coefficient. These insights facilitate the determination of reasonable capacity parameters for stations within specific ranges. Furthermore, the study enables the identification of critical cascade-propagation steps for effectively managing and mitigating cascading failures following a disruption.",
+      "link": "https://doi.org/10.1038/s41598-026-67177-7",
+      "authors": [
+        "Ziqi Wang",
+        "Jie Zhang",
+        "Chuntong Dong",
+        "Yulong Pei"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:54+00:00",
+      "last_seen": "2026-09-16T06:33:54+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:54+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69493-4": {
+      "key": "doi:10.1038/s41598-026-69493-4",
+      "doi": "10.1038/s41598-026-69493-4",
+      "title": "Upcycling medical waste into a magnetic adsorbent for amoxicillin removal: a circular economy approach",
+      "abstract": "Abstract Pharmaceutical pollution, particularly contamination by antibiotics such as amoxicillin (AMX), represents an increasing threat to aquatic ecosystems. Conventional wastewater treatment technologies often exhibit limited removal efficiency and may involve high operational costs. In this study, a waste-to-resource strategy was developed by converting discarded Thermacare Heat Patches (THPs), a common form of medical waste, into a magnetic carbon-based adsorbent for AMX removal from water. The novelty of this work lies in valorizing an underutilized medical waste into a reusable adsorbent, thereby addressing both medical waste management and water remediation challenges. The THP-derived material was characterized using FESEM, EDS, XRD, ATR-FTIR, VSM, BET, and zeta potential analyses. The material exhibited a mixed micro/mesoporous structure, with a specific surface area of 60.34 m²/g, an average pore diameter of 3.36 nm, superparamagnetic behavior with a saturation magnetization of 27.232 emu/g, and a point of zero charge at pH 5.6. Batch adsorption experiments were performed to evaluate the effects of contact time, solution pH, adsorbent dosage, and initial AMX concentration. Under optimum conditions of pH 5, 50 min contact time, and 2 g/L adsorbent dosage, the THP-derived adsorbent achieved 99.6% AMX removal from a 50 mg/L solution, with a maximum adsorption capacity of 24.9 mg/g. Kinetic analysis indicated that the pseudo-first-order model provided the best fit for the adsorption process, with an R² value of 0.97 as it exhibited a lower residual sum of squares (RSS = 34.50) and Akaike information criterion value (AIC = 22.89) than the PSO model (RSS = 41.70; AIC = 24.60). The equilibrium data were best described by the Freundlich and Temkin isotherm models, while the Dubinin–Radushkevich adsorption energy of 1.85 kJ/mol supporting a possible contribution from physical adsorption, although electrostatic interactions, hydrogen bonding, and other surface interactions may also contribute. Thermodynamic analysis confirmed that the adsorption process was spontaneous and endothermic (ΔH° = 42.38 kJ/mol), while the positive entropy change (ΔS° = 238 J/mol·K) indicated increased randomness at the solid–solution interface during adsorption. The adsorbent also demonstrated good reusability, maintaining 87% removal efficiency after five regeneration cycles. These findings demonstrate that discarded THPs can be successfully upcycled into a sustainable, reusable, and cost-effective magnetic adsorbent for removing antibiotics from contaminated water, thereby supporting circular economy principles and environmental remediation.",
+      "link": "https://doi.org/10.1038/s41598-026-69493-4",
+      "authors": [
+        "Rabab. A. Nasr",
+        "D. A. Wissa",
+        "Christen Tharwat"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:55+00:00",
+      "last_seen": "2026-09-16T06:33:55+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69452-z": {
+      "key": "doi:10.1038/s41598-026-69452-z",
+      "doi": "10.1038/s41598-026-69452-z",
+      "title": "Maximizing power transfer with ZVS/ZDS in a push–pull Class E inverter for induction heating",
+      "abstract": "This paper presents the design, experimental performance evaluation, and comprehensive analysis of a proposed Class E Zero-Voltage-Switching push–pull inverter, specifically optimized to maximize power transfer from the source to the load in an induction heating application. The proposed inverter features a resonant RLC tank circuit, two identical DC inductor chokes, shunt capacitors, and two power MOSFETs driven alternately to achieve induction heating. The unique design includes the introduction of intermediate inductors in the circuit that minimize higher-order harmonics and enhances continuous current operation. The key to this innovation is ZVS operation, which minimizes switching losses and optimizes power transfer by synchronizing MOSFET switching to occur at zero voltage across the device. The inverter is designed to operate at the resonant frequency of the RLC tank circuit, generating a nearly sinusoidal voltage waveform, thus facilitating efficient power delivery to the induction load. A comprehensive mathematical model is developed to analyze the behavior of the circuit, including the determination of key parameters such as resonant frequency, dynamic resistance, and power output capability. Experimental results from a 200W prototype induction heater demonstrate that the inverter can efficiently boil 250 mL of water, achieving a system efficiency of 86%. The experimental results and findings validate the proposed inverter design and suggest that it offers a satisfactory solution for applications that require resonant power conversion.",
+      "link": "https://doi.org/10.1038/s41598-026-69452-z",
+      "authors": [
+        "Umar Tabrez Shami",
+        "Muhammad Atif",
+        "Ali Faisal Murtaza",
+        "Abdulrahman Alsafrani"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:55+00:00",
+      "last_seen": "2026-09-16T06:33:55+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:55+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71319-2": {
+      "key": "doi:10.1038/s41598-026-71319-2",
+      "doi": "10.1038/s41598-026-71319-2",
+      "title": "Neutron diffraction investigation of residual stress and texture in additively manufactured AISI 410 and 316L steel plates produced by LPBF and DED",
+      "abstract": "Residual stresses pose a significant challenge in additive manufacturing, particularly for large metal parts. Monitoring these stresses is essential to achieving reliable performance characteristics. Neutron diffraction—a nondestructive method that measures residual stresses throughout the entire sample volume—offers key advantages. In this study, we compared residual stresses in steel specimens (AISI 316L and AISI 410) produced by laser powder bed fusion (PBF-LB) and directed energy deposition (DED-LB). The results showed that stresses in DED-LB specimens were lower than those in PBF-LB specimens, owing to the lower crystallization rate. This study also demonstrates, for the first time, the visualization of texture in a DED specimen using monochromatic neutron radiation and high-resolution neutron diffraction. These findings correlate with results from electron backscatter diffraction. Such visualization is valuable for nondestructive analysis and for identifying texture and porosity in large parts.",
+      "link": "https://doi.org/10.1038/s41598-026-71319-2",
+      "authors": [
+        "Ivan Karpov",
+        "Mikhail Murashev",
+        "Vyacheslav Em",
+        "Xing Luo",
+        "Liying Sun",
+        "Sergei Ivanov",
+        "Julia Bondareva",
+        "Evgenii Zemlyakov",
+        "Konstantin Babkin",
+        "Stanislav Evlashin",
+        "Ivan Sergeichev"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:56+00:00",
+      "last_seen": "2026-09-16T06:33:56+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:56+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71407-3": {
+      "key": "doi:10.1038/s41598-026-71407-3",
+      "doi": "10.1038/s41598-026-71407-3",
+      "title": "Conflict between farmers and Barbary macaques (Macaca sylvanus) in Northern Algeria: threats and conservation implications",
+      "abstract": "Abstract Human-wildlife conflict is a major challenge in conservation biology with ecological and socioeconomic consequences. The problem is particularly delicate when the animals involved are threatened with extinction and experiencing rapid habitat loss due to climate change and anthropogenic actions. Here, we examined crop-foraging on farms in Central North Algeria by the Endangered Barbary macaques ( Macaca sylvanus ) to understand the conflict severity. We surveyed 94 farmers to assess the seasonal pattern, occurrence, altitudinal pattern, and consequences of crop-foraging by the Barbary macaques. We found that the Barbary macaque was widely perceived by farmers as a “nuisance”, and one third of farms were abandoned due to severe crop loss. More than 50% of farms had their crops damaged between June and September. The probability of frequent crop-foraging was driven primarily by farm-scale characteristics and landscape context: Larger cultivated area were associated with greater crop-foraging frequency, while altitude and proximity to settlements showed weaker positive associations. Our results highlight the need for sustainable solutions to enhance the coexistence between humans and Barbary macaques in the region.",
+      "link": "https://doi.org/10.1038/s41598-026-71407-3",
+      "authors": [
+        "Mohammed Khalil Mellal",
+        "Abdelmadjid Chelli",
+        "Rabah Boutekrabt",
+        "Sarah E. Turner",
+        "Robert B. Weladji",
+        "Rassim Khelifa"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:57+00:00",
+      "last_seen": "2026-09-16T06:33:57+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68923-7": {
+      "key": "doi:10.1038/s41598-026-68923-7",
+      "doi": "10.1038/s41598-026-68923-7",
+      "title": "Machine learning for one day ahead prediction of high fire weather index conditions from area weighted ERA5 data in mersin",
+      "abstract": "Abstract Severe fire weather places sustained pressure on preparedness in Mediterranean forests. We developed a retrospective benchmark for classifying next-day Fire Weather Index (FWI) conditions in Mersin, Türkiye, from hourly ERA5 reanalysis covering the 2003–2025 fire seasons. Canadian FWI components were calculated independently at 41 ERA5 cells intersecting the province and then aggregated with polygon-intersection area weights. The outcome was High+ conditions on the following day, defined as an area-weighted mean FWI of at least 21.3. Models were developed on 2003–2023 using expanding whole-season validation and evaluated on a prespecified 2024–2025 temporal holdout within the corrected workflow. A 16-predictor regularized logistic model achieved development ROC AUC 0.967, average precision 0.975 and Brier score 0.064, with no clear probability-accuracy advantage from tree ensembles. Corresponding holdout values were 0.946, 0.971 and 0.086, with a calibration slope of 0.962. At the primary 0.50 threshold, recall was 0.929 and precision 0.911. A development-derived F2 threshold of 0.21 increased recall to 0.965 but generated more false alerts. The analysis quantifies predictive information beyond persistence and provides a reproducible regional reference for future forecast-based evaluation. Because the reconstruction uses fixed 1 June initialization, it is not an operational EFFIS forecast.",
+      "link": "https://doi.org/10.1038/s41598-026-68923-7",
+      "authors": [
+        "Ali Akdagli"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:57+00:00",
+      "last_seen": "2026-09-16T06:33:57+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-69657-2": {
+      "key": "doi:10.1038/s41598-026-69657-2",
+      "doi": "10.1038/s41598-026-69657-2",
+      "title": "Gendered prototypes relate to aesthetic evaluation of sport movements and judgments of female athletes",
+      "abstract": "Abstract Despite increasing visibility of women in sport, athletes are often evaluated relative to gendered expectations that may shape how their performances are perceived. The present study examined whether aesthetic evaluations of sport movements differ systematically as a function of athlete sex and sport gender-typing. Drawing on processing fluency theory, we tested whether performances that align with gendered prototypes are evaluated differently than those that deviate from them. A total of 117 participants first categorized 15 sports as masculine, feminine, or gender-neutral and subsequently evaluated 60 video clips showing female and male athletes performing prototypical movements. In addition to rating aesthetic appeal, participants completed a forced-choice task selecting the most aesthetically pleasing performance within each sport. Aesthetic evaluations varied as a function of athlete sex and sport gender-typing. Movements performed by female athletes received higher aesthetic ratings in feminine and neutral sports, whereas no significant differences in aesthetic ratings emerged in masculine sports. Forced-choice judgments showed stronger alignment with gender-typical expectations, favoring male athletes in masculine sports. These findings suggest that aesthetic evaluations of sport movements vary by athlete sex and sport gender-typing, although the mechanisms underlying these differences remain to be established.",
+      "link": "https://doi.org/10.1038/s41598-026-69657-2",
+      "authors": [
+        "Charlotte Sanden",
+        "Laura Will"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:57+00:00",
+      "last_seen": "2026-09-16T06:33:57+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-67392-2": {
+      "key": "doi:10.1038/s41598-026-67392-2",
+      "doi": "10.1038/s41598-026-67392-2",
+      "title": "A comparative study of machine learning models in QSPR analysis of antihypertensive drug compounds",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-67392-2",
+      "authors": [
+        "Micheal Arockiaraj",
+        "Vinibala Shanmugham",
+        "Huda M. Alshanbari",
+        "Nawal Al-Hoshani"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:57+00:00",
+      "last_seen": "2026-09-16T06:33:57+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71413-5": {
+      "key": "doi:10.1038/s41598-026-71413-5",
+      "doi": "10.1038/s41598-026-71413-5",
+      "title": "TL-THAAD-inspired event-driven GMPPT strategy for PV systems with comprehensive multi-criteria and statistical validation",
+      "abstract": "Partial shade in photovoltaic (PV) systems results in a nonlinear and multimodal power-voltage (P-V) curve including many local maxima, complicating the global maximum power point tracking (GMPPT) as a non-convex optimization challenge. This paper introduces a deterministic, event-oriented GMPPT approach, referred to as TL-THAAD-GMPPT. The proposed approach structures the tracking procedure into four consecutive decision tiers: observation, differentiation, interaction, and evaluation. Global exploration is initiated just upon the identification of a substantial decline in the operating point, thereby minimizing superfluous control measures while maintaining the possibility for global search. TL-THAAD-GMPPT integrates limited bounded probing, systematic candidate prioritization, directed duty-cycle convergence, and ripple-sensitive persistence evaluation to ascertain and maintain the global operational domain. The proposed method was assessed using a MATLAB/Simulink model of a photovoltaic-fed boost converter during standard operation, four static partial shading scenarios, and dynamic shifts between operational conditions. The validation included transient and steady-state performance, multi-criteria evaluation, statistical examination, and ablation studies to measure the impact of the key algorithmic elements.The findings indicate that TL-THAAD-GMPPT attains convergence durations of about 0.2 s in the assessed static PSC scenarios, with steady-state power fluctuations constrained to around ± 1–±2 W and proficient elimination of local maximum power point traps. The GMPP tracking efficiency attained across the four static scenarios varies between 98.7% and 99.6%. The proposed approach achieves the superior overall multi-criteria performance, shown by a radar-area index of 2.77 A.U. and a global weighted-value index (WVI) of 0.950 (95% confidence interval: 0.941–0.958). These findings indicate that TL-THAAD-GMPPT delivers an effective deterministic approach for worldwide photovoltaic power monitoring in intricate partial-shading scenarios, circumventing the ongoing population-based optimization necessitated by several stochastic GMPPT techniques.",
+      "link": "https://doi.org/10.1038/s41598-026-71413-5",
+      "authors": [
+        "Muhannad Alshareef"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:57+00:00",
+      "last_seen": "2026-09-16T06:33:57+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-16T06:33:57+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70902-x": {
+      "key": "doi:10.1038/s41598-026-70902-x",
+      "doi": "10.1038/s41598-026-70902-x",
+      "title": "In silico characterization of SAP55: insights into a predicted phytoplasmal M41-like metallopeptidase effector with potential eukaryotic host dual lipidation motifs",
+      "abstract": "Abstract Phytoplasmas are cell wall-less, phloem-limited plant pathogenic bacteria that cause devastating agricultural losses globally. Although phytoplasma pathogenicity is driven by secreted effector proteins translocated via the Sec pathway, their identification and functional characterization remain severely hindered by the fastidious nature of these pathogens. Here, we present a comprehensive structural, evolutionary, and functional in silico characterization of SAP55, an uncharacterized candidate effector from the Aster yellows witches’-broom strain. AlphaFold 3 modeling predicted an N-terminal signal peptide with a cleavage-compatible structural architecture that is predicted to interact with phytoplasmal signal peptidase I. Genomic and phylogenetic analyses revealed that SAP55 is linked to potential mobile units and virulence islands, suggesting potential evolutionary mobility across lineages. Structural and sequence-based annotation identified a core domain with similarities to the M41 zinc-dependent metallopeptidase family with a conserved HEXXH motif. Notably, SAP55 is predicted to represent an atypical protease variant; structural comparisons and HSYMDOCK/PDBePISA thermodynamic simulations suggest that it lacks the AAA+ ATPase domain, the central loop, and hexameric subunit affinity, operating instead as a putative monomeric form with an elongated antiparallel β4-strand that may facilitate substrate interaction. Our analyses suggest that the conserved N-terminal methionine may represent a potential stabilization feature under N-end rule principle. Its C-terminal hypervariable region contains a conserved CXCAAL motif and polybasic cluster predicted to be compatible with host geranylgeranyltransferase type I and S-palmitoylation machinery, potentially supporting association with the cytoplasmic leaflet of the plasma membrane By providing a comprehensive computational framework for a candidate membrane-associated candidate effector, this study proposes a working model for SAP55-mediated host manipulation, and establishes a foundation for future experimental investigation.",
+      "link": "https://doi.org/10.1038/s41598-026-70902-x",
+      "authors": [
+        "Kayhan Derecik",
+        "Gul Oz",
+        "Isil Tulum"
+      ],
+      "published": "2026-09-16T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-16T06:33:58+00:00",
+      "last_seen": "2026-09-16T06:33:58+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
