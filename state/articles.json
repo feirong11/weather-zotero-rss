@@ -129290,8 +129290,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-18T00:32:43+00:00",
       "last_seen": "2026-09-18T00:32:43+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-18T00:32:43+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-18T06:31:50+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.adx5917": {
@@ -129361,8 +129361,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-18T00:32:44+00:00",
       "last_seen": "2026-09-18T00:32:44+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-18T00:32:44+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-18T06:31:51+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.ael0758": {
@@ -129582,8 +129582,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-18T00:32:44+00:00",
       "last_seen": "2026-09-18T00:32:44+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-18T00:32:44+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-18T06:31:51+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aem4010": {
@@ -129616,8 +129616,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-18T00:32:45+00:00",
       "last_seen": "2026-09-18T00:32:45+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-18T00:32:45+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-18T06:31:52+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aem2760": {
@@ -129715,8 +129715,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-18T00:32:46+00:00",
       "last_seen": "2026-09-18T00:32:46+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-18T00:32:46+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-18T06:31:53+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aed7991": {
@@ -129913,8 +129913,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-18T00:32:46+00:00",
       "last_seen": "2026-09-18T00:32:46+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-18T00:32:46+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-18T06:31:54+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.adx9928": {
@@ -129971,8 +129971,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-18T00:32:47+00:00",
       "last_seen": "2026-09-18T00:32:47+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-18T00:32:47+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-18T06:31:54+00:00",
       "matched_channels": {}
     },
     "doi:10.1126/science.aem4440": {
@@ -130015,8 +130015,8 @@
       "issn": "0036-8075",
       "first_seen": "2026-09-18T00:32:47+00:00",
       "last_seen": "2026-09-18T00:32:47+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-18T00:32:47+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-09-18T06:31:55+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/s41467-026-77882-6": {
@@ -130980,6 +130980,666 @@
       "last_seen": "2026-09-18T00:33:02+00:00",
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-18T00:33:02+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1029/2026jd046380": {
+      "key": "doi:10.1029/2026jd046380",
+      "doi": "10.1029/2026jd046380",
+      "title": "Improved WRF‐Chem Simulations of Dust Deposition and Its Association With Observed Chlorophyll‐a Concentration During the 2021 East Asian Super Dust Storm",
+      "abstract": "Abstract Frequent dust storms in spring not only affect air quality and climate change, but also influence marine productivity through dust transport and deposition in High‐Nutrient, Low‐Chlorophyll (HNLC) regions. However, there is still considerable uncertainty regarding how dust quantitatively affects the growth of phytoplankton. This study refined the surface erodibility factor in the WRF‐Chem (Weather Research and Forecasting model coupled with Chemistry) model, improving the simulation accuracy of dust emission, transport and deposition. Using this improved model and satellite observations, we investigated the relationship between dust deposition and chlorophyll‐a (Chl‐a) concentration in the Northwest Pacific following the 2021 East Asian super dust storm. Results showed that the super dust storm increased dust deposition flux in the ROI (Region of Interest) by 66.67% (0.15 μg m −2 s −1 ) compared with the historical average for 11 March–9 April during 2011–2020. Correspondingly, Chl‐a concentration increased by 25.71% (0.88 mg m −3 ) and exhibited a clear temporal lag after dust deposition. Variations in the FLH/Chl‐a (fluorescence line height per unit Chl‐a) ratio suggested enhanced phytoplankton physiological activity after the dust deposition. Meanwhile, relatively high SST (sea surface temperature) and PAR (photosynthetically active radiation), together with shallower MLD (mixed layer depth) conditions, may also have provided favorable environmental conditions for phytoplankton growth. These results suggest that the Chl‐a concentration enhancement was likely associated with the combined effects of dust deposition and marine environmental factors. This study provides an effective approach for improving dust simulations and advances the understanding of how atmospheric dust deposition affects marine ecosystems.",
+      "link": "https://doi.org/10.1029/2026jd046380",
+      "authors": [
+        "Haopeng Zhang",
+        "Xiaohui Bi",
+        "Yezheng Zhang",
+        "Lilai Song",
+        "Zhen Li",
+        "Yinchang Feng"
+      ],
+      "published": "2026-09-17T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-18T06:31:21+00:00",
+      "last_seen": "2026-09-18T06:31:21+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1029/2026jd047746": {
+      "key": "doi:10.1029/2026jd047746",
+      "doi": "10.1029/2026jd047746",
+      "title": "Evaporite‐Derived Salts in Dust Generated by Saltation‐Sandblasting From the Qaidam Basin: Implications for Dust Aging and Atmospheric Chemistry",
+      "abstract": "Abstract Freshly emitted mineral dust is typically dominated by silicates, but evaporite‐rich sources can release substantial soluble salts. However, the abundance, size distribution, and mixing state of primary salts in nascent dust remain poorly constrained. Here, we investigated individual dust particles generated by saltation‐sandblasting processes from surface soils of the evaporite‐rich Qaidam Basin (QB) on the northern Tibetan Plateau. Our results reveal pronounced spatial heterogeneity in particle composition across the basin. Salt‐containing minerals were abundant in the northwestern basin (59.5%), less common in the eastern and southwestern regions (11.1%–18.4%), and rare in the central basin (3.1%). These minerals were dominated by sulfate‐ and chloride‐containing species and occurred predominantly as components internally mixed with silicate particles, rather than as discrete crystalline phases. Particles from the northwestern QB exhibited S/Al mass ratios of ∼1.1–2.2, frequently larger than those reported for highly aged Asian dust. Compared with dust from other deserts, QB dust is characterized by finer particle sizes, substantially higher salt contents, and widespread salt–silicate internal mixing. These findings indicate that the QB represents an evaporite‐influenced dust endmember rather than a variant of conventional silicate‐dominated dust sources. Given the widespread occurrence of evaporite‐rich arid regions, mineral sulfate and chloride should be explicitly incorporated into assessments of the role of dust in atmospheric chemistry and climate.",
+      "link": "https://doi.org/10.1029/2026jd047746",
+      "authors": [
+        "Long Zhang",
+        "Tafeng Hu",
+        "Feng Wu",
+        "Yingpan Song",
+        "Jing Duan",
+        "Yuqing Zhu",
+        "Na Song",
+        "Yu Huang",
+        "Junji Cao",
+        "Daizhou Zhang"
+      ],
+      "published": "2026-09-17T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-18T06:31:21+00:00",
+      "last_seen": "2026-09-18T06:31:21+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1002/joc.70595": {
+      "key": "doi:10.1002/joc.70595",
+      "doi": "10.1002/joc.70595",
+      "title": "ENSO or the Atlantic: Which Actually Governs the Hydrological Vulnerability of the Caatinga?",
+      "abstract": "ABSTRACT Global semi‐arid regions act as critical sentinels of the climate crisis, where water variability determines the resilience of ecosystems and societies. In the Caatinga biome, precipitation governance has been historically attributed to the El Niño–Southern Oscillation (ENSO) phenomenon; however, this study challenges this paradigm by demonstrating that the Atlantic Ocean exerts a statistically dominant influence on regional water vulnerability modulation. Using high‐resolution CHIRPS data processed via Google Earth Engine and a robust statistical approach with the Seasonal ARX/HAC model, we regionalised the biome into six distinct rainfall districts to isolate oceanic signals. The results reveal a climatic hierarchy where the Atlantic Interhemispheric Variability (PC2) controls drought thresholds more intensely than ENSO (PC1). Quantitatively, PC2 explained a precipitation deficit up to 77% higher than PC1 in the northern districts, acting as the primary driver for the Intertropical Convergence Zone (ITCZ) positioning.",
+      "link": "https://doi.org/10.1002/joc.70595",
+      "authors": [
+        "Jonathan Antunes Ponte Cavalcante Leite",
+        "Bartolomeu Israel de Souza",
+        "Sabina Asins‐Velis",
+        "Luiz Bueno da Silva"
+      ],
+      "published": "2026-09-17T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-18T06:31:29+00:00",
+      "last_seen": "2026-09-18T06:31:29+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1007/s00376-026-6545-z": {
+      "key": "doi:10.1007/s00376-026-6545-z",
+      "doi": "10.1007/s00376-026-6545-z",
+      "title": "Record-Breaking Winter High Temperatures in June 2026 over the Antarctic Peninsula",
+      "abstract": "On 5–6 June 2026, the Antarctic Peninsula (AP) recorded high temperatures in the austral winter, with a daily maximum surface air temperature (SAT) of 15.4°C at Esperanza Station, which is 19.1°C higher than the 1991–2020 mean. In this study, using ERA5 reanalysis and observations, we investigated this high-temperature event and its mechanisms. The results show that the daily average SAT at Esperanza Station remained over 0°C for eight days starting 3 June before reaching a peak on 5 June. These high temperatures were also recorded by other AP stations, such as the Great Wall Station and San Martin Station, with daily average SATs on 6 June of 2.0°C and 6.4°C, respectively. ERA5 indicates that a blocking high-pressure system over the Drake Passage-Scotia Sea resulted in enhanced northwesterly wind anomalies over the AP, bringing more heat to Esperanza Station. In this circulation context, a strong foehn effect formed over the eastern AP, due to the central AP’s narrow and steep terrain. This vertical motion triggered the SAT increase during this event, while diabatic heating maintained the high temperatures. In contrast, horizontal advection dominated the SAT increase at Great Wall Station. These results indicate that the winters in the Antarctic are possibly facing increasingly high temperatures in the context of global warming.",
+      "link": "https://doi.org/10.1007/s00376-026-6545-z",
+      "authors": [
+        "Qinglin Zhang",
+        "Minghu Ding",
+        "Sai Wang",
+        "Wenqian Zhang",
+        "Dahe Qin"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Advances in Atmospheric Sciences",
+      "journal_label": "Advances in Atmospheric Sciences",
+      "issn": "0256-1530",
+      "first_seen": "2026-09-18T06:31:32+00:00",
+      "last_seen": "2026-09-18T06:31:32+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-18T06:31:32+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77914-1": {
+      "key": "doi:10.1038/s41467-026-77914-1",
+      "doi": "10.1038/s41467-026-77914-1",
+      "title": "Large strain and high reversible dielectric tunability in Sm-modified PMN-PT ceramics",
+      "abstract": "Abstract Relaxor ferroelectrics offer dynamic polar responses desirable for adaptive electronics, yet they are fundamentally constrained by a long-standing trade-off: compositions that deliver large electric-field induced strain typically suffer from pronounced hysteresis, while highly tunable ferroelectrics exhibit limited actuation capability. Here, we demonstrate a crossover composition-tuning strategy that helps balance these competing functionalities within a single perovskite platform. Using qualitative first-principles calculations on selected local-approximant supercells, we examined how Ti substitution affects possible local polarization tendencies in Sm-doped Pb(Mg 1/3 Nb 2/3 ) 1- x Ti x O 3, including predominantly 〈110〉-like, mixed multidirectional and 〈001〉-like orientations. Near the relaxor crossover region ( x = 0.16), the composition exhibits a strain of 0.31% and the highest reversible dielectric tunability of 76.4% under 2 kV mm −1 with low remanent polarization and small irreversible tunability. Increasing the Ti content to x = 0.22 promotes a more stable polar state and yields a higher strain of 0.54%, but also increases remanent polarization and the irreversible tunability component, reducing the reversible dielectric tunability to 64.0%. Multiscale structural characterization supports composition-dependent evolution toward more spatially coherent local structural and polar responses with increasing Ti content. This work demonstrates composition tuning of local polar correlations near the relaxor crossover regime as an effective strategy for balancing high actuation, dielectric agility, and highly reversible field-induced response within a single compositionally tuned perovskite platform.",
+      "link": "https://doi.org/10.1038/s41467-026-77914-1",
+      "authors": [
+        "Hangfeng Zhang",
+        "Theo Graves Saunders",
+        "Haixue Yan",
+        "Yang Hao"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-18T06:32:00+00:00",
+      "last_seen": "2026-09-18T06:32:00+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77787-4": {
+      "key": "doi:10.1038/s41467-026-77787-4",
+      "doi": "10.1038/s41467-026-77787-4",
+      "title": "Microglia and border-associated macrophages play opposite roles in cerebrovascular and leukocyte responses under systemic inflammation in male mice",
+      "abstract": "Microglia closely associate with the vasculature, but their roles in leukocyte trafficking and cerebral blood flow (CBF) during systemic inflammation are unclear. We show that sustained systemic inflammation leads to altered microglia-vascular interactions, leukocyte recruitment to cerebral blood vessels and reduced hypercapnia-induced vasodilation. We find that microglia and border-associated macrophages (BAMs) play distinct roles in these processes: while BAM depletion with clodronate increases leukocyte recruitment, microglia/BAM depletion with PLX5622 and the absence of microglia, but not BAMs in CSF1RΔFIRE/ΔFIRE mice, result in markedly reduced leukocyte recruitment. Supporting this, conditional microglial IL-1 deletion inhibits leukocyte recruitment. Unlike BAM depletion, the absence of microglia impairs hypercapnia-induced vasodilation, while in vivo two-photon imaging reveals microglial IL-1α-dependent interactions between leukocytes and penetrating arteries. Accordingly, reduced hypercapnia-induced vasodilation involves endothelial IL-1R1 and microglial IL-1α. Thus, distinct brain macrophage populations exert opposite effects on leukocyte recruitment and CBF through IL-1 dependent mechanisms in given vascular beds in male mice. How brain myeloid cells regulate vascular responses in systemic inflammation is unclear. Here, the authors identify distinct roles for microglia and border-associated macrophages in leukocyte recruitment and cerebral blood flow regulation via IL-1.",
+      "link": "https://doi.org/10.1038/s41467-026-77787-4",
+      "authors": [
+        "Ana Rita Brás",
+        "Nikolett Lénárt",
+        "Damien Levard",
+        "Martina Glavan",
+        "Ákos Menyhárt",
+        "Csaba Cserép",
+        "Balázs Pósfai",
+        "Eszter Császár",
+        "Sai K. Reddy Samawar",
+        "Clare Pridans",
+        "Denis Vivien",
+        "Eszter Farkas",
+        "Lydia Sorokin",
+        "Marina Rubio",
+        "Ádám Dénes"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-18T06:32:00+00:00",
+      "last_seen": "2026-09-18T06:32:00+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-18T06:32:00+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71745-2": {
+      "key": "doi:10.1038/s41598-026-71745-2",
+      "doi": "10.1038/s41598-026-71745-2",
+      "title": "Landmark-aware visual localization for GNSS-denied UAV wind farm inspection via lifecycle binding and adaptive fusion",
+      "abstract": "Abstract This paper proposes a lightweight landmark-aware visual localization framework intended as a backup localization subsystem for UAV inspection in GNSS-denied wind farms. The system utilizes wind turbine towers as natural semantic beacons and integrates YOLOv12s and BoT-SORT for real-time detection and robust tracking. Absolute pose estimation is achieved via a bbox-based 2.5-D image–altimeter geometry model, a landmark binding lifecycle management strategy (LBL), and an adaptive spatio-temporal weighted fusion algorithm (ASTW). In five repeated RflySim trials, the combined framework achieved a three-dimensional localization RMSE of $$8.33\\pm 1.20$$ m compared with $$234.8\\pm 42.3$$ m for the baseline, with end-to-end latency of approximately 200 ms per processed frame. In field validation at a 26-turbine wind farm, the algorithm ran online on a Jetson Xavier NX and independently generated visual position estimates without using RTK/GNSS data, achieving a three-dimensional RMSE of 24.95 m and a latency of 220 ms per processed frame. Because RTK/GNSS remained active for waypoint flight control and was recorded as ground truth, this experiment validates online GNSS-independent visual localization rather than closed-loop autonomous navigation under a physical GNSS outage. Because the field evaluation comprised one mission at one wind farm under favorable weather, the field result supports feasibility for area-level localization and coarse navigation assistance, but not yet high-precision close-range turbine inspection or broad generalization across sites and weather conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-71745-2",
+      "authors": [
+        "Kai Zheng",
+        "Chao Deng",
+        "Meiqing Xu",
+        "Chonghua Zhu",
+        "Enqi Xiao",
+        "Zhi Lu",
+        "Yujing Zhao",
+        "Wenquan Peng"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:07+00:00",
+      "last_seen": "2026-09-18T06:32:07+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71289-5": {
+      "key": "doi:10.1038/s41598-026-71289-5",
+      "doi": "10.1038/s41598-026-71289-5",
+      "title": "Unravelling the magma source and plumbing systems beneath the submarine volcanoes of Bransfield Strait (Antarctica) with stable and noble gas isotopes",
+      "abstract": "Abstract Oxygen and hydrogen isotope geochemistry, together with helium, neon and argon isotope systematics, are powerful tools for tracing magma sources and magma plumbing system processes beneath volcanic systems. Characterising them is crucial for understanding volcanic systems behaviour and improving volcanic hazard assessment. This is particularly relevant for Antarctic active submarine volcanoes, where limited accessibility and arduous weather conditions hinder detailed studies despite their potential hazards, especially in the Bransfield Strait, the Antarctic region hosting the highest concentration of infrastructure. Here we present a novel database of oxygen and hydrogen isotope ratios measured in volcanic rocks, glass, clinopyroxene and olivine, as well as helium, neon and argon isotope ratios measured in their melt and fluid inclusions, from the submarine volcanoes Edifice C, Three Sisters, Orca and Gebra Seamount, located at the centre of the Bransfield Strait. Oxygen and helium isotope ratios are consistent with a magma source influenced by subduction of the Phoenix Plate. Hydrogen isotope ratios are consistent with magma degassing involving recycled sediment-fluid components. These results support previously proposed models of sub-slab mantle flow beneath the Bransfield Strait and provide a new stable isotope dataset improving understanding of submarine volcanism at this challenging region.",
+      "link": "https://doi.org/10.1038/s41598-026-71289-5",
+      "authors": [
+        "Antonio Polo-Sánchez",
+        "Antonio Caracausi",
+        "Antonio M. Álvarez-Valero",
+        "Adelina Geyer",
+        "Laura Insinga",
+        "Marcos García-Arias",
+        "José Antonio Lozano-Rodríguez"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:07+00:00",
+      "last_seen": "2026-09-18T06:32:07+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70128-x": {
+      "key": "doi:10.1038/s41598-026-70128-x",
+      "doi": "10.1038/s41598-026-70128-x",
+      "title": "Optimal control and sensitivity analysis of an SEIHR TB-COVID-19 coinfection model with cost intervention strategies",
+      "abstract": "Abstract A compartmental extended SEIHR-based model is developed to simulate the transmission of TB and COVID-19. The positivity and boundedness of the model are demonstrated. The Basic Reproduction Numbers ( $$R_{0T}$$ and $$R_{0C}$$ ) are calculated for TB and COVID-19 models using the Next Generation Matrix (NGM) method. The individual models exhibit backward bifurcation when $$R_{0T}$$ , $$R_{0C}$$ < 1. The local stability analysis is performed by using Lienard-Chipart criteria. Sensitivity analysis is conducted using Latin Hypercube Sampling (LHS) and Partial Rank Correlation Coefficient (PRCC) methods. Optimal control analysis is performed to evaluate the effectiveness of interventions. The co-infection model showed that mask usage significantly reduces both infections. The LHS-PRCC analysis revealed that variables with low p-values strongly influenced the model. Key parameters, including inflow rate, COVID-19 transmission and hospitalization rate, and co-infection progression, exhibited strong correlations. Optimal control measures, including isolation, testing, and treatment, effectively reduced contact between COVID-19-exposed and TB-infected individuals. Post-isolation played a pivotal role in strengthening immunity and aiding recovery from the disease. Implementing all control strategies mitigated the growth of infections and accelerated their decline. The cost-effective analysis, by implementing all interventions, markedly reduces the disease burden (Infection Averted Ratio = 23.72%) and is the most cost-effective strategy, exhibiting a dominant ACER (Average Cost-Effectiveness Ratio) of 0.000359. Finally, we compared the proposed model with the existing coinfection model and validated it with real-time data of individual models.",
+      "link": "https://doi.org/10.1038/s41598-026-70128-x",
+      "authors": [
+        "Anagandula Praveen Kumar",
+        "Poosan Muthu"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:07+00:00",
+      "last_seen": "2026-09-18T06:32:07+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70189-y": {
+      "key": "doi:10.1038/s41598-026-70189-y",
+      "doi": "10.1038/s41598-026-70189-y",
+      "title": "AcinetoScope: a computational pipeline for rapid, comprehensive Acinetobacter baumannii outbreak investigation and resistance gene tracking",
+      "abstract": "Acinetobacter baumannii is a critical nosocomial pathogen whose genomic surveillance is hindered by fragmented workflows and manual integration of separate analysis tools. We present AcinetoScope, a dedicated aggregation pipeline that automates quality control, dual-scheme MLST, capsule typing, antimicrobial resistance detection, virulence and plasmid profiling, and screening for environmental co-selection markers (heavy metals, biocides), and compiles all results into a single interactive HTML report featuring a gene-centric table and cross-genome pattern discovery. The pipeline is designed for low-resource settings: it runs on standard laptops (4 GB RAM, 2 CPU cores) and accepts assembled genomes. Validation against an independent published dataset of 140 A. baumannii clinical isolates (BioProject PRJNA573295) showed 100% concordance for reported MLST, capsule types, and resistance and virulence genes. A separate demonstration on 145 randomly selected A. baumannii assemblies (N50 range 8 kb to 4,179 kb) completed without runtime errors; outputs recapitulated known epidemiology (ST2 and ST1 predominance, significant ST-capsule associations, blaOXA-23 in 62.8%, blaNDM-1 in 17.9%). On a 16-core server, AcinetoScope processed the 145 demonstration genomes in 1 h 24 min. AcinetoScope is implemented in Python and is freely available at https://github.com/bbeckley-hub/acinetoscope.",
+      "link": "https://doi.org/10.1038/s41598-026-70189-y",
+      "authors": [
+        "Brown Beckley",
+        "Vincent Amarh",
+        "Bruno Silvester Lopes",
+        "Adesola Olalekan",
+        "Innocent Afeke"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:07+00:00",
+      "last_seen": "2026-09-18T06:32:07+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-18T06:32:07+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72317-0": {
+      "key": "doi:10.1038/s41598-026-72317-0",
+      "doi": "10.1038/s41598-026-72317-0",
+      "title": "Vibro-impact spring-pendulum nonlinear energy sink",
+      "abstract": "Abstract Several types of nonlinear energy sinks have been proposed in the literature for shock and seismic vibration mitigation of dynamical structures. Accordingly, this study proposes two nonlinear energy sink (NES) configurations that incorporate single-sided vibro-impact with an inclined barrier into a pendulum tuned mass damper (PTMD) and a spring-pendulum vibration absorber. The first proposed design, the impact-pendulum with rigid arm NES (IP-RA NES), is a modified version of the PTMD. The second design, the impact-pendulum with an elastic arm NES (IP-EA NES), is a modified version of the spring-pendulum vibration absorber. The proposed designs leverage the synergy between inertial coupling nonlinearity and non-smooth vibro-impact nonlinearity. Mathematical models are developed in dimensionless form, and the parameters of the two proposed NESs, the PTMD, and the spring-pendulum vibration absorber are optimized using an optimization solver based on the derived equations of motion, enabling a fair and informative comparison and analysis. The optimal energy dissipation achieved by the two modified absorbers is found to be more robust to deviations from the optimized parameters than that of the PTMD and the spring-pendulum absorber. Furthermore, the IP-EA NES demonstrates the highest resistance to parameter deviations. The response results obtained from numerical simulations demonstrate that, in both proposed configurations, collisions of the NES mass with the inclined rigid barrier significantly contribute to energy dissipation, alongside torsional damping. Additionally, radial damping in the IP-EA NES makes a notable contribution to energy dissipation. Performance comparisons with the PTMD and the impact-free spring-pendulum absorbers verify the robustness of the IP-RA and IP-EA NESs in maintaining optimal energy dissipation under both impulsive and seismic inputs to the LO. However, under seismic ground excitation, the IP-EA NES achieves the highest level of vibration suppression among all the considered absorbers.",
+      "link": "https://doi.org/10.1038/s41598-026-72317-0",
+      "authors": [
+        "Mohammad A. AL-Shudeifat",
+        "Muhammed S. Poomadath",
+        "Rafic M. Ajaj"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:09+00:00",
+      "last_seen": "2026-09-18T06:32:09+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71399-0": {
+      "key": "doi:10.1038/s41598-026-71399-0",
+      "doi": "10.1038/s41598-026-71399-0",
+      "title": "Forecasting global monthly mpox trends using an SVR-Bayesian autoregressive-Prophet ensemble model",
+      "abstract": "To address the limitations of single models in balancing nonlinear fitting, trend stability, and error control for mpox epidemic prediction, a multi-model ensemble framework was constructed as a methodological exploration for short-term nowcasting under small-sample conditions. Using global monthly mpox surveillance data from May 2022 to September 2025 (41 observations) from the Our World in Data database, three models—Support Vector Regression (SVR), Bayesian Autoregressive (BAR), and Prophet—were established. A two-level (SVR-BAR) and a three-level (SVR-BAR-Prophet) fusion framework were built via weighted optimization with SLSQP. Rolling one-step-ahead forecasting was adopted, with performance evaluated using R2, RMSE, MAE, and MAPE. The BAR model provided prediction intervals for uncertainty quantification. Benchmark models (ARIMA, ETS, LSTM, GRU) and ablation experiments were included for comprehensive comparison. Among single models, BAR achieved the best fitting (R2 = 0.8876). The three-level fusion model achieved the lowest MAE (27.31) and MAPE (7.34%), while the two-level fusion achieved the highest R2 (0.9128) and lowest RMSE (43.82). All fusion models outperformed individual models and benchmark baselines. Diebold-Mariano tests confirmed that the fusion model significantly outperformed all single models under MAE loss (p < 0.05), and ablation experiments validated the contribution of each component. The multi-model fusion framework effectively integrates the advantages of individual models, improving prediction accuracy and stability for mpox epidemics. The framework should be considered an exploratory methodological approach requiring prospective validation with future data, but it provides a reproducible reference for infectious disease forecasting under data-limited conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-71399-0",
+      "authors": [
+        "Zhang Yajuan",
+        "Mu Jia",
+        "Yuan Qiwen",
+        "Suonan Renqing",
+        "Wang Yanan",
+        "Xiao Yanping"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:09+00:00",
+      "last_seen": "2026-09-18T06:32:09+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-18T06:32:09+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71037-9": {
+      "key": "doi:10.1038/s41598-026-71037-9",
+      "doi": "10.1038/s41598-026-71037-9",
+      "title": "Application of deep learning to estimate blue and fin whale call density in the southern California Current Ecosystem",
+      "abstract": "Abstract Blue ( Balaenoptera musculus ) and fin whales ( Balaenoptera physalus ) are dominant contributors to low-frequency ocean soundscapes, yet reliably extracting their calls from long-term passive acoustic recordings is methodologically challenging. Here, we train a multi-class deep-learning detector to identify five principal blue and fin whale call types (A, B, D, 20 Hz, and 40 Hz) from low-frequency spectrograms using a Faster R-CNN architecture combined with three rounds of iterative human review and hard-negative mining, progressively expanding and rebalancing the training set using California Cooperative Oceanic Fisheries (henceforth, CalCOFI) sonobuoy and moored hydrophone recordings from the southern California Current Ecosystem. The detector was evaluated on four independent test datasets spanning multiple years, seasons, and recording platforms and then deployed on CalCOFI sonobuoy recordings collected quarterly over two decades (2004–2024). The final model achieved consistently high mean precision, recall and F1 scores for most call types (e.g., A: 0.71/0.71/0.71; B: 0.83/0.59/0.63; D: 0.79/0.84/0.80; 20 Hz: 0.87/0.74/0.78), while 40 Hz calls remained challenging (0.42/0.69/0.51), primarily due to confusion with spectrally overlapping humpback whale downsweeps. Detections were post-processed using call-specific characteristics and received-level thresholds and normalized by recording effort and detection area to derive standardized indices of call density $$\\left( \\frac{\\text {calls}}{\\text {h} \\cdot 1000 \\text { km}^2}\\right) $$ with uncertainty estimates. Densities were aggregated annually and show call-specific differences between inshore and offshore habitats and interannual variability associated with periods of anomalous oceanographic conditions. Inter-call interval analyses suggested seasonal stability in blue whale song, high variability in blue and fin whale social calls, and seasonal and interannual variability in fin whale song repetition rates. This study is among the first to use deep-learning to estimate baleen whale call density from decades of passive acoustic recordings in a complex soundscape.",
+      "link": "https://doi.org/10.1038/s41598-026-71037-9",
+      "authors": [
+        "Michaela N. Alksne",
+        "Marie A. Roch",
+        "Kaitlin E. Frasier",
+        "John A. Hildebrand",
+        "Shane Andres",
+        "Dolapo Adesanya",
+        "Lauren M. Baggett",
+        "Joshua M. Jones",
+        "Ana Širović",
+        "Joshua Zingale",
+        "Simone Baumann-Pickering"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:15+00:00",
+      "last_seen": "2026-09-18T06:32:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70763-4": {
+      "key": "doi:10.1038/s41598-026-70763-4",
+      "doi": "10.1038/s41598-026-70763-4",
+      "title": "A method for lung cancer detection and staging from a drop of blood plasma via Raman spectroscopy of well-based samples (ROWS)",
+      "abstract": "We present a new method designed for detection of optical signal associated with lung pathology in blood plasma, including lung cancer stage. Raman spectroscopy uses inelastically scattered laser light to obtain molecular information in a reagent-free manner. Obtaining spontaneous Raman spectral data from small volumes of liquid-form samples poses multiple challenges, but we have developed a novel tool for obtaining spectra from 60 µl liquid samples within two minutes: Raman of Well-based Samples (ROWS). With a low-cost ROWS device, we analyzed 372 blood plasma samples from a national biobank, including controls (n = 92), patients with stage I-II lung cancer (n = 99), stage III-IV cancer (n = 46), benign tumours (n = 36) and other lung conditions (n = 99). Machine learning models were built to assess lung cancer stage and lung pathology presence. ROWS achieves up to 94% sensitivity, 90% specificity and 93% accuracy depending on classification. ROWS proves a robust method which could be integrated into rapid, low-cost, user-friendly, point-of-care lung pathology analysis in small quantities of blood plasma.",
+      "link": "https://doi.org/10.1038/s41598-026-70763-4",
+      "authors": [
+        "Katherine J. I. Ember",
+        "Frédérick Dallaire",
+        "Éloise D’Amours",
+        "Marwa Bounaas",
+        "Esmat Zamani",
+        "Romane Le Roy-Pépin",
+        "Nassim Ksantini",
+        "Guillaume Sheehy",
+        "François Daoust",
+        "Juliette Selb",
+        "Moishe Liberman",
+        "Dominique Trudel",
+        "Frédéric Leblond"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:15+00:00",
+      "last_seen": "2026-09-18T06:32:15+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-18T06:32:15+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70539-w": {
+      "key": "doi:10.1038/s41598-026-70539-w",
+      "doi": "10.1038/s41598-026-70539-w",
+      "title": "In vitro antiglycation, antioxidant and anti-inflammatory activities of Launaea taraxacifolia: inhibition of pentosidine- and vesperlysine-like advanced glycation end-products",
+      "abstract": "Advanced Glycation End-Products (AGEs) induce metabolic memory, which in turn promotes oxidative stress and chronic inflammation, resulting in diabetic complications. AGEs formation, accumulation, oxidation, and inflammation have become common drug targets. Despite extensive research, orthodox agents have had safety concerns, limited efficacy, and are costly, underscoring the need for safer, more effective, multitargeted botanicals that modulate glycation, oxidation, and inflammation. West African ethnomedicine uses Launaea taraxacifolia (L. taraxacifolia) for its nutritional and medicinal advantages, including diabetes management. However, its antiglycation potential is unknown. Thus, this in vitro study investigated African lettuce’s antiglycation effects and its potential in modulating the associated glycoxidative and inflammatory processes. Qualitative and quantitative phytochemical analyses of a 70% ethanolic leaf extract of L. taraxacifolia (LTE) were conducted using standard methods. The antioxidant and anti-inflammatory activities were determined using DPPH free radical and protein denaturation assays, respectively. The antiglycation effect was evaluated by measuring inhibition of vesperlysine- and pentosidine-like AGE fluorescence induced by various reducing sugars in a Bovine-Serum Albumin (BSA) model. Qualitative analysis revealed the presence of phenolics, saponins, and flavonoids, among others. Quantitatively, the total phenolic content was 7.27 mg (GAE/100 mg), while the total flavonoid content was 11.03 mg (QE/100 mg). The extract scavenged DPPH radicals (IC50 = 1.69 µg/mL) and reduced inflammation (protein denaturation IC50 = 145.5 µg/mL). In general, LTE inhibited vesperlysine-like AGEs with IC50 values of 0.538 and 0.580 mg/mL against glucose- and galactose-induced glycation, respectively, and demonstrated its strongest inhibition against fructose-induced pentosidine-like AGEs (IC50 = 0.323 mg/mL). LTE demonstrated substantial antiglycoxidative and anti-inflammatory effects, supporting its potential as a natural regulator of metabolic memory and diabetes complications.",
+      "link": "https://doi.org/10.1038/s41598-026-70539-w",
+      "authors": [
+        "De-Graft Gyamfi Adjei",
+        "Frederick Ayertey",
+        "Ernest Agyei",
+        "Joseph Adusei Sarkodie",
+        "Cindy Kitcher",
+        "Nana Ama Mireku-Gyimah",
+        "Philip Debrah",
+        "Ofosua Adi-Dako"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:17+00:00",
+      "last_seen": "2026-09-18T06:32:17+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-18T06:32:17+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70307-w": {
+      "key": "doi:10.1038/s41598-026-70307-w",
+      "doi": "10.1038/s41598-026-70307-w",
+      "title": "Accelerated mass loss of glaciers across Alaska since the Little Ice Age",
+      "abstract": "Abstract Alaskan glaciers presently dominate contributions to global glacier mass loss and are projected to do so throughout the 21 st Century. Here we assess centennial-scale evolution and mass loss of 5289 Little Ice Age (LIA) glaciers by mapping geomorphological evidence of glacier extent and by reconstructing ablation area ice surfaces. We find that Alaskan glaciers have experienced extensive fragmentation and have lost at least 19 ± 2.8% total area since the local LIA maximum (year 1810) to year 2008. Individual glaciers had a median area loss of 32 ± 4.7%. Our ice surface reconstruction for LIA glacier ablation areas leads to a total volume loss estimate of at least 3345 ± 836 km 3 , equating to a mass loss of at least 2844 ± 711 Gt and a sea level equivalent of 8 ± 2 mm. Glacier mass balance since the LIA to 2008 was − 0.09 ± 0.02 m w.e. yr − 1 , which, compared with − 0.67 ± 0.13 m w.e. yr − 1 between 2000 and 2019, suggests a 7.4 ± 2.0 times acceleration across Alaska. Three quarters of Alaskan mountain regions shifted from near equilibrium mass balance between the LIA and 2008 (c. − 0.01 m w.e. yr − 1 ) to substantial mass loss (more negative than − 0.7 m w.e. yr − 1 ) between 2000 and 2019. Our Glacier Bay LIA icefield reconstruction evidences the greatest fragmentation, area, volume and mass loss of any known single LIA glacier globally. Our mapping, glacier reconstructions and mass loss findings will serve glacier evolution modelling, inform proglacial systems analysis, and support ecosystem services management especially within protected areas.",
+      "link": "https://doi.org/10.1038/s41598-026-70307-w",
+      "authors": [
+        "Jonathan L. Carrivick",
+        "Robert McNabb",
+        "Bethan J. Davies",
+        "Laura J. Larocca",
+        "Elizabeth Stephens",
+        "Rebecca Barry",
+        "Jenna L. Sutherland",
+        "Johannes Reinthaler",
+        "Jack Mason",
+        "Ethan Lee"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:21+00:00",
+      "last_seen": "2026-09-18T06:32:21+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-63379-1": {
+      "key": "doi:10.1038/s41598-026-63379-1",
+      "doi": "10.1038/s41598-026-63379-1",
+      "title": "Intelligent energy management in renewable-powered microgrid using Z-dualflux converter and RBFNN control",
+      "abstract": "In this research, a sophisticated intelligent energy management framework that integrates wind, solar and battery energy storage devices is proposed for a grid-connected system. A Z-Dual Flux (Z-DF) converter which enhances the Photovoltaic (PV) system’s voltage with increased voltage gain, decreased magnetic stress and greater conversion efficiency. To attain voltage regulation and dynamic response of Z-DF converter in diverse solar settings, a hybrid Bird Swarm–Graylag Goose (BS–GG) optimization-PI controller is employed. To facilitate variable-speed operation and effective power extraction, the wind system employs a Doubly Fed Induction Generator (DFIG) system. A Radial Basis Function Neural Network (RBFNN) controller is employed as an intelligent supervisory controller to handle system nonlinearities, load fluctuations and parameter uncertainties. A Three-phase Voltage Source Inverter ($$\\:3\\phi\\:$$VSI) with an LC filter is employed to satisfy grid power quality necessities. Battery discharging and charging are controlled by a bidirectional converter, which also serves as an energy buffer when there is a power imbalance. The attainment of the developed control architecture is validated by outcomes in the MATLAB tool that reveals the converter efficiency of 94.9%, lowermost THD of 0.09% and the BS-GGO-PI controller attains the settling time of 0.15 s with improved DC-link voltage stability, decreased total harmonic distortion and increased overall energy efficiency.",
+      "link": "https://doi.org/10.1038/s41598-026-63379-1",
+      "authors": [
+        "Venkatesh Chiluka",
+        "G. G. Raja Sekhar",
+        "E. Shiva Prasad",
+        "Ch. Rami Reddy",
+        "K. V. Govardhan Rao",
+        "M. Kiran Kumar",
+        "N. Kiran Kumar",
+        "Joon-Ho Choi"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:21+00:00",
+      "last_seen": "2026-09-18T06:32:21+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-18T06:32:21+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71633-9": {
+      "key": "doi:10.1038/s41598-026-71633-9",
+      "doi": "10.1038/s41598-026-71633-9",
+      "title": "Accessing clinical trial information via two social media platforms: the new normal for patients and stakeholders",
+      "abstract": "Abstract Social media platforms play an increasingly important role in the dissemination of clinical trial information and in shaping public perceptions of medical research, with direct implications for patient recruitment to clinical trials, informed decision-making, clinician–patient communication, and pharmacovigilance. Yet platform-specific communication dynamics may contribute to fragmentation in health-related discourse and to inequitable access to trial-related information. This study aimed to compare thematic structures, user activity patterns, and emotional framing of clinical trial discussions on Bluesky and Twitter (X). Two datasets were analysed: Bluesky posts (January–May 2025, n = 8849) and Twitter (X) posts (June 25–30, 2025, n = 5520). Due to differences in data accessibility across platforms, the datasets are not temporally equivalent and are interpreted within an exploratory comparative framework. Text mining techniques included tokenisation, n-gram analysis, sentiment analysis (Bing lexicon), emotion analysis (NRC lexicon), co-occurrence networks, and Jaccard similarity. The analysis indicates that Bluesky discourse was more cohesive and research-oriented, with a relatively more specialised vocabulary. In contrast, Twitter (X) exhibited more fragmented and event-driven communication patterns, along with higher positivity and greater variability in content. The Jaccard similarity coefficient (0.159) suggests substantial lexical divergence between platforms. The findings suggest that social media platforms differ in how clinical trial information is communicated. Bluesky may function as a more specialised knowledge-sharing environment, whereas Twitter (X) reflects more event-driven and socially mediated communication dynamics. These results should be interpreted as exploratory and context-dependent, reflecting differences in platform architecture and data access conditions. The observed platform-specific patterns have direct relevance to clinical practice: they can inform clinical trial recruitment strategies, clinician–patient communication around emerging therapies, evidence-based patient education on participation in clinical research, and pharmacovigilance signal detection.",
+      "link": "https://doi.org/10.1038/s41598-026-71633-9",
+      "authors": [
+        "Marlena Krawczyk-Suszek",
+        "Arkadiusz Gaweł",
+        "Martin Braddock",
+        "Andrzej Adamski"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:24+00:00",
+      "last_seen": "2026-09-18T06:32:24+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69603-2": {
+      "key": "doi:10.1038/s41598-026-69603-2",
+      "doi": "10.1038/s41598-026-69603-2",
+      "title": "Association between trabecular microarchitecture and impaction pattern in unilateral maxillary canines: CBCT-based fractal analysis",
+      "abstract": "Alveolar bone characteristics have been suggested as potential contributors to maxillary canine impaction; however, the relationship between trabecular bone microarchitecture and impaction pattern remains unclear. This study aimed to compare alveolar trabecular microarchitecture between impacted and non-impacted sides in unilateral maxillary canine impaction using cone-beam computed tomography (CBCT)-based fractal dimension (FD) analysis and to evaluate its association with impaction pattern. This retrospective observational study included 90 individuals: 45 patients with unilateral impacted maxillary canines and 45 controls. The impaction group was subdivided into palatal (n = 31) and buccal (n = 14) impactions. FD analysis was performed on standardized regions of interest using the box-counting method. A linear mixed-effects model was used to assess the effects of group, side, and their interaction. A significant main effect of group was observed (p < 0.001), whereas no significant effect of side or group × side interaction was detected (p > 0.05). The palatal impaction group demonstrated significantly higher FD values compared with both the buccal impaction and control groups (p < 0.01), while no significant difference was found between the control and buccal impaction groups. These findings indicate that trabecular bone microarchitecture varies according to impaction pattern. The absence of a side effect suggests that palatal impaction is associated with broader maxillary structural characteristics rather than localized adaptations. CBCT-based fractal analysis provides a non-invasive, reproducible approach for assessing trabecular complexity, offering potential insights for individualized orthodontic risk assessment.",
+      "link": "https://doi.org/10.1038/s41598-026-69603-2",
+      "authors": [
+        "Demet Süer Tümen",
+        "Özge Ünlüoğlu",
+        "Yazgı Ay Ünüvar",
+        "Emre Köse"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:24+00:00",
+      "last_seen": "2026-09-18T06:32:24+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-18T06:32:24+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71235-5": {
+      "key": "doi:10.1038/s41598-026-71235-5",
+      "doi": "10.1038/s41598-026-71235-5",
+      "title": "Association and predictive value of the C-reactive protein-triglyceride-glucose index in chronic kidney disease",
+      "abstract": "Abstract Recent evidence has suggested a positive association between the C-reactive protein-triglyceride-glucose index (CTI) and chronic kidney disease (CKD), but its generalizability and prognostic utility remain to be fully established. In this study, we examined the CTI and CKD association in a nationally representative US cohort and further evaluated its prognostic value for mortality using machine learning, with external validation in an independent Chinese population. We analyzed data from the National Health and Nutrition Examination Survey (NHANES) from 2001 to 2010. Logistic regression models were used to assess the association between CTI (as a continuous variable and in quartiles) and CKD. Cox regression models were applied to assess the relationship between CTI and all-cause mortality among patients with CKD. Nonlinear relationships between CTI and all-cause mortality were evaluated using restricted cubic splines (RCS). Furthermore, we further adopted machine learning to evaluate the prognostic value of CTI, and performed mediation analysis to investigate the roles of diabetes and body mass index(BMI) in this association. CTI showed significant nonlinear associations with both CKD prevalence and all-cause mortality, with thresholds at 9.868 and 10.170, respectively. In cross-sectional analyses, these associations were stronger in younger individuals, males, participants with diabetes and obesity. In longitudinal analyses, each one-unit increase in CTI was associated with a 15% higher all-cause mortality (HR = 1.15; 95%CI:1.02–1.30), but not cardiovascular death. Internally, GBM and XGBoost outperformed other models, but their external performance degraded. CoxBoost, showing the highest external validity, was ultimately chosen as the preferred model for its better generalizability. SHAP analysis identified CTI as a modest yet independent predictor, ranking above diabetes, BMI, and total cholesterol. Exploratory mediation analysis showed that diabetes accounted for only 3.1% of the association between CTI and mortality, whereas the indirect effect of BMI was opposite in direction to the total effect. CTI was nonlinearly and threshold-dependently associated with CKD risk and all-cause mortality. Machine learning models incorporating CTI showed predictive performance, supporting its potential value for CKD risk stratification and prognostic assessment.",
+      "link": "https://doi.org/10.1038/s41598-026-71235-5",
+      "authors": [
+        "Yutong Lin",
+        "Jie Tian",
+        "Yan Zeng",
+        "Jinying Pan",
+        "Zining Lin",
+        "Fuyuan Hong",
+        "Meizhu Gao"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:28+00:00",
+      "last_seen": "2026-09-18T06:32:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71414-4": {
+      "key": "doi:10.1038/s41598-026-71414-4",
+      "doi": "10.1038/s41598-026-71414-4",
+      "title": "Irrigation water quality assessment and evaluation of machine learning prediction reliability in a semi-arid region, Midmar Catchment, Tigray, Northern Ethiopia",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-71414-4",
+      "authors": [
+        "Berihu Abadi Berhe",
+        "Gebreyesus Zeru Hailu",
+        "Tewodros Alemayehu",
+        "Haile Tadelle Abadi"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:28+00:00",
+      "last_seen": "2026-09-18T06:32:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71126-9": {
+      "key": "doi:10.1038/s41598-026-71126-9",
+      "doi": "10.1038/s41598-026-71126-9",
+      "title": "Data-driven forecasting of aeolian dust impacts on solar irradiance and PV output over the Eastern Mediterranean",
+      "abstract": "Abstract Dust outbreaks cause abrupt, hard-to-anticipate drops in surface irradiance and photovoltaic (PV) generation, yet most operational irradiance products lack the counterfactual dust-free signal needed to quantify dust-driven energy losses. We develop a two-model Extreme Gradient Boosting (XGBoost) framework, driven by Copernicus Atmosphere Monitoring Service (CAMS) forecast fields, to emulate all-sky hourly irradiance and diagnose the radiative impact of mineral dust over the East Mediterranean. An all-sky model is trained on 1.6 million hourly samples and evaluated against 2.6 million daytime hours of measurements constructed from 472 distributed PV plants, providing an hourly all-sky forecast product not directly available from CAMS. Against the PV proxy, XGBoost consistently reduces the positive systematic bias of CAMS reanalysis across dust regimes, while random-error skill is regime dependent. Under low-dust conditions (aerosol optical depth (AOD) < 0.2), RMSE is reduced by 3.8%; under extreme dust (AOD > 0.6), RMSE is reduced by 10.1%. Under moderate dust co-occurring with clouds (0.2 ≤ AOD ≤ 0.6), bias is reduced but MAE can increase relative to CAMS. A complementary clear-sky model is used in counterfactual dust-free mode to derive a diagnostic dust-effect metric linking dust-induced irradiance reductions to PV losses, with a monotonic response confirmed against AERONET AOD.",
+      "link": "https://doi.org/10.1038/s41598-026-71126-9",
+      "authors": [
+        "P. Kiriakidis",
+        "A. G. Charalambides",
+        "A. Ioannidis",
+        "T. Christoudias"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:28+00:00",
+      "last_seen": "2026-09-18T06:32:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69857-w": {
+      "key": "doi:10.1038/s41598-026-69857-w",
+      "doi": "10.1038/s41598-026-69857-w",
+      "title": "Development of hybrid glass fiber/epoxy nanocomposites strengthened with ceramic nanoparticles: mechanical and dynamic mechanical performance",
+      "abstract": "Abstract Composite materials are used in a wide range of contemporary applications. Consequently, the development of high-performance hybrid nanocomposites for advanced engineering applications continues to depend critically on the optimization of nanoparticle content and processing conditions. The present work investigates the significance of incorporating SiO 2 and TiO 2 nanoparticles on an epoxy matrix reinforced with different E-glass fiber layers in terms of its tensile, flexural, impact strength, and dynamic mechanical performance. The mechanical and dynamic mechanical performance of hybrid woven glass fiber/epoxy nanocomposites reinforced with TiO 2 and SiO 2 ceramic nanoparticles was developed and evaluated. Based on results from experiments, the stiffness, toughness, and structural integrity of the composites were considerably improved by increasing the number of woven glass fiber layers from 6 to 9 layers. As the number of fiber layers and nanoparticle incorporation increased, it was found that the mechanical performance improved. The greatest improvement was observed in 0.5 wt% TiO₂-reinforced composites, which achieved a 66% increase in tensile strength (262 MPa) compared with neat 9 layers of glass fiber/epoxy composites (157 MPa). The flexural strength of the nanocomposites increased by 28%, from 309 MPa for nine layers of glass fiber/epoxy composites to 398 MPa. Furthermore, the impact strength of the composites reinforced with TiO₂ nanoparticles (G6T and G9T) was significantly higher than that of the neat and SiO₂-filled composites. E-glass fiber /epoxy laminates with two distinct fiber-layer structures, single and hybrid TiO₂/SiO₂ nanoparticle reinforcements, are compared. The use of SiO₂ or TiO₂ nanoparticles in epoxy composites makes it novel. The combined effect of dual nanoparticle reinforcement led to significant improvements in mechanical and dynamic mechanical properties in hybrid TiO₂/SiO₂ reinforced composites. To improve resistance to crack propagation and boost load transfer capability, ceramic nanoparticles were added to the epoxy matrix and glass fibers to strengthen the interfacial bond.",
+      "link": "https://doi.org/10.1038/s41598-026-69857-w",
+      "authors": [
+        "Saleh S. Abdelhady",
+        "Asmaa M. Kassab",
+        "Mohamed Ragab",
+        "Shaimaa M. Mohamed"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:28+00:00",
+      "last_seen": "2026-09-18T06:32:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69259-y": {
+      "key": "doi:10.1038/s41598-026-69259-y",
+      "doi": "10.1038/s41598-026-69259-y",
+      "title": "Inverse design of realizable metasurface based absorbers using improved conditioning and diversity enhanced progressively growing GANs",
+      "abstract": "Abstract Metasurfaces enable precise manipulation of electromagnetic (EM) waves for applications such as beam steering, sensing, and stealth technology. However, inverse design of metasurfaces remains challenging owing to the computational burden of iterative full-wave simulation-driven optimization, the difficulty of achieving controllable generation under continuous EM constraints, and the inherently non-unique nature of the inverse mapping. To address these challenges, this paper presents a generative inverse design framework for controllable and physically consistent metasurface synthesis under continuous spectral constraints. The proposed approach employs a progressively growing Wasserstein generative adversarial network with gradient penalty (WGAN-GP) integrated with feature-wise linear modulation (FiLM)-based conditioning for stable propagation of continuous spectral and fabrication constraints. EM consistency is embedded directly into the generative learning process through a surrogate-assisted spectral alignment loss, enabling physics-constrained generation during training. Further, a determinantal point process (DPP)-based diversity regularization strategy is incorporated to generate geometrically diverse yet spectrally consistent realizations for the same target response. The effectiveness of the proposed framework is demonstrated through the generation of practically realizable metasurface absorbers exhibiting diverse reflection characteristics in the frequency range of 2–18 GHz. EM simulations validate that the generated designs meet the target specifications with high accuracy. The final proposed framework achieved an average mean squared error of 0.0052, accumulated average error of 0.0343, diversity score of 0.8730, band alignment accuracy of 0.8533, and a valid EM design generation rate of 89.57%, clearly demonstrating its capability to generate highly accurate, diverse, electromagnetically consistent and fabrication realizable metasurface configurations.",
+      "link": "https://doi.org/10.1038/s41598-026-69259-y",
+      "authors": [
+        "Vineetha Joy",
+        "Mohammad Abdullah",
+        "Pramit Pal",
+        "Anshuman Kumar",
+        "Amit Sethi",
+        "Hema Singh"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:28+00:00",
+      "last_seen": "2026-09-18T06:32:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71255-1": {
+      "key": "doi:10.1038/s41598-026-71255-1",
+      "doi": "10.1038/s41598-026-71255-1",
+      "title": "Investigating the association between osteoarthritis and cardiovascular disease using a standardized cardiovascular health assessment tool in a nationwide health survey",
+      "abstract": "Osteoarthritis (OA) and cardiovascular disease (CVD) are thought to be interrelated, but the nature of their connection remains unclear. We examined the association between OA and cardiovascular health (CVH) using Life’s Essential 8 (LE8), a standardized CVH assessment tool. We conducted a population-based cross-sectional analysis of data from the Korea National Health and Nutrition Examination Survey collected between 2014 and 2021, comprising 35,001 adults aged 19 years or older. LE8 scores were compared by OA status, which was determined from self-reported physician diagnosis, and logistic regression analysis was used to estimate the odds of OA across CVH grades. In this cross-sectional analysis, higher CVH was associated with lower odds of OA. After adjustment for age, sex, and socioeconomic status, individuals with moderate or high CVH had approximately 19% and 40% lower odds of OA than those with low CVH (OR 0.81, 95% CI 0.73–0.91; OR 0.60, 95% CI 0.48–0.74; P < 0.001). The difference was primarily observed in the health factors domain, particularly body mass index (BMI) and blood pressure, whereas the health behaviors domain showed no consistent association after adjustment. Overall, poorer CVH was associated with a higher likelihood of coexisting OA, with differences most evident in BMI and blood pressure.",
+      "link": "https://doi.org/10.1038/s41598-026-71255-1",
+      "authors": [
+        "Youn-Ho Choi",
+        "Yoon-Chung Kim",
+        "Kyung-Do Han",
+        "Gyu-Na Lee",
+        "Hae Seok Koh",
+        "DoJoon Park",
+        "Woojin Lee",
+        "Seung-Hyun Ko"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:28+00:00",
+      "last_seen": "2026-09-18T06:32:28+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-18T06:32:28+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68337-5": {
+      "key": "doi:10.1038/s41598-026-68337-5",
+      "doi": "10.1038/s41598-026-68337-5",
+      "title": "Computational drug repurposing against histone acetyltransferase p300 for non-hormonal treatment of endometriosis using virtual screening and molecular dynamics simulations",
+      "abstract": "Abstract Endometriosis is a gynecological disorder, characterized by debilitating pain and commonly associated with infertility. Medical therapies are often ineffective, with 25–34% of patients exhibit no or poor response, and many experiencing intolerable side effects that limit long term use. P300 is a critical histone acetyltransferase that promotes inflammation and invasion through epigenetic modulation of immune cells, and upregulation of pro-inflammatory gene expression. In this study, we aimed to identify potential inhibitors of p300 for treating endometriosis using computational drug repurposing. We performed a molecular docking-based virtual screening of 2,083 Food and Drug Administration (FDA) approved drugs against the crystal structure of p300 ligand-binding domain, followed by molecular dynamics (MD) simulations and Molecular Mechanics Poisson Boltzmann Surface Area (MM-PBSA) analysis to further assess the stability and the binding interactions of the top-ranked drugs. Three compounds, Naldemedine, Bictegravir and Zavegepant, exhibited favorable docking affinities and interaction profiles. Further evaluation using 300 ns molecular dynamics simulations and MM-PBSA analyses demonstrated that Bictegravir exhibited the most favorable binding in complex with p300. Lastly, these findings underscore the potential of bioinformatics approaches in providing valuable resources and novel perspective on therapeutic strategies that are often overlooked in the context of endometriosis.",
+      "link": "https://doi.org/10.1038/s41598-026-68337-5",
+      "authors": [
+        "Hajar Erraji",
+        "Mohammed Hakmi",
+        "Mohammed Zarqaoui",
+        "Noureddine Louanjli",
+        "Souad Kartti",
+        "Bouchra Ghazi"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-18T06:32:30+00:00",
+      "last_seen": "2026-09-18T06:32:30+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
       "matched_channels": {}
     }
   }
