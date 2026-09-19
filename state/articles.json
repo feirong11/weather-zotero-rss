@@ -136343,6 +136343,643 @@
       "enrichment_attempts": 0,
       "last_enrichment_attempt": "",
       "matched_channels": {}
+    },
+    "doi:10.1002/joc.70596": {
+      "key": "doi:10.1002/joc.70596",
+      "doi": "10.1002/joc.70596",
+      "title": "Beyond Traditional Hydrological Models: Transformer‐Based Deep Learning for Future Streamflow and Flood Risk Assessment in the Brahmaputra River Basin",
+      "abstract": "ABSTRACT This study presents an integrated framework combining process‐based hydrological modelling with advanced deep learning techniques to improve climate‐driven streamflow prediction and flood risk assessment in the Brahmaputra River Basin (BRB) at Bahadurabad. Unlike conventional comparative studies, this work explicitly evaluates the added value of Transformer‐based architectures against traditional hydrological modelling (HEC‐HMS) and recurrent neural networks (LSTM and BiLSTM) under bias‐corrected CMIP6 climate projections. Historical discharge data from 1981 to 2014 were used for calibration, validation, training and testing. Among the evaluated models, the Transformer demonstrated superior predictive capability, achieving an R 2 of 0.94 during testing with PBIAS within ±1%, whereas HEC‐HMS showed comparatively lower accuracy ( R 2 = 0.72) and consistent underestimation exceeding 20%. Future projections for the 2030s, 2050s and 2080s reveal a systematic shift towards earlier monsoon onset and a 10%–25% increase in seasonal discharge, with mean annual flow rising from approximately 22,000 m 3 /s in the baseline period to nearly 30,000 m 3 /s by the late century. By coupling data‐driven predictions with flood frequency analysis using the Gumbel distribution, this study further demonstrates a pronounced intensification of extreme flood events under future climate scenarios. The findings highlight the enhanced capability of Transformer‐based models to capture complex hydroclimatic dynamics and underscore their potential as a robust tool for climate‐resilient water resources planning in large transboundary river basins.",
+      "link": "https://doi.org/10.1002/joc.70596",
+      "authors": [
+        "Md. Mahin Mobarrat",
+        "Himel Moulik",
+        "Md. Mostafa Ali"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-19T06:29:49+00:00",
+      "last_seen": "2026-09-19T06:29:49+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning",
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1002/joc.70564": {
+      "key": "doi:10.1002/joc.70564",
+      "doi": "10.1002/joc.70564",
+      "title": "Relationship Between Frontal Systems and Lightning Over Southern South America",
+      "abstract": "ABSTRACT The relationship between synoptic fronts and atmospheric electrical activity is explored in southern South America, analysing the seasonal climatology for the 2010–2021 period. Daily gridded data from the ERA5 reanalysis as well as lightning density from the WGLC database are used. Fronts are identified by an objective index that indicates their intensity, with a size threshold retaining only synoptic‐scale features. Lightning is most frequent in austral summer (December, January, February) and least in austral winter (June, July, August); frontal systems, on the other hand, are more frequent and more intense in winter and spring in Uruguay and central and northern Argentina, occurring in about 15% of the days. Lightning density mean is more uniform across the seasons, presenting two maximums, one in Paraguay and northeastern Argentina and the other off the coast of Uruguay and southern Brazil. For all seasons, more than 50% of fronts have electrical activity in central and northern Argentina; most summertime fronts over the continent present lightning. In Patagonia, about 25% of fronts have lightning; however, this represents less than 10 days per year, as atmospheric electrical activity is very infrequent in the region. In southeastern South America, more than 60% of lightning days are associated with synoptic frontal systems in winter and spring, while in summer it is less than 30%. Cold fronts with lightning occur in the region in about 16% of days in spring and winter, while warm fronts occur in about 23% and have a stronger mean lightning density than cold fronts. This is tied to the strong moisture convergence associated with warm fronts in the region as well as more intense fronts; in the same area, cold fronts with lightning present moisture divergence and overall weaker fronts.",
+      "link": "https://doi.org/10.1002/joc.70564",
+      "authors": [
+        "Florencia I. Solari",
+        "M. Gabriela Nicora",
+        "Josefina Blázquez"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-19T06:29:49+00:00",
+      "last_seen": "2026-09-19T06:29:49+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1002/joc.70592": {
+      "key": "doi:10.1002/joc.70592",
+      "doi": "10.1002/joc.70592",
+      "title": "Near‐Surface Atmospheric Pressure Trends and Their Relationship to Temperature Over China (1961–2023)",
+      "abstract": "ABSTRACT Near‐surface atmospheric pressure (NSAP) is a key physical quantity characterising atmospheric circulation features and thermodynamic structure, yet the long‐term trend and its relationship with near‐surface air temperature (NSAT) changes in China remain unclear. This study, based on homogenised monthly observational data from 765 meteorological stations of the National Meteorological Information Center of the China Meteorological Administration from 1961 to 2023, systematically analyzes the spatiotemporal evolution characteristics of NSAP in China and quantifies its relationship to NSAT changes. The results indicate that from 1961 to 2023, against the backdrop of a significant increase in nationwide NSAT, 0.29°C decade −1 , the annual average NSAP in China shows a slight declining trend of −0.02 hPa decade −1 , though not statistically significant. Spatially, the trend in NSAP from southeast to northwest presents a “decrease–increase–decrease” pattern. Among these, regions with lower elevations such as Central China (C) and Southern China (S), as well as the Western Arid and Aemi‐arid region (WAS), mainly exhibit a declining trend, magnitude exceeding 0.09 hPa decade −1 . Conversely, significant increasing trends are observed in the Qinghai‐Tibet (QT) region and the eastern arid (EA) region, exceeding 0.1 hPa decade −1 . This result suggests that topography plays a crucial role in modulating NSAP changes under warming. On a seasonal scale, NSAP changes exhibit noticeable asymmetry. The national average NSAP shows a declining trend during spring and autumn, while it increases during winter and summer. The QT region, as a unique geographical unit, displays an increasing trend in NSAP across all seasons. Correlation analysis reveals that, across China, 67.2% of the monitoring stations have observed a negative correlation between NSAP and NSAT (maximum negative correlation coefficient reaching −0.77). However, in the QT and EA, the relationship between the NSAP and NSAT primarily exhibits a positive correlation. Further analysis of the trend‐based ratio (ΔP/ΔT) reveals seasonally asymmetric values across China, with positive values in winter and summer, and negative values in spring and autumn. The strongest negative trend‐based ratio is observed in autumn (−0.33 hPa °C −1 ), while the strongest positive trend‐based ratio is observed in winter (0.21 hPa °C −1 ). These findings provide new observational benchmarks for understanding the dynamic processes underlying regional climate change in China.",
+      "link": "https://doi.org/10.1002/joc.70592",
+      "authors": [
+        "Leibin Wang",
+        "Fang Yuan",
+        "Lifan Chen",
+        "Robert V. Rohli",
+        "Lijuan Cao",
+        "Qigen Lin",
+        "Xiaodong Yan",
+        "Siyan Dong"
+      ],
+      "published": "2026-09-18T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-19T06:29:49+00:00",
+      "last_seen": "2026-09-19T06:29:49+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1007/s10546-026-00997-2": {
+      "key": "doi:10.1007/s10546-026-00997-2",
+      "doi": "10.1007/s10546-026-00997-2",
+      "title": "On Estimating the Convective Mixing‑Layer Height from Near‑Surface Horizontal Wind Spectra: A Comment on Liu & Otaki (1997) with New Proposals",
+      "abstract": "Abstract Estimating and monitoring the mixing‑layer height remains a crucial but difficult task, as it cannot be measured directly by routine surface observations and is typically inferred from remote-sensing measurements with limited spatial coverage. In this context, the inversion of near-surface turbulence measurements from relatively simple, low‑cost sonic anemometer offers a complementary solution. This paper reassesses the spectral approach proposed by Liu and Ohtaki in 1997 for determining the mixing-layer height, showing that its underlying assumptions are not physically justified, and presents a more consistent, although more complex, derivation. In addition, it presents two alternative methods, based on total and partial spectral integration, which yield comparatively simpler formulations.",
+      "link": "https://doi.org/10.1007/s10546-026-00997-2",
+      "authors": [
+        "Giampietro Casasanta",
+        "Roberto Sozzi",
+        "Lorenzo Marinelli",
+        "Igor Petenko",
+        "Andrea Cecilia",
+        "Stefania Argentini"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Boundary-Layer Meteorology",
+      "journal_label": "Boundary-Layer Meteorology",
+      "issn": "0006-8314",
+      "first_seen": "2026-09-19T06:29:52+00:00",
+      "last_seen": "2026-09-19T06:29:52+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77864-8": {
+      "key": "doi:10.1038/s41467-026-77864-8",
+      "doi": "10.1038/s41467-026-77864-8",
+      "title": "Resonance-enhanced integrated acousto-optic beam steering",
+      "abstract": "Optical beam steering is a key technology for free-space optical communication, sensing, and imaging. Mechanical beam steering systems suffer from limited scanning speed and bulky form factors, while existing solid-state solutions rely on pixelated synthetic aperture that requires complex fabrication and control architectures. Integrated acousto-optic beam steering is an emerging technology that enables continuous one-dimensional beam steering using integrated acoustic transducers and fixed-wavelength laser sources. Here, we integrate this approach with an optical ring resonator on the same thin-film lithium niobate platform to significantly enhance beam steering efficiency and system functionality. The resulting device achieves a resonance-enhanced beam steering efficiency of up to 26% and a field of view of 18∘. Moreover, by leveraging integrated electro-optic control, we dynamically lock the ring-resonator’s resonance to a chirped laser frequency, enabling frequency-modulated continuous-wave light detection and ranging operation. By combining lithium niobate’s piezoelectric and electro-optic properties, this work establishes a compact, efficient, and scalable beam-steering platform with co-integrated acousto-optic modulation and electro-optic control for multifunctional applications. The authors combine molecular-dimer calculations with simplified, coarse-grained simulations to predict the crystal structure of metal-organic cages and show how cage shape and the directionality of interactions influence the structures formed.",
+      "link": "https://doi.org/10.1038/s41467-026-77864-8",
+      "authors": [
+        "Yue Yu",
+        "Qixuan Lin",
+        "Shucheng Fang",
+        "Joseph G. Thomas",
+        "Yibing Zhou",
+        "Zichen Xi",
+        "Jun Ji",
+        "Yizheng Zhu",
+        "Linbo Shao",
+        "Bingzhao Li",
+        "Mo Li"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-19T06:29:57+00:00",
+      "last_seen": "2026-09-19T06:29:57+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-19T06:29:57+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77985-0": {
+      "key": "doi:10.1038/s41467-026-77985-0",
+      "doi": "10.1038/s41467-026-77985-0",
+      "title": "Checkerboard-type Zhang-Rice states in overdoped cuprate superconductors",
+      "abstract": "Abstract Cuprate superconductors remain central to condensed matter physics due to their technological relevance and unconventional, incompletely understood electronic behavior. While the canonical phase diagram and low-energy models have been shaped largely by studies of underdoped and moderately doped cuprates, the overdoped regime has received comparatively limited attention. Here, we track the evolution of the electronic structure from optimal to heavy overdoping in La 2−x Sr x CuO 4 (LSCO) using broadband optical spectroscopy across x = 0.15–0.60. The measured spectral changes—including the redistribution of Zhang–Rice–related spectral weight—are in qualitative agreement with determinant quantum Monte Carlo (DQMC) simulations of the three-orbital Emery model, which together indicate a pronounced reconstruction of the electronic structure beyond hole concentrations x > 0.2. Guided by these observations, we propose a spontaneous checkerboard-type Zhang–Rice electronic configuration that accounts for the coexistence of itinerant and localized carriers characteristic of the heavily overdoped state. Our results refine the doping-dependent Zhang–Rice–based framework for cuprates, illuminate how correlations persist deep into the overdoped regime, and provide new constraints on microscopic mechanisms of high-temperature superconductivity, with broader implications for correlated transition-metal oxides.",
+      "link": "https://doi.org/10.1038/s41467-026-77985-0",
+      "authors": [
+        "Xiongfang Liu",
+        "Kun Han",
+        "Yan Peng",
+        "Yuanjie Ning",
+        "Jing Wu",
+        "Zhaoyang Luo",
+        "Difan Zhou",
+        "Zhigang Zeng",
+        "Qian He",
+        "Chuanbing Cai",
+        "Mark. B. H. Breese",
+        "Ariando Ariando",
+        "Chi Sin Tang",
+        "George A. Sawatzky",
+        "Mi Jiang",
+        "Xinmao Yin"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-19T06:29:59+00:00",
+      "last_seen": "2026-09-19T06:29:59+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77550-9": {
+      "key": "doi:10.1038/s41467-026-77550-9",
+      "doi": "10.1038/s41467-026-77550-9",
+      "title": "Single-fiber hyperspectral imaging via nanophotonic disordered dispersion",
+      "abstract": "Optical fibers are widely used to transmit optical signals for communications and sensing. Extending this capability to hyperspectral imaging is attractive for compact imaging systems, but is fundamentally constrained by limited channel capacity and transmission distortion of fibers. Here, we demonstrate single-fiber hyperspectral imaging via nanophotonic disordered dispersion. A disordered-dispersion encoder at the distal fiber end can map high-dimensional spectral-angular information into a one-dimensional spectral measurement, which is then computationally decoded using sparsity-constrained reconstruction. Our disordered dispersion is achieved using nonlocal nanophotonic structures that support high mode density and multimode coupling, thereby enabling low-correlation compressive encoding. The system features angular reconstruction over a field of view of ±60°, spectral detection from 400 to 700 nm, and robustness against fiber distortion. This work circumvents the need for real-space pixelated encoders or detectors used in traditional hyperspectral cameras, offering a route toward ultra-compact high-dimensional imagers compatible with flexible single-fiber probes. Researchers show that a single optical fiber can transmit hyperspectral images using a tiny nanophotonic encoder, opening a path toward compact, flexible probes for imaging and sensing.",
+      "link": "https://doi.org/10.1038/s41467-026-77550-9",
+      "authors": [
+        "Yuchen Ma",
+        "Jiachen Wu",
+        "Chang-Yin Ji",
+        "Liangcai Cao",
+        "Guangwei Hu"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-19T06:29:59+00:00",
+      "last_seen": "2026-09-19T06:29:59+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-19T06:29:59+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-025-32250-0": {
+      "key": "doi:10.1038/s41598-025-32250-0",
+      "doi": "10.1038/s41598-025-32250-0",
+      "title": "Effects of habitat fragmentation on mammalian species richness in the Republic of Korea",
+      "abstract": "Abstract Road networks cause habitat fragmentation by reducing the patch size and connectivity, threatening wildlife. We assessed the effects of road-induced habitat fragmentation and proximity to roads on mammalian species richness in the Republic of Korea. Habitat patches were delineated to minimize road impact, and patch size and connectivity were quantified. The mammalian species richness was based on nationwide occurrence records. We compared species richness across three consecutive 1-km buffers extending from the roads to evaluate edge effects. In total, 6176 patches were identified, with over 66% being smaller than 1 km 2 . Species richness increased significantly with patch size and connectivity, with patch size exerting the strongest effect. Species richness was nearly twice as high in highly connected patches exceeding the connectivity threshold, particularly in landscapes with higher forest cover and lower agricultural land cover. Species richness increased with increasing distance from roads, being lowest at 0–1 km and highest at 2–3 km. These findings indicated that mammalian species richness is highly sensitive to habitat fragmentation and that structurally favorable patches with higher natural cover support substantially greater biodiversity. Pronounced declines in species richness near roads highlight strong edge effects on mammalian species richness in the Republic of Korea.",
+      "link": "https://doi.org/10.1038/s41598-025-32250-0",
+      "authors": [
+        "Kyungmin Kim",
+        "Kiyoon Kim",
+        "Amaël Borzée",
+        "Yikweon Jang"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:05+00:00",
+      "last_seen": "2026-09-19T06:30:05+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70209-x": {
+      "key": "doi:10.1038/s41598-026-70209-x",
+      "doi": "10.1038/s41598-026-70209-x",
+      "title": "Real-time measurement error mitigation for one-way quantum computation",
+      "abstract": "Abstract We propose a quantum error mitigation scheme for single-qubit measurement errors, particularly suited for one-way quantum computation. Contrary to well established error mitigation methods for circuit-based quantum computation that require the circuits to be run several times, our method is capable of mitigating measurement errors in real time during the processing measurements in the one-way computation. For that, an ancillary qubit register is entangled with the to-be-measured qubit and additionally measured afterwards. By using a voting protocol on all measurement outcomes, occurring measurement errors can be mitigated in real time while the one-way computation continues. We provide an analytical expression for the probability to detect a measurement error depending on the error rate and the number of ancilla qubits. From this, we derive an estimate of the ancilla register size for a given measurement error rate and a required success probability to detect a measurement error. Additionally, we consider the CNOT gate error in our mitigation method and investigate how this influences the probability to detect a measurement error. Finally, we show in proof-of-principle simulations and in experiments executed on IBM quantum hardware that our method is capable of reducing the measurement errors significantly in a one-way quantum computation with only a small number of ancilla qubits.",
+      "link": "https://doi.org/10.1038/s41598-026-70209-x",
+      "authors": [
+        "Tobias Hartung",
+        "Stephan Schuster",
+        "Joachim von Zanthier",
+        "Karl Jansen"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:05+00:00",
+      "last_seen": "2026-09-19T06:30:05+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72229-z": {
+      "key": "doi:10.1038/s41598-026-72229-z",
+      "doi": "10.1038/s41598-026-72229-z",
+      "title": "Energy absorption performance study of bio-inspired hierarchical honeycomb structures with curved cell walls under Quasi-static loading",
+      "abstract": "Abstract The mechanical performance and energy absorption capability of honeycomb structures are strongly influenced by their geometric configuration. However, conventional honeycombs with straight cell walls often suffer from premature buckling and high peak crushing force (PCF), limiting their crashworthiness efficiency. In this study, a novel grass stem-inspired hierarchical honeycomb structure with curved cell walls was developed by modifying the conventional hexagonal geometry to enhance energy absorption performance. The axial crushing behavior of the proposed structures was investigated through quasi-static compression experiments and validated finite element (FE) simulations. Two configurations, including a conventional straight cell-wall honeycomb and a convex curved cell-wall honeycomb, were fabricated using 3D-printed polylactic acid (PLA) and evaluated experimentally. The results demonstrated that the convex curved cell-wall honeycomb improved specific energy absorption (SEA) while reducing PCF compared with the conventional design. The FE models showed good agreement with experimental results, confirming their reliability for further analysis. Parametric investigation revealed that wall thickness mainly controls load-carrying capacity, whereas curvature radius influences deformation stability and energy absorption behavior. Furthermore, multi-objective optimization was performed to maximize SEA and minimize PCF. The optimized design achieved a 2.18% increase in SEA and a 19.75% reduction in PCF compared with the conventional honeycomb, demonstrating its potential for lightweight crashworthiness applications.",
+      "link": "https://doi.org/10.1038/s41598-026-72229-z",
+      "authors": [
+        "Tamana Dabasa",
+        "Yohannes Regassa",
+        "Hirpa G. Lemu"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:05+00:00",
+      "last_seen": "2026-09-19T06:30:05+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71999-w": {
+      "key": "doi:10.1038/s41598-026-71999-w",
+      "doi": "10.1038/s41598-026-71999-w",
+      "title": "Systematic benchmarking of evaluation paradigms, safety boundaries, and clinical reasoning gaps for multimodal large language models in rehabilitation",
+      "abstract": "Abstract Motor rehabilitation and clinical biomechanical assessment rely on expert judgement to evaluate movement quality, pathological compensation, and spatiotemporal motor dynamics. Existing automated approaches mainly depend on conventional computer vision methods, such as skeletal keypoint-based analysis, but they provide limited clinical semantic interpretation and mechanistic reasoning. With the emergence of multimodal large language models (MLLMs), movement assessment may shift from geometric pose tracking toward end-to-end visual clinical reasoning. However, the ability of current MLLMs to identify fine-grained kinematic abnormalities and suppress visually unsupported hallucinations in rehabilitation videos remains insufficiently evaluated. This study aimed to develop a multidimensional video benchmark, ActionEval-MedBench , to systematically evaluate the clinical reasoning capability, safety boundaries, and failure modes of MLLMs in motor rehabilitation and clinical biomechanics. ActionEval-MedBench included 522 rigorously screened and de-identified videos, comprising 328 clinical upper-limb rehabilitation videos and 194 general functional biomechanics videos. Each video was paired with six multi-select multiple-choice questions, yielding 3132 video—MCQ assessment items. We designed a six-dimensional ActionEval protocol covering semantic action recognition, kinematic feature alignment, pathological compensation identification, spatiotemporal dynamics analysis, comprehensive movement quality and clinical decision-making, and visual grounding for anti-hallucination assessment. Expert consensus labels were established through a dual-track Delphi-style procedure. Twenty-six leading MLLMs were evaluated under standardized zero-shot prompts and structured response-parsing rules. The primary outcome was the cohort-weighted ActionEval composite score, while the D6 false-positive hallucination rate ( $$FP_{D6}$$ ) was used as an independent safety endpoint. Among 81,432 expected dimension-level response opportunities, 81,006 responses were successfully returned, whereas 426 were unavailable because of missing outputs or system-level failures. Among the returned responses, 80,931 were parsable and valid, while 75 were invalid or unparsable, yielding an overall valid-response rate of 99.38%. Gemini-3.1-Pro-Preview, Doubao-Seed-2.0-Lite-260428, Gemini-3.5-Flash, Claude-Opus-4-7, GLM-5V-Turbo, and GPT-5.5 formed a numerically high-performing cluster, with weighted ActionEval scores ranging from 66.17 to 65.46. The Friedman test showed significant overall performance differences among the 26 models ( $$\\chi ^2 = 2671.34$$ , $$P < 0.001$$ ), whereas Holm–Bonferroni-adjusted pairwise comparisons within the high-performing cluster were not statistically significant (all $$P > 0.05$$ ). Dimension-wise analysis revealed a marked semantic-to-clinical reasoning gap: models achieved strong performance in D1 semantic action recognition, with a mean F1-score of 91.1%, but declined substantially in higher-order clinical dimensions involving pathological compensation, spatiotemporal dynamics, and clinical decision-making, with mean F1-scores below 50% across D3–D5. Performance was lower in the clinical rehabilitation cohort than in the general functional biomechanics cohort, with an average drop of 9.44 percentage points; this difference was interpreted as a combined domain-shift burden between standardized functional videos and real-world fine-grained clinical rehabilitation videos rather than the isolated effect of pathology. In D6 negative-probe testing, nine models produced visually unsupported affirmative selections, with the highest $$FP_{D6}$$ reaching 6.51%. ActionEval-MedBench quantifies the cognitive boundaries and safety risks of current MLLMs in dynamic rehabilitation video understanding. Although MLLMs show promise for structured preliminary screening and clinical semantic reasoning, their limitations in detecting subtle pathological compensation and modeling spatiotemporal dynamics preclude their use as independent diagnostic tools. Future digital rehabilitation AI should follow a human-in-the-loop paradigm and incorporate domain-specific causal reasoning, kinematic-chain modeling, and rigorous visual-grounding safety probes.",
+      "link": "https://doi.org/10.1038/s41598-026-71999-w",
+      "authors": [
+        "Ping Ye",
+        "Yu Li",
+        "Mengjian Qu",
+        "Xuan Zhang",
+        "Jing Liu",
+        "Tao Zhu",
+        "Jun Zhou"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:05+00:00",
+      "last_seen": "2026-09-19T06:30:05+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71535-w": {
+      "key": "doi:10.1038/s41598-026-71535-w",
+      "doi": "10.1038/s41598-026-71535-w",
+      "title": "Thermodynamic–molecular interdependencies and causal determinants governing pharmaceutical solubility in SC-CO2 systems",
+      "abstract": "Abstract Accurate prediction of pharmaceutical solubility in supercritical CO₂ (SC-CO₂) systems is critical for green drug formulation and process intensification, yet existing machine learning studies largely prioritize predictive accuracy while overlooking mechanistic interpretability and causal understanding. This study proposes an integrated interpretable artificial intelligence framework for modeling drug solubility in SC-CO₂ by combining high-performance gradient boosting algorithms, explainable machine learning, Bayesian optimization, and causal inference. A curated dataset comprising 1,618 pharmaceutical compounds characterized by molecular weight, melting point, temperature, and pressure was employed. Model interpretability was investigated through SHAP analysis and partial dependence plots to quantify feature contributions and nonlinear response patterns. To move beyond correlation-based interpretation, a domain-constrained causal graph together with input-perturbation (what-if) sensitivity analysis was used to compare predictive importance against hypothesized direct causal contribution, within the limits of an observational, non-experimentally-validated causal structure. Explainability analysis identified pressure, and molecular weight, -specific properties as dominant predictive drivers, while causal analysis revealed melting point as a hidden but structurally influential determinant despite its lower statistical importance. Counterfactual simulations further exposed nonlinear and context-dependent solubility responses under ± 20% perturbations of key variables, highlighting asymmetric system sensitivities. Additionally, interaction analysis uncovered strong thermodynamic coupling effects, particularly between pressure and temperature, governing solubility dynamics.",
+      "link": "https://doi.org/10.1038/s41598-026-71535-w",
+      "authors": [
+        "Wael A. Mahdi",
+        "Adel Alhowyan",
+        "Ahmad J. Obaidullah"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:05+00:00",
+      "last_seen": "2026-09-19T06:30:05+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning",
+          "artificial intelligence"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70965-w": {
+      "key": "doi:10.1038/s41598-026-70965-w",
+      "doi": "10.1038/s41598-026-70965-w",
+      "title": "HemaViT: transformer-based deep learning for automated non-invasive anemia detection using conjunctival imaging",
+      "abstract": "Abstract Anemia is a common hematological disorder that requires timely diagnosis to reduce the risk of severe health complications, particularly in resource-limited healthcare settings. This study proposes HemaViT, a transformer-based deep learning framework for automated, non-invasive detection of anemia from conjunctival images. The proposed framework integrates Dual-Attention PSPNet for accurate conjunctiva segmentation, a Feature Pyramid Network (FPN) with Multiscale Feature Exposure (MFE) for hierarchical feature extraction, a Vision Transformer (ViT) for global contextual representation, and the Improved Waterwheel Plant Algorithm (IWPA) for automated hyperparameter optimization. Experiments were conducted on the publicly available Eyes Defy Anemia dataset, which contains 1,320 conjunctival images, using stratified five-fold cross-validation. HemaViT achieved an average accuracy of 95.8%, precision of 97.6%, recall of 96.9%, F1-score of 97.2%, specificity of 98.7%, and an AUC-ROC of 0.98. Comparative experiments demonstrated that the proposed framework consistently outperformed widely used deep learning models, including ResNet50, DenseNet121, EfficientNet-B0, MobileNetV3, and a CNN + RNN hybrid model, while maintaining a favorable balance between classification performance and computational complexity. Ablation studies further confirmed the contributions of conjunctiva segmentation, multi-scale feature extraction, transformer-based contextual learning, and IWPA-driven hyperparameter optimization to the overall performance. Although additional validation on larger, more diverse clinical datasets is required, the proposed framework demonstrates strong potential for automated, non-invasive anemia screening in mobile health and resource-constrained clinical environments.",
+      "link": "https://doi.org/10.1038/s41598-026-70965-w",
+      "authors": [
+        "Gourishetty Sindhusha",
+        "Rupesh Kumar Mishra",
+        "R. Jegadeesan"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:05+00:00",
+      "last_seen": "2026-09-19T06:30:05+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71909-0": {
+      "key": "doi:10.1038/s41598-026-71909-0",
+      "doi": "10.1038/s41598-026-71909-0",
+      "title": "Graph neural network-based service migration decision in vehicular networks",
+      "abstract": "Abstract The rapid development of the Internet of Vehicles (IoV) has led to an exponential increase in the number of latency sensitive and computationally intensive tasks. Due to the limitations of onboard computing resources in vehicles, offloading these tasks generated during vehicle operation to a remote cloud for processing inevitably leads to significant transmission delays. By combining the IoV with Mobile Edge Computing (MEC), these latency sensitive and computationally intensive tasks can be processed in MEC server to reduce energy consumption of vehicles and the transmission delay of tasks. However, due to the small coverage area of MEC servers and the mobility of vehicles, it may cause vehicles using MEC services to leave the coverage area of current MEC servers, resulting in service interruptions. How to dynamically migrate tasks for ensuring service continuity is a great challenge. In this paper, we study service migration strategies in dynamic and complex IoV MEC environments. We first model the service migration strategies as a multi-objective optimization problem that minimizes the weighted sum of latency and energy consumption. We then transform the problem into a Markov Decision Process (MDP). To capture time-varying server loads and link-state features over the physical RSU graph, a Graph Convolutional Network (GCN) is employed to extract features from the network topology and node information in the vehicular edge network, and a graph convolutional neural network-based deep reinforcement learning task migration decision algorithm (Gr-MiD) is proposed to make service migration decisions based on task details. Simulation results in a small synthetic intra-zone IoV-MEC setting demonstrate that the Gr-MiD algorithm outperforms existing comparative algorithms, achieving an 8.04% reduction in average task delay and a 15.82% reduction in average task energy consumption compared to the DQN baseline under peak-load conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-71909-0",
+      "authors": [
+        "Liyan Wang",
+        "Xianfeng Zheng",
+        "Liang Liu",
+        "Hao Feng",
+        "Wenwei Li",
+        "Huan Liu"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:05+00:00",
+      "last_seen": "2026-09-19T06:30:05+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-69981-7": {
+      "key": "doi:10.1038/s41598-026-69981-7",
+      "doi": "10.1038/s41598-026-69981-7",
+      "title": "Mismatch between quality and engagement in myasthenia gravis–related videos: a cross-sectional study on Chinese social media platforms",
+      "abstract": "As short-video platforms increasingly play a prominent role in disseminating public health information in China, evaluating the quality of their health-related content is crucial. This study aims to systematically assess the quality, reliability, and content characteristics of videos about myasthenia gravis (MG) on China’s mainstream short-video platforms (Douyin and Red Note). Using “myasthenia gravis” as the keyword, the top 100 videos returned by the default ranking on each platform were retrieved. After excluding duplicate and irrelevant videos, 174 videos, including 98 from Douyin and 76 from Red Note, were included in this cross-sectional content analysis. Transparency, overall informational quality, and general reliability were assessed using the Journal of the American Medical Association (JAMA) Benchmark criteria, Global Quality Score (GQS), and modified DISCERN instrument (mDISCERN), respectively. Video characteristics, uploader identities, content themes, and user engagement indicators were analyzed using nonparametric statistical methods. Physicians were the primary content source, accounting for 74.1% of the included videos. The most frequently addressed topics were treatment and management (47.1%) and clinical symptoms and presentation (40.2%), whereas diagnostic criteria and methods were addressed less frequently (8.0%). The median JAMA, GQS, and mDISCERN scores were 3.0 (interquartile range [IQR], 3.0–3.0), 3.0 (IQR, 3.0–4.0), and 2.0 (IQR, 2.0–3.0), respectively. Douyin videos had significantly higher raw numbers of likes, comments, saves, and shares than Red Note videos (all P < 0.001). Douyin showed a more favorable distribution of JAMA scores, whereas the median GQS and mDISCERN scores were identical between platforms, despite statistically significant differences in their score distributions. Across uploader groups, significant differences were observed in JAMA and GQS scores, but not in mDISCERN scores (P = 0.091). Hospitals and public health organizations had the highest median numbers of likes, saves, and shares, whereas videos posted by patients and their families had the highest median number of comments. Correlations between assessment scores and user engagement indicators were generally weak (Spearman’s r ranging from − 0.15 to 0.37). Content related to MG on Chinese short-video platforms generally exhibits moderate quality, with relatively favorable transparency but limited general reliability, and less frequent coverage of diagnostic criteria and examination methods. Content from professional medical sources tends to be better structured and more transparent, while patient-perspective content may generate greater comment engagement. Future efforts should strengthen collaboration between healthcare professionals and patients to improve the accessibility and comprehensibility of clinically reviewed MG-related content on short-video platforms.",
+      "link": "https://doi.org/10.1038/s41598-026-69981-7",
+      "authors": [
+        "Yiheng Zhou",
+        "Ronghui Xia",
+        "Xinyi Xu",
+        "Chong Pang",
+        "Ping Wang",
+        "Xiaohua Kou"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:05+00:00",
+      "last_seen": "2026-09-19T06:30:05+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-19T06:30:05+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68601-8": {
+      "key": "doi:10.1038/s41598-026-68601-8",
+      "doi": "10.1038/s41598-026-68601-8",
+      "title": "An enhanced hierarchical Mamba-based cardiac segmentation network for cardiovascular analysis and disease diagnosis using multiple MRI datasets",
+      "abstract": "Automatic cardiac segmentation grew in popularity as it became feasible in clinical settings. Deep learning-based techniques are used throughout the world to gain access to cardiac functioning. Although the current deep learning architecture represents an important step toward clinical usability, it falls short in terms of accurately and effectively segmenting critical cardiac segments such as the left ventricle (LV), right ventricle (RV), and myocardium. Furthermore, the generalization of approaches is a significant difficulty when doing cardiac segmentation. Therefore, in this article we proposed the Mamba-based algorithm, which we named as H-MayoMamba Net, that uses hierarchical structure to undergo local processing, regional processing, global processing, and context processing in each level, one by one. The experiment reveals that our method has been evaluated by following performance evaluation metrics like dice similarity coefficient, Hausdorff distance (HD) with the record of as 95.7 ± 0.1, 95.7 ± 1.3, 92.1 ± 1.5, 93.61 ± 0.4, and 6.01 ± 0.8 for LV dice(%), RV dice(%), Myo dice (%), Avg dice (%), and HD (mm), respectively. The proposed H-MayoMamba Net confirms the cross-data generalization by testing on different datasets, like training on ACDC and testing on M&M dataset, and vice versa. Thus, the result shows that the proposed method has potential of applying the automatic cardiac segmentation using AI and proved to be a useful starting point for realizing the concept of digital cardiology.",
+      "link": "https://doi.org/10.1038/s41598-026-68601-8",
+      "authors": [
+        "Uroosa Sehar",
+        "Nouman Ahmad",
+        "Zeeshan Tariq",
+        "Yifei Peng",
+        "Jianhua Zhou"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:09+00:00",
+      "last_seen": "2026-09-19T06:30:09+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-19T06:30:09+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72223-5": {
+      "key": "doi:10.1038/s41598-026-72223-5",
+      "doi": "10.1038/s41598-026-72223-5",
+      "title": "SCN security situation assessment and prediction model based on improved selective convolutional network",
+      "abstract": "Abstract With the advancement of the Internet, cyber attacks are becoming increasingly opaque and complex. The traditional security defense system is unable to handle the rapid changes and updates of cyber threats. This study proposes a secondary classification network security situation assessment and prediction model based on an improved Selective Convolutional Network. The proposed model introduces the Convolutional Block Attention Module into the Selective Convolutional Network to enhance network environment perception and suppress redundant information. The model combines Gated Recurrent Unit and Naive Bayes to process and predict long sequence data. The model maintains temporal memory and improves the robustness and accuracy of prediction. In the situation assessment experiment, the recognition accuracy is 97.38%. The classification accuracy is 96.25%. The recall rate is 97.88%. The average task processing time is 0.54 ms. In the situation prediction experiment, the model achieves a mean absolute error of 2.63% in point prediction accuracy. In strong noise interference, the prediction accuracy is 90.25%. In severe attack behavior, the prediction accuracy is above 90%. The proposed model shows high assessment accuracy, prediction precision, and robustness. The results prove its effectiveness and advancement in the field of network security situation assessment and prediction. The model effectively addresses the lag problem of traditional methods in temporal prediction.",
+      "link": "https://doi.org/10.1038/s41598-026-72223-5",
+      "authors": [
+        "Zitian Yang"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:12+00:00",
+      "last_seen": "2026-09-19T06:30:12+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-65565-7": {
+      "key": "doi:10.1038/s41598-026-65565-7",
+      "doi": "10.1038/s41598-026-65565-7",
+      "title": "Pathophysiological insights into ACO2-related inherited disorders through combined functional and multi-omic analyses of ACO2 patient-derived fibroblasts",
+      "abstract": "ACO2 encodes the mitochondrial aconitase, involved in the second step of the tricarboxylic acid cycle. ACO2 variants cause isolated dominant or recessive optic atrophy, characterized by the degeneration of the optic nerves and leading to vision loss with high clinical heterogeneity, which ranges from pauci-symptomatic to legally blind patients. ACO2 variants also cause rare severe syndromic presentations, like infantile cerebellar-retinal degeneration, characterized by developmental delay, truncal hypotonia, ataxia, seizures, optic atrophy and retinal degeneration. As ACO2 pathophysiology still lacks proper characterization and no treatment is available for ACO2-related disorders, we combined a functional study with a multi-omic analysis of patient-derived fibroblasts carrying ACO2 variants. Here, we show that ACO2 variants decrease ACO2 protein levels, ACO2 and cytoplasmic ACO1 mRNA expression and mtDNA levels. Metabolomic analyses identified 14 discriminating metabolites involved in amino acid metabolism, TCA cycle, nucleotide and lipid metabolism. Transcriptomic analyses disclosed a down-regulation of immunity-related pathways and an up-regulation of cell cycle-related pathways. These results provide new insights into the cellular impact of ACO2 deficiency beyond its primary role in the TCA cycle, and identify citrate accumulation as a crucial determinant in ACO2 physiopathology.",
+      "link": "https://doi.org/10.1038/s41598-026-65565-7",
+      "authors": [
+        "Cléis Beaulieu",
+        "Aymane Bouzidi",
+        "Cinzia Bocca",
+        "Ismail Gouiza",
+        "Naïg Gueguen",
+        "Valérie Desquiret-Dumas",
+        "Béatrice Vary",
+        "Majida Charif",
+        "Magalie Barth",
+        "Morgane Le Mao",
+        "Florence Pascaretti-Grizon",
+        "Adélie Mellinger",
+        "Nolwenn Bounaix",
+        "Delphine Prunier-Mirebeau",
+        "Salim Khiati",
+        "Marco Spinazzi",
+        "Arnaud Chevrollier",
+        "Olivier R. Baris",
+        "Guy Lenaers"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:12+00:00",
+      "last_seen": "2026-09-19T06:30:12+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-19T06:30:12+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68515-5": {
+      "key": "doi:10.1038/s41598-026-68515-5",
+      "doi": "10.1038/s41598-026-68515-5",
+      "title": "Prevalence and factors associated with antihypertensive drug therapy problems among hypertensive patients, southwestern Uganda: a multicenter cross-sectional study",
+      "abstract": "Abstract Worldwide, half of the patients with hypertension have uncontrolled blood pressure (BP) even in presence of effective medical therapy and this is mostly due to drug therapy problems (DTPs). Therefore, this study was aimed to determining the prevalence and the factors associated with these DTPs among hypertensive patients. A hospital-based, prospective, cross-sectional study was conducted among 159 patients from Kampala International University and Ishaka Adventist Hospitals. Participants were interviewed using a structured questionnaire to obtain data on socio-demographics, history of drug allergies, lab data, current medication, and medication adherence. The identification and classification of DTPs were based on the pharmaceutical care practice model. The Hill-Bone Medication Adherence Scale was used to assess patients’ medication adherence. The appropriateness, effectiveness and safety of drug therapy was evaluated using Uganda Treatment Guideline. Descriptive analysis was used to determine prevalence of DTPs and logistic regression was used to determine association between the independent and dependent variable. Variables were considered statistically significant at p value < 0.005. A number of 116 DTPs were identified among 159 participants. The overall prevalence of DTPs from the two hospitals was 56.6%, indicating that over half of the patients experience at least one DTP. “Dosage too low” was the most common DTP (36.2%), followed by ADRs (17.2%) and need for additional drug therapy (16.4%%), highlighting issues with suboptimal dosing and treatment. Study participants with uncontrolled BP were 2.47 times (adjusted odds ratio [AOR]: 2.47; 95% CI: 1.25–4.89; p-value = 0.009) more likely to experience DTPs compared to those with controlled BP. The findings revealed that over a half of the participants had antihypertensive related DTPs. The most common DTP was dosage too low indicating a need for dosage management. Patients with uncontrolled BP were more likely to experience antihypertensive related DTPs compared to those with controlled BP.",
+      "link": "https://doi.org/10.1038/s41598-026-68515-5",
+      "authors": [
+        "Ampereza Christine",
+        "Mohammed H. Alnazeer",
+        "Safa A. Abdalla",
+        "Tadele Mekuriya Yadesa",
+        "Narayana Goruntla",
+        "Alrazi Eisa Shogar",
+        "Sarad Pawar Naik Bukke",
+        "Sitelbanat Yassin Ehaimir",
+        "Mohammed Dhawebate",
+        "Musab A. M. Abdelrahim",
+        "Mawahib A. Mustafa",
+        "Orwa Siddig",
+        "Nazik M. E. Mustafa",
+        "Bashir A. Yousef",
+        "Joseph O. C. Ezeonwumelu"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:15+00:00",
+      "last_seen": "2026-09-19T06:30:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70908-5": {
+      "key": "doi:10.1038/s41598-026-70908-5",
+      "doi": "10.1038/s41598-026-70908-5",
+      "title": "Context-Aware visual scene analysis and adaptation for intelligent english tutoring systems",
+      "abstract": "Abstract The integration of visual context into English language teaching is essential for fostering “situated cognition” in learners. However, current Intelligent English Tutoring Systems often lack the ability to interpret complex visual environments on a massive scale. This paper introduces a visual scene categorization method designed to support context-sensitive English education. Our approach uses BING objectness measures to identify object-centric candidate regions that can serve as potential visual cues for vocabulary and scene understanding. For an input image, BING ranks candidate regions by objectness score, and the top- L retained regions form an objectness-guided selected-patch set . A shared CNN extracts descriptors from the selected patches, which are statistically aggregated and modeled by a Gaussian Mixture Model to categorize learning scenarios such as airports, supermarkets, and classrooms. This procedure is an automatic region-selection and representation-learning pipeline; it does not reconstruct a human visual scanpath. Experiments conducted on a massive-scale scenery dataset demonstrate that the method identifies meaningful educational contexts for context-aware tutoring.",
+      "link": "https://doi.org/10.1038/s41598-026-70908-5",
+      "authors": [
+        "Yue Yu",
+        "Huihua Wu"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:15+00:00",
+      "last_seen": "2026-09-19T06:30:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72085-x": {
+      "key": "doi:10.1038/s41598-026-72085-x",
+      "doi": "10.1038/s41598-026-72085-x",
+      "title": "FuzzPrismEdge: dynamic resource allocation in edge AI via context-aware fuzzy gating",
+      "abstract": "Abstract The use of Deep Neural Networks (DNNs) on autonomous Internet of Things (IoT) devices is bottlenecked and causes accelerated battery degradation, memory exhaustion and thermal throttling due to constant inference demands. While the current literature largely deals with this through static model quantization, in this paper, FuzzPrismEdge, an adaptive 3-tier hybrid fuzzy-neural architecture that dynamically scales computational payloads according to real-time environmental context is introduced. Using a lightweight Fuzzy Logic Controller (FLC) as a preliminary hardware gatekeeper, the framework assesses ambient telemetry; namely energy reserves and intensity of motion, to dynamically steer system states based on crisp defuzzified thresholds. In order to eliminate redundant spatial processing FuzzPrismEdge uses dynamic model substitution: Low-priority telemetry causes a deep hardware sleep (Tier 1), moderate telemetry triggers a lightweight spatial classifier (Tier 2), and critical telemetry triggers a computationally intensive, heavyweight object detection model (Tier 3). By dynamically allocating DNN complexity based on event priority, the FuzzPrismEdge architecture actively conserves the allocation of RAM, avoids unnecessary GPU spin-up in non-critical events, and extends the autonomous operational lifespan of edge nodes by 60.0% to 66.7% compared to static unoptimized baselines.",
+      "link": "https://doi.org/10.1038/s41598-026-72085-x",
+      "authors": [
+        "Mustafa Abdulkadhim",
+        "Sandor. R. Repas"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:15+00:00",
+      "last_seen": "2026-09-19T06:30:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-69749-z": {
+      "key": "doi:10.1038/s41598-026-69749-z",
+      "doi": "10.1038/s41598-026-69749-z",
+      "title": "The non-indigenous copepod Pseudodiaptomus marinus Sato, 1913 in an Eastern Mediterranean coastal area: day–night pattern and genetic characterization",
+      "abstract": "Abstract The continuously growing number of Non-Indigenous Species (NIS) in marine ecosystems poses a modern threat to biodiversity and ecosystem functioning, which calls for studies to extend beyond the initial recording to how these species evolve and adapt to their new environments over time. Here we present the first annual monitoring of the NIS copepod Pseudodiaptomus marinus in Thessaloniki Bay, revealing a pronounced day and night pattern. The species was absent in most daytime samples but was consistently present at night, reaching abundances as high as 7,334 ind. m⁻³. Higher abundances were recorded between July and November, coinciding with higher water temperatures, although individuals were observed across a broad (8.7–28.6 °C) range, confirming the species’ eurythermal character. Molecular taxonomy analyses using a multimarker approach (18S rRNA, COI and ITS) confirmed species identity and revealed low genetic divergence, supporting the establishment of a genetically homogenous population. The regular occurrence, high abundances, and broad environmental tolerance of P. marinus indicate its successful establishment in this eutrophic coastal system, while its night emergence suggests behavioral strategies probably linked to predator avoidance and niche separation.",
+      "link": "https://doi.org/10.1038/s41598-026-69749-z",
+      "authors": [
+        "Polyxeni Kourkoutmani",
+        "Evdoxia Iliadou",
+        "Styliani Minoudi",
+        "Athanasia Kontse",
+        "Christodoulos Rados",
+        "Theodora Vlachodimou",
+        "Melisa Castelli",
+        "Ylenia Carotenuto",
+        "Iole Di Capua",
+        "Marco Uttieri",
+        "Evangelia Michaloudi"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:15+00:00",
+      "last_seen": "2026-09-19T06:30:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69784-w": {
+      "key": "doi:10.1038/s41598-026-69784-w",
+      "doi": "10.1038/s41598-026-69784-w",
+      "title": "UAV path planning based on improved Whale Optimization Algorithm in multi-obstacle scenarios",
+      "abstract": "Abstract To address the issues of poor convergence performance and susceptibility to local optima in the traditional Whale Optimization Algorithm (WOA) for 3D path planning of unmanned aerial vehicles (UAVs), we propose an improved Whale Optimization Algorithm (R*WOA) that integrates the Rapidly Expanding Random Tree Star (RRT*) algorithm. Firstly, RRT* is employed to generate a high-quality initial population, thereby enhancing population diversity and global search capability; secondly, the linear convergence factor is replaced with a piecewise nonlinear cosine convergence factor to balance exploration and exploitation throughout the iteration process; finally, an arctangent nonlinear inertial weight is introduced to optimise the position update mechanism, suppressing oscillations in the later stages and improving optimisation accuracy. Comparative experiments on standard test functions and 3D DEM terrain scenarios demonstrate that, compared to the best-performing benchmark algorithms in each scenario, R*WOA achieves an average improvement of 8.8% in convergence accuracy and 21.4% in optimisation stability. Its global optimisation capability significantly outperforms traditional WOA, GA and HHO algorithms, enabling the planning of optimal UAV flight trajectories with shorter paths, higher safety and better smoothness in complex constrained environments.The source code of R*WOA is publicly available at https://doi.org/10.5281/zenodo.21923510 .",
+      "link": "https://doi.org/10.1038/s41598-026-69784-w",
+      "authors": [
+        "Guangxun Wang",
+        "Rui Zhai"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:15+00:00",
+      "last_seen": "2026-09-19T06:30:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70634-y": {
+      "key": "doi:10.1038/s41598-026-70634-y",
+      "doi": "10.1038/s41598-026-70634-y",
+      "title": "Glaciers and low-DOC ecosystems as sites of microbial carbon production and consumption",
+      "abstract": "Abstract Glacier-fed waters are commonly viewed as heterotrophic ecosystems fuelled by highly bioavailable dissolved organic carbon (DOC), yet this paradigm is largely based on melt-season observations and assumes that microbial DOC dynamics are dominated by consumption. We show that net DOC production may be a widespread feature of cold, carbon-poor aquatic ecosystems. We combined 719 dissolved organic matter (DOM) measurements and 164 dark incubation bioassays across six seasons at Falljökull, Iceland, with additional bioassays from Icelandic and Alpine glacier streams, and temperate springs. More than 50% of incubations showed net DOC production rather than consumption, exceeding analytical uncertainty and exhibiting seasonal and spatial patterns. Net production was strongest during low-DOC periods at the glacier outlet, whereas downstream and summer conditions favoured net DOC consumption. To capture these bidirectional dynamics, we define microbial DOC (MDOC) as the net percentage change in DOC during incubations. Elevated dissolved iron concentrations, and iron- and sulfur-associated taxa in DOC-producing incubations suggest that chemolithoautotrophic carbon fixation may contribute to dark DOC generation under oligotrophic conditions. Our findings demonstrate that positive DOC changes in BDOC assays should not be dismissed as artifacts and may reveal a previously overlooked dimension of microbial carbon cycling in low-DOC aquatic ecosystems.",
+      "link": "https://doi.org/10.1038/s41598-026-70634-y",
+      "authors": [
+        "Christina Fasching",
+        "Ann-Kathrin Wild",
+        "Kyle S. Boodoo",
+        "Alicia Knauft",
+        "Yvonne Schadewell",
+        "Peter Chifflard"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:15+00:00",
+      "last_seen": "2026-09-19T06:30:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-62749-z": {
+      "key": "doi:10.1038/s41598-026-62749-z",
+      "doi": "10.1038/s41598-026-62749-z",
+      "title": "Dietary prevention of undernutrition reduces intestinal inflammation associated with an anti-inflammatory profile of gut microbiota in a preclinical model",
+      "abstract": "Patients with inflammatory bowel diseases (IBD) have a high-risk for undernutrition. Undernutrition is associated with higher complications such as an increased mortality rate, a higher disease activity and an impaired quality of life in IBD patients. The aim of this study was to assess whether dietary prevention of undernutrition alleviates intestinal inflammation in mice with colitis. Mice were fed with an enriched diet (ED; 4.7 kcal/g, 38%kcal from milk fat) or a standard diet (SD; 3.9 kcal/g, 8%kcal from milk fat) for 31 days. Colitis was induced by 1% dextran sulfate sodium (DSS) in male C57BL/6 mice for 7 days. Colitis severity was assessed by monitoring inflammation-related biomarkers, such as colon weight/length ratio and fecal calprotectin levels. Cecal microbiota composition was determined by 16S rRNA gene sequencing. Body weight and body composition were recorded. DSS induced a body weight loss and a decrease in lean and fat mass in SD-fed mice, but not in ED-fed mice. In DSS-induced colitis model, only lean mass decrease correlates with colitis severity, characterized by an increase in colon weight/length ratio and fecal calprotectin levels. ED-fed mice exhibit an increase in the abundance of Eisenbergiella tayi and Vescimonas coprocola, which are known short chain fatty acid (SCFA)-producing bacteria, in comparison to SD-fed mice, both in DSS-treated and untreated mice. ED prevents a DSS-induced undernutrition state and promotes the growth of SCFA-producing bacteria, which may have anti-inflammatory properties. This study highlights the importance of better characterizing the link between gut microbiota composition and undernutrition in IBD patients.",
+      "link": "https://doi.org/10.1038/s41598-026-62749-z",
+      "authors": [
+        "Mathilde Leboutte",
+        "Élise Rebollo",
+        "Chloé Pangault",
+        "David Ribet",
+        "Charlène Guérin",
+        "Christine Bôle-Feysot",
+        "Magali Monnoye",
+        "Philippe Gérard",
+        "Guillaume Savoye",
+        "Rachel Marion-Letellier"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-19T06:30:15+00:00",
+      "last_seen": "2026-09-19T06:30:15+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-19T06:30:15+00:00",
+      "matched_channels": {}
     }
   }
 }
