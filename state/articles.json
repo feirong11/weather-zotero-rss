@@ -140392,6 +140392,502 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-20T00:33:49+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71679-9": {
+      "key": "doi:10.1038/s41598-026-71679-9",
+      "doi": "10.1038/s41598-026-71679-9",
+      "title": "Prototype-based explainable deep learning for sex classification of Mountain Gazelles in the wild",
+      "abstract": "Abstract Wildlife preserves are critical for countering the decline of biodiversity, yet monitoring species distribution and demographics via direct observation is time-consuming and prone to observer disturbance. Deep learning has emerged as a scalable alternative for analyzing field data, yet the ’black-box’ nature of standard models hinders their adoption. This is a major obstacle in ecological research, where transparent reasoning is essential for trust and meaningful interpretation. We address this challenge through the lens of sex classification in the endangered Mountain Gazelle, utilizing a dataset of 1833 cropped bounding boxes extracted from unconstrained camera trap imagery. Reliable automated classification from field imagery is essential for assessing population structure and welfare metrics for effective conservation management. While Mountain Gazelles exhibit distinct sexual dimorphism in horn morphology and body size, inferring sex from unconstrained camera trap data remains challenging due to significant variability in pose, illumination, and occlusion. To enhance explainability in Mountain Gazelle sex classification, we employed a prototype-based deep learning framework. Unlike standard “black-box” models, this approach represents classes through learned visual exemplars (prototypes) that correspond directly to crucial image features, ensuring transparent reasoning. Building upon the PIP-Net architecture, we introduced a novel enhancement: the ability to learn prototypes of variable sizes and aspect ratios, moving beyond rigid, fixed-size patches. These prototypes are learned autonomously without manual trait annotation, allowing the model to discover distinct regional features. By optimizing across a list of candidate scales, our non-fixed prototype approach captures larger, more semantically coherent regions, achieving a global accuracy and F1-score of 75% alongside detailed explanations. Our analysis indicates that prominent prototypes frequently capture regions consistent with known morphological traits: both sexes are often identified via central body, leg, and head features, with the model distinguishing between them based on sex-specific morphological proportions. For males, horn-related prototypes serve as a distinct cue, reflecting the main dimorphic trait cited in literature. These representations suggest that the model’s decision-making relies on relevant morphological features rather than background artifacts, offering a transparent and accurate tool for wildlife classification. The dataset will be made publicly available upon publication.",
+      "link": "https://doi.org/10.1038/s41598-026-71679-9",
+      "authors": [
+        "Tali Shitrit",
+        "Amir Kedem",
+        "Efrat Yagur",
+        "Ilan Shimshoni",
+        "Anna Zamansky"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:30:56+00:00",
+      "last_seen": "2026-09-20T06:30:56+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72719-0": {
+      "key": "doi:10.1038/s41598-026-72719-0",
+      "doi": "10.1038/s41598-026-72719-0",
+      "title": "Spin–orbit–controlled flat-band transition, thermodynamic and magnetic response in a disordered Lieb-5 lattice",
+      "abstract": "Flat-band (FB) systems are characterized by strongly localized electronic states and can therefore exhibit unconventional thermodynamic and magnetic responses. Nevertheless, the role of disorder and impurity scattering in the extended Lieb-5 lattice has received limited attention. Here, we investigate how intrinsic spin–orbit coupling (ISOC) and nonmagnetic disorder jointly modify the electronic properties of this lattice within a tight-binding Green’s function approach. Disorder effects are incorporated through a self-consistent Born approximation (SCBA) treatment of the electronic self-energy. Our results demonstrate that ISOC progressively reconstructs the FB spectrum, weakening the associated spectral features and ultimately transforming the two FB structure of the pristine lattice into a single FB centered at zero energy. Disorder further reshapes the low-energy spectrum through spectral broadening and redistribution of states. These modifications strongly influence the thermodynamic and magnetic responses, leading to tunable heat capacity peaks and a paramagnetic susceptibility with disorder- and coupling-dependent amplitude. Our results demonstrate that the interplay of flat-band physics, ISOC, and impurity scattering provides an effective mechanism for engineering the spectral and magnetic characteristics of the Lieb-5 lattice, opening new perspectives for controllable FB quantum materials.",
+      "link": "https://doi.org/10.1038/s41598-026-72719-0",
+      "authors": [
+        "Mona Abdi",
+        "Bandar Astinchap"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:30:56+00:00",
+      "last_seen": "2026-09-20T06:30:56+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T06:30:56+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72758-7": {
+      "key": "doi:10.1038/s41598-026-72758-7",
+      "doi": "10.1038/s41598-026-72758-7",
+      "title": "Development and external validation of prediction models for a trial-informed operational composite after stage 3 acute kidney injury",
+      "abstract": "Renal replacement therapy (RRT) is considered when severe acute kidney injury (AKI) is complicated by severe electrolyte disturbance, acid-base derangement, fluid overload with respiratory compromise, or azotaemia. However, actual RRT initiation is influenced by clinician and centre practice. We developed and externally validated machine-learning models to predict subsequent fulfilment of a trial-informed operational composite within 24–72 h after creatinine- or urine-output-defined stage 3 AKI. The prediction time was 24 h after stage 3 AKI onset. At this landmark, eligible patients remained alive in the ICU and had not received RRT or met any composite criterion. Predictors were routinely collected during the first 24 h. The composite comprised potassium > 6.0 mmol/L; pH ≤ 7.20 with bicarbonate ≤ 12 mmol/L within ± 2 h; fluid balance > 10% of cleaned body weight with PaO₂/FiO₂ ≤200; or blood urea nitrogen > 112 mg/dL. MIMIC-IV included 2,457 patients (238 events, 9.7%) and eICU-CRD 3,228 (145 events, 4.5%). Gradient Boosting achieved internal/external AUROCs of 0.778/0.721, AUPRCs of 0.279/0.131, and Brier scores of 0.079/0.053. External mean predicted risk was 11.8% versus an observed 4.5%; L2-penalized logistic regression and ExtraTrees performed similarly. The models provided moderate discrimination but substantial external overprediction and should not guide RRT initiation.",
+      "link": "https://doi.org/10.1038/s41598-026-72758-7",
+      "authors": [
+        "Chao-Dong Chen",
+        "Peng-Chao Tian",
+        "Xin Chen",
+        "Fang-Xing Guo",
+        "Wen-Xiong Li"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:30:58+00:00",
+      "last_seen": "2026-09-20T06:30:58+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T06:30:58+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-67436-7": {
+      "key": "doi:10.1038/s41598-026-67436-7",
+      "doi": "10.1038/s41598-026-67436-7",
+      "title": "Divergent HIF isoform association is linked to hypoxia responses in Mesenchymal stromal cells and human dermal fibroblasts",
+      "abstract": "Abstract Hypoxia is a fundamental microenvironmental signal that shapes stromal cell behavior in tissue repair, fibrosis, and regenerative medicine. Mesenchymal stromal cells (MSCs) and fibroblasts share overlapping phenotypic features under standard culture conditions, yet whether they engage equivalent adaptive programs under hypoxic stress remains unclear. Here, we performed comparative transcriptomic analyses to define and contrast hypoxia responses in MSCs and human dermal fibroblasts (HDFs). Both cell types mounted robust hypoxia-responsive programs; however, MSCs exhibited substantially broader transcriptomic remodeling, with two- to four-fold more differentially expressed genes than HDFs. Although a conserved subset of hypoxia-responsive genes was shared, most regulated transcripts were cell-type-specific, indicating distinct adaptive architectures. Pathway and co-expression analyses further revealed divergent HIF-associated signaling structure: MSC responses were more strongly aligned with HIF1A-centered regulatory networks, whereas HDF responses showed relatively stronger HIF2A/HIF3A-associated organization. Despite overlapping baseline stromal marker profiles, hypoxia induced pronounced and non-overlapping surface-marker remodeling in the two cell types, linking regulatory divergence to phenotypic state changes. Collectively, these findings demonstrate that hypoxia does not simply amplify a common stromal program, but instead exposes latent cell-type-specific strategies of adaptation. MSCs undergo broader and more plastic remodeling, whereas fibroblasts adopt a comparatively restrained but distinct regulatory state. These results refine the interpretation of stromal identity under stress conditions and have implications for regenerative medicine, fibrosis biology, and cell manufacturing.",
+      "link": "https://doi.org/10.1038/s41598-026-67436-7",
+      "authors": [
+        "Li Liu",
+        "Zhanfeng Cui"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:30:59+00:00",
+      "last_seen": "2026-09-20T06:30:59+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72378-1": {
+      "key": "doi:10.1038/s41598-026-72378-1",
+      "doi": "10.1038/s41598-026-72378-1",
+      "title": "SPP1 overexpression is linked to unfavorable outcomes in patients with ALK/TP53 co-mutated lung cancer",
+      "abstract": "Patients with ALK/TP53 co-mutated lung cancer experience notably worse progression-free survival (PFS) and overall survival (OS) than those with TP53 wildtype. Nevertheless, the precise molecular mechanism underlying poor survival of patients with ALK/TP53 co-mutated lung cancer is unclear. In the cohort of 77 patients with ALK-rearranged lung cancer, TP53 mutations were identified in fifteen cases (19.5%). Compared to patients with TP53 wildtype, patients with ALK/TP53 co-mutated lung cancer experienced a significantly shorter median OS (48 months vs. 58 months, P = 0.0454). This difference was confirmed in ALK inhibitor plus chemotherapy subgroup. Median OS was 27 months for patients with TP53 mutated lung cancer, compared to 62 months for those with TP53 wildtype (P = 0.0011). Furthermore, a significant upregulation of ALK, MET, GRB7, and SPP1 mRNA expression was identified in ALK-rearranged lung cancer tissues compared with paired non-tumor tissues via NanoString assay. The mRNA level of SPP1 was notably higher in ALK/TP53 co-mutated cases than TP53 wildtype cancer. Overexpression of SPP1 and PD-L1 proteins in ALK/TP53 co-mutated lung cancer was verified through immunohistochemistry (IHC) in contrast to paired non-tumor tissues and TP53 wildtype cases. Finally, hypomethylation of the SPP1 promoter region was detected using targeted bisulfite sequencing. Thus, SPP1 overexpression is linked to unfavorable outcomes in patients with ALK/TP53 co-mutated lung cancer, and promoter hypomethylation of SPP1 has been likely associated with its aberrant overexpression. SPP1 may become the key prognostic biomarker and the promising molecular target for treating ALK-rearranged lung cancer.",
+      "link": "https://doi.org/10.1038/s41598-026-72378-1",
+      "authors": [
+        "Jiangyuan Lu",
+        "Xinyang Li",
+        "Xiaodan Liu",
+        "Rui Wu",
+        "Meiling Hao",
+        "Jingya Yan",
+        "Fei Pei",
+        "Beiying Liu"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:30:59+00:00",
+      "last_seen": "2026-09-20T06:30:59+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T06:30:59+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72711-8": {
+      "key": "doi:10.1038/s41598-026-72711-8",
+      "doi": "10.1038/s41598-026-72711-8",
+      "title": "Complement C3a receptor expression is associated with distinct immune microenvironmental profiles in clear cell renal cell carcinoma",
+      "abstract": "The complement receptor C3aR has emerged as an important regulator of tumor–immune interactions in several solid cancers. However, its cellular distribution and relationship with the immune microenvironment in clear cell renal cell carcinoma (ccRCC) remain poorly understood. Here, we investigated the expression pattern, cellular distribution and immune context of C3aR in human ccRCC. Transcriptomic analyses of the TCGA-KIRC cohort combined bulk RNA-sequencing correlations, immune-cell deconvolution, and composition-adjusted partial correlations. C3AR1 cellular distribution was independently assessed using a publicly available ccRCC single-cell RNA-sequencing dataset. C3aR protein expression was then assessed by immunohistochemistry in an independent cohort of 70 patients with ccRCC and correlated with clinicopathological features and immune cell infiltration. Double immunohistochemistry and unsupervised immune clustering were used to characterize the cellular and microenvironmental context of C3aR expression. In TCGA-KIRC, C3AR1 was associated with macrophage/antigen-presenting-cell genes and CD4 after adjustment for inferred immune-cell abundance. Single-cell analysis localized C3AR1 predominantly to the myeloid compartment and showed heterogeneous expression across myeloid states; among C3AR1+ myeloid cells, 98% co-expressed CD68, 68% CD163, and nearly all HLA-DRA, whereas only approximately half of marker+ cells expressed C3AR1. In the independent IHC cohort, C3aR+ cell density was modestly higher in localized tumors and positively correlated with CD4+ T-cell infiltration, while inversely correlated with CD68+ macrophage density. Immune clustering identified three profiles with increasing tumor aggressiveness and progressively lower C3aR+ cell density. C3AR1 was not independently associated with survival outcomes in TCGA-KIRC. Together, these findings identify C3aR as a marker of a specific myeloid-associated immune context in ccRCC rather than a surrogate of total macrophage abundance, and link its expression to distinct immune microenvironmental profiles across disease states.",
+      "link": "https://doi.org/10.1038/s41598-026-72711-8",
+      "authors": [
+        "Yosra Bedoui",
+        "Théotime Pignolet",
+        "Camille Brochard",
+        "Elisa Pothin",
+        "Marion Imara",
+        "Islam Ensaad",
+        "Kassim Kourbanhoussen",
+        "Auguste Delattre",
+        "Mohamed Khettab",
+        "Franck Ah-Pine"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:30:59+00:00",
+      "last_seen": "2026-09-20T06:30:59+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T06:30:59+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71932-1": {
+      "key": "doi:10.1038/s41598-026-71932-1",
+      "doi": "10.1038/s41598-026-71932-1",
+      "title": "Developing meta-FM machine learning model with application for personalized language learning environment",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-71932-1",
+      "authors": [
+        "Qian Li",
+        "Y. Zhang"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:00+00:00",
+      "last_seen": "2026-09-20T06:31:00+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72261-z": {
+      "key": "doi:10.1038/s41598-026-72261-z",
+      "doi": "10.1038/s41598-026-72261-z",
+      "title": "Preliminary validation of Cogniclear: a virtual reality cognitive screening tool for older adults against the Montreal Cognitive Assessment",
+      "abstract": "Abstract Virtual reality (VR) offers new opportunities for cognitive assessment by enabling immersive, ecologically valid task execution and continuous behavioral monitoring. However, it remains unclear whether performance in VR-based assessments reflects underlying cognitive functioning rather than interaction-related factors. This study aimed to evaluate the validity of a VR-based cognitive assessment environment by examining its relationship with the Montreal Cognitive Assessment (MoCA). Forty older adults were recruited, of whom 38 completed both assessments and were included in the analyses. Cognitive status was independently assessed using the MoCA. Performance metrics derived from system interaction logs were analyzed together with measures of usability (VRSUQ), workload (NASA–TLX), age, education, and prior VR experience. Significant associations were observed between MoCA scores and VR-derived performance measures, including Global Score, Success Rate, and task duration. Domain-level analyses revealed moderate-to-strong correlations between corresponding cognitive domains measured by MoCA and the VR system. Regression analyses demonstrated that cognitive status and age remained independently associated with Global Score after accounting for participant characteristics, whereas prior VR experience, workload, and usability were not independently associated with Global Score. The findings support the validity of the proposed VR-based assessment approach and suggest that immersive environments can capture meaningful aspects of cognitive functioning. VR-based assessments may complement traditional cognitive screening by providing ecologically valid tasks and rich behavioral information derived from user interactions.",
+      "link": "https://doi.org/10.1038/s41598-026-72261-z",
+      "authors": [
+        "Grzegorz Zwoliński",
+        "Dorota Kamińska",
+        "Amir Bozorgzadeh"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:00+00:00",
+      "last_seen": "2026-09-20T06:31:00+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72786-3": {
+      "key": "doi:10.1038/s41598-026-72786-3",
+      "doi": "10.1038/s41598-026-72786-3",
+      "title": "Content and features of electronic dental record systems: A study in a developing country",
+      "abstract": "A comprehensive evaluation of the features and content of Electronic Dental Record (EDR) systems is essential for the effective implementation of these systems. The present study aimed to determine the content and features of EDR systems in dental clinics. In this cross-sectional research conducted in 2020, the EDR data elements of 22 dental clinics in Tehran, Iran, were compared based on the data elements outlined in the standards of the American Society for Testing and Materials (ASTM), the American Dental Association (ADA), and the University of Pittsburgh. Additionally, the EDR features were compared with the features proposed by the Health Level Seven (HL7) functional model, Healthcare Information and Management Systems Society (HIMSS) adoption model, and Certification Commission for Healthcare Information Technology (CCHIT) model. Moreover, descriptive statistics were employed to analyze the data. Among the 219 data elements identified, 23 were supported across all systems—with the ‘medical care’ category being the only one where all its data elements were fully included. Conversely, 55 data elements were entirely absent across all systems, resulting in complete omission in categories such as ‘contact with hazardous substances,’ ‘diagnostic tests,’ ‘extra oral examination,’ and ‘risk assessment.’ Regarding system features, out of 74 features evaluated, 11 were present in all systems, whereas 22 were completely absent, including all features under the ‘drug administration’ and ‘support for treatment plans, guidelines, and protocols’ categories. Current EDR systems, rather than being comprehensive clinical systems, function primarily as basic administrative and information recording tools. The complete lack of clinical decision support features and critical clinical data elements represents a significant gap. Future developments of EDR systems should prioritize the inclusion of standardized clinical data sets and decision support functions to enhance their practical application and efficiency in dental offices and clinics.",
+      "link": "https://doi.org/10.1038/s41598-026-72786-3",
+      "authors": [
+        "Boshra Farajollahi",
+        "Abbas Sheikhtaheri"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:00+00:00",
+      "last_seen": "2026-09-20T06:31:00+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T06:31:00+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72215-5": {
+      "key": "doi:10.1038/s41598-026-72215-5",
+      "doi": "10.1038/s41598-026-72215-5",
+      "title": "A course recommendation method based on bidirectional fusion of graph convolution using knowledge graphs",
+      "abstract": "Abstract Knowledge graph–based recommendation systems, such as KGCN, have been widely adopted to alleviate data sparsity and cold-start issues by incorporating auxiliary semantic information. However, most existing methods model either the user side or the item side independently, failing to fully exploit the complementary information between user preference propagation and course knowledge semantics. To address this limitation, this paper proposes a bidirectional fusion framework, termed KGCN-RN, for course recommendation. The proposed method leverages RippleNet to learn user preference propagation representations over the knowledge graph and integrates them into the user modeling process of KGCN. Meanwhile, semantic information from neighboring course entities is aggregated through knowledge graph convolution, enabling collaborative enhancement of both user and course representations. Experimental results on the public MOOCCube dataset demonstrate that KGCN-RN achieves competitive or superior recommendation performance compared with representative general and course-oriented baseline methods in terms of HR and NDCG. The results indicate that the proposed bidirectional fusion strategy effectively improves recommendation accuracy and ranking quality by jointly modeling learner preference propagation and course semantic aggregation.",
+      "link": "https://doi.org/10.1038/s41598-026-72215-5",
+      "authors": [
+        "Jingyi Hu",
+        "Yiwen Zhang",
+        "Xiqin Ao",
+        "Simeng Zhang",
+        "Yilin Zhu"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:01+00:00",
+      "last_seen": "2026-09-20T06:31:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72319-y": {
+      "key": "doi:10.1038/s41598-026-72319-y",
+      "doi": "10.1038/s41598-026-72319-y",
+      "title": "EH-SWADS: energy-harvesting smart weather-aware drone sink for agricultural WSNs",
+      "abstract": "Abstract Agricultural Wireless Sensor Networks (WSNs) are increasingly required to operate over long periods under dynamic environmental conditions while relying on strictly constrained energy resources. Although hierarchical clustering and UAV-assisted mobile sinks can reduce communication overhead, the operational lifetime of battery-powered networks remains fundamentally limited. This paper proposes EH-SWADS, an energy-harvesting extension of our previously proposed weather-aware UAV-assisted WSN architecture, SWADS, designed for sustainable, long-term agricultural monitoring. EH-SWADS integrates three core components: (i) an LSTM-based weather prediction module that governs proactive handover between a mobile UAV sink and a fixed ground sink during adverse weather, (ii) a reinforcement learning-based cluster-head selection mechanism enhanced with energy-harvesting awareness, and (iii) solar-powered sensor nodes capable of replenishing energy from ambient irradiance. Unlike conventional approaches that treat harvested energy as a passive buffer, EH-SWADS explicitly incorporates the harvested-to-consumed energy balance into the learning process. Extensive MATLAB simulations across 20,000 rounds demonstrate that solar energy harvesting is the dominant driver of the observed lifetime extension relative to non-harvesting baselines, including our previously reported SWADS architecture (approximately 668% in first-node death relative to a matched non-harvesting baseline, both evaluated under a real, time-varying weather trace, using a corrected reward formulation described below; overall cumulative throughput improved by approximately 1.93×), while a reinforcement-learning-based cluster-head selection mechanism that explicitly rewards harvest-awareness and rotation fairness performs statistically comparably to an otherwise-identical EH-unaware reward weighting (within approximately 5% either direction across seeds) once a harvest-rate normalization flaw and an energy-blind fairness term are corrected; the initial, uncorrected formulation underperformed the EH-unaware weighting by 24–58%, underscoring the importance of validating reward-shaping terms under realistic, time-varying weather rather than idealized conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-72319-y",
+      "authors": [
+        "Nada Ahmed",
+        "Asmaa N. Ghareeb",
+        "Yasser Fouad",
+        "Enas Selem"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:01+00:00",
+      "last_seen": "2026-09-20T06:31:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70962-z": {
+      "key": "doi:10.1038/s41598-026-70962-z",
+      "doi": "10.1038/s41598-026-70962-z",
+      "title": "Multi-output classification of dental implant placement parameters in the posterior maxilla from CBCT images using a two-stage vision transformer framework",
+      "abstract": "Implant placement in the posterior edentulous maxilla is clinically challenging due to anatomical variability, limited residual bone height, and maxillary sinus pneumatization. Conventional planning relies heavily on clinician experience and manual radiographic interpretation, leading to variability and subjectivity. This study developed and evaluated a two-stage Vision Transformer (ViT)–based deep learning framework for multi-output classification of implant placement parameters from cone-beam computed tomography (CBCT) images. A retrospective dataset of 457 expert-validated posterior maxillary edentulous cases was collected from the Faculty of Dentistry, Mahidol University. The model simultaneously classified four planning parameters—implant height, implant diameter, sinus lift technique, and sinus lift stage—using a multi-output architecture with task-specific classification heads. A two-stage fine-tuning strategy was employed to optimize transfer learning. The proposed ViT model achieved an overall accuracy of 85.56%, with task-specific accuracies of 88.89% for implant height, 80.00% for implant diameter, 84.44% for sinus lift technique, and 88.89% for sinus lift stage, outperforming the best CNN baseline (62.22%) by 23.34 percentage points. The model demonstrated near-real-time inference (0.037 s per sample). These findings suggest that ViT-based multi-output classification with two-stage fine-tuning can serve as an effective decision-support tool for dental implant planning.",
+      "link": "https://doi.org/10.1038/s41598-026-70962-z",
+      "authors": [
+        "Nattamon Wachirasakulchai",
+        "Raweewan Arayasantiparb",
+        "Tharathip Kulchotirat",
+        "Kiatanant Boonsiriseth",
+        "Pobploy Petchmedyai",
+        "Penporn Luangchana",
+        "Charnyote Pluempitiwiriyawej"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:01+00:00",
+      "last_seen": "2026-09-20T06:31:01+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T06:31:01+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71411-7": {
+      "key": "doi:10.1038/s41598-026-71411-7",
+      "doi": "10.1038/s41598-026-71411-7",
+      "title": "Detailed identification method of blue and white porcelain decorative patterns for cultural heritage protection",
+      "abstract": "To tackle tiny inter-class discrepancies, frequent misclassification and complex feature extraction difficulties of blue-and-white porcelain decorations, this paper proposes a fine-grained recognition method based on improved ConvNeXt_Tiny. We collect images of four ornament types: plant, animal, human and geometric patterns, and adopt random flipping, slight rotation and color jitter for data augmentation to boost generalization. An RFB multi-scale module with dilated convolutions is embedded after downsampling to create multi-size receptive fields and enrich pattern feature learning. A Triplet attention module is further integrated to capture cross-dimensional spatial-channel interactions, helping the model focus on subtle edges and faint textures. Tests on the porcelain dataset yield 97.26% accuracy, 1.63% higher than the vanilla ConvNeXt_Tiny. The modified model exhibits superior feature extraction performance, offering an efficient tool for intelligent identification and digital protection of cultural heritage porcelain images.",
+      "link": "https://doi.org/10.1038/s41598-026-71411-7",
+      "authors": [
+        "Yaqi Liu"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:01+00:00",
+      "last_seen": "2026-09-20T06:31:01+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T06:31:01+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72112-x": {
+      "key": "doi:10.1038/s41598-026-72112-x",
+      "doi": "10.1038/s41598-026-72112-x",
+      "title": "Comparative genomics of Actinomyces identifies an MRONJ-associated lineage characterized by variation in mfd",
+      "abstract": "Abstract Although many cases of medication-related osteonecrosis of the jaw (MRONJ) have been reported, its pathophysiology remains unclear. Additionally, previous histological and metagenomic studies have implicated an association between MRONJ and Actinomyces ; however, verification of this association has been hindered by limited sample sizes and a lack of selective isolation media. In this study, we utilized a recently developed selective medium to isolate Actinomyces from oral specimens of 53 patients with MRONJ across multiple hospitals. We developed DNA extraction protocols suitable for Actinomyces and performed genome sequencing of these isolates using not only short-read but also the latest nanopore long-read sequencing technologies. Comparative genomic analyses, including reconstruction of a complete reference chromosome, showed that most MRONJ-derived isolates clustered within an Actinomyces lineage dominated by Actinomyces oris and characterized by a distinct variant of mfd , a gene previously implicated in bacterial evolvability. Furthermore, 3D structure prediction identified potential structural differences in Mfd among these isolates, although their functional significance and possible relevance to MRONJ remain to be determined. Thus, this study provides a basis for future genomic investigations of Actinomyces and for further exploration of its potential association with MRONJ.",
+      "link": "https://doi.org/10.1038/s41598-026-72112-x",
+      "authors": [
+        "Hiroko Yahara",
+        "Miho Takahashi",
+        "Sachiko Yamasaki",
+        "Souichi Yanamoto",
+        "Takuya Asaka",
+        "Yoshimasa Kitagawa",
+        "Kazuma Noguchi",
+        "Akimitsu Hiraki",
+        "Sadao Aoki",
+        "Maki Okuda",
+        "Satoyo Wakai",
+        "Eiko Anzai",
+        "Le Nhat Minh",
+        "Norikazu Kitamura",
+        "Yo Sugawara",
+        "Aki Hirabayashi",
+        "Hirokazu Yano",
+        "Ryoma Nakao",
+        "Koji Yahara"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:02+00:00",
+      "last_seen": "2026-09-20T06:31:02+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-67991-z": {
+      "key": "doi:10.1038/s41598-026-67991-z",
+      "doi": "10.1038/s41598-026-67991-z",
+      "title": "Understanding older adults’ sharing intention toward AI-generated health misinformation: a heuristic-systematic and health belief perspective",
+      "abstract": "The rapid development of generative artificial intelligence has changed the production and presentation of health information on social media. AI-generated health misinformation has increasingly appeared on social platforms, including disease prevention and wellness advice presented by pseudo-authoritative sources, as well as health narratives disguised as personal experience shared by pseudo-layperson sources. Presented in low-barrier, highly visual, and context-rich formats, such content enters older adults’ information environments and may be perceived as convenient and accessible health advice. Grounded in the heuristic–systematic model (HSM) and the health belief model (HBM), this study focused on influenza prevention and treatment and examined AI-fabricated source and message characteristics. A 2 (AI-fabricated source: pseudo-layperson vs. pseudo-authoritative) × 2 (argument strength: weak vs. strong) between-subjects experimental design was employed to investigate older adults’ sharing intention toward AI-generated health misinformation videos. Using a snowball sampling approach, 320 valid responses were collected from older adults who were willing and able to complete an online experiment through social media platforms. Analysis of covariance (ANCOVA) and PLS-SEM were conducted. The ANCOVA results showed that under the weak argument strength condition, pseudo-authoritative sources elicited higher sharing intention than pseudo-layperson sources. In contrast, under the strong argument strength condition, the difference between the two source types was not significant. PLS-SEM analysis further showed significant indirect associations linking the two experimental factors to sharing intention through perceived threat and perceived benefit. This study suggests that, among older adults in social media-based online health information environments, sharing intention toward AI-generated health misinformation videos is associated with a combined evaluation of source cues, argument strength, and health beliefs. By integrating source-related cues, message-quality cues, and health-related evaluations into the explanatory framework, this study clarifies direct and indirect associations underlying older adults’ sharing intention toward health misinformation. These findings provide implications for health misinformation governance, media literacy interventions targeting older adults who participate in social media-based health information environments, and platform responsibility mechanisms in the era of generative AI.",
+      "link": "https://doi.org/10.1038/s41598-026-67991-z",
+      "authors": [
+        "Qiuhao Huang",
+        "Yanxue Zou"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:02+00:00",
+      "last_seen": "2026-09-20T06:31:02+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T06:31:02+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "artificial intelligence"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72245-z": {
+      "key": "doi:10.1038/s41598-026-72245-z",
+      "doi": "10.1038/s41598-026-72245-z",
+      "title": "Physical contact is essential for effective social buffering of social fear in mice",
+      "abstract": "Abstract Social buffering attenuates stress and fear responses, yet the sensory requirements for effectively buffering social fear remain unclear. Here, we established a paradigm combining social fear conditioning with social buffering to determine whether buffering efficacy depends on tactile, visual, and/or olfactory contact with a familiar conspecific. Adult female and male mice underwent social fear conditioning and were then housed for 24 h under one of three buffering conditions: full multisensory contact, visual and olfactory access, or olfactory access alone. Social fear was assessed thereafter, and mice without buffering served as controls. Conditioned mice without buffering showed impaired social preference and robust social fear, with a trend toward stronger fear expression in females. Only mice receiving full multisensory buffering retained normal social preference and showed no social fear in both sexes, with a more pronounced effect in females, whereas restricted sensory conditions were ineffective. Notably, only conditioned females without buffering showed extinction, while the lowest freezing levels were found in females exposed to full multisensory buffering. Together, these findings demonstrate that effective buffering requires full multisensory contact with a familiar conspecific and establish this paradigm as a framework for dissecting modality- and sex-dependent mechanisms of social buffering of social fear.",
+      "link": "https://doi.org/10.1038/s41598-026-72245-z",
+      "authors": [
+        "Elif Salur",
+        "Xianhui Li",
+        "Esther Asan",
+        "Iulia Zoicas",
+        "Angelika Schmitt-Böhrer"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:03+00:00",
+      "last_seen": "2026-09-20T06:31:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72361-w": {
+      "key": "doi:10.1038/s41598-026-72361-w",
+      "doi": "10.1038/s41598-026-72361-w",
+      "title": "A compact 2D photonic crystal biosensor for optical detection of glioblastoma brain tissues enhanced by neural networks",
+      "abstract": "Abstract In this work, a compact optical sensor based on a two-dimensional photonic crystal is proposed for detecting glioblastoma and pre-tumor brain tissues. The sensor uses a hexagonal lattice of silicon rods in air with a ring resonator structure at its center. The designed device is small in size and operates around the wavelength of 1.55 micrometers. By adjusting the structural parameters, a high-quality factor of 4777 and a figure of merit of 2333 are obtained. The sensor also shows a high sensitivity of 933 nanometers per refractive index unit and a very small detection limit of 4.2 × 10⁻⁵. The optical response remains stable when the temperature changes from 25 °C to 40 °C, showing good thermal performance. An artificial neural network (ANN) is employed for intelligent classification of the sensor response, assigning each measurement to tumor or pre-tumor tissue. The comparison with recent optical sensors confirms that the proposed design achieves better accuracy, higher quality, and smaller footprint. These results demonstrate the strong potential of the proposed sensor as a computational proof-of-concept for high-accuracy discrimination between tumorous and peritumorous brain tissues.",
+      "link": "https://doi.org/10.1038/s41598-026-72361-w",
+      "authors": [
+        "Golshan Mohamadpour",
+        "Salah I. Yahya",
+        "Fawwaz Hazzazi",
+        "Mohammad Aljaidi",
+        "Fawnizu Azmadi Hussin",
+        "Mohammad Ali Alqudah",
+        "Ahmad Abdullah Alshammari",
+        "Saeed Roshani",
+        "Sobhan Roshani"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:03+00:00",
+      "last_seen": "2026-09-20T06:31:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72483-1": {
+      "key": "doi:10.1038/s41598-026-72483-1",
+      "doi": "10.1038/s41598-026-72483-1",
+      "title": "Green synthesis of functionalized CuO, ZnO and Fe₂O₃ nanoparticles using medicinal plant extracts for early seedling growth evaluation",
+      "abstract": "Abstract Phytochemical compounds are among the most widely used natural materials and have attracted much attention in recent years in various fields and industries. In biological applications, they can be used as preservatives and antifungals. This study investigated the effect of micronutrients on the growth of flaxseed cultivar Golchin and rapeseed cultivar X using a culture medium containing medicinal plant extracts and three metal oxide nanoparticles. Zinc oxide (ZnO), copper oxide (CuO), and iron oxide (Fe₂O₃) nanoparticles were synthesized using Aloe barbadensis Miller leaf extract, Gundelia tournefortii L extract, and Punica granatum L. extract, respectively, and were characterized by FESEM, XRD, EDX, FTIR, and TGA analyses. Different concentrations (0, 15, 62, 125, 250, and 500 mg/L) of each nanoparticle were evaluated for the germination of flaxseed and rapeseed. The results showed that functionalized ZnO and CuO nanoparticles accelerated the increase in root and shoot length, whereas Fe₂O₃ nanoparticles exhibited only limited effects. Specifically, in flaxseed of the Golchin cultivar, functionalized ZnO nanoparticles at 500 mg/L increased root and shoot length by up to 80–100% compared to the control after four days. In rapeseed cultivar X, functionalized ZnO nanoparticles at 500 mg/L produced a comparable enhancement (up to 80–100%), whereas functionalized Fe₂O₃ nanoparticles at 500 mg/L did not show a significant growth increase for either seed type. The effects of Aloe barbadensis Miller and Punica granatum L. extracts at concentrations of 1, 2, 3, and 4% were also tested. Punica granatum L. extract exhibited inhibitory effects, while Aloe barbadensis Miller extract noticeably slowed bud development and reduced growth rate.",
+      "link": "https://doi.org/10.1038/s41598-026-72483-1",
+      "authors": [
+        "Masoumehalsadat Rahmati",
+        "Ali Rostami",
+        "Samira Shokri",
+        "Mina Kamani",
+        "Ali Ashraf Derakhshan",
+        "Fatemeh Moradinejad"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:03+00:00",
+      "last_seen": "2026-09-20T06:31:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69945-x": {
+      "key": "doi:10.1038/s41598-026-69945-x",
+      "doi": "10.1038/s41598-026-69945-x",
+      "title": "Optimizing CRISPR–Cas9-mediated TCR knockout in primary mouse CD8+, CD4+, and regulatory T cells",
+      "abstract": "CRISPR–Cas9 genome editing has transformed biomedical research by enabling precise and efficient genetic modification. Among its applications, gene knockout using ribonucleoprotein (RNP) complexes provides a non-viral strategy for introducing loss-of-function mutations. Here, we present an optimized CRISPR–Cas9 RNP-based genome editing pipeline for T cells, beginning with human Jurkat cells and extending to primary mouse CD4⁺, CD8⁺, and regulatory T cells (Tregs). We benchmarked the workflow by targeting the T cell receptor alpha constant (TRAC/Trac) locus, an important site for engineering therapeutic T cells. In Jurkat cells, optimized RNP conditions yielded > 98% knockout efficiency. In primary mouse T cells, we achieved up to 95% and 80% TCR knockout in CD8⁺ and CD4⁺ subsets, respectively, with minimal effects on viability. CRISPR–Cas9-mediated editing was validated by Sanger sequencing and Inference of CRISPR Edits (ICE) analysis, confirming efficient on-target indel formation consistent with loss of surface CD3 expression. Edited cells retained their capacity for activation. The sgRNA design, the Cas9:sgRNA molar ratio, cell number, and RNP dose were key determinants of editing efficiency. Notably, we demonstrate efficient Trac editing in primary mouse Tregs, reaching up to 85% knockout. Although Tregs displayed modestly reduced viability after electroporation, editing remained robust. Overall, this work provides an optimized non‑viral genome editing platform for mouse T cells, supporting mechanistic studies in syngeneic models and the development of next‑generation cellular immunotherapies.",
+      "link": "https://doi.org/10.1038/s41598-026-69945-x",
+      "authors": [
+        "Andrea Šarac",
+        "Klemen Kunej",
+        "Kristina Manzoni",
+        "Karen Butina Ogorelec",
+        "Katja Leben Zupet",
+        "Simon Horvat",
+        "Jelka Pohar",
+        "Anže Smole"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:03+00:00",
+      "last_seen": "2026-09-20T06:31:03+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T06:31:03+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71211-z": {
+      "key": "doi:10.1038/s41598-026-71211-z",
+      "doi": "10.1038/s41598-026-71211-z",
+      "title": "Leakage-aware hybrid tabular deep learning with target-provenance auditing for calorie-expenditure prediction and constrained exercise food recommendation",
+      "abstract": "Abstract Personalised exercise planning depends on calorie expenditure estimates derived from valid predictors. Published tabular recommenders rarely scrutinise the provenance of their outcome variable. We propose a leakage-aware, audit-first framework that combines hybrid tabular deep learning with a constrained exercise-food recommender, and apply it to three public tables with 3,864 workout records, 400 catalogued foods, and 512 user-food ratings. A pre-modeling audit found and removed direct target leakage that had inflated a previously reported R 2 to 0.998. Formal distributional forensics determined that the outcome column is statistically indistinguishable from Uniform (100, 500) noise (Kolmogorov–Smirnov p = 0.489), which corresponds to an analytic mean-absolute-error floor of 100.00 kcal. We trained three corrected architectures, a Tabular 1D-CNN, a feature-token Transformer and a BiLSTM plus feature-token Transformer, under record-level 64/16/20 partitioning with training-only augmentation against six conventional learners and a median baseline. The best model produced a mean absolute error of 101.68 kcal on 773 unseen test instances, within 1.7% of the theoretical lower bound, and repeated cross-validation, bootstrap confidence intervals, paired Wilcoxon tests, subgroup auditing across 29 strata, and seven families of explainability analyses all agreed on the same conclusion. The deterministic recommender achieved 80.0% profile coverage, 100% catalogue coverage and no constraint violations over 240 simulated profiles and 1200 emitted candidates, with all residual target error attributed to the predictor rather than the ranking logic. The framework provides a transferable protocol for validating outcome variables prior to modelling, and a reproducible, auditable recommendation pipeline for exercise and nutrition informatics.",
+      "link": "https://doi.org/10.1038/s41598-026-71211-z",
+      "authors": [
+        "Akella S. Narasimha Raju",
+        "Ranjith Kumar Gatla",
+        "Subba Rao Polamuri",
+        "G. Chandra Sekhar",
+        "Shaik Jakeer Hussain",
+        "Devineni Gireesh Kumar",
+        "Reem A. Almenweer"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T06:31:04+00:00",
+      "last_seen": "2026-09-20T06:31:04+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
     }
   }
 }
