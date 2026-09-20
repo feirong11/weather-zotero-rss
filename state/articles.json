@@ -141923,6 +141923,205 @@
           "neural network"
         ]
       }
+    },
+    "doi:10.1038/s41598-026-72683-9": {
+      "key": "doi:10.1038/s41598-026-72683-9",
+      "doi": "10.1038/s41598-026-72683-9",
+      "title": "Joint entropy-aware quantization for energy-efficient TinyML human activity recognition on IoT edge devices",
+      "abstract": "Sensor-based human activity recognition (HAR) is a core task in wearable healthcare, assisted living, sports monitoring, rehabilitation, and context-aware Internet-of-Things (IoT) systems. However, deploying HAR models on microcontroller-class edge devices remains challenging because continuous inference must satisfy strict constraints on Flash memory, SRAM usage, latency, and energy consumption. Conventional TinyML-HAR pipelines commonly rely on uniform INT8 or INT4 quantization, which reduces computational cost but assumes that all sensor channels, neural layers, activations, and activity windows require the same numerical precision. This assumption is suboptimal because wearable motion signals exhibit heterogeneous information content: static activities often produce low-entropy inertial patterns, whereas dynamic and transitional activities generate richer and more quantization-sensitive signal distributions. To address this limitation, this paper proposes JEAQ-HAR, a joint entropy-aware quantization framework for energy-efficient TinyML HAR on IoT edge devices. JEAQ-HAR estimates entropy at the sensor-channel, neural-layer, activation, and input-window levels to guide a hierarchical mixed-precision allocation policy across the HAR inference pipeline. High-entropy sensor axes, quantization-sensitive layers, and complex motion windows are assigned higher precision, while low-entropy and redundant components are quantized more aggressively. The framework also introduces an entropy-distortion regularization objective to preserve activation-distribution structure during quantization-aware training and an adaptive inference policy that selects low-bit or higher-precision execution paths according to window-level motion complexity. Experiments on UCI-HAR, WISDM, and PAMAP2 show that JEAQ-HAR achieves macro-F1 scores of 95.1%, 93.1%, and 90.1%, respectively, with an average gap of only 0.47 percentage points from the FP32 backbone. Across the three datasets, the average serialized deployment package size is reduced from 159.6 KB for FP32 to 29.17 KB for JEAQ-HAR, corresponding to an 81.7% reduction relative to the FP32 serialized package, rather than merely the raw trainable-weight tensor. On microcontroller-class devices, JEAQ-HAR reduces the complete measured end-to-end inference latency and energy from 14.0 ms and 1.07 mJ for FP32 to 5.93 ms and 0.47 mJ, including entropy computation, routing, packed-precision handling, quantized inference, and decision generation. These gains represent end-to-end workload reductions rather than speedups from native INT6 arithmetic. Compared with uniform INT4 quantization, JEAQ-HAR improves average macro-F1 by 4.8 percentage points while maintaining a compact memory footprint and low inference cost. The ablation study confirms that sensor-level entropy, layer-level entropy, window-level entropy, entropy-distortion regularization, and adaptive inference each contribute to recognition stability or deployment efficiency. These results show that combining entropy-guided precision allocation with deployment-aware TinyML evaluation provides an effective and practical strategy for accurate, compact, and energy-efficient HAR on constrained IoT edge devices.",
+      "link": "https://doi.org/10.1038/s41598-026-72683-9",
+      "authors": [
+        "Ismail Lamaakal",
+        "Chaymae Yahyati",
+        "Khalid El Makkaoui",
+        "Ibrahim Ouahbi"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T18:26:59+00:00",
+      "last_seen": "2026-09-20T18:26:59+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T18:26:59+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70017-3": {
+      "key": "doi:10.1038/s41598-026-70017-3",
+      "doi": "10.1038/s41598-026-70017-3",
+      "title": "Diagnostic performance of a 4-miRNA blood panel for colorectal cancer",
+      "abstract": "Abstract Early detection of colorectal cancer (CRC) significantly improves clinical outcomes; however, the widely used faecal immunochemical test (FIT) exhibits suboptimal sensitivity. We aimed to develop a blood-based diagnostic panel using high-mannose (HM)-associated miRNAs captured by recombinant Oscillatoria agardhii agglutinin (OAA1). Using a two-stage design, we analysed retrospective discovery ( n = 99) and prospective validation ( n = 21) cohorts. Serum HM-associated miRNAs were captured using OAA1-immobilised columns and quantified by reverse transcription-quantitative polymerase chain reaction. Multivariate logistic regression identified an optimised 4-miRNA panel (miR-122-5p, miR-130a-3p, miR-15b-5p, and miR-126-3p) with an area under the curve (AUC) of 0.886 in the discovery cohort. The panel score exhibited a significant stage-dependent increasing trend across the adenoma–carcinoma sequence ( P < 0.0001) and showed no significant association with tumour location, maximum tumour diameter, or conventional tumour markers. In the independent validation cohort, this panel achieved an AUC of 0.944, with 100% sensitivity and 83.33% specificity. These results suggest that the OAA1-captured 4-miRNA panel can serve as a non-invasive liquid biopsy tool for early CRC detection. This may help address the anatomical and tumour-burden limitations of the FIT, supporting the panel’s potential utility as a secondary screening strategy in clinical practice.",
+      "link": "https://doi.org/10.1038/s41598-026-70017-3",
+      "authors": [
+        "Yutaro Shimizu",
+        "Yukiko Nakano",
+        "Takuya Shiraishi",
+        "Eiji Narusawa",
+        "Mizuki Endo",
+        "Kanji Hori",
+        "Hiroshi Kurokawa",
+        "Yoshihiro Taguchi",
+        "Takahiko Imai",
+        "Seshiru Nakazawa",
+        "Takehiko Yokobori",
+        "Ken Shirabe",
+        "Hiroshi Saeki"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T18:27:01+00:00",
+      "last_seen": "2026-09-20T18:27:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72409-x": {
+      "key": "doi:10.1038/s41598-026-72409-x",
+      "doi": "10.1038/s41598-026-72409-x",
+      "title": "Cost optimization of borehole heat exchangers based on saturated geophysical exploration",
+      "abstract": "Abstract As the core component of closed-loop ground-coupled heat pump (GCHP) system, the construction quality and cost of borehole heat exchangers (BHEs) directly determine the investment effectiveness and system operational stability. Carbonate rock areas are characterized by complex geological conditions, where drilling operations are highly susceptible to borehole collapse, leading to a persistently high re-drill rate. Consequently, the investment of the ground-source side accounts for approximately 60% of the total construction cost, forming a major bottleneck for the large-scale development of shallow geothermal energy. This study first analyzes the BHE cost composition and key influencing factors, such as the re-drill rate and geological transparency. Subsequently, a saturated geophysical exploration scheme and a site geological transparency evaluation method are proposed. Based on the mathematical relationship among the re-drill rate, geophysical exploration cost, and additional construction costs, a selection model for geophysical scheme is constructed. Case studies using the control variable method are conducted to compare the economic efficiency of conventional and saturated geophysical exploration schemes under varying re-drill rates and project scales. The results indicate that at a constant total length, a higher re-drill rate magnifies the cost advantage of the saturated geophysical exploration scheme, saving up to 95.5% of additional costs. Furthermore, for projects with identical re-drill rates, projects with a larger scale achieve higher coverage rates per geophysical exploration line, yielding superior cost-saving effects.",
+      "link": "https://doi.org/10.1038/s41598-026-72409-x",
+      "authors": [
+        "Run Ran",
+        "Peng Pei",
+        "Bo Zhang",
+        "Yi Liu",
+        "Jinghu Sun"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T18:27:01+00:00",
+      "last_seen": "2026-09-20T18:27:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72546-3": {
+      "key": "doi:10.1038/s41598-026-72546-3",
+      "doi": "10.1038/s41598-026-72546-3",
+      "title": "Perceived indoor environmental quality and facility satisfaction across four university housing facilities in Taiz, Yemen",
+      "abstract": "Abstract University housing in service-constrained settings requires evidence that distinguishes occupant perceptions from measured building performance. We conducted a cross-sectional post-occupancy evaluation of four institutional housing facilities in Taiz, Yemen, using 253 complete resident questionnaires and a separate specialist appraisal of 31 participants. The study-specific 43-item questionnaire showed marginal thermal-comfort consistency and inadequate prespecified nine-factor fit under full ordinal WLSMV estimation (CFI = 0.879, TLI = 0.867, RMSEA = 0.069, SRMR = 0.081), so it is not presented as a validated scale. After adjustment for participant characteristics, source batch, and facility, sensory indoor environmental quality was associated with perceived functional and facility satisfaction (standardized beta = 0.613, 95% CI 0.496–0.730), while fire and life safety contributed separately (beta = 0.211, 95% CI 0.100-0.321; model R²=0.594). Sensitivity, principal-component, and item-level analyses supported the same broad pattern without establishing causality. Summer overheating, ventilation control, water continuity, fire preparedness, recreation, accessibility, and waste management were prominent concerns. Electrical specialist ratings involved only four respondents and are illustrative. The findings support facility triage and prospective objective monitoring rather than compliance assessment or institutional ranking.",
+      "link": "https://doi.org/10.1038/s41598-026-72546-3",
+      "authors": [
+        "Ghanima A. M. Al-Alali",
+        "Yaser Gamil",
+        "Saleem Ahmed Al-Azazi"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T18:27:01+00:00",
+      "last_seen": "2026-09-20T18:27:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72292-6": {
+      "key": "doi:10.1038/s41598-026-72292-6",
+      "doi": "10.1038/s41598-026-72292-6",
+      "title": "Structural characterization and CO2 adsorption enhancement of synthesized calcined flower-like Mg–Al LDH@γ-Al2O3",
+      "abstract": "Abstract Flower-like Mg–Al CO 3 layered double hydroxides (LDHs) grown on γ-Al₂O₃ substrates with varying Mg:Al molar ratios (2:1 and 3:1 in the precursors( were successfully synthesized via a controlled co-precipitation method. The structural morphology, composition, crystallinity, porosity, and surface charge properties of the synthesized samples were systematically investigated using scanning electron microscopy (SEM), Energy Dispersive X-ray (EDX) mapping, X-ray diffraction (XRD), Brunauer–Emmett–Teller (BET) surface area analysis, zeta potential measurements, and Fourier transform infrared (FTIR). Furthermore, the CO 2 capture potential of the calcined LDHs, known as layered double oxides (LDOs), was evaluated using thermogravimetric analysis (TGA) at different temperatures (25, 100, and 200 °C) in three consecutive adsorption-regeneration cycles. The results reveal that the improved flower-like morphology strongly influences the accessibility of CO 2 molecules to the active adsorption sites and, consequently, the CO 2 adsorption capacity. In addition, varying the Mg molar ratio significantly affects parameters such as specific surface area, surface charge, and layer positive charge density, but has a relatively limited effect on CO 2 adsorption capacity, likely due to the counterbalancing effects of these parameters. The highest CO 2 adsorption capacity observed was 2.63 mmol/g (for the 3:1 flower-like sample at 25 °C). Findings demonstrate that both 2:1 and 3:1 flower-like samples show promising potential for CO 2 capture at moderate temperatures, with adsorption capacities of 2.39 mmol/g and 2.43 mmol/g at 200 °C, respectively. Ultimately, a probable CO 2 capture mechanism using LDOs was proposed corresponding to the adsorption performance.",
+      "link": "https://doi.org/10.1038/s41598-026-72292-6",
+      "authors": [
+        "Alireza Maddahzadeh Zoghi",
+        "Maryam Tahmasebpoor",
+        "Arman Gholizadeh Sarvari",
+        "Muge Sari Yilmaz"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T18:27:01+00:00",
+      "last_seen": "2026-09-20T18:27:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72000-4": {
+      "key": "doi:10.1038/s41598-026-72000-4",
+      "doi": "10.1038/s41598-026-72000-4",
+      "title": "Therapy using periosteal cells cultivated in microgravity or their secretome improves bone in osteoporotic rats: a proof-of-concept study",
+      "abstract": "Abstract Recent work suggests that periosteal cells (PCs) cultivated in simulated microgravity have properties predicted to be pro-osteogenic. This has important implications for the treatment of osteoporosis. The present study aims to evaluate the performance of this technology for improving osteoporosis treatment. Sixty osteoporotic rats (12 per group) received single intravenous doses of: bisphosphonate (Positive Control Group–PCG); saline solution (Negative Control Group–NCG); PCs cultivated under simulated microgravity (POCMG), or secretome of PCs cultivated under simulated microgravity (PSMG). In a Control Group (CG), SHAM surgeries were performed. Half of the animals were euthanized after 14 days (T1) and the other half after 42 days. The right femurs were submitted to microCT (for mineralized tissue and cortical bone thickness measurement) and to histomorphometric analysis (for bone, collagen tissue and medullary space measurement). The left femurs were submitted to molecular analysis for gene expression profiling of bone metabolism markers and regulators of bone turnover. At T1, mineralized tissue was equivalent among PCG, POCMG, PSMG and CG and all these groups had significantly higher levels when compared with NCG ( p < 0.05). At T2, NCG had the lowest mineralized tissue ( p < 0.05), followed by POCMG, PSMG, PCG and CG. There was no significant difference between PCG and PSMG, between CG and PCG and between POCMG and PSMG. PSMG had a thicker cortical plate when compared with NCG, PCG and CG ( p < 0.05), and equivalent when compared with POCMG. The histomorphometry showed no difference between timepoints for bone, collagen tissue and medullary space in all groups. For the intergroup comparison, the histomorphometric analysis showed a lower level of bone tissue and higher measurement of medullary space for NCG when compared with the other groups ( p < 0.05). For collagen tissue, no statistically significant difference was shown between all groups. The molecular analysis showed no statistical difference among groups. The use of PCs cultivated under microgravity and their secretome improved mineralized tissue amount in osteoporotic rats. The effects of the secretome on bone gain were equivalent to those of bisphosphonates, and the secretome showed superior results in improving cortical bone thickness.",
+      "link": "https://doi.org/10.1038/s41598-026-72000-4",
+      "authors": [
+        "Raul Canal",
+        "José Ricardo Muniz Ferreira",
+        "Sergio Alexandre Gehrke",
+        "Lexie Shannon Holliday",
+        "Antonio Carlos Aloise",
+        "Thaís Russomano",
+        "Marlise Araújo dos Santos",
+        "Giovana Gonçalves Vidotti",
+        "Fernanda Carla Bombaldi de Souza",
+        "Renata Francielle Bombaldi de Souza",
+        "André Ferrão Vargas",
+        "Daniel Navarro da Rocha",
+        "Paulo Henrique Orlato Rossetti",
+        "Peter Karyen Moy",
+        "Roberto Dalto Fanganiello",
+        "André Antonio Pelegrine"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T18:27:01+00:00",
+      "last_seen": "2026-09-20T18:27:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72619-3": {
+      "key": "doi:10.1038/s41598-026-72619-3",
+      "doi": "10.1038/s41598-026-72619-3",
+      "title": "SAViT-NeRF: a novel framework for improving geometric consistency in ancient building 3D reconstruction",
+      "abstract": "Traditional 3D reconstruction methods struggle with geometric distortion and surface detail loss when processing ancient architecture, due to its complex structures, repeated components and intricate textures. To address these challenges, we propose a novel SAViT-NeRF framework combining structure-aware Vision Transformer and neural radiance fields. This model adopts multi-head self-attention to capture long-range structural correlations, and integrates cross-view feature fusion as well as depth and normal consistency constraints to optimize geometric continuity. We evaluated the model on four public cultural heritage datasets and compared it with NeRF, MVSNeRF, StructNeRF and Gaussian Splatting. Experimental results show that our method achieves obvious reductions in RMSE, Chamfer Distance and normal consistency error, while PSNR, SSIM and mIoU are substantially improved. The proposed method realizes stable and high-fidelity 3D reconstruction under multi-view conditions. It provides a reliable technical solution for the digital preservation, documentation and virtual display of ancient architectural heritage.",
+      "link": "https://doi.org/10.1038/s41598-026-72619-3",
+      "authors": [
+        "Nanka Nuobu",
+        "Xingchen Pan",
+        "Ying Sun"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T18:27:01+00:00",
+      "last_seen": "2026-09-20T18:27:01+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T18:27:01+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72404-2": {
+      "key": "doi:10.1038/s41598-026-72404-2",
+      "doi": "10.1038/s41598-026-72404-2",
+      "title": "Thermal analysis and CFD-assisted machine learning prediction of temperature fields in direct-contact membrane distillation using darts game optimization",
+      "abstract": "Abstract In this study, three regression techniques—multi-layer perceptron (MLP), Gaussian process regression (GPR), and weighted least squares (WLS)—were evaluated to predict the spatial temperature distribution, $$\\:T$$ (K), obtained from CFD analysis of a direct-contact membrane distillation unit, using the spatial coordinates $$\\:r$$ (m) and $$\\:z$$ (m) as input variables. Dart game optimization (DGO) was employed for hyperparameter tuning of all machine learning models to enhance their predictive accuracy. The DGO-tuned Gaussian process regression model (DGO-GPR) exhibited remarkable performance for temperature prediction in the unit operation, achieving $$\\:{R}^{2}$$ train and test scores of 0.99885 and 0.99907, respectively. These results underscore the efficacy of DGO in optimizing hyperparameters for GPR in the context of thermal analysis of membrane distillation systems. Similarly, the DGO-tuned multi-layer perceptron (DGO-MLP) model exhibited commendable performance, achieving $$\\:{R}^{2}$$ train and test scores of 0.9947 and 0.99502, respectively. As such, the model demonstrated a modest MAPE of 6.80927E−04 and an RMSE of 3.0333E−01. The DGO-MLP model underscores the versatility of the darts game optimizer across different predictive architectures. Conversely, the DGO-tuned weighted least squares model (DGO-WLS) displayed good performance with $$\\:{R}^{2}$$ train and test scores of 0.88153 and 0.88636. However, the model exhibited a higher MAE of 1.02602E+00, accompanied by a MAPE of 3.12572E−03 and an RMSE of 1.2914E+00. The results indicate that while DGO enhances the performance of WLS, there may be inherent challenges in achieving precision comparable to other models in certain scenarios. The reported predictive performance is specific to the spatial and operating domain of the investigated CFD configuration and should not be interpreted as evidence of generalization to different inlet conditions, membrane geometries, or process configurations without additional parametric CFD data and retraining.",
+      "link": "https://doi.org/10.1038/s41598-026-72404-2",
+      "authors": [
+        "Ahmed B. Khoshaim",
+        "Nidal H. Abu-Hamdeh",
+        "Abdulmalik A. Aljinaidi"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T18:27:02+00:00",
+      "last_seen": "2026-09-20T18:27:02+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
     }
   }
 }
