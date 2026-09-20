@@ -140197,6 +140197,201 @@
       "enrichment_attempts": 0,
       "last_enrichment_attempt": "",
       "matched_channels": {}
+    },
+    "doi:10.1029/2026jd047277": {
+      "key": "doi:10.1029/2026jd047277",
+      "doi": "10.1029/2026jd047277",
+      "title": "Structure of Boundary Layer Wind and Turbulence in Super Typhoon Ragasa and Typhoon Wipha During Landfall",
+      "abstract": "Abstract Boundary layer turbulence and vertical mixing exert great control over the structure and evolution of tropical cyclones (TCs). However, scaling and parameterizing them remains challenging due to their inherent complexity and limited observations. Based on a 356‐m‐tall meteorological tower and wind profilers at three sites, this study analyzes the structure of wind and turbulence in the boundary layer of Super Typhoon Ragasa and Typhoon Wipha during landfall. Wind profile observations suggest an asymmetric structure with more significant inflow in the right‐front quadrant than right‐rear. Local scaling works for describing the dimensionless wind velocity variances and turbulent kinetic energy but is subject to a high degree of uncertainty. Friction velocity‐based non‐local parameterization performs better than wind velocity variance‐based local schemes in reproducing the observed vertical eddy diffusivity for momentum, while the larger‐than‐unity scaling parameter in the commonly used K‐profile parameterization scheme indicates higher‐than‐parameterized vertical turbulent mixing. These observational results suggest that directly applying similarity laws and parameterization schemes developed for homogeneous, straight‐line winds to landfalling TCs may introduce significant uncertainties. Accounting for the influences from the inhomogeneous features, such as rolls, mesoscale vortices, and underlying surface heterogeneity, may represent a future direction of improvement.",
+      "link": "https://doi.org/10.1029/2026jd047277",
+      "authors": [
+        "Junyi He",
+        "Yucheng Xue",
+        "Feng Hu",
+        "Yikang Liu",
+        "Qiusheng Li",
+        "Honglong Yang",
+        "Pak Wai Chan"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-20T00:33:30+00:00",
+      "last_seen": "2026-09-20T00:33:30+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone",
+          "typhoon"
+        ]
+      }
+    },
+    "doi:10.1029/2026jd047092": {
+      "key": "doi:10.1029/2026jd047092",
+      "doi": "10.1029/2026jd047092",
+      "title": "Seasonally Regionalized Interdecadal Decrease in Extreme Precipitation Over the Tropical Indo‐Western Pacific Region Around 2008/2009",
+      "abstract": "Abstract Increase in extreme precipitation is expected with global warming that leads to an increase in atmospheric moisture content. Here, we present evidence for interdecadal decrease in extreme precipitation frequency and amount around 2008/2009 over the tropical Indo‐western Pacific region. The decrease is prominent over the tropical eastern Indian Ocean in boreal fall and winter and over the tropical western Pacific in boreal spring and summer. In contrast, non‐extreme precipitation shows an increase over the broad tropical eastern Indian Ocean‐western Pacific region. This change corresponds well to a decrease in the frequency of large precipitation rate and an increase in the frequency of moderate precipitation rate. The ascending motion during extreme precipitation days experienced a weakening around 2008/2009 over the tropical Indo‐western Pacific region with a spatial pattern very similar to that of extreme precipitation decrease. The frequency of strong ascending motion displays a decrease and that of weak vertical motion displays an increase in the regions of extreme precipitation decrease. The good correspondence indicates a main role of the atmospheric dynamic effect in the extreme precipitation decrease around 2008/2009 over the tropical Indo‐western Pacific region.",
+      "link": "https://doi.org/10.1029/2026jd047092",
+      "authors": [
+        "Renguang Wu",
+        "Panxi Dai",
+        "Peijun Zhu",
+        "Xi Cao",
+        "Wen‐Jun Zhang",
+        "Lei Song",
+        "Ping He"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-20T00:33:30+00:00",
+      "last_seen": "2026-09-20T00:33:30+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1029/2026jd047362": {
+      "key": "doi:10.1029/2026jd047362",
+      "doi": "10.1029/2026jd047362",
+      "title": "Terrain‐Induced Contrasts in the Diurnal Variations of Low‐Level Jets Over the Middle Reaches of the Yangtze River During the 2010 Mei‐yu Field Campaign",
+      "abstract": "Abstract The diurnal cycle of low‐level jets (LLJs) plays a crucial role in severe convective weather during the Mei‐yu season over the middle reaches of the Yangtze River (MRYR). However, previous studies have focused on individual sites or large‐scale climatic contrasts, leaving sub‐regional variations in LLJ diurnal behaviors and their governing mechanisms insufficiently understood. Using intensive radiosonde observations from three topographically distinct sites during the 2010 Mei‐yu field campaign, combined with ERA5 reanalysis, we partially address this knowledge gap. Results show that (a) LLJ occurrence exhibits a single peak between 1.5 and 2.5 km AGL in terrain‐affected regions, dominated by synoptic‐system‐related LLJs (SLLJs) with higher core altitudes, whereas a double‐peak structure appears over plains, where both boundary‐layer jets (BLJs) and SLLJs frequently occur. (b) In terrain‐affected regions, SLLJ frequency and intensity peak at night, governed by nocturnal inertial oscillation with deeper boundary layers. In contrast, over plains, SLLJs peak during the daytime due to northward advancement of the Western Pacific Subtropical High (WPSH). Nocturnal BLJs over plains are influenced by both inertial oscillation and WPSH westward extension. (c) In terrain‐affected regions, SLLJ core heights descend from 20:00 to 02:00 LST and then ascend, modulated by the boundary layer via capping inversions that inhibit vertical momentum transfer and maintain a strong momentum layer aloft. Over plains, this descending phase persists until 08:00 LST, associated with intensifications of Mei‐yu fronts at 800 hPa. Derived from a single Mei‐yu period, results may not be representative of multi‐year climatological conditions. These findings advance dynamical understanding of terrain‐induced contrasts in LLJs over the MRYR and provide a benchmark for evaluating numerical simulations.",
+      "link": "https://doi.org/10.1029/2026jd047362",
+      "authors": [
+        "Wen Zhou",
+        "Yu Du",
+        "Yang Hu",
+        "Xiaofang Wang",
+        "Chunguang Cui"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-20T00:33:30+00:00",
+      "last_seen": "2026-09-20T00:33:30+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1029/2026jd046959": {
+      "key": "doi:10.1029/2026jd046959",
+      "doi": "10.1029/2026jd046959",
+      "title": "Emerging Divergence Between Dry‐ and Humid‐Heat in China Under Weakening Temperature‐Humidity Coupling",
+      "abstract": "Abstract Global warming has weakened the relationship between temperature and humidity, making dry‐ and humid‐heat increasingly distinct in China. Here, based on ERA5 hourly reanalysis data, the extreme dry‐ and humid‐heat events (EDHE/EHHE) at sub‐daily scale are first identified, and their spatiotemporal patterns as well as the associated underlying mechanisms across different climate regimes in China during 1961–2024 are investigated. Results indicate that both EDHE and EHHE exhibit an increasing trend, but with a greater magnitude for EHHE. Spatially, EDHE predominantly occurs in northern China, whereas EHHE mainly dominates southern China. These regional contrasts are closely linked to distinct circulation regimes and land‐atmosphere interactions. High‐frequency years of EDHE in both northern and southern China are accompanied by pronounced subsidence, which is maintained and reinforced by local land–atmosphere coupling (LAC) in both regions but considerably more strongly in southern China. During years with frequent EHHE, contrasting large‐scale environments are observed between the two regions: large‐scale circulation favors convective activities in northern China but tends to suppress convection in southern China. LAC may also contribute to EHHE in northern China, while its role in southern China remains uncertain and warrants further investigation. Overall, this study highlights pronounced regional differences in the mechanisms governing EDHE and EHHE, providing new insights into the processes driving compound heat extremes and offering guidance for improving their prediction under a warming climate.",
+      "link": "https://doi.org/10.1029/2026jd046959",
+      "authors": [
+        "Qingyuan Zhu",
+        "Huopo Chen",
+        "Wenyue He",
+        "Jiacan Yuan"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-20T00:33:30+00:00",
+      "last_seen": "2026-09-20T00:33:30+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1029/2026jd046985": {
+      "key": "doi:10.1029/2026jd046985",
+      "doi": "10.1029/2026jd046985",
+      "title": "Attributing the Stratospheric Impacts From the Water‐Rich Explosive Hunga Volcanic Eruption of 2022",
+      "abstract": "Abstract The January 2022 Hunga volcanic eruption injected an unprecedented ∼150 Tg of water vapor (O) and ∼0.4 Tg of sulfur dioxide () into the stratosphere. Observational studies confirm that this perturbation triggered significant changes in stratospheric composition and dynamics. This study leverages simulations from the SOCOL‐AERv2‐Volc chemistry‐climate model to evaluate nonlinearities in the stratospheric response to injections of O and . Results show that co‐injecting both species in the SOCOL‐AERv2‐Volc model results in significantly different early plume characteristics, including the spatial distribution of aerosol formation and water vapor retention, producing a unique thermal and dynamical response, as compared with simulations injecting only O or . Nonlinear interactions between O and significantly affect ozone‐related chemistry, particularly involving chlorine, nitrogen, and hydrogen oxide species. Together these findings emphasize the necessity of including multi‐species interactions in assessments of volcanic impacts on stratospheric composition and climate, especially when considering spatially resolved climate impacts outside of the global mean. Advancing an understanding of the coupling of the stratospheric dynamical, chemical, and radiative processes intrinsic to the Hunga volcanic eruption provides important insight into the stratospheric response to other stratospheric perturbations arising from natural and anthropogenic sources.",
+      "link": "https://doi.org/10.1029/2026jd046985",
+      "authors": [
+        "Freja F. Østerstrøm",
+        "Colleen M. Golja",
+        "J. Eric Klobas",
+        "James G. Anderson",
+        "David M. Wilmouth"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-20T00:33:30+00:00",
+      "last_seen": "2026-09-20T00:33:30+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1029/2025jd045999": {
+      "key": "doi:10.1029/2025jd045999",
+      "doi": "10.1029/2025jd045999",
+      "title": "Comparison Study of the Electrical Nature of Two Smoke‐Enhanced Sea Breeze Thunderstorm Cases During TRACER",
+      "abstract": "Abstract Sea breeze thunderstorm cases during the Tracking Aerosol Convection Interactions Experiment (TRACER) were analyzed in terms of lightning responses to aerosol influences. U.S. Department of Energy Atmospheric Radiation Measurement Mobile Facility (AMF), Houston Lightning Mapping Array (HLMA), and Earth Networks Total Lightning Network (ENTLN) measurements provided the primary aerosol and lightning data during TRACER. On 12 July 2022, sea breeze convection initiated near an active wildfire. The AMF S3 site (∼80 km northeast of the fire) measured a surface peak total aerosol number concentration of 184.8 cm −3 while ENTLN data revealed 18 strong positive cloud‐to‐ground (CG) lightning pulses (peak current ≥50 kA) when the convection was collocated with the smoke plume. No strong positive CG pulses were observed after the storm propagated away from the smoke plume. The 13 July 2022 case initiated near the same time and location in a post‐fire environment (∼83.6 cm −3 ) and the convection featured two strong positive CG pulses despite having a similar peak VHF source rate (∼41,000 (5 min) −1 ). The charge structure for both cases featured a normal tripole with a larger low‐level positive charge layer for the 13 July 2022 case. Three additional cases (6 July, 14 July, and 28 July 2022) were analyzed as controls. The 6 July and 28 July 2022 cases initiated within an urban environment while the 14 July 2022 case initiated in a rural aerosol regime and featured fewer strong positive CG pulses under weaker aerosol loading environments (<80 cm −3 ) with no smoke present.",
+      "link": "https://doi.org/10.1029/2025jd045999",
+      "authors": [
+        "Timothy Logan",
+        "Victoria Fortner",
+        "Lijun Zhao",
+        "Krishna Calindi"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-20T00:33:30+00:00",
+      "last_seen": "2026-09-20T00:33:30+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71172-3": {
+      "key": "doi:10.1038/s41598-026-71172-3",
+      "doi": "10.1038/s41598-026-71172-3",
+      "title": "Development and assessment of silver-zinc dual doped silymarin nanocrystals for multifunctional photocatalytic, antibacterial, and cytotoxic applications",
+      "abstract": "This research aims to develop aqueous-soluble Ag/Zn-doped silymarin nanocrystals (SNCs) from Silybum marianum extract using the solvent evaporation technique as an innovative platform to enhance the bioactivity of silymarin. The synthesized nanocrystals were evaluated for their antibacterial, cytotoxic, and photocatalytic activities, highlighting their potential as multifunctional silymarin-based nanomaterials. XRD analysis of the Ag/Zn dual-doped SNCs indicated amorphous structures. TEM and FESEM images revealed that the Ag/Zn dual-doped SNCs exhibited spherical characteristics, with a mean size of about 33.83 nm. FTIR spectroscopy confirmed the characteristic functional groups of silymarin and indicated the successful incorporation of Ag and Zn into the nanocrystal structure. The results of the UV-Vis analysis demonstrated that the Ag/Zn dual-doped SNCs exhibited strong absorption peaks at 233, 289, and 449 nm. The EDX and mapping analyses confirmed the elemental composition and the successful incorporation of Ag and Zn into the silymarin nanocrystals. The results from the photocatalytic test showed that Ag/Zn dual-doped SNCs achieved a 98% degradation of the MB (methylene blue) dye. The MTT results demonstrated that Ag/Zn dual-doped SNCs had moderate toxicity toward cancer MDA-MB-231 cells (IC50 value of 389.7 µg/mL). Furthermore, the antibacterial outcomes indicated that the Ag/Zn dual-doped SNCs displayed enhanced effectiveness against Pseudomonas aeruginosa and Staphylococcus aureus (ATCC strains) compared to clinical strains.",
+      "link": "https://doi.org/10.1038/s41598-026-71172-3",
+      "authors": [
+        "Iman Sirvani",
+        "Zahra Sabouri",
+        "Asma Mostafapour",
+        "Majid Darroudi"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T00:33:47+00:00",
+      "last_seen": "2026-09-20T00:33:47+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T00:33:47+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68655-8": {
+      "key": "doi:10.1038/s41598-026-68655-8",
+      "doi": "10.1038/s41598-026-68655-8",
+      "title": "A diet containing Moringa oleifera alters the goat rumen microbiome and improves animal performance: an insight into bacteria, ciliates and rumen anaerobic fungi",
+      "abstract": "In the present study, we investigated the impact of Moringa oleifera feed on rumen and fecal microbial communities, including bacteria, ciliates, and anaerobic fungi in lactating goats (Capra hircus). The goats were divided into three groups based on dietary regimes: masoor straw (MS, n = 10), 20% moringa leaf meal (20% MLM, n = 10), and 30% moringa leaf meal (30% MLM, n = 10), and were maintained on this diet for 180 days. Animal performance parameters, daily feed and nutrients intake, fortnightly milk yield and body weight changes, and feed digestibility were measured. Rumen digesta and fecal samples were collected at the end of the experiment, and amplicon sequencing targeting the 16 S rRNA, ciliates-specific 18 S rRNA, and rumen anaerobic fungi-specific ITS1 genes were carried out. Moringa-fed goats showed improved nutrient utilization efficiency, body weight gain (BWG), and milk production. Linear mixed-effect model analysis demonstrated that milk yield increased significantly from third fortnight onwards in both moringa -supplemented groups. In the rumen solid and liquid fractions, a moringa diet increased the Bacillota: Bacteroidota ratio, which could be associated with lower residual feed intake, improved metabolism, and thus better body weight gain and milk yield. An increase in the proteolytic bacterial phylum Pseudomonadota was observed with the moringa diet, which could be linked with high protein content in the moringa and the diet containing it. In the rumen solid fraction, several plant carbohydrate degraders and fermenters such as Coprococcus, Ruminococcus, Succinimonas, Mediterraneibacter, Cellulosilyticum, Butyricicoccus, Cellulosibacter, Ruminobacter, Saccharofermentans, Agathobacter were significantly abundant in the moringa-fed group (Kruskal-Wallis, Dunn’s post hoc test, adjusted p ≤ 0.05). Ciliates like Enoploplastron, Metadinium and Diploplastron significantly increased (Kruskal-Wallis, Dunn’s post hoc test, adjusted p ≤ 0.05), while Entodinium was reduced in the rumen digesta samples of moringa feed groups. The fibre-degrading fungal genus Neocallimastix was less abundant in the rumen of the goats fed with moringa. Overall, these findings suggest that moringa supplementation positively influences feed digestion, nutrient intake, body weight gain, and milk yield, possibly through modulating rumen microbial communities in the lactating goats. These findings also highlight the complex interactions between moringa-based diet and rumen microbes, which may further improve goat health and milk production. However, future experiments focusing on the analysis of phytochemical composition of moringa leaves and rumen fermentation parameters would further strengthen these findings.",
+      "link": "https://doi.org/10.1038/s41598-026-68655-8",
+      "authors": [
+        "Chitra Nehra",
+        "Minal Bhure",
+        "Tejas Shah",
+        "Ramesh Pandit",
+        "Niteen V. Patil",
+        "Ashutosh K. Patel",
+        "Subhash Kachhawaha",
+        "Ram N. Kumawat",
+        "Madhvi Joshi",
+        "Chaitanya G. Joshi"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-20T00:33:49+00:00",
+      "last_seen": "2026-09-20T00:33:49+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-20T00:33:49+00:00",
+      "matched_channels": {}
     }
   }
 }
