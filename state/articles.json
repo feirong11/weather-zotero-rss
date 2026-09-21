@@ -142332,6 +142332,606 @@
       "enrichment_attempts": 0,
       "last_enrichment_attempt": "",
       "matched_channels": {}
+    },
+    "doi:10.1029/2026gl123424": {
+      "key": "doi:10.1029/2026gl123424",
+      "doi": "10.1029/2026gl123424",
+      "title": "Future Redistribution of North Atlantic Tropical Cyclone Risk in Two Contrasting CMIP6 Scenarios",
+      "abstract": "Abstract We analyze North Atlantic Tropical Cyclone (TC) activity using the Columbia HAZard model to downscale 12 models from CMIP6 under the SSP1‐2.6 and SSP5‐8.5 scenarios—representing low and high radiative forcing, respectively. Despite greater warming under SSP5‐8.5, basin‐wide North Atlantic TC frequency is not consistently higher than under SSP1‐2.6, contrasting the global‐mean response. Landfalling TC frequency increases along the Southeastern U.S. and declines along the Gulf under both SSPs, a contrast that persists throughout the 21st century. Both TC genesis and steering flow changes contribute to this contrast, and appear consistent with projected El Niño‐like shifts in the tropical Pacific mean state, influencing both Atlantic potential intensity and vertical wind shear variability. These results emphasize the sensitivity of regional TC activity to the spatial pattern of surface warming over its global‐mean change, and the significance of the contention around projected trends in the tropical Pacific, in particular.",
+      "link": "https://doi.org/10.1029/2026gl123424",
+      "authors": [
+        "Ratnaksha Lele",
+        "Adam H. Sobel",
+        "Chia‐Ying Lee",
+        "Suzana J. Camargo",
+        "Michael K. Tippett",
+        "Patrick Kelly",
+        "Ted Amdur",
+        "Radovan Drinka"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Geophysical Research Letters",
+      "journal_label": "Geophysical Research Letters",
+      "issn": "0094-8276",
+      "first_seen": "2026-09-21T06:33:49+00:00",
+      "last_seen": "2026-09-21T06:33:49+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ]
+      }
+    },
+    "doi:10.1002/joc.70598": {
+      "key": "doi:10.1002/joc.70598",
+      "doi": "10.1002/joc.70598",
+      "title": "Harnessing Deep Learning Methods for Rainfall Downscaling and Projections Over India: A CMIP6 Based Assessment of Future Shifts",
+      "abstract": "ABSTRACT The intensification of hydroclimatic extremes under global warming poses serious risks to water security, agriculture and disaster resilience in monsoon‐dependent regions. However, reliable regional‐scale rainfall projections remain challenging due to scale mismatches between global climate models and localised hydroclimatic variability. To address this limitation, we apply two sequential deep learning (DL) methods, bidirectional long short‐term memory (BiLSTM) and gated recurrent unit (GRU), to downscale daily precipitation from 12 CMIP6 models over India for the historical period (1951–2010) and future projections (2040–2069; 2070–2100) under SSP2‐4.5 and SSP5‐8.5 scenarios. BiLSTM consistently outperforms GRU in reproducing observed rainfall variability, achieving lower RMSE (≤ 4.5), reduced MAE (1.16–1.63) and stronger correlation ( r = 0.85–0.94). The model effectively captures observed annual variability (~14 mm) and monsoon (JJAS) intensity (~24 mm), while substantially reducing systematic overestimation in raw CMIP6 outputs. Spatial gradients across the Western Ghats, Northeast India and core monsoon regions are more realistically represented, indicating improved preservation of regional rainfall dynamics. Future projections reveal a coherent redistribution of monsoonal rainfall. Under SSP5‐8.5 (2070–2100), precipitation increases by up to ~20% over western India and ~40% over parts of southern India, the west coast and the western Himalayas, while central India experiences reductions approaching ~50%. Similar but less pronounced patterns emerge under SSP2‐4.5. The majority of the models reveal notable monsoon shift towards south India in the future projection, under both scenarios. These results suggest intensifying regional hydroclimatic contrasts and enhanced spatial polarisation of monsoon rainfall under continued warming. Overall, DL‐based downscaling substantially improves the spatial fidelity and usability of climate projections for regional adaptation planning.",
+      "link": "https://doi.org/10.1002/joc.70598",
+      "authors": [
+        "Manisha Chaturvedi",
+        "Anjali",
+        "Mrinalini Srivastava",
+        "P. K. Srivastava",
+        "R. K. Mall"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-21T06:33:53+00:00",
+      "last_seen": "2026-09-21T06:33:53+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1002/joc.70603": {
+      "key": "doi:10.1002/joc.70603",
+      "doi": "10.1002/joc.70603",
+      "title": "Projected Changes in Reference Evapotranspiration Across Indian Climate Regimes Using Bias‐Corrected CMIP6 Simulations",
+      "abstract": "ABSTRACT Reference evapotranspiration (ET 0 ) is an important indicator of atmospheric evaporative demand and is widely used in hydro‐climatic assessment and drought monitoring. This study evaluated the historical performance and future evolution of bias‐corrected CMIP6‐derived ET 0 at 10 benchmark stations representing arid, semi‐arid, sub‐humid, humid and perhumid climatic conditions in India. Station‐observed ET 0 was estimated using the FAO‐56 Penman–Monteith method, while corresponding bias‐corrected CMIP6‐derived ET 0 was obtained from a published South Asian dataset. Historical performance was evaluated during 1991–2013 using seasonal variability, model‐performance metrics and monotonic trend characteristics. Future changes were examined for near‐, mid‐ and late‐century periods using four SSP scenarios, with detailed seasonal and Q90 exceedance analyses under SSP2‐4.5 and SSP5‐8.5. The CMIP6‐derived product reproduced observed seasonal ET 0 variability with varying levels of accuracy, with generally stronger agreement during the pre‐monsoon and monsoon seasons than during winter and post‐monsoon periods. Historical trend direction was reproduced at some stations, although simulated trend magnitudes were generally weaker than observed. Future mean ET 0 generally increased from the near to late century, with larger changes under SSP5‐8.5 than under SSP2‐4.5. Late‐century increases were commonly about 6%–10% under SSP2‐4.5 and 10%–18% under SSP5‐8.5, with the largest relative changes occurring during winter and pre‐monsoon seasons. However, distributional responses were heterogeneous among stations and seasons. Median ET 0 increased at several station–season combinations but remained similar or declined at others, including Junagadh and Bhavanisagar, while upper‐tail variability increased at some locations. Q90 exceedance frequencies also showed substantial spatial and scenario‐dependent variation. Overall, the findings indicate station‐ and season‐specific changes in atmospheric evaporative demand rather than a uniform response across India. The results should therefore be interpreted as evidence from selected benchmark climatic regimes rather than as a spatially exhaustive national assessment.",
+      "link": "https://doi.org/10.1002/joc.70603",
+      "authors": [
+        "A. K. Nayak",
+        "S. Barik",
+        "N. M. Jeepsa",
+        "S. Pradhan",
+        "P. Panigrahi",
+        "S. Mohanty",
+        "Mithlesh Kumar",
+        "B. S. Satpathy",
+        "A. Sarangi"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-21T06:33:53+00:00",
+      "last_seen": "2026-09-21T06:33:53+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1002/joc.70604": {
+      "key": "doi:10.1002/joc.70604",
+      "doi": "10.1002/joc.70604",
+      "title": "Long‐Term Evolution of Rainfall Extremes and Land–Atmosphere Interactions in the Volta River Basin Using Multi‐Source Satellite Observations",
+      "abstract": "ABSTRACT Hydro‐climatic variability in tropical river basins is shaped by changes in rainfall extremes and coupled land‐surface responses. This study assesses rainfall extremes and land‐atmosphere interactions across the Volta River Basin, West Africa, using daily CHIRPS precipitation and MODIS‐derived Normalised Difference Vegetation Index (NDVI), evapotranspiration (ET), land surface temperature (LST), and Crop Water Stress Index (CWSI) for 2000–2024. ETCCDI‐style indices included consecutive dry days (CDD), consecutive wet days (CWD), Rx1day, Rx5day, and R95p. Trend inference used all 25 annual observations. Lag‐1 serial correlation was diagnosed before trend inference, and the Hamed‐Rao Modified Mann‐Kendall test was used with Sen's slope; Benjamini‐Hochberg false‐discovery‐rate adjustment was applied across the 10 tested variables. Spatial maps for six representative years were retained only for descriptive visualisation. Annual rainfall showed no significant monotonic trend (Sen's slope = 4.11 mm year −1 , modified p = 0.168). R95p, Rx1day, and Rx5day increased at nominal p < 0.05, but none remained significant after false‐discovery‐rate correction. CDD, CWD, NDVI, ET, LST, and CWSI showed no statistically significant long‐term trend under the autocorrelation‐adjusted test. Full‐series correlations were substantially weaker than estimates based on six snapshot years. Monthly validation for 2015–2024 showed close agreement between CHIRPS and GPM IMERG ( R = 0.993, R2 = 0.986, RMSE = 9.35 mm, bias = −0.96 mm; n = 120) and strong agreement with ERA5‐Land ( R = 0.958, R2 = 0.917). The results demonstrate pronounced spatial hydro‐climatic contrasts while showing that evidence for basin‐wide temporal intensification is more limited than suggested by sparse‐year analyses.",
+      "link": "https://doi.org/10.1002/joc.70604",
+      "authors": [
+        "Rachel Olawoyin"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-21T06:33:53+00:00",
+      "last_seen": "2026-09-21T06:33:53+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77409-z": {
+      "key": "doi:10.1038/s41467-026-77409-z",
+      "doi": "10.1038/s41467-026-77409-z",
+      "title": "Design of white circularly polarized luminescence with high glum across entire visible regions by dual-loop active learning",
+      "abstract": "White circularly polarized luminescence (WCPL) materials have attracted increasing attention. However, achieving WCPL simultaneously with high color rendering index (CRI) value at ideal CIE coordinates and large dissymmetry factor (glum) across entire visible regions remains a significant challenging, due to the vast chemical design space and the inefficient experimental screening by human-driven intuition-based methods. Herein, we propose an AI-assisted interactive experiment–learning evolution strategy to accelerate the discovery of WCPL materials with optimal trade-offs, integrating model recommendation, experimental validations, and active learning in each iterative refinement cycle. A multi-objective optimization algorithm automatically guides the experimental design with a dual-loop active learning framework, one for maximizing CRI at ideal CIE coordinates, and the other for optimizing glum value across entire visible regions. High-performance WCPL materials with excellent |glum | (>1.5) range of 410 to 680 nm, high CRI ( > 90) at ideal CIE coordinates (0.33, 0.33) can simultaneously be achieved with limited experimental date. Moreover, this workflow also enables on-demand fabrication of high performance white circularly polarized organic light-emitting diodes as well as the user-specified correlated color temperature, facilitating their application in lighting and full-color 3D display. White circularly polarized luminescence materials are promising but combining favorable white-light colorimetric properties and strong chiroptical activities is difficult. Yang et al. adopted a dual-loop active learning strategy to realize high-performance materials and devices.",
+      "link": "https://doi.org/10.1038/s41467-026-77409-z",
+      "authors": [
+        "Peng Yang",
+        "Xiaoyue He",
+        "Hongli Zhang",
+        "Zeyu Feng",
+        "Liyang Wen",
+        "Li Wen",
+        "Yin Xu",
+        "Bo Chen",
+        "Mingjun Xiao",
+        "Xin Chen",
+        "Gang Zou"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-21T06:34:04+00:00",
+      "last_seen": "2026-09-21T06:34:04+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T06:34:04+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71923-2": {
+      "key": "doi:10.1038/s41598-026-71923-2",
+      "doi": "10.1038/s41598-026-71923-2",
+      "title": "An interpretable machine learning framework for real-time copper cathode quality prediction in industrial bioleaching–solvent extraction–electrowinning operations",
+      "abstract": "Abstract Real-time prediction of cathode quality in industrial bio-hydrometallurgical copper production is challenging due to complex process interactions and operational variability. Conventional approaches rely on post-production inspection, limiting proactive defect prevention. This study develops an interpretable machine learning framework to classify cathode quality in real time using 343 days of operational data from a commercial tank bioleaching-solvent extraction-electrowinning facility. Four supervised algorithms, decision tree, k-nearest neighbors, support vector machine, and artificial neural network, were evaluated using 15 key process parameters. The decision tree provided the best overall balance between predictive performance and interpretability, achieving 97.08% accuracy, 94.62% precision, 94.62% recall, a 94.61% F1-score, and an area under the receiver operating characteristic curve (AUC) of 0.965. Key drivers were concentrate moisture (12.14%), acidity (8.37%), and oxidation-reduction potential (6.24%). Its transparent rules could support integration with existing programmable logic controller systems. The framework showed potential to reduce off-specification cathode production through real-time process monitoring and decision support.",
+      "link": "https://doi.org/10.1038/s41598-026-71923-2",
+      "authors": [
+        "Meysam Soleymanian Mansourabadi",
+        "Alireza Amiri",
+        "seyed Hamed Moosavirad",
+        "Amir Ebrahimi Zade"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:09+00:00",
+      "last_seen": "2026-09-21T06:34:09+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning",
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70354-3": {
+      "key": "doi:10.1038/s41598-026-70354-3",
+      "doi": "10.1038/s41598-026-70354-3",
+      "title": "Depression and anxiety mediate the association between sleep quality and health-related quality of life in people living with HIV",
+      "abstract": "Sleep disturbances are highly prevalent among people living with HIV (PWH) and frequently co-occur with psychiatric comorbidities such as depression and anxiety. Although these factors independently predict health-related quality of life (HRQoL), the extent to which psychiatric symptoms explain the relationship between sleep quality and HRQoL—particularly within the Chinese context—remains unclear. Understanding these pathways is critical for optimizing holistic HIV care. We conducted a cross-sectional study involving 426 PWH attending outpatient clinics in Nanning, China, between January and September 2024. Participants completed the Sleep Quality Scale (SQS), Patient Health Questionnaire-9 (PHQ-9), Generalized Anxiety Disorder-7 (GAD-7), and the MOS-HIV Health Survey. Multivariable linear regression and restricted cubic spline models were employed to examine the association between sleep quality and HRQoL. Parallel mediation analyses were subsequently performed to quantify the mediating roles of depression and anxiety. After adjusting for sociodemographic and clinical covariates, better sleep quality was independently associated with higher HRQoL (adjusted B = 1.59 per unit increase in SQS, 95% CI 1.03–2.14), exhibiting an approximately linear dose–response relationship. Mediation analysis revealed that depression and anxiety significantly explained this association, accounting for 80.57% and 32.96% of the total effect, respectively. Notably, subgroup analyses indicated that the inverse association between sleep quality and HRQoL was more pronounced among participants with rural household registration (Hukou). Our findings suggest that the detrimental impact of poor sleep on HRQoL in PWH is largely driven by elevated depressive and anxiety symptoms. This underscores the need to view sleep disturbances not merely as secondary comorbidities, but as integral components of mental health burden that degrade quality of life. Integrated care models that concurrently target sleep hygiene and psychiatric distress are warranted to improve overall well-being in this population.",
+      "link": "https://doi.org/10.1038/s41598-026-70354-3",
+      "authors": [
+        "Xin Xiao",
+        "Lu Pan",
+        "Wei Wei",
+        "Jun Zou",
+        "Jinping Huang",
+        "Huachun Zou"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:09+00:00",
+      "last_seen": "2026-09-21T06:34:09+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T06:34:09+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72513-y": {
+      "key": "doi:10.1038/s41598-026-72513-y",
+      "doi": "10.1038/s41598-026-72513-y",
+      "title": "Improvement of personalized recommendation service level of intelligent libraries based on artificial intelligence and big data mining technology",
+      "abstract": "Abstract This study aims to improve the level of personalized recommendation services in intelligent libraries of colleges and universities and address the issue of insufficient recommendation accuracy in existing models caused by static user representation and data sparsity. It proposes a lightweight graph neural network recommendation model integrating the idea of Singular Value Decomposition++ (SVD++), namely SVD++-Lightweight Graph Convolutional Network (SVD-LGCN). Taking Lightweight Graph Convolutional Network (LightGCN) as its backbone, this model learns the global embedding representation containing high-order collaborative signals from the user-book interaction graph. Moreover, in the prediction layer, it innovatively draws on the idea of SVD + + and dynamically aggregates all historical interaction behaviors of users to generate an enhanced user preference representation, thereby achieving refined and dynamic characterization of user interests. Experimental results on the public Book-Crossing dataset show that the proposed model has superior performance. Compared with the LightGCN baseline model, SVD-LGCN achieves a relative performance improvement of 4.1% in NDCG@20, a core indicator for measuring ranking quality. Additionally, its Precision@5 is 0.413 and Recall@50 is 0.589. The research conclusion confirms that the proposed model provides an advanced technical solution with both theoretical innovation and practical value for constructing an efficient and accurate personalized recommendation system for intelligent libraries of colleges and universities.",
+      "link": "https://doi.org/10.1038/s41598-026-72513-y",
+      "authors": [
+        "Chao Zhang"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:10+00:00",
+      "last_seen": "2026-09-21T06:34:10+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network",
+          "artificial intelligence"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72502-1": {
+      "key": "doi:10.1038/s41598-026-72502-1",
+      "doi": "10.1038/s41598-026-72502-1",
+      "title": "Parental perception and intention to vaccinate female children 9–14 years with the human papillomavirus vaccine in Ile-Ife, Nigeria: theory of planned behaviour approach",
+      "abstract": "Human papillomavirus (HPV) vaccination is a highly effective strategy for preventing cervical cancer; however, achieving high vaccination coverage among eligible girls depends largely on parental decision-making. This study assessed parental perceptions and intention to vaccinate female children aged 9–14 years against HPV in Ile-Ife, Nigeria, using the Theory of Planned Behaviour (TPB). A cross-sectional study was conducted between August and September 2024 among 163 parents of female children aged 9–14 years attending selected secondary schools in Ile-Ife, Nigeria, using a multistage sampling technique. Data were collected using a pretested questionnaire developed from previously validated instruments and analysed using IBM SPSS Statistics version 27. Chi-square tests and multivariable logistic regression were performed to identify factors associated with parental intention to vaccinate at a significance level of p < 0.05. Of the 163 questionnaires distributed, 160 (98.2%) were completed and analysed (response rate: 98.2%). Overall, 59.4% of parents had a positive perception of HPV vaccination, while 60.6% expressed an intention to vaccinate their female children. Higher education level (adjusted odds ratio [AOR] = 6.06; 95% confidence interval [CI] 2.11–17.38) and perceived behavioural control (AOR = 11.97; 95% CI 4.69–30.56) were associated with parental intention to vaccinate. In conclusion, both positive perception of HPV vaccination and parental intention to vaccinate female children were suboptimal. Perceived behavioural control and parental educational level were significant predictors of parental intention to vaccinate. Interventions aimed at strengthening parental intention should therefore give attention to these factors.",
+      "link": "https://doi.org/10.1038/s41598-026-72502-1",
+      "authors": [
+        "Olorunfemi Akinbode Ogundele",
+        "Funmito Omolola Fehintola",
+        "Olaoti Oyeyemi Ogundare",
+        "Adeola Margret Adejuwon",
+        "Evelyn Temidayo Atoyebi",
+        "Kizito Chidera Igweshi",
+        "Daniel Ayobami Ogunleye",
+        "Deborah Ayomikun Solomon",
+        "Oluwatobi Francis Tunwase",
+        "Chidiebele George Umeadi"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:10+00:00",
+      "last_seen": "2026-09-21T06:34:10+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T06:34:10+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70743-8": {
+      "key": "doi:10.1038/s41598-026-70743-8",
+      "doi": "10.1038/s41598-026-70743-8",
+      "title": "Quantum game-theoretic reinforcement learning for autonomous vehicle navigation and communication in vehicular networks",
+      "abstract": "Abstract Autonomous vehicle (AV) navigation and communication in highly dynamic vehicular networks require fast decision-making, reliable coordination, and energy-efficient connectivity. However, traditional Reinforcement Learning (RL) and game-theoretic approaches often suffer from slow convergence and limited scalability in dense multi-agent environments. To address these challenges, this paper proposes a novel Quantum Game-Theoretic Reinforcement Learning (QGTRL) framework that integrates quantum-inspired policy encoding using Parameterized Quantum Circuits (PQCs) with game-theoretic multi-agent coordination. The proposed approach uses quantum superposition and complex probability amplitudes to enhance exploration efficiency and improve policy convergence stability. In addition, a communication-aware coordination mechanism is incorporated to support robust interaction in dynamic Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) environments. The QGTRL framework is benchmarked against state-of-the-art methods, including Deep Q-Network (DQN), Multi-Agent Deep Deterministic Policy Gradient (MADDPG), Quantum Long Short-Term Memory (QLSTM) Deep Recurrent Q-Network (QLSTM-DRQN), and Quantum Deep Reinforcement Learning (QDRL), under realistic simulation conditions. Experimental results demonstrate that QGTRL improves path-planning accuracy by 18.7%, reduces communication latency by 15.3%, and decreases energy consumption by 22.4% compared to baseline models, while maintaining higher mission success rates in dense and high-mobility scenarios. Furthermore, the framework operates on quantum-inspired classical computation, eliminating the need for specialized quantum hardware and enabling practical deployment. These results highlight QGTRL as a scalable, efficient, and robust solution for next-generation cooperative autonomous vehicle systems.",
+      "link": "https://doi.org/10.1038/s41598-026-70743-8",
+      "authors": [
+        "T. V. Padmavathy",
+        "Abdul Quadir Md"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:11+00:00",
+      "last_seen": "2026-09-21T06:34:11+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72454-6": {
+      "key": "doi:10.1038/s41598-026-72454-6",
+      "doi": "10.1038/s41598-026-72454-6",
+      "title": "Association of sedentary behavior and physical performance with dysmobility syndrome among middle-aged and older adults: a PoCosteo study",
+      "abstract": "Aging independently increases the risk for chronic functional decline, even in the absence of illness. In this context, dysmobility syndrome (DS) has emerged as a major contributor to disability in middle-aged and older adults. This study aims to assess the prevalence of DS and its associated factors among middle-aged and older adults in Bushehr province, Iran. This cross-sectional analysis utilized data from the Iranian arm of the PoCOsteo project. DS, sedentary behavior, physical performance, and balance were assessed using standardized criteria and validated tests. Associations between DS and related variables were examined using multivariable logistic regression analyses. Among 1999 participants age 50 + mean 62.15 years, 1142 individuals (57.1%) were diagnosed with DS. Higher sedentary time during both workdays (OR: 1.81; 95% CI 1.16–2.81) and holidays (weekend) (OR: 1.64; 95% CI 1.08–2.50) was significantly associated with higher odds of DS. Conversely, better balance performance was associated with lower odds of DS (OR: 0.40; 95% CI 0.27–0.61). Each one-second increase in five-times sit-to-stand was associated with 6% higher odds of DS (OR: 1.06; 95% CI 1.03–1.08). Sedentary behavior and poorer physical performance were significantly associated with higher odds of DS among middle-aged and older adults.",
+      "link": "https://doi.org/10.1038/s41598-026-72454-6",
+      "authors": [
+        "Akram Farhadi",
+        "Marzieh Mahmoodi",
+        "Sima Afrashteh",
+        "Mohammad Mehdi Khaleghi",
+        "Neil Binkley",
+        "Iraj Nabipour",
+        "Bagher Larijani"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:11+00:00",
+      "last_seen": "2026-09-21T06:34:11+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T06:34:11+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71716-7": {
+      "key": "doi:10.1038/s41598-026-71716-7",
+      "doi": "10.1038/s41598-026-71716-7",
+      "title": "Decontamination kinetics, quality attributes, and shelf life extension of stuffed pasta (mantı) processed by combined microwave drying and low-pressure argon cold plasma treatment",
+      "abstract": "Abstract In this study, a novel combined process utilizing microwave drying and vacuum microwave-plasma techniques was investigated as an alternative to traditional drying methods to ensure the quality preservation and shelf-life extension of stuffed pasta (Turkish mantı). A custom-designed microwave plasma system was developed for this purpose. The Turkish mantı samples were first dried in a microwave oven operating at a calibrated actual output power of 460 W and a frequency of 2.45 GHz until reaching a final moisture content of 12%, and were subsequently subjected to a microwave-induced low-pressure argon cold plasma treatment sustained at an effective discharge power of 300 W. Physicochemical (pH, color), sensory, and microbiological (total mesophilic aerobic bacteria, total aerobic psychrophilic bacteria, mold, and yeast) properties of the samples were determined and compared to those of their conventionally dried counterparts. The study revealed that the application of low-pressure cold plasma following microwave drying significantly ( $$p<0.05$$ ) preserved the sensory quality and color values of the samples over one month of storage. In addition, mineral analysis results indicated that plasma treatments selectively influenced mineral retention depending on the specific element and the applied plasma parameters. Traditional drying tended to preserve minerals originating from plant ingredients and meat (Cu, K), whereas specific plasma conditions enhanced the retention of protein-bound or matrix-encapsulated minerals (Ca, Mg, Na). Overall, this combined microwave–plasma approach maintained the core quality attributes of the product within the studied 30-d storage period. While these results indicate a highly promising preservation potential, further comprehensive studies are required to fully evaluate long-term nutritional changes and lipid–protein oxidation kinetics under commercial retail conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-71716-7",
+      "authors": [
+        "Süleyman Gökmen",
+        "Hüsnü Kasar",
+        "Mehmet Okan Erdal",
+        "Hasan Yetim",
+        "Ferhat Bozduman"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:12+00:00",
+      "last_seen": "2026-09-21T06:34:12+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71650-8": {
+      "key": "doi:10.1038/s41598-026-71650-8",
+      "doi": "10.1038/s41598-026-71650-8",
+      "title": "A German online cross-sectional survey on herbal medicinal products for the treatment and management of gynaecological ailments",
+      "abstract": "Abstract Menstrual and menopausal ailments, as well as uncomplicated urinary tract infections, are the most common non-life-threatening gynaecological ailments. They are usually treated with standard chemically defined or/and herbal medicines. Although there have been surveys of affected women on perception, impairment and personal management of gynaecological ailments, the use of medication using real-world data based on everyday practice is poorly understood. To address this knowledge gap, we aimed to obtain information on how affected women deal with their symptoms, with a particular focus on medication choice, patterns of use, and self-perceived effectiveness of the treatments applied. We developed a questionnaire and conducted an online survey with affected women. The results were analysed quantitatively using descriptive statistics and qualitatively by content analysis with subsequent inductive category formation. The present explorative analysis focuses on 268 women who reported about gynaecological symptoms. Our study population consisted predominantly of young (21–30 years, 74%) female students. As a result, we received limited information about menopausal symptoms and therefore excluded these cases from the quantitative analyses. The majority (~ 50%) of women stated that they did not perceive significant impairment in their everyday life due to their ailments, although most of them reported to have severe symptoms. Only 18% of the women took sick leaves. However, it remained unclear if they stayed away from work for 1 or 2 days, which is possible in Germany. Almost a quarter (18%) did not treat their (severe) symptoms because they perceived it as something they had to endure. The women who utilized drugs predominantly took non-herbal medicines. Those who treated their symptoms with herbal medicines perceived their effectiveness and tolerability as very good. Unexpectedly, a considerable share of women reported not treating their ailments, and those who did were more likely to prefer non-herbal medicines. The awareness about available treatment options appeared limited, even within this predominantly young and highly educated study population. These findings may indicate gaps in patient information and communication regarding therapeutic options that could be improved by fostering the dialogue between patients and healthcare professionals. Furthermore, it is important that future studies be conducted in larger and more representative populations to robustly confirm these observations, in particular regarding herbal medicine use in menstrual ailments and uUTIs; findings on menopausal symptoms remain preliminary and qualitative in nature due to the small subgroup size.",
+      "link": "https://doi.org/10.1038/s41598-026-71650-8",
+      "authors": [
+        "Teresa Ochs",
+        "Banaz Jalil",
+        "Nele Bößneck",
+        "Alexandra Drebka",
+        "Michael Heinrich",
+        "Beatrice E. Bachmeier"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:12+00:00",
+      "last_seen": "2026-09-21T06:34:12+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71266-y": {
+      "key": "doi:10.1038/s41598-026-71266-y",
+      "doi": "10.1038/s41598-026-71266-y",
+      "title": "Towards molecular-based functional classification of fetal bovine serum",
+      "abstract": "Quality and price of fetal bovine serum (FBS) are traditionally determined by geographical origin and parameters listed in the Certificate of Analysis (CoA). Despite its central role in cell culture, selecting suitable FBS batches remains costly and labor-intensive due to substantial batch-to-batch variation. We propose a molecular assessment strategy based on transcriptomic and cytokine profiling of cells cultured in different FBS batches to evaluate performance more reliably. Analysis of differential gene expression in three cell lines—MRC-5, Jurkat, and THP-1—enables batch grouping and reveals pathway-specific effects, with immune-related pathways showing the most pronounced variability. Although CoA parameters can stratify batches by origin, they do not consistently correlate with cytokine secretion or gene expression across cell lines. These findings demonstrate that geographical origin is an inadequate predictor of functional FBS performance and that molecular profiling provides a more robust and informative assessment.",
+      "link": "https://doi.org/10.1038/s41598-026-71266-y",
+      "authors": [
+        "Lara Magni",
+        "Natasja P. Christensen",
+        "Emmanuel Labaronne",
+        "Quan Shi",
+        "Lelde Berzina",
+        "Sandra Torres",
+        "Troels Kristiansen",
+        "Karsten Kristiansen"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:12+00:00",
+      "last_seen": "2026-09-21T06:34:12+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T06:34:12+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71832-4": {
+      "key": "doi:10.1038/s41598-026-71832-4",
+      "doi": "10.1038/s41598-026-71832-4",
+      "title": "Prediction of tracheal intubation in patients with Pierre Robin sequence: development of a machine learning-based model",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-71832-4",
+      "authors": [
+        "Wei Ding",
+        "Xingrong Song",
+        "Mingzhang Zuo",
+        "Li Zhang",
+        "John Zhong",
+        "Rui Ma",
+        "Lifang Yang"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:13+00:00",
+      "last_seen": "2026-09-21T06:34:13+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-67226-1": {
+      "key": "doi:10.1038/s41598-026-67226-1",
+      "doi": "10.1038/s41598-026-67226-1",
+      "title": "Robust model-free DC-bus voltage regulation for stand-alone solar-powered electric vehicle charging stations with experimental laboratory verification",
+      "abstract": "This paper proposed an ultra-local model free control (ULM) strategy for robust DC bus voltage regulation in a stand-alone solar powered electric vehicle charging station. In this study, the system under consideration consists of a photovoltaic (PV) generator interfaced via a maximum power point tracking (MPPT) controlled boost converter, a battery energy storage system (BESS) connected through a bidirectional buck-boost converter, and a shared DC-bus supplying a DC load that emulates Electric Vehicle (EV) charging behavior without grid support. In general, the proposed control strategy is intended for DC bus voltage regulation and real-time power balancing in highly uncertain operating conditions without considering the accurate parameters of the converter and battery, which might have occurred due to temperature changes and component aging. Unlike conventional PI/PID control schemes, the proposed ULM does not require an accurate model of the system since it can estimate the system’s behavior with the help of its ultra-local representation. This approach is experimentally verified on the laboratory scale prototype implemented on the dSPACE 1104 real-time platform. The test results under rapid irradiance changes, large load steps, and inductance mismatches verify the effectiveness of the proposed ULM in achieving better performance compared to the well-tuned PID controller in terms of reduced voltage deviation by 35%, approximately 4 to 5 times faster recovery response, zero overshoot, and reduced control efforts. This verifies the effectiveness of ULM as a viable approach for reliable off grid solar powered EV charging infrastructure and the proposed DC-microgrid (DCMG).",
+      "link": "https://doi.org/10.1038/s41598-026-67226-1",
+      "authors": [
+        "Boualam Benlahbib",
+        "Abdelkader Lakhdari",
+        "Noureddine Bouarroudj",
+        "Thameur Abdelkrim",
+        "Saad Mekhilef",
+        "Rasheed Abdulkader",
+        "Hassan M. Hussein Farh",
+        "Abdullah M. Al-Shaalan"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:13+00:00",
+      "last_seen": "2026-09-21T06:34:13+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T06:34:13+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72477-z": {
+      "key": "doi:10.1038/s41598-026-72477-z",
+      "doi": "10.1038/s41598-026-72477-z",
+      "title": "Design and hardware performance of a LoRa-based vehicle tracking system with local data storage infrastructure",
+      "abstract": "This paper presents the design and performance evaluation of a LoRa-based vehicle tracking system, emphasizing its hardware architecture and field performance. The system uses custom-built end nodes based on Heltec WiFi LoRa 32 (V3) boards (an ESP32-S3 microcontroller with an integrated Semtech SX1262 transceiver) and u-blox NEO-6 M GPS modules, which transmit position data to a centrally located LoRa receiver node. Unlike typical cloud-integrated LoRaWAN deployments, the network operates in a standalone point-to-point topology with an on-premise database server, eliminating any dependence on external network infrastructure. We detail the integration of the LoRa radio, GPS receiver and antennas, including a compact in-vehicle enclosure and an elevated receiver antenna. Three transmission schemes were implemented to coordinate multiple vehicles: fixed-interval broadcasting, randomized-interval transmission, and a beacon-synchronized TDMA protocol for collision avoidance. Field tests were conducted on a suburban coastal highway and in a dense urban downtown area. Measurements are reported as path loss versus transmitter-receiver separation and are analyzed separately for line-of-sight (LoS) and non-line-of-sight (NLoS) conditions. Log-distance models fitted to the field data, referenced to the measured path loss at 100 m so that the fitted exponents are independent of transmit power and antenna gain, give n = 4.63 for the open suburban coastal route and n = 3.43 for the obstructed urban routes. Consistent reception extended to approximately 3.2 km on the suburban route with intermittent reception to 4.5 km, and to 1.0–1.5 km on the urban routes. Packet delivery rate averaged 85–90% on the suburban route and 83.5 +/- 10.5% across six urban trials. A collision model calibrated against the five-node measurements extends the scalability assessment to 50 nodes, and shows that beacon-synchronized TDMA sustains full delivery for up to 97 nodes at a 10 s update interval on a single channel, whereas unsynchronized access falls below 60% delivery beyond 20 nodes. Because TDMA updates each vehicle only once per cycle, the multi-vehicle mode is characterized as near-real-time rather than real-time. Datasheet-derived energy consumption is 4.44 J per delivered message in the as-built configuration, roughly seventy times that of a duty-cycled low-power design, which qualifies the low-power claim for this class of tracker. The results demonstrate that a standalone LoRa platform with local data handling is a viable, low-cost alternative to cellular or LoRaWAN trackers for small fleets, while highlighting remaining limitations in urban RF performance, payload security, energy efficiency, sample size and radiated-power compliance.",
+      "link": "https://doi.org/10.1038/s41598-026-72477-z",
+      "authors": [
+        "Alejandro H. Espera",
+        "Jenith L. Banluta",
+        "Princess Camille L. Abar",
+        "Gabrielle John N. Undangan",
+        "April M. Salazar"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:14+00:00",
+      "last_seen": "2026-09-21T06:34:14+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T06:34:14+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71897-1": {
+      "key": "doi:10.1038/s41598-026-71897-1",
+      "doi": "10.1038/s41598-026-71897-1",
+      "title": "3D radial anisotropic imaging of magma plumbing systems beneath the Malani silicic igneous province in northwestern India",
+      "abstract": "Abstract Imaging the plumbing systems of ancient silicic large igneous provinces (SLIPs) is inherently challenging due to the decay of thermal anomalies associated with SLIPs, and the erosion or masking of surface expressions by sediments. The plumbing architecture of the Neoproterozoic Malani SLIP, remains unresolved, due to limited geophysical evidence of magma conduits or sill complexes. We present the first 3D crustal isotropic shear velocity and radially anisotropic models obtained through ambient noise tomography beneath northwestern India. The model reveals distinct zones of positive and negative radial anisotropy in the mid- to lower crust. Positive anisotropy, reaching up to + 8%, is interpreted as the signature of horizontally aligned mafic sills, while negative anisotropy, down to − 8%, indicates vertical, dyke-like structures. The lower crust beneath the Siwana caldera and the Barmer rift exhibits strong positive anisotropy, suggesting lateral magma transport and the development of sill complexes. In contrast, vertically oriented cylindrical zones of negative anisotropy correlate with exposures of Malani volcanics and Deccan-related alkaline complexes, suggesting rejuvenation of magma conduits. Our results suggest that mantle-derived lower crustal mafic sill complexes led to crustal melting and formation of horizontally layered silicic reservoirs in the shallow crust which erupted to form the Malani SLIP.",
+      "link": "https://doi.org/10.1038/s41598-026-71897-1",
+      "authors": [
+        "Santhoshkumar Gundu",
+        "Satish Maurya",
+        "Mohan Gollapally"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:14+00:00",
+      "last_seen": "2026-09-21T06:34:14+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69063-8": {
+      "key": "doi:10.1038/s41598-026-69063-8",
+      "doi": "10.1038/s41598-026-69063-8",
+      "title": "Developing an epidemic-adjusted walkability index to analyze pandemic-resilient urban areas: a data driven GIS-based multi-criteria approach",
+      "abstract": "The infectious disease pandemic highlighted the critical role of the spatial structure of cities in shaping infectious-disease transmission dynamics. This study develops a health-oriented framework to investigate the spatiotemporal association between urban walkability and the incidence of the recent global infectious disease pandemic (COVID-19) in New York City. First, a baseline walkability index is constructed using 24 spatial indicators representing accessibility, land use, sidewalk facilities, street connectivity, and safety; utilizing a Spatial Multi-Criteria Analysis (SMCA) framework. Next, global (Ordinary Least Squares) and local (Geographically Weighted Regression) spatial regression models are implemented to investigate the relationship between walkability indicators and weekly COVID-19 case rates. Finally, an epidemic-adjusted walkability index is derived by re-weighting indicators according to their observed spatial associations with COVID-19 incidence. Results reveal a statistically significant inverse association between the synthesized walkability Index and COVID-19 incidence (correlation coefficients ranging from − 0.50 to − 0.81). Areas characterized by high street connectivity, diversified mobility options, and greater access to urban facilities such as green spaces, healthcare, education, and public services were generally associated with lower reported COVID-19 incidence rates. The proposed framework demonstrates how urban-form metrics and spatial regression models can be integrated to examine built-environment associations with epidemic outcomes and support exploratory planning for pandemic-resilient cities.",
+      "link": "https://doi.org/10.1038/s41598-026-69063-8",
+      "authors": [
+        "Sara Jokar",
+        "Seyed Ehsan Sadooghi",
+        "Mohammad Taleai"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:14+00:00",
+      "last_seen": "2026-09-21T06:34:14+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T06:34:14+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72262-y": {
+      "key": "doi:10.1038/s41598-026-72262-y",
+      "doi": "10.1038/s41598-026-72262-y",
+      "title": "Preoperative ECG-based machine learning model for early prediction and risk stratification of postoperative delirium",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-72262-y",
+      "authors": [
+        "Xuanqi Zhang",
+        "Jiangzhong Wan",
+        "Yue She",
+        "Xinyang Li",
+        "Xi Chen",
+        "Yamei Luo",
+        "Xiaoxia Duan",
+        "Lisha Zhong"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:15+00:00",
+      "last_seen": "2026-09-21T06:34:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71752-3": {
+      "key": "doi:10.1038/s41598-026-71752-3",
+      "doi": "10.1038/s41598-026-71752-3",
+      "title": "Federated learning for edge devices delay control in software defined wide area networks",
+      "abstract": "Abstract This paper presents an SDN-orchestrated architecture for delay control in wide-area networks, combining edge-based GRU Active Queue Management (AQM) with layer-wise federated averaging. The proposed approach extends AQM from isolated per-router control to network-coordinated control with a shared global objective. Unlike conventional AQM approaches that regulate queues independently, the proposed design retains decentralized packet-level control while coordinating normalized queue targets and sharing locally learned control models between routers. A single interpretable parameter defines the target queue occupancy and the resulting delay–bandwidth trade-off. Fluid Flow simulations across multiple topologies, traffic loads, and three operating presets show that the SDN-controlled configurations reduce bottleneck queues and round-trip times relative to FIFO and NLRED under heavy traffic. A matched deterministic ablation isolates the effect of federated averaging. It reduced several extreme queue-tail measures, while typical bottleneck target tracking remained broadly comparable. These results indicate that federated averaging reduces rare congestion events without meaningful degradation of normal bottleneck operation.",
+      "link": "https://doi.org/10.1038/s41598-026-71752-3",
+      "authors": [
+        "Karol Marszałek",
+        "Adam Domański"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:16+00:00",
+      "last_seen": "2026-09-21T06:34:16+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71210-0": {
+      "key": "doi:10.1038/s41598-026-71210-0",
+      "doi": "10.1038/s41598-026-71210-0",
+      "title": "Ureaplasma urealyticum and clinical outcomes in extremely premature infants: a single-center retrospective exploratory analysis",
+      "abstract": "Ureaplasma urealyticum (Uu) colonization is associated with an increased risk of preterm birth. However, evidence remains inconsistent regarding whether early postnatal Uu positivity affects clinical outcomes in extremely preterm infants, particularly bronchopulmonary dysplasia (BPD), and relevant domestic data are scarce. This retrospective exploratory study included extremely preterm infants admitted to the neonatal intensive care unit between January 2019 and June 2023, from whom pharyngeal swabs were obtained for Uu culture within 6 h after birth. Infants were divided into Uu-positive and Uu-negative groups based on culture results. Perinatal data and clinical outcomes were collected. Multivariable regression analysis was performed to assess the independent association between Uu positivity and BPD, as well as other major morbidities. A total of 70 extremely preterm infants were included, of whom 47 (67.1%) met the diagnostic criteria for BPD. In the comparative analysis of respiratory outcomes, the Uu-positive group exhibited significantly longer duration of invasive ventilation (P = 0.002) and a higher incidence of BPD (grade ≥ 2) (P = 0.008); however, after FDR-BH correction, neither difference remained statistically significant (adjusted P = 0.05 and 0.075, respectively). After adjusting for confounders including gestational age, birth weight, and mode of delivery, multivariable regression analysis revealed no statistically significant association between postnatal Uu positivity and BPD in this cohort. Vaginal delivery may increase the risk of postnatal respiratory Uu colonization in extremely preterm infants. Multivariable analysis showed no significant independent association between Uu positivity and BPD, which may be attributable to limited statistical power and residual confounding. Future large-scale prospective studies are warranted to further elucidate the role of Uu in lung development in this vulnerable population.",
+      "link": "https://doi.org/10.1038/s41598-026-71210-0",
+      "authors": [
+        "YaBo Mei",
+        "XinYang Jiang",
+        "HuaYu Liang",
+        "ShuMei Wang",
+        "Feng Wang",
+        "ZhiChun Feng",
+        "QiuPing Li"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:16+00:00",
+      "last_seen": "2026-09-21T06:34:16+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T06:34:16+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71190-1": {
+      "key": "doi:10.1038/s41598-026-71190-1",
+      "doi": "10.1038/s41598-026-71190-1",
+      "title": "H-terminated C3N nanoribbons for preferential NOx sensing over CO and CO2: a spin-polarized DFT study",
+      "abstract": "Hydrogen-terminated C3N nanoribbons (H-C3NNR) provide a suitable platform for exploring adsorption-induced electronic and spin-dependent responses relevant to gas sensing. Here, spin-polarized density functional theory calculations are employed to investigate the interaction of H-C3NNR with NO2, NO, CO2, and CO molecules. Ab initio molecular dynamics simulations at 300 K for 10 ps support the structural stability of the pristine nanoribbon over the simulated timescale. After basis-set superposition error correction, the adsorption energies of NO2, NO, CO2, and CO are − 0.35, − 0.25, − 0.13, and − 0.09 eV, respectively, revealing stronger interactions with NOx than with CO and CO2 within the investigated set of gases. NO2 adsorption drives a semiconductor-to-metal transition, while NO reduces the band gap from 0.62 to 0.37 eV. The corresponding relative band-gap modulations are 100% for NO2 and 40.3% for NO, compared with 17.7% for CO and CO2. Spin-resolved electronic-structure and spin-density analyses further reveal adsorption-induced magnetic moments of 0.66 μB for NO2 and 1.00 μB for NO, whereas CO and CO2 remain nonmagnetic. These results indicate that NO and NO2 produce substantially stronger electronic and magnetic perturbations than CO and CO2, suggesting a preferential theoretical response toward NOx within the investigated set of gases. The findings provide insight into the interplay between adsorption, charge redistribution, orbital hybridization, and spin polarization in H-C3NNR and support its potential as a theoretical platform for NOx sensing.",
+      "link": "https://doi.org/10.1038/s41598-026-71190-1",
+      "authors": [
+        "Adeleh Vatankhahan",
+        "Tayebeh Movlarooy"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:17+00:00",
+      "last_seen": "2026-09-21T06:34:17+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T06:34:17+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72288-2": {
+      "key": "doi:10.1038/s41598-026-72288-2",
+      "doi": "10.1038/s41598-026-72288-2",
+      "title": "Proof-of-concept for the MRI-targeted delivery of naked antisense oligonucleotides to the murine striatum using focused ultrasound",
+      "abstract": "Abstract While the blood–brain barrier (BBB) is critical for maintaining the microenvironment of the central nervous system (CNS), it simultaneously acts as a bottleneck for successful delivery of the majority of therapeutics into the brain. Low intensity focused ultrasound (FUS) combined with systemically delivered microbubbles (MBs) has already been employed to transiently open the BBB in a spatially-restricted manner to enhance the delivery of therapeutics into the brain, including recombinant adeno-associated viruses (rAAVs), antibodies, nanoparticles, or small interfering RNAs. In this study we demonstrate the feasibility to enhance the delivery of systemically administered fluorescently-labeled antisense oligonucleotides (ASOs) into the murine striatum using magnetic resonance imaging (MRI) targeted FUS. We focused only on the acute biodistribution 30 min post-sonication and did not evaluate target knockdown or long-term safety. Immunohistological analysis revealed that majority of medium spiny neurons within the sampled sonicated striatal region were positive for the ASO. Absolute tissue quantification via LC-MS confirmed these findings, revealing a substantial increase in target tissue concentration. Taken together, these results suggest MRI-targeted FUS as a promising non-invasive technology to enhance the delivery of naked ASOs into deep structures of the brain.",
+      "link": "https://doi.org/10.1038/s41598-026-72288-2",
+      "authors": [
+        "Jakub Kralik",
+        "Lena Steinhauer",
+        "Hélène Vernin",
+        "Stephanie Schöppenthau",
+        "Sébastien Debilly",
+        "Thomas Bielser",
+        "Amol Panhale",
+        "Erich Koller",
+        "Basil Künnecke",
+        "Didier Wolter",
+        "Pawel Dzygiel",
+        "Jessica Migliavacca",
+        "Audrey Vautheny",
+        "Sonja Kleinlogel"
+      ],
+      "published": "2026-09-19T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T06:34:18+00:00",
+      "last_seen": "2026-09-21T06:34:18+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
