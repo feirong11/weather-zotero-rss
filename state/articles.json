@@ -142122,6 +142122,216 @@
           "machine learning"
         ]
       }
+    },
+    "doi:10.1038/s41598-026-69108-y": {
+      "key": "doi:10.1038/s41598-026-69108-y",
+      "doi": "10.1038/s41598-026-69108-y",
+      "title": "Effect of high-intensity interval or continuous moderate exercise on cognition in a mouse model of mild cognitive impairment",
+      "abstract": "Mild cognitive impairment (MCI) is a common prodromal condition of Alzheimer’s disease (AD), and exercise is a promising non-drug intervention. This study compared the effects of moderate-intensity continuous training (MICT) and high-intensity interval training (HIIT) on cognitive function in senescence-accelerated mouse prone 8 (SAMP8) mice with MCI, examining hippocampal synaptic plasticity mechanisms. Thirty 4-month-old male SAMP8 mice were randomly assigned to control, MICT, and HIIT groups (n=10). Ten age-matched senescence-accelerated mouse resistant 1 (SAMR1) mice served as normal controls. The MICT and HIIT groups completed 8 weeks of treadmill exercise, while controls received only adaptive training. Novel object recognition (NOR) and Morris water maze (MWM) tests evaluated recognition and spatial memory. Immunohistochemistry (IHC) and Western blotting were used to measure hippocampal synaptic markers (Postsynaptic density protein-95 (PSD95) and synaptophysin (SYN)). Results showed the control group had decreased discrimination indices and longer MWM escape latency, along with reduced hippocampal PSD95 and SYN expression. Both exercise groups demonstrated significant cognitive improvements and increased expression of synaptic markers, with HIIT outperforming MICT. These findings suggest that both exercise protocols enhance cognitive function in MCI mice, with HIIT being more effective, associated with upregulation of hippocampal PSD95 and SYN, suggesting a potential role of enhanced synaptic plasticity. This supports exercise as a non-pharmacological strategy for MCI.",
+      "link": "https://doi.org/10.1038/s41598-026-69108-y",
+      "authors": [
+        "Chaonan Lv",
+        "Yidi Wang",
+        "Hong Qian",
+        "Wei Yue"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T00:33:26+00:00",
+      "last_seen": "2026-09-21T00:33:26+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T00:33:26+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68298-9": {
+      "key": "doi:10.1038/s41598-026-68298-9",
+      "doi": "10.1038/s41598-026-68298-9",
+      "title": "Detection of disease-associated VOC signatures with laser-based photoacoustic spectroscopy (LPAS)",
+      "abstract": "Abstract This paper presents a novel, non-invasive approach for distinguishing between patients with various medical conditions based on volatile organic compound (VOC) signatures. Cotton swabs were used to swab the nose, navel, and ear of 24 patients, after which the odor of the cotton swabs was analyzed using Laser-based photoacoustic spectroscopy (LPAS). The LPAS system was equipped with three quantum cascade laser (QCL) modules covering wavelengths from 5.6 μm to 12.9 μm. The resulting spectra were preprocessed using a Savitzky-Golay filter and subjected to principal component analysis (PCA). Projection of the data onto the first two principal components revealed group-level structure corresponding to healthy individuals (H), patients with Parkinson’s disease (PD), COVID-19 (C), and mild cognitive impairment (MC). Investigations into possible correlations with demographic factors and lifestyle habits showed no consistent association with the principal components, with the exception of age, which is expected, as diseases like PD and MC primarily affect older individuals. While this excludes strong confounding effects, confirming true independence requires a larger cohort in future work. Moreover, it could be shown that as little as five wavelengths are sufficient to separate the samples. These findings suggest that odor analysis of cotton swabs combined with mid-infrared LPAS spectroscopy and multivariate analysis may represent a promising approach for future non-invasive screening technologies.",
+      "link": "https://doi.org/10.1038/s41598-026-68298-9",
+      "authors": [
+        "Thorsten Graunke",
+        "Teresa Scholz",
+        "Michal Pieniak",
+        "Nicole Power Guerra",
+        "Julia Pabst",
+        "Björn Falkenburger",
+        "Wladimir Tschekalinskij",
+        "Antje Hähner",
+        "Thomas Hummel"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T00:33:28+00:00",
+      "last_seen": "2026-09-21T00:33:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72374-5": {
+      "key": "doi:10.1038/s41598-026-72374-5",
+      "doi": "10.1038/s41598-026-72374-5",
+      "title": "Evaluation of the accuracy of SWOT satellite observations for monitoring lake water levels in the Yangtze River Basin",
+      "abstract": "Abstract To evaluate the capability of the newly developed SWOT satellite for lake water level retrieval and basin-scale hydrological monitoring, this study selected 513 lakes larger than 1 km 2 in the Yangtze River Basin. SWOT L2 HR Raster data from November 2023 to May 2025 were used to extract lake water levels, and their accuracy was assessed using DAHITI, ICESat-2, CryoSat-2, and in situ hydrological station observations. During the study period from November 2023 to May 2025, SWOT obtained at least one valid water level observation for 501 of the 513 lakes, corresponding to a lake coverage rate of 97.66%, and more than 80% of the covered lakes accumulated more than 10 valid observations. The mean number of valid observations per lake for SWOT was 22.7, which was 18.6 and 18.4 observations higher than those of ICESat-2 and CryoSat-2, respectively; SWOT also provided valid observations for 98 and 121 more lakes, respectively, significantly expanding the coverage of lake water level monitoring in the Yangtze River Basin. Validation against multi-source satellite altimetry showed good agreement, with Bias ranges of − 0.659 to 0.158 m, − 0.142 to 0.263 m, and − 0.499 to − 0.013 m, and RMSE ranges of 0.153–0.801 m, 0.089–0.818 m, and 0.124–0.891 m, respectively. Validation using Dongting Lake hydrological stations yielded Bias, RMSE, and MAE values of − 0.007 to 0.068 m, 0.137–0.198 m, and 0.116–0.178 m, with correlation coefficients greater than 0.99. These results demonstrate that SWOT can substantially improve lake water level monitoring in the Yangtze River Basin.",
+      "link": "https://doi.org/10.1038/s41598-026-72374-5",
+      "authors": [
+        "Yu Zhang",
+        "Shijie Wang",
+        "Mindong Liao"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T00:33:28+00:00",
+      "last_seen": "2026-09-21T00:33:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72331-2": {
+      "key": "doi:10.1038/s41598-026-72331-2",
+      "doi": "10.1038/s41598-026-72331-2",
+      "title": "Association between sleep quality and self-care in patients with heart failure: a cross‑sectional study",
+      "abstract": "Sleep quality is a critical but understudied factor in heart failure (HF) self‑care. This cross‑sectional study investigated the association between sleep quality and self‑care behaviours in 309 patients with chronic heart failure hospitalized in cardiology wards at Imam Khomeini Hospital, Ardabil, Iran, in 2025. Data were collected using the Hippocratic Heart Failure Self-Care Scale (HHFSCS) and the Sleep Quality Scale for Coronary Care Patients (SQ-CC). Poor sleep quality was significantly associated with lower self-care scores (r = − 0.51, p < 0.001). Hierarchical regression showed that adding sleep quality explained an additional 10.1% of variance in self-care (ΔR² = 0.101, p < 0.001) beyond demographic and clinical factors (overall R² = 0.521). Sleep quality is significantly associated with self-care in heart failure patients. Although the cross-sectional design limits causal inference, these findings suggest that sleep quality may be a modifiable factor worth considering in future interventions designed to improve self-care.",
+      "link": "https://doi.org/10.1038/s41598-026-72331-2",
+      "authors": [
+        "Leili Valizadeh",
+        "Zahra Jafari Loghman",
+        "Alireza Mirzaei",
+        "Reza Nemati-Vakilabad",
+        "Mehraban Shahmari"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T00:33:28+00:00",
+      "last_seen": "2026-09-21T00:33:28+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T00:33:28+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72611-x": {
+      "key": "doi:10.1038/s41598-026-72611-x",
+      "doi": "10.1038/s41598-026-72611-x",
+      "title": "Understanding personal information disclosure in short video apps through gratification and addictive use",
+      "abstract": "Although previous research has explored app users’ personal information disclosure, the underlying mechanisms remain insufficiently addressed. Drawing upon uses and gratifications (U&G) theory and Internet addiction literature, this study proposes a motivation-based framework, termed the Gratification-Addiction-Fatigue-Use (G-A-F-U), to understand personal information disclosure in short video apps. Specifically, it examines the relationship between perceived self-reactive benefits and disclosure intention, as well as the mediating roles of addiction and privacy fatigue. Data were collected from 412 short video app users in China. Partial least squares structural equation modeling (PLS-SEM) was used to analyze the data. The results show that perceived self-reactive benefit is positively associated with personal information disclosure intention and short video app addiction. Perceived personalization significantly moderates these relationships, whereas perceived socialization only moderates the relationship between perceived self-reactive benefit and short video app addiction, not the relationship with personal information disclosure intention. The results also reveal that short video app addiction is positively associated with privacy fatigue, which in turn is positively associated with users’ personal information disclosure intention. By integrating U&G theory and Internet addiction, this study offers a novel addiction perspective to explore the mechanism underlying app users’ personal information disclosure, extending privacy decision-making research.",
+      "link": "https://doi.org/10.1038/s41598-026-72611-x",
+      "authors": [
+        "Tingting Liu",
+        "Min Yu"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T00:33:29+00:00",
+      "last_seen": "2026-09-21T00:33:29+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T00:33:29+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70335-6": {
+      "key": "doi:10.1038/s41598-026-70335-6",
+      "doi": "10.1038/s41598-026-70335-6",
+      "title": "Association of serum uric acid with early post-stroke cognitive impairment after acute minor ischemic stroke and transient ischemic attack",
+      "abstract": "Serum uric acid (SUA) is associated with cognitive impairment, but relevant studies are controversial, and studies on SUA and cognitive impairment after acute minor ischemic stroke and transient ischemic attack (TIA) are scarce. This exploratory study included 543 patients with mild ischemic stroke and TIA who were admitted to the First Hospital of Jilin University from April 2019 to March 2022. Demographic, imaging, hematological data and comprehensive cognitive scale assessment were collected. Early Post-Stroke cognitive impairment was defined as a Montreal Cognitive Assessment score < 22 points, assessed at 7–10 days after acute minor ischemic stroke or TIA. The association between SUA and early PSCI was assessed using multivariable logistic regression, adjusting for both clinically relevant variables and those significant in univariate analysis. Sensitivity analysis was performed by excluding the 5 participants with the highest serum SUA values. A restricted cubic spline was employed to evaluate potential nonlinear relationships, followed by segmented regression and stratified analysis by age (< 65 years) and sex. SUA showed a nonlinear association with early PSCI, with the lowest estimated risk observed at approximately 409 µmol/L. For every 1 µmol/L increase between 256.87 and 408.99 µmol/L, the risk of early PSCI decreased by 0.7% (OR 0.993, 95% CI 0.989–0.997, P < 0.001). In cognitive domain analyses, SUA also showed nonlinear associations with memory and executive function. Similar findings were observed after exclusion of extreme high SUA values. The association between SUA and early PSCI was generally consistent across sex and age subgroups. SUA showed a nonlinear association with early cognitive impairment after acute minor ischemic stroke and TIA. These findings are hypothesis-generating and require confirmation in larger longitudinal studies.",
+      "link": "https://doi.org/10.1038/s41598-026-70335-6",
+      "authors": [
+        "Dongyao Fan",
+        "Panpan Zhao",
+        "Lin Shi",
+        "Meng Zhao",
+        "ChunXiao Wei",
+        "Li Sun"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T00:33:30+00:00",
+      "last_seen": "2026-09-21T00:33:30+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T00:33:30+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72241-3": {
+      "key": "doi:10.1038/s41598-026-72241-3",
+      "doi": "10.1038/s41598-026-72241-3",
+      "title": "A novel phage cocktail demonstrates efficacy and safety against Pseudomonas aeruginosa",
+      "abstract": "Antimicrobial resistance is a pressing global health threat that, necessitating innovative therapeutic strategies; bacteriophages have emerged as promising biological agents to address this challenge. This study focuses on the isolation and characterization of a novel Luzseptimavirus phage targeting Pseudomonas aeruginosa, vB_PaeP_TUMS_P10 (P10), and formulation of a phage cocktail to evaluate its safety and therapeutic potential. Genomic analysis revealed the absence of toxin-associated and lysogeny-related genes, confirming the safety profile of P10. The phage exhibited a latent period of 30 min, a burst size of 28 PFU/CFU, and an adsorption rate exceeding 76% within 5 min. The single phage infected 34% of the resistant clinical isolates tested; however, combining it into the P10-based cocktail significantly expanded the host range to 58%, clearly highlighting the cocktail’s superior capacity to address a broad spectrum of clinical resistance. Time-kill assays demonstrated that P10 rapidly lysed P. aeruginosa, resulting in a significant reduction of bacterial counts within 2 h. Notably, the phage cocktail outperformed individual phages, with recovered bacterial populations exhibiting altered morphology and diminished growth rates. MTT assays indicated no cytotoxic effects on human fibroblasts, underscoring the safety of the phage preparations. Biofilm disruption studies revealed that all phages could effectively dismantle pre-formed biofilms, with the cocktail demonstrating superior efficacy; however, only the cocktail and EDTA were capable of preventing biofilm formation. Furthermore, scanning electron microscopy (SEM) analysis showed marked reductions in P. aeruginosa biofilms on catheter surfaces treated with the phage cocktail. Furthermore, phage treatment potentiated antibiotic activity, reducing minimum inhibitory concentrations (MICs) for multiple antibiotics, including a notable 64-fold decrease in gentamicin MIC, which reclassified extreme drug-resistant (XDR) pathogens as susceptible according to CLSI guidelines. In a rat model of burn wounds, the phage cocktail successfully reduced bacterial loads by four log-folds. Collectively, these findings demonstrate that the new P10-based phage cocktail is a translatable therapeutic candidate that resensitizes XDR P. aeruginosa to antibiotics, prevents and disrupts biofilms on medical devices, and significantly reduces bacterial burdens in infected tissues, supporting further preclinical evaluation of this cocktail as a potential therapeutic candidate for the clinical development of MDR P. aeruginosa infections.",
+      "link": "https://doi.org/10.1038/s41598-026-72241-3",
+      "authors": [
+        "Haniyeh Kamyab",
+        "Narges Torkashvand",
+        "Parisa Aarabi",
+        "Yeganeh Khallaghi Cheri",
+        "Mahdi Gholami",
+        "Ahmad Reza Shahverdi",
+        "Zargham Sepehrizadeh"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T00:33:31+00:00",
+      "last_seen": "2026-09-21T00:33:31+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T00:33:31+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68246-7": {
+      "key": "doi:10.1038/s41598-026-68246-7",
+      "doi": "10.1038/s41598-026-68246-7",
+      "title": "Quantum driven virtual power plant optimization using stackelberg reinforcement learning for joint energy and frequency markets",
+      "abstract": "The paper presents a new hierarchical decision engine, the Quantum-Driven Virtual Power Plant Autopilot (Q-VPP-Autopilot), to address next-generation power systems with high levels of renewable penetration, electric vehicle integration, and distributed storage operating under conditions of deep uncertainty. The framework includes three novel modules: (a) a quantum-enhanced uncertainty field generator that produces high-fidelity probability distributions of wind and photovoltaic forecasts using variational quantum circuits (VQC) simulated on classical hardware; (b) a multi-stage Stackelberg-Reinforcement engine for hierarchical VPP-EV coordination; and (c) an adaptive frequency-response synthesizer that assigns real-time control signals to energy storage systems and EV clusters. A hybrid design integrating quantum sampling, conditional-risk shaping through a novel Q-CVaR-Flow mechanism, and multi-stage game-theoretic control enables the Q-VPP-Autopilot to improve revenue and system stability simultaneously. Simulations were conducted using publicly available datasets from NREL, PJM, and Pecan Street, configured to reflect a representative grid scenario. The Q-VPP-Autopilot achieves 18.0% higher total revenue relative to deterministic optimization (DO) and 11.8% improvement over standard deep reinforcement learning (DDPG); reduces net EV charging costs by 38.5% relative to uncoordinated charging and 35% relative to the DDPG baseline; and reduces frequency-regulation tracking deviation by 42% compared to conventional methods. It is noted that there are few limitations of this study which includes VQC module evaluation through classical simulation using Qiskit 0.39 and does not account for decoherence, gate errors, or readout noise of current NISQ hardware.",
+      "link": "https://doi.org/10.1038/s41598-026-68246-7",
+      "authors": [
+        "Sohaib Mehboob",
+        "Yu Jie",
+        "Faraz Uddin",
+        "Muhammad Kashif",
+        "Muhammad Aurangzeb",
+        "Sheeraz Iqbal",
+        "Md Shafiullah",
+        "Fahad Riaz"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T00:33:32+00:00",
+      "last_seen": "2026-09-21T00:33:32+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-21T00:33:32+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71601-3": {
+      "key": "doi:10.1038/s41598-026-71601-3",
+      "doi": "10.1038/s41598-026-71601-3",
+      "title": "Short periods of weightlessness do not alter estimated internal carotid artery flow volume along the internal carotid artery",
+      "abstract": "Abstract A number of studies have well described central cardiovascular changes caused by changing gravity levels as they occur e.g. during parabolic flight. However limited data exists describing the effect of microgravity on the cerebrovascular system and brain perfusion, which might heavily affect the intracranial pressure (ICP). In this study, performed on board the Airbus A310 ZeroG, the internal carotid artery (ICA) was examined for five consecutive parabolas during predefined windows at the start and end of each gravity phase (1G, 1.8G/pull-up, 0G, 1.8G/pull-out) by cardiac-gated B mode ultrasonography using a 7–12 MHz linear transducer. ICA diameter and Doppler-derived velocity were recorded during predefined windows, and estimated ICA flow volume was derived offline. Simultaneously heart rate (HR) was monitored. Data was assessed in the 1G condition pre parabola and at the start and end of each 1.8G and 0G phase. A lab-based study was administered where participants repeatedly changed between a seated and six-degree head down tilt (HDT) position for 20 s. During parabolic flight, HR increased during the two hypergravity phases and decreased back to 1G baseline in the weightlessness phase of the parabola. Blood flow velocity and flow volume showed a clear decrease in the first 1.8 hypergravity phase but returned to 1G baseline in the microgravity phase. Different results were obtained by changing from a seated to a 6°HDT position, resulting in an increase in ICA diameter, flow velocity and flow volume. The present findings do not support a significant increase in extracranial ICA inflow during short periods of weightlessness, and that MCA velocity changes may not necessarily indicate increased cerebral blood flow volume.",
+      "link": "https://doi.org/10.1038/s41598-026-71601-3",
+      "authors": [
+        "Constance Badalì",
+        "Petra Wollseiffen",
+        "Mirko Mandic",
+        "Stefan Schneider"
+      ],
+      "published": "2026-09-20T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-21T00:33:33+00:00",
+      "last_seen": "2026-09-21T00:33:33+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
