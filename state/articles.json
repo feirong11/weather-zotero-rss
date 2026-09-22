@@ -147408,6 +147408,795 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-22T00:32:26+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1029/2026jd046807": {
+      "key": "doi:10.1029/2026jd046807",
+      "doi": "10.1029/2026jd046807",
+      "title": "Impacts of Simulated Deforestation on Meteorology and Primary Productivity in Appalachian Deciduous Forests Using WRF With Noah‐MP",
+      "abstract": "Abstract Changes in land cover can impact local and synoptic meteorology, and subsequently, ecological processes. Using a coupled atmosphere and land surface model (WRF and Noah‐MP), we quantified how simulated deforestation events of varying extent (approximately 4,000–18,000 ), continuity, and orientation, impact meteorology and gross primary productivity (GPP) in surrounding intact forest (approximately 90,000 ) in Southern Appalachia, North America. Substantially altered conditions within areas of deforestation, primarily horizontal wind speed, vapor pressure deficit, and soil moisture, create pronounced, radially variable, edge effects in both meteorology and GPP in the surrounding intact forest, conditional on the size, extent, and orientation of deforestation. In a comparatively dry year, deforestation amplifies spatial variation in both soil moisture and GPP, but mutes it in a comparatively wet year. In general, deforestation tends to amplify preexisting spatial variation in vegetation temperature and vapor pressure deficit, and mute variation in absorbed solar radiation. When averaged across space and over the growing season, deforestation has minimal impact on solar radiation absorbed by trees, vegetation temperature, vapor pressure deficit, soil moisture, and gross primary productivity, in both comparatively dry and wet years. However, deforestation impacts extend far beyond the area of deforestation, and such impacts compounded over multiple growing seasons have the potential to alter the balance between light and water limitation in Appalachian forests.",
+      "link": "https://doi.org/10.1029/2026jd046807",
+      "authors": [
+        "Carter E. Watson",
+        "Anna Harper",
+        "Gabriel J. Kooperman",
+        "Ford Ballantyne"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-22T06:31:33+00:00",
+      "last_seen": "2026-09-22T06:31:33+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1029/2026jd046821": {
+      "key": "doi:10.1029/2026jd046821",
+      "doi": "10.1029/2026jd046821",
+      "title": "Radar Observations of Summer Mesoscale Convective Systems Over the Eastern Tibetan Plateau and Sichuan Basin in Southwest China",
+      "abstract": "Abstract This work studies the characteristics of mesoscale convective systems (MCSs) over the eastern Tibetan Plateau (ETP) and Sichuan Basin (SB), Southwest China using radar observations in summer of 2016–2020, and their ambient conditions using the ERA5 reanalysis. A total of 171 MCSs are identified, with 76% generated in the SB while the others in the mountainous region above 1,500 m. Basin MCSs mainly occur in the western and southeastern SB, peaking at 00–02 Beijing Time (BJT). By contrast, mountain MCSs primarily form over the western Sichuan plateau and the ETP's eastern steep slope, peaking at 20–22 BJT. This diurnal difference is attributed to the reversal of the thermally‐driven circulation between the ETP and SB in the afternoon and night. Compared to mountain MCSs, basin MCSs develop in an environment of higher most unstable convective available potential energy, with stronger vertical wind shear and dewpoint depression between 0 and 3 km above ground. Thus, basin MCSs tend to be longer–lived and larger in area than their mountain counterparts, with a shorter upscale growth time from first echo. Basin MCSs are dominated by linear convective modes (63.8%), especially in the organization modes of trailing stratiform and leading stratiform, which are of higher hourly precipitation intensity than non–linear (NL) mode. Contrastingly, in the mountainous region, there are predominantly more NL MCSs (58.5%) which have higher hourly precipitation intensity than linear ones on average, likely due to greater topographic lifting and blocking.",
+      "link": "https://doi.org/10.1029/2026jd046821",
+      "authors": [
+        "Yu Zhou",
+        "Xin Xu",
+        "Yuanchang Dong",
+        "Xingwen Jiang",
+        "Yuehan Zhang"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-22T06:31:33+00:00",
+      "last_seen": "2026-09-22T06:31:33+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71387-4": {
+      "key": "doi:10.1038/s41598-026-71387-4",
+      "doi": "10.1038/s41598-026-71387-4",
+      "title": "Protective effects of flunarizine and ATP against pembrolizumab-associated gastric injury in rats",
+      "abstract": "Abstract Pembrolizumab, an immune checkpoint inhibitor targeting pro-grammed cell death protein-1 (PD-1), is widely used in cancer therapy. However, its potential gastrotoxic effects and underlying molecular mechanisms remain poorly understood. Flunarizine has antioxidant, calcium channel-blocking, and mitochondria-protective properties, whereas ATP plays a central role in maintaining cellular energy metabolism. Therefore, the present study investigated the possible protective effects of flunarizine, ATP, and their combination against pembrolizumab-associated gastric injury in rats. To our knowledge, the combined protective effects of flunarizine and ATP against pembrolizumab-associated gastric injury have not previously been investigated. Thirty male Wistar rats were randomly divided into five groups: healthy control (HG), pembrolizumab (PZB), flunarizine + pembrolizumab (FPZB), ATP + pembrolizumab (APZB), and flunarizine + ATP + pembrolizumab (FAPZB). Pembrolizumab (5 mg/kg, i.p.) was administered daily for one week. Flunarizine (5 mg/kg, oral gavage), ATP (5 mg/kg, i.p.), or their combination was administered 1 h before pembrolizumab. Gastric tissues were evaluated macroscopically, biochemically, histopathologically, and by double immunofluorescence analysis. Gastric tissue ATP, malondialdehyde (MDA), and total glutathione (tGSH) levels, together with cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2) expression, were assessed. Pembrolizumab administration was associated with marked gastric mucosal injury characterized by ulcerative lesions, hyperemia, edema, decreased gastric tissue ATP and tGSH levels, increased MDA levels, increased COX-2 expression, and suppressed COX-1 expression compared with the healthy group. Flunarizine and ATP treatments significantly attenuated these alterations. Notably, ATP levels were significantly higher in the APZB group than in the FPZB group, whereas combined flunarizine and ATP treatment restored tissue ATP levels to values comparable to those of the healthy group. Among the treatment groups, FAPZB showed the most prominent gastroprotective effect by markedly improving biochemical, histopathological, and immunofluorescence findings. The findings indicate that pembrolizumab-associated gastric injury is accompanied by reduced gastric tissue ATP levels, oxidative stress, and inflammatory and structural alterations. Flunarizine and ATP attenuated these changes, while their combined administration produced the most pronounced overall protective effect and restored tissue ATP levels to values comparable to those of the healthy group. These findings support an association between preservation of tissue energy status and gastric mucosal protection; however, the underlying Ca²⁺- and mitochondrial-dependent mechanisms require further investigation.",
+      "link": "https://doi.org/10.1038/s41598-026-71387-4",
+      "authors": [
+        "Serdar Tanas",
+        "Esra Tuba Sezgin",
+        "Serkan Cerrah",
+        "Ahmed Ramiz Baykan",
+        "Emine Kartal Baykan",
+        "Sevinc Haciyeva",
+        "Murat Gunay",
+        "Ali Gungor",
+        "Mustafa Ozkaraca",
+        "Halis Suleyman"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:01+00:00",
+      "last_seen": "2026-09-22T06:32:01+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69228-5": {
+      "key": "doi:10.1038/s41598-026-69228-5",
+      "doi": "10.1038/s41598-026-69228-5",
+      "title": "An integrated augmented reality (AR) and embedded electronics-based toolkit for improved visualization and understanding of network graphs",
+      "abstract": "Network graphs are all-pervasive, and an in-depth understanding of networks is important for students and researchers across a variety of disciplines that involve analysis of multi-modal data. Networks can be challenging to conceptualize due to their complexity, and immersive technologies are needed to parse network graphs. This study introduces a novel immersive toolkit grounded in multimedia learning and embodied cognition theories to improve network graph comprehension in undergraduate STEM students. The toolkit integrates embedded electronics with Augmented Reality (AR) to create synchronized physical-virtual visualizations of complex networks featuring: (1) visual attributes to communicate network properties, (2) tactile interaction through physical network models, (3) local and global views of network graphs, and (4) contextual AR overlays. We present two implementations of this toolkit, one of which was implemented as a case study (intervention) in a senior-level undergraduate class (N = 25) during finals week with statistically significant improvement (FDR adjusted p = 0.0018) in study outcomes post-intervention compared to pre-intervention. Notably, the improvement was pronounced among students that reported low confidence in subject matter pre-intervention. This study demonstrates how technology can be used to augment human cognition for complex mental tasks and demonstrates the utility of our toolkit to serve as a technology-enabled teaching aid.",
+      "link": "https://doi.org/10.1038/s41598-026-69228-5",
+      "authors": [
+        "Julian Kim",
+        "Clayton Colson",
+        "Alex Fatemi",
+        "Patrick Dudas",
+        "Guha Manogharan",
+        "Jessica Menold",
+        "Yogasudha Veturi"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:01+00:00",
+      "last_seen": "2026-09-22T06:32:01+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T06:32:01+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71676-y": {
+      "key": "doi:10.1038/s41598-026-71676-y",
+      "doi": "10.1038/s41598-026-71676-y",
+      "title": "Self-efficacy and factors associated with it among first- to third- year undergraduate medical students: a single-center cross-sectional study in China",
+      "abstract": "Abstract With the intensification of global medical industry competition, medical students face increasing academic pressure. As a core psychological resource, general self-efficacy is closely associated with their academic adjustment, mental health and career development attitude. This study aimed to investigate the self-efficacy level and factors associated with it among first- to third-year undergraduate medical students at a single medical university in Shandong Province, China, and to provide evidence for targeted educational interventions in similar institutions. The General Self-Efficacy Scale (GSES) was used to conduct a questionnaire survey among first- to third-year undergraduate medical students at a single medical university in Shandong Province, China. A total of 2977 questionnaires were distributed. A total of 2773 valid questionnaires were finally included for analysis using SPSS 26.0 software. The average general self-efficacy score of the 2773 first- to third-year undergraduate medical students was 2.57 ± 0.64. Multivariate linear regression showed that gender, age, left-behind experience, self-reported health status, professional preference, and family annual income were significantly associated with general self-efficacy. The self-efficacy score of first- to third-year undergraduate medical students in this single-center sample is at the lower-middle level. When formulating training programs, medical colleges should pay attention to students’ physical and mental health and family background according to their different characteristics, and take individualized measures to improve the self-efficacy of lower-year undergraduate medical students in similar settings.",
+      "link": "https://doi.org/10.1038/s41598-026-71676-y",
+      "authors": [
+        "Haoge Bai",
+        "Shusen Liu",
+        "Xingmeng Niu",
+        "Xinqi Li",
+        "Yanzhi Liu",
+        "Jiale Li",
+        "Yixuan Li",
+        "Yan Jin",
+        "Hao Sun",
+        "Yang Meng"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:03+00:00",
+      "last_seen": "2026-09-22T06:32:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71584-1": {
+      "key": "doi:10.1038/s41598-026-71584-1",
+      "doi": "10.1038/s41598-026-71584-1",
+      "title": "A study on the spatial characteristics and influencing factors of traditional villages in the Yangtze River Economic Belt",
+      "abstract": "Abstract As key repositories of regional cultural heritage and important carriers of rural revitalization, traditional villages require scientific spatial planning and adaptive conservation. This study examines 4736 traditional villages across 11 provincial-level jurisdictions in the Yangtze River Economic Belt (YREB), using 10 km × 10 km geographic grids and integrating GIS spatial analysis, the Geodetector model and the MGWR model to unpack their spatial distribution patterns and driving determinants. The results indicate that the spatial distribution of traditional villages in the Yangtze River Economic Belt (YREB) is uneven, and they are mainly agglomerated in the low‑mountain hilly area at the junction of Guizhou‑Hunan‑Chongqing‑Hubei and the mountain‑hilly zone on the Anhui‑Zhejiang border. Their distribution is jointly driven by natural background, socioeconomic and historical‑cultural factors. Natural terrain and climatic conditions form the fundamental constraint across the whole region, while socioeconomic factors have no uniform regional driving pattern. By contrast, ethnic‑humanistic factors show prominent local empowering effects. The MGWR results indicate that the influence of cultural relic density on the spatial distribution of traditional villages exhibits strong spatial heterogeneity across the upper, middle and lower reaches. This study provides empirical support and decision-making insights for targeted conservation, living heritage stewardship, and differentiated planning of traditional villages in the YREB.",
+      "link": "https://doi.org/10.1038/s41598-026-71584-1",
+      "authors": [
+        "Tang Hui",
+        "Huang Xiyi",
+        "Nie Yongqi",
+        "Wang Guansen",
+        "Chen Junfei"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:03+00:00",
+      "last_seen": "2026-09-22T06:32:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70681-5": {
+      "key": "doi:10.1038/s41598-026-70681-5",
+      "doi": "10.1038/s41598-026-70681-5",
+      "title": "Deep learning quantification of mouse nesting behavior for tracking cognitive decline in models of aging & Alzheimer’s disease",
+      "abstract": "Abstract The aging brain and development of Alzheimer’s disease (AD) are characterized by neurological degeneration. Nest-building performance captures deteriorating cognitive and motor functions in rodent models of AD; albeit qualitative while limited in physiological scope. To enhance sampling depth and frequency, we developed an artificial intelligence (AI)-powered image analysis pipeline (“CozyScores”) built on the ResNet18 architecture. In male & female C57BL6/J wild-type (WT) & 3xTg-AD mice (AD) mice [Young, 3–6 mo; WT, n = 28; AD, n = 32) & (Old, 21–26 mo; WT, n = 20; AD, n = 12)], we monitored progressive nest organization using photo acquisition across timepoints (0.5 to 24 h) relative to baseline on a 5-point scoring system. At the 4 h benchmark timepoint, a significant ( P < 0.05) difference in performance scores was detected as a function of age and genotype [Young WT (mean ± SEM, 3.80 ± 0.18) > Young AD (3.16 ± 0.24) > Old WT (3.08 ± 0.32) > Old AD (1.71 ± 0.14)]. At 24 h, maximum performance scores declined in Old (WT: 4.24 ± 0.13; AD: 3.59 ± 0.35) versus Young (WT: 4.60 ± 0.05; AD: 4.33 ± 0.13) groups. Males generally performed better than females throughout groups, particularly during nest construction (2 to 8 h). Overall, CozyScores is an automated, high-resolution analysis of behavioral kinetics in mouse models of aging and AD.",
+      "link": "https://doi.org/10.1038/s41598-026-70681-5",
+      "authors": [
+        "Fritz E. L. Miot",
+        "Zion I. Shih",
+        "Stephen Salloum",
+        "Phoebe P. Chum",
+        "Erik J. Behringer"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:03+00:00",
+      "last_seen": "2026-09-22T06:32:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning",
+          "artificial intelligence"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-65828-3": {
+      "key": "doi:10.1038/s41598-026-65828-3",
+      "doi": "10.1038/s41598-026-65828-3",
+      "title": "Temporal trend analysis and multi-temporal satellite feature integration for mango orchard acreage estimation using machine learning algorithms approach",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-65828-3",
+      "authors": [
+        "V. Raju",
+        "Y. A. Garde",
+        "V. S. Thorat",
+        "V. T. Shinde",
+        "Nitin Varshney",
+        "Alok Shrivastava",
+        "A. P. Chaudhary"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:03+00:00",
+      "last_seen": "2026-09-22T06:32:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-66846-x": {
+      "key": "doi:10.1038/s41598-026-66846-x",
+      "doi": "10.1038/s41598-026-66846-x",
+      "title": "Privacy-preserving intrusion detection in mobile edge networks via federated adaptive probabilistic stacking with clan–flock optimisation and explainable AI",
+      "abstract": "Mobile edge networks require intrusion detection systems (IDS) that are private, accurate and interpretable. We present FedAPS–CFO, a federated IDS coupling four mechanisms: prediction-level federated averaging (FedAvg), so raw traffic never leaves the edge; an Adaptive Probabilistic Stacking (APS) ensemble fusing a stacking meta-learner, Bayesian model averaging and a feature-conditioned ensemble; Clan–Flock Optimisation (CFO), a hybrid metaheuristic that tunes the fusion weights and decision threshold on inner validation splits; and SHapley Additive exPlanations (SHAP) with Local Interpretable Model-agnostic Explanations (LIME), validated quantitatively for stability, fidelity and faithfulness. Under stratified 10-fold cross-validation, FedAPS–CFO attains F1-scores of 0.997 on NSL-KDD, 0.951 on UNSW-NB15, 0.979 on CICIDS2017 and 0.998 on CIC-IoT2023, matching the strongest constituent ensemble on every dataset and significantly surpassing the remaining components (Wilcoxon signed-rank, Holm-corrected). In federations of up to 100 clients with Dirichlet label skew, FedAPS–CFO sustains detection within 1.2 F1 points of its ideal operating point — up to 46 points above its federated base learners — showing that the trained fusion absorbs client heterogeneity. Under matched budgets, CFO is the most reliable optimiser for the tuning task. Adaptive posterior fusion thus offers a practical route to accurate, interpretable, privacy-preserving intrusion detection at the network edge.",
+      "link": "https://doi.org/10.1038/s41598-026-66846-x",
+      "authors": [
+        "Joshitha N.",
+        "Deepanramkumar P.",
+        "Helen Sharmila A."
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:03+00:00",
+      "last_seen": "2026-09-22T06:32:03+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T06:32:03+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71915-2": {
+      "key": "doi:10.1038/s41598-026-71915-2",
+      "doi": "10.1038/s41598-026-71915-2",
+      "title": "Peak-aware short-term household electricity consumption forecasting using deep learning and transformer-based architectures",
+      "abstract": "Abstract Accurate short-term prediction of domestic electricity consumption is a prerequisite for smart grid management, demand response, and peak-load reduction. This work presents a detailed deep learning analysis of the UCI household power consumption dataset, which includes minute-level measurements from French households over four years. The data is resampled to hourly and undergoes an intensive feature engineering pipeline and then used with different neural architectures: a standard long short-term memory (LSTM), bidirectional attention LSTM, hybrid CNN-LSTM, temporal fusion transformer (TFT-Lite) lightweight, patch time series transformer (PatchTST), and hybrid CNN-transformer. To address the asymmetric operational cost of under-predicting electricity demand, the transformer-based models employ a custom asymmetric MSE loss that assigns twice the penalty to under-predictions compared with over-predictions. Model performance is evaluated in the original kW scale after inverse transformation using twelve evaluation metrics including RMSE, MAE, and sMAPE, together with a peak MAE metric for observations exceeding 2.0 kW to specifically assess peak-load forecasting capability. The comparative results demonstrate that the hybrid CNN-LSTM provide improved overall household load forecasting on RMSE (0.4766 ± 0.01 kW), MAE (0.3214 ± 0.01 kW), MASE (0.8511 ± 0.02), WAPE (32.99 ± 0.85%), sMAPE (35.72 ± 2.71%), peak precision (64.31 ± 6.11%), false alarm rate (3.54 ± 0.62%), forfcast bias (− 0.006 ± 0.02 kW), and peak timing error (4.25 ± 0.08 h). In addition, TFT-Lite is advantageous for peak-aware forecasting peak MAE (0.5882 ± 0.01 kW) with conventional recurrent baselines. In addition, a paired t-test for statistical significance and comprehensive ablation studies were conducted, and the results further strengthen the effectiveness and validity of the proposed approach.",
+      "link": "https://doi.org/10.1038/s41598-026-71915-2",
+      "authors": [
+        "Naveen Nathan",
+        "Sriramakrishnan Pathmanaban"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:04+00:00",
+      "last_seen": "2026-09-22T06:32:04+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70140-1": {
+      "key": "doi:10.1038/s41598-026-70140-1",
+      "doi": "10.1038/s41598-026-70140-1",
+      "title": "Synchrotron X-ray-informed machine learning for local hardness mapping in a Cu–Ni–Ti–Hf–Zr high-entropy shape-memory alloy",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-70140-1",
+      "authors": [
+        "Ming-Yi Chen",
+        "Mao-Yuan Luo",
+        "Tu-Ngoc Lam",
+        "Chia-Lin Li",
+        "Ching-Yu Chiang",
+        "Wan-Zhen Hsieh",
+        "Chia-Yung Jui",
+        "Phuoc Huu Le",
+        "Cheng-Yu Chiu",
+        "Soo Yeol Lee",
+        "Jayant Jain",
+        "Che-Wei Tsai",
+        "Wen-Jay Lee",
+        "E-Wen Huang"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:04+00:00",
+      "last_seen": "2026-09-22T06:32:04+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72585-w": {
+      "key": "doi:10.1038/s41598-026-72585-w",
+      "doi": "10.1038/s41598-026-72585-w",
+      "title": "Spin–orbit engineering of thermoelectric and electronic properties in stanene",
+      "abstract": "Two-dimensional stanene has emerged as a promising material for room-temperature thermoelectric applications and for exploring topological phenomena due to its strong intrinsic spin–orbit coupling. In this work, we develop an extended Kane–Mele tight-binding model for buckled stanene that includes higher-order hopping, finite orbital overlap due to lattice buckling, intrinsic spin–orbit coupling, and the Zeeman interaction from a perpendicular magnetic field. Using the Matsubara Green’s-function formalism and linear-response theory, we systematically investigate the electronic density of states, specific heat, electrical and thermal conductivities, Seebeck coefficient, and frequency-dependent optical absorption. Our results reveal a tunable competition between spin–orbit-induced gap opening and Zeeman-driven band shifting. Increasing spin–orbit coupling significantly enhances the low-temperature Seebeck coefficient, while a perpendicular magnetic field strengthens the electrical conductivity. Doping breaks particle–hole symmetry and optimizes the electronic power factor (and thereby the electronic contribution to the figure of merit) over a wide temperature range. The optical absorption spectra remain robust against moderate temperature variations but exhibit magnetically tunable interband peaks. This unified microscopic framework provides a consistent description of thermodynamic, transport, and optical properties in stanene and offers theoretical guidance for exploring the potential of tin-based two-dimensional materials in spintronic and thermoelectric applications.",
+      "link": "https://doi.org/10.1038/s41598-026-72585-w",
+      "authors": [
+        "Zahra EbrahimiNezhad",
+        "Farshad Azizi"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:04+00:00",
+      "last_seen": "2026-09-22T06:32:04+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T06:32:04+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72609-5": {
+      "key": "doi:10.1038/s41598-026-72609-5",
+      "doi": "10.1038/s41598-026-72609-5",
+      "title": "Comparative evaluation of 16S rRNA sequencing strategies reveals superior resolution of the healthy Korean salivary microbiome by full-length sequencing",
+      "abstract": "Although next-generation sequencing has elucidated complex microbial networks within the human oral cavity, current analyses remain predominantly limited to genus-level resolution, and most of the human oral microbiome landscape is based on Western population datasets. Because the oral microbial network is sensitive to environmental and dietary factors, mitigating this population bias is important for understanding oral microbial ecology. Building upon our previous findings, we aimed to refine the species-level resolution of the healthy Korean salivary microbiome. Using the same 112 salivary metagenomic DNA samples, we performed 16S full-length sequencing (16S FL platform) and compared it with our previous 16S V3V4 dataset. Distinct and shared bacterial taxa were evenly distributed on the 16S FL platform, whereas the 16S V3V4 data were skewed toward shared taxa. In both groups, the proportion of taxa with ambiguous nomenclature (‘unclear taxa’) was much lower on the 16S FL platform. The 16S FL platform also improved species-level assignment for Streptococcus and Haemophilus, the dominant genera of the healthy Korean oral microbiome, reducing from more than a third of the community to about 5% the fraction that the short-read platform reported only as an unnamed member of these genera. These results provide a high-resolution reference dataset for Korean-specific oral microbiome research.",
+      "link": "https://doi.org/10.1038/s41598-026-72609-5",
+      "authors": [
+        "Minjae Yu",
+        "Yunseok Oh",
+        "Seunghee Cha",
+        "Jinuk Jeong",
+        "Kyudong Han"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:05+00:00",
+      "last_seen": "2026-09-22T06:32:05+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T06:32:05+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72260-0": {
+      "key": "doi:10.1038/s41598-026-72260-0",
+      "doi": "10.1038/s41598-026-72260-0",
+      "title": "Preparation and application of kapok fiber false core spun ultra low twist yarn based on the principle of core spinning",
+      "abstract": "Abstract Research into kapok yarn can fully harness the unique functional advantages of kapok, such as its light weight, high thermal insulation, water-repellent and breathable properties, and biodegradability. In order to solve the problems of difficult yarn formation of kapok fiber, limited twist reduction of ring-spun weak-twisted yarns, and low production efficiency of traditional ring spinning, this paper proposes a false core spinning principle, with the main body fiber kapok/cotton 20/80, and the false-core yarn is made of 5.8 tex Vinylon staple fiber. 29.2tex yarns with different twist factors (350, 300, 250, 200, 150, 100) were spun to find out the lowest twist factor of 100, and yarns of different densities (19.4 tex, 14.6 tex, 11.7 tex, 9.7 tex, 8.3 tex, 7.3 tex, 6.5 tex, 5.8 tex) were spun to find out the lowest linear density of 5.8 tex with the lowest twist factor of 100.The spun yarns were woven into plain fabrics as weft yarns, and the softness of the fabrics gradually increased with the reduction of the twist factor ; the breathability gradually increased. The softness of the fabric gradually increased with the reduction of yarn density ; the air permeability of the fabric first decreased and then increased. Compared with ordinary ring-spun yarn, the false-core ultra-low-twist super-soft yarn achieves a maximum production-efficiency improvement of 124.97%.",
+      "link": "https://doi.org/10.1038/s41598-026-72260-0",
+      "authors": [
+        "Ningning Duan",
+        "Zhipeng Shen",
+        "Hong Cui"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:06+00:00",
+      "last_seen": "2026-09-22T06:32:06+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70946-z": {
+      "key": "doi:10.1038/s41598-026-70946-z",
+      "doi": "10.1038/s41598-026-70946-z",
+      "title": "Maximizing area coverage for multi-robots using cloud",
+      "abstract": "Abstract This paper presents an integrated framework for multi-robot task allocation and area coverage using an MQTT-based cloud communication architecture for waypoint delivery. A cost-based allocation strategy is proposed, incorporating factors such as battery level, robot age, approximate path distance, and number of turns required for coverage to optimize robot-to-region assignments using the Hungarian algorithm. For coverage, an A*-assisted Boustrophedon path planning algorithm is utilized, improving coverage efficiency and enabling effective navigation. The system is implemented using ROS2 with MQTT-based cloud communication for waypoint delivery and validated through simulations and hardware experiments. Across the simulated cases, the exact assignment attains a lower total allocation cost than distance-only, uniform, and greedy battery-aware selection rules scored on the same objective, with a mean saving of 11.0% over the greedy baseline, and the hardware trials achieved 93.3–96.4% area coverage. The cloud component is demonstrated as a feasible and practical waypoint delivery mechanism with measured latency of 120 to 180 ms and zero message loss; a rigorous comparison against edge or onboard alternatives is identified as future work. The primary contribution of this work is an integrated, cloud-assisted multi-robot coverage framework that couples cost-aware task allocation with A*-assisted coverage path planning, and validates the complete pipeline in both simulation and real-world hardware experiments.",
+      "link": "https://doi.org/10.1038/s41598-026-70946-z",
+      "authors": [
+        "Nithul Bagathi",
+        "S. M. Bhagya P. Samarakoon",
+        "Koppaka Ganesh Sai Apuroop",
+        "Mohan Rajesh Elara",
+        "Bing J. Sheu"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:06+00:00",
+      "last_seen": "2026-09-22T06:32:06+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71315-6": {
+      "key": "doi:10.1038/s41598-026-71315-6",
+      "doi": "10.1038/s41598-026-71315-6",
+      "title": "Serum and ileocecal valve proteomic profiles associated with the multifocal pathological form of bovine paratuberculosis",
+      "abstract": "Abstract Bovine paratuberculosis (PTB) lesions progress from focal to multifocal and diffuse pathological forms as infection advances. Whether multifocal lesions represent an intermediate stage in disease progression or a distinct disease outcome remains unclear. This study compares the serum and ileocecal valve (ICV) proteomes of cattle showing multifocal forms of PTB with diffuse forms and no-lesion controls using label-free quantitative proteomics. Compared with no-lesion controls, multifocal forms showed serum differentially expressed proteins (DEPs) involved in anti-inflammatory and oxidative stress responses, including phosphoglycerate kinase 1 (PGK1) and glutathione synthetase (GSS), while ICV DEPs included MHC class II-related proteins, linked to adaptive immunity. In the multifocal versus diffuse comparison, serum DEPs included ATP-binding cassette transporter C4 (ABCC4), associated with metabolite transport and PTB resistance. In contrast, the diffuse versus no-lesion comparison identified serum and ICV DEPs mainly related to immune and RNA-processing pathways. STRING analysis revealed enrichment of extracellular matrix and collagen organisation. ELISA pre-validation of eight serum DEPs followed proteomic trends but did not reach statistical significance. Overall, this study provides insight into the host-pathogen interaction associated with the multifocal form of PTB, compatible with a distinct host response to Mycobacterium avium subspecies paratuberculosis infection and potentially associated with resilience-related host responses.",
+      "link": "https://doi.org/10.1038/s41598-026-71315-6",
+      "authors": [
+        "Alejandra Isabel Navarro León",
+        "Susana Belén Bravo López",
+        "Natalia Iglesias",
+        "Tania Iglesias",
+        "Rosa Casais"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:06+00:00",
+      "last_seen": "2026-09-22T06:32:06+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71984-3": {
+      "key": "doi:10.1038/s41598-026-71984-3",
+      "doi": "10.1038/s41598-026-71984-3",
+      "title": "Long-term surveillance reveals weak coupling between chigger burden on Apodemus agrarius and Orientia tsutsugamushi pool positivity",
+      "abstract": "Long-term vector surveillance often reports ectoparasite burden and pooled pathogen detection together, but their quantitative relationship is rarely tested. We analysed rodent-associated chigger surveillance conducted from 2018 to 2025 across five habitat strata in Yesan-si, Republic of Korea. During the eight-year surveillance period, 152 small mammals were captured and examined, comprising 123 Apodemus agrarius, 26 shrews (Crocidura spp.), two Micromys minutus, and one Craseomys regulus. Chiggers were recovered from 135 of 152 hosts (88.8%): 120 of 123 A. agrarius, 12 of 26 Crocidura spp., both M. minutus, and the single C. regulus. A total of 20,239 chiggers were recovered, of which 12,763 were assigned to molecular testing. These chiggers were distributed into 502 host-specific pools containing no more than 30 chiggers, with no pool combining chiggers from different hosts; 58 pools were positive for Orientia tsutsugamushi. Inferential analyses were restricted to A. agrarius because it accounted for most examined hosts and recovered chiggers and was the only host taxon with sufficient host-level replication and pool observations for stable hierarchical modelling. Among the 120 chigger-infested A. agrarius that generated molecular pools, 50 of 468 pools were positive (10.7%). Chigger counts were strongly overdispersed. In a hierarchical binomial mixed model, standardized log host chigger burden showed little association with pool positivity (odds ratio 0.998; 95% credible interval 0.672–1.483), whereas between-year heterogeneity was substantial. Pool positivity was temporally heterogeneous, with the strongest signal in 2023. In the A. agrarius analytic cohort, this increase involved multiple hosts (29/45 positive pools; 13/17 hosts with ≥ 1 positive pool), rather than a single sparse host record. Because this operational surveillance prioritized O. tsutsugamushi screening of pooled chiggers rather than species-resolved mite identification, habitat terms were treated as sampling-stratum adjustments and were not interpreted as species-specific vector effects. These findings indicate that temporal pathogen-detection dynamics in local surveillance cannot be inferred from host chigger burden alone.",
+      "link": "https://doi.org/10.1038/s41598-026-71984-3",
+      "authors": [
+        "Hyeon Jun Shin",
+        "Jun Yang Jeong",
+        "Chan-Eui Hong",
+        "Hyeok Lee",
+        "Tae Jin Um",
+        "Su Jeong Kang",
+        "Jie Eun Park",
+        "Dae Kwon Song",
+        "Cho-I. Moon",
+        "Hee Ju Hwang",
+        "Min Kyu Sang",
+        "Wook-Gyo Lee",
+        "Yong Seok Lee"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:06+00:00",
+      "last_seen": "2026-09-22T06:32:06+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T06:32:06+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72529-4": {
+      "key": "doi:10.1038/s41598-026-72529-4",
+      "doi": "10.1038/s41598-026-72529-4",
+      "title": "Spatio-temporal dynamics, clustering, and hotspot evolution of reported foot-and-mouth disease outbreak burden in Nigeria, 2015–2025",
+      "abstract": "Foot-and-mouth disease (FMD) is endemic in Nigeria, yet the national spatio-temporal structure of officially reported outbreaks remains poorly characterised. We analysed the temporal dynamics, clustering, and hotspot evolution of reported FMD outbreaks across Nigeria’s 36 states and the Federal Capital Territory from 2015 to 2025, using World Animal Health Information System records and exploratory spatial data analysis. Outbreak burden followed an episodic pattern, with major surges in 2017 and 2021. The 2021 peak was followed by sustained elevated reporting through 2024. Geographically, burden shifted from North Central dominance in 2017 to a persistent North West configuration by 2023, accounting for 71.3% of nationally reported outbreaks. Spatial autocorrelation analysis combining Global Moran’s I, LISA, and Gi* traced a transition from a low-burden fragmented baseline to a consolidated hotspot anchored on Zamfara, Kebbi, and Sokoto, alongside persistent cold-spot structures across southern states. Reported FMD burden in Nigeria was temporally uneven and spatially concentrated. The Zamfara-Kebbi-Sokoto belt warrants prioritisation for field investigation and veterinary deployment, while persistently low-burden states bordering confirmed high-burden zones require structured surveillance capacity assessment rather than passive monitoring.",
+      "link": "https://doi.org/10.1038/s41598-026-72529-4",
+      "authors": [
+        "Ayomikun A. Awoseyi",
+        "Ernest E. Onuiri",
+        "Ayodeji O. Olarinmoye",
+        "Mayowa M. Ademola",
+        "Oluwawemimo O. Adebowale"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:06+00:00",
+      "last_seen": "2026-09-22T06:32:06+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T06:32:06+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71439-9": {
+      "key": "doi:10.1038/s41598-026-71439-9",
+      "doi": "10.1038/s41598-026-71439-9",
+      "title": "Paradoxical prognosis of extracellular vesicle-derived miR-4435 expression in advanced colorectal cancer",
+      "abstract": "Abstract Extracellular vesicle (EV)-derived microRNAs are promising non-invasive biomarkers for colorectal cancer (CRC), but their stage-specific prognostic significance remains unclear. We evaluated circulating EV-derived miR-4435 and its target TIMP3 in a retrospective cohort of 100 plasma samples (20 healthy controls and 80 CRC patients evenly distributed across stages 0–1, 2, 3, and 4). EVs were isolated, and miR-4435 and TIMP3 expression were quantified by real-time PCR. Patients were stratified into high- and low-expression groups using predefined cohort mean cutoffs, confirmed by median-cutoff sensitivity analysis. TIMP3 was significantly lower in CRC than in healthy controls, remaining significant after age adjustment; miR-4435 was also elevated in CRC, though attenuated after age adjustment. Stage-stratified survival analysis revealed a paradoxical, stage-dependent pattern for miR-4435: elevated expression was associated with significantly poorer recurrence-free survival and a non-significant trend toward poorer overall survival in early-stage CRC, but with significantly improved overall and recurrence-free survival in advanced-stage CRC, a pattern preserved under median-based stratification. TIMP3 was not significantly associated with survival at any stage. These findings suggest circulating EV-derived miR-4435 may have stage-dependent prognostic relevance, potentially reflecting tumor biology and tumor–host interactions across disease stages rather than indicating uniformly adverse prognosis.",
+      "link": "https://doi.org/10.1038/s41598-026-71439-9",
+      "authors": [
+        "Jae Cheol Kang",
+        "Bonhan Koo",
+        "Chae Eun Bae",
+        "Doyeon Kim",
+        "Ho Jeong Kwon",
+        "Young Il Kim",
+        "Yong Shin",
+        "Seok-Byung Lim"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:07+00:00",
+      "last_seen": "2026-09-22T06:32:07+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71109-w": {
+      "key": "doi:10.1038/s41598-026-71109-w",
+      "doi": "10.1038/s41598-026-71109-w",
+      "title": "Alterations in 5hmC and TET2 expression in bladder cancer and their associations with clinicopathological features and patient outcome",
+      "abstract": "Abstract Bladder cancer (BLCA) remains a major clinical challenge due to its high recurrence rate and the limited availability of reliable prognostic biomarkers. Since epigenetic dysregulation is a hallmark of urothelial carcinogenesis, we investigated the expression patterns, clinicopathological associations, and prognostic significance of 5-hydroxymethylcytosine (5hmC) and TET2, a key regulator of active DNA demethylation. Immunohistochemical analysis of 5hmC and TET2 was performed in 133 BLCA specimens and 88 matched adjacent non-tumour tissues. TET2 mRNA expression was further evaluated using RT-qPCR and publicly available transcriptomic data from The Cancer Genome Atlas (TCGA) and genotype-tissue expression (GTEx) cohorts. Reduced 5hmC levels were significantly associated with muscle-invasive bladder cancer. Although high 5hmC expression was associated with a lower descriptive post-selection hazard, the survival association was not significant after accounting for the data-driven threshold search (Cutp p = 0.259). TET2 protein expression was significantly lower in BLCA than in adjacent non-tumour tissues. In contrast, both RT-qPCR and in silico analyses demonstrated increased TET2 mRNA expression in BLCA, revealing a previously unrecognised discordance between transcript and protein levels. This discrepancy may reflect post-transcriptional or post-translational regulation and/or tumour microenvironment-related effects. To the best of our knowledge, this is the first study to demonstrate reduced TET2 protein expression in BLCA using immunohistochemistry while simultaneously showing increased TET2 mRNA expression using independent transcriptomic approaches. Our findings suggest that 5hmC may have potential prognostic relevance in BLCA, and provide new insight into the complex regulation of TET2 in bladder tumorigenesis. The integrated assessment of TET2 at both the protein and transcript levels highlights the importance of multi-level molecular analyses for understanding epigenetic dysregulation in bladder cancer.",
+      "link": "https://doi.org/10.1038/s41598-026-71109-w",
+      "authors": [
+        "Wiktoria Strasenburg",
+        "Jakub Jóźwicki",
+        "Urszula Rogalla-Ładniak",
+        "Daria Piątkowska",
+        "Jakub Wojtasik",
+        "Dariusz Grzanka"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:07+00:00",
+      "last_seen": "2026-09-22T06:32:07+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71746-1": {
+      "key": "doi:10.1038/s41598-026-71746-1",
+      "doi": "10.1038/s41598-026-71746-1",
+      "title": "A hybrid deep learning framework with fractional multi-scale directional texture features for automated waste classification",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-71746-1",
+      "authors": [
+        "Ala’a R. Al-Shamasneh",
+        "Hend Khalid Alkahtani",
+        "Suad Alramouni",
+        "Hamid A. Jalab"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:07+00:00",
+      "last_seen": "2026-09-22T06:32:07+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-67974-0": {
+      "key": "doi:10.1038/s41598-026-67974-0",
+      "doi": "10.1038/s41598-026-67974-0",
+      "title": "GLoR-forecast: state-contingent global-local text routing for financial and socio-economic time-series forecasting",
+      "abstract": "Financial and socio-economic forecasting often requires information beyond numerical histories, as policy statements, news reports, institutional releases, and event descriptions may signal structural regimes or short-term shocks. Recent multimodal time-series methods incorporate timestamp-aligned texts as auxiliary variables in numerical forecasting backbones, but typically treat all textual signals as homogeneous local covariates. This overlooks an important distinction between local event-level text and broader contextual narratives. This paper proposes GLoR-Forecast (Global-Local Text Routing for Forecasting), a state-contingent textual fusion framework for multimodal time-series forecasting. The model encodes timestamp-aligned texts with a frozen language model, projects them into compact local textual variables, and attentively aggregates them into a global contextual representation. A text router then uses the current numerical time-series state as a query to dynamically weight local and global textual features. The fused representation augments the numerical sequence and can be used with standard forecasting backbones; we instantiate it with iTransformer. Experiments on nine Time-MMD domains show consistent gains over TaTS, reducing average MSE by 5.8% and MAE by 4.7%. The strongest improvements appear in Economy, Social Good, Traffic, and Agriculture, suggesting that state-dependent textual routing helps exploit both slow-moving structural context and short-term event shocks.",
+      "link": "https://doi.org/10.1038/s41598-026-67974-0",
+      "authors": [
+        "Jianing Li"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:07+00:00",
+      "last_seen": "2026-09-22T06:32:07+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T06:32:07+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72770-x": {
+      "key": "doi:10.1038/s41598-026-72770-x",
+      "doi": "10.1038/s41598-026-72770-x",
+      "title": "Risk–service mismatches reveal conservation and restoration priorities in China’s major urban agglomerations",
+      "abstract": "Rapid urbanization can expose high-value ecosystems to disturbance while degrading ecological functions elsewhere. We combined the landscape ecological risk index (LERI), ecosystem service value (ESV), spatially validated machine learning and bivariate zoning to assess risk–service mismatches in the Beijing–Tianjin–Hebei region (BTH), Yangtze River Delta (YRD) and Guangdong–Hong Kong–Macao Greater Bay Area (GBA) at five time points from 2000 to 2020. Mean LERI declined by 2.25%, 8.32% and 6.48%, respectively. On a fixed region-specific 2020 valuation basis, ESV declined until 2015 and then recovered in BTH, peaked in 2010 in the YRD, and decreased steadily in the GBA. Sensitivity-zone shares fell from 27.00% to 23.51%, 26.68% to 20.21% and 31.75% to 20.15%, respectively, but all four zoning types remained present. Six full-variable models reconstructed ESV in spatially withheld cells (R2 = 0.690–0.837), whereas contextual-only models did not outperform the mean-response benchmark. This contrast reflects structural coupling, not independent ecological mechanisms. The combined assessment distinguishes protection of valuable but exposed assets from restoration of low-value, high-risk landscapes. It provides a temporally comparable basis for screening priorities while accounting for the different constraints of mountain–plain, river–lake and coastal–estuarine systems.",
+      "link": "https://doi.org/10.1038/s41598-026-72770-x",
+      "authors": [
+        "Siyuan Liu",
+        "Ruyuan Yang",
+        "Yanfei Sun",
+        "Ke Liu",
+        "Zixi Tan",
+        "Wen Pan"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:08+00:00",
+      "last_seen": "2026-09-22T06:32:08+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T06:32:08+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71452-y": {
+      "key": "doi:10.1038/s41598-026-71452-y",
+      "doi": "10.1038/s41598-026-71452-y",
+      "title": "Fenofibrate, but not fenofibric acid, reduces fenestrations and impairs endocytic function in liver sinusoidal endothelial cells",
+      "abstract": "Abstract Fenofibrate is widely prescribed for hyperlipidaemia and has been associated with rare but severe cases of drug-induced liver injury (DILI), yet its effects on liver sinusoidal endothelial cells (LSECs) remain to be investigated. LSECs maintain a highly permeable specialised sinusoidal barrier characterised by transcellular pores (fenestrations), regulating the bidirectional transfer of circulating compounds to and from the hepatocytes. As drug-induced alterations in fenestration architecture could influence xenobiotic access to hepatocytes, these changes may modulate pathways associated with DILI. Understanding the effects of fenofibrate on LSEC ultrastructure may therefore provide insights into previously underexplored endothelial contributions to hepatic drug responses. Both fenofibrate and its active metabolite, fenofibric acid, were evaluated for their effects on LSEC ultrastructure, mechanical properties, and functional markers. Atomic force microscopy (AFM) and scanning electron microscopy were used to quantify fenestration architecture. AFM was additionally used to measure cellular mechanical properties, which were interpreted in the context of fluorescence-based quantification of cytoskeletal organisation. Gene expression, viability, and cytotoxicity were assessed using PCR-based and biochemical assays. Fenofibrate reduced fenestration number and porosity at both tested concentration (10, and 25 µM). It also decreased the apparent Young’s modulus of LSECs, accompanied by changes in tubulin and actin architecture, without detectable cytotoxicity. In contrast, treatment with fenofibric acid did not result in significant structural or mechanical effects on LSECs, even at higher concentrations. Together, these data identify LSECs as a drug-responsive hepatic cell type for fenofibrate, suggesting that LSECs could represent an underrecognised contributor to the complex, multifactorial processes underlying DILI. This work provides a framework for evaluating endothelial contributions to fenofibrate-associated liver effects in more complex models.",
+      "link": "https://doi.org/10.1038/s41598-026-71452-y",
+      "authors": [
+        "Marcin Luty",
+        "Dibakar Borah",
+        "Karolina Szafrańska",
+        "Magdalena Giergiel",
+        "Katarzyna Trzos",
+        "Peter McCourt",
+        "Małgorzata Lekka",
+        "Jerzy Kotlinowski",
+        "Bartlomiej Zapotoczny"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:09+00:00",
+      "last_seen": "2026-09-22T06:32:09+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69722-w": {
+      "key": "doi:10.1038/s41598-026-69722-w",
+      "doi": "10.1038/s41598-026-69722-w",
+      "title": "UltraTamNet lightweight tamil-optimized deep learning architecture for handwritten character recognition",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-69722-w",
+      "authors": [
+        "Rajesh Kannan Megalingam",
+        "Prasannahariveeresh Jeyaveerapandia Raji"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:09+00:00",
+      "last_seen": "2026-09-22T06:32:09+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71152-7": {
+      "key": "doi:10.1038/s41598-026-71152-7",
+      "doi": "10.1038/s41598-026-71152-7",
+      "title": "Household consumer purchases and chronic disease",
+      "abstract": "Chronic disease risk stratification remains costly and often provides limited insight into modifiable exposures. Consumer purchases are routinely generated, low-burden measures of household lifestyle that can be linked to health outcomes with consent. In this Danish cohort study, we linked 9.7 million grocery, beverage, and tobacco purchases from 8,382 households, comprising 14,881 adult household members, to six national registries from 2019 to 2023. We examined whether household purchase patterns were associated with prevalent and incident chronic disease and whether they could support risk stratification. Purchases of several additives, sweetened products, and NOVA 4 foods were associated with higher chronic disease risk, whereas purchases of Keyhole-labelled and minimally processed products showed inverse associations. A random forest model combining demographic and purchase variables identified a high-risk decile in which 9% of households developed chronic disease during follow-up. These findings support consumer purchase data as a scalable supplement to existing approaches for studying and monitoring modifiable chronic-disease risk.",
+      "link": "https://doi.org/10.1038/s41598-026-71152-7",
+      "authors": [
+        "Frederik Trier Møller",
+        "Thor Grønborg Junker",
+        "Christian Torp-Pedersen",
+        "Mark Clements",
+        "Mikkel Porsborg Andersen",
+        "Joakim Dillner",
+        "Steen Ethelberg",
+        "Mads Melbye",
+        "Kathrine Kold Sørensen"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:09+00:00",
+      "last_seen": "2026-09-22T06:32:09+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T06:32:09+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72763-w": {
+      "key": "doi:10.1038/s41598-026-72763-w",
+      "doi": "10.1038/s41598-026-72763-w",
+      "title": "An edge-adaptive vision-language framework for real-time open-set violence recognition in surveillance videos",
+      "abstract": "Abstract Low-latency violent event detection is essential for intelligent edge surveillance. Current violent recognition models suffer three critical deployment drawbacks: prohibitive computational overhead from full fine‑tuning, inadequate temporal modeling for continuous video streams, and severe performance degradation when handling unseen violent categories in open surveillance scenes. We propose a lightweight open-set vision-language framework based on pre-trained CLIP. Its dual‑branch structure achieves cross‑modal alignment to support cross‑scene generalization toward novel violent patterns, and we further conduct preliminary explorations for open‑set violent identification for long monitoring footage. Evaluations on five surveillance datasets confirm competitive accuracy. Our parameter-efficient fine-tuning(PEFT) alleviates the inherent conflict between generalization and edge computing overhead, with strong adaptability across low-power embedded terminals. The framework establishes an extensible paradigm for real-time public safety early warning on edge devices, providing generalizable technical references for deploying multi-modal foundation models in urban security governance and broader edge vision perception tasks.",
+      "link": "https://doi.org/10.1038/s41598-026-72763-w",
+      "authors": [
+        "Beibei Bian",
+        "Donghui Zhang",
+        "Jiamu Bai"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:10+00:00",
+      "last_seen": "2026-09-22T06:32:10+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-67716-2": {
+      "key": "doi:10.1038/s41598-026-67716-2",
+      "doi": "10.1038/s41598-026-67716-2",
+      "title": "Satellite-based condition assessment of urban green stormwater infrastructure using a hybrid machine learning framework",
+      "abstract": "Abstract Effective management of urban stormwater infrastructure is essential for reducing runoff impacts, improving water quality, and enhancing flood resilience. However, conventional field inspections of distributed green stormwater infrastructure (GSI) are resource-intensive and difficult to scale across large urban areas. Although remote sensing offers opportunities for scalable infrastructure monitoring, existing studies have primarily focused on vegetation characteristics rather than comprehensive assessments of GSI functionality. This study uses a hybrid machine learning framework integrating high-resolution multispectral satellite imagery, unsupervised anomaly detection, and supervised classification to evaluate multiple GSI condition indicators, including overall performance, vegetation health, vegetation stability, erosion, and debris presence. The framework incorporates spectral bands, remote sensing indices, and environmental variables to classify compliant and non-compliant conditions. Results demonstrate strong performance for vegetation stability (accuracy = 0.93; F1-score = 0.93), followed by debris presence (accuracy = 0.78; F1-score = 0.77), vegetation health (accuracy = 0.72; F1-score = 0.77), and erosion (accuracy = 0.70; F1-score = 0.73). Overall GSI performance was the most challenging target (accuracy = 0.61; F1-score = 0.59), with lower performance for non-compliant conditions. The proposed approach provides a scalable tool for GSI screening and maintenance prioritization while highlighting the need for improved detection of degraded conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-67716-2",
+      "authors": [
+        "Shiva Arabi",
+        "Virginia Smith",
+        "Peleg Kremer",
+        "Bridget Wadzuk",
+        "Xun Jiao"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:10+00:00",
+      "last_seen": "2026-09-22T06:32:10+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-58930-z": {
+      "key": "doi:10.1038/s41598-026-58930-z",
+      "doi": "10.1038/s41598-026-58930-z",
+      "title": "Hi-SCCG: Hierarchical Structure-aware Chunking and Context Generation for document-level information extraction",
+      "abstract": "Large Language Model (LLM)-based generative Information Extraction (IE) over long documents is constrained by finite context windows, and the necessary text-chunking step disrupts semantic continuity, causing subject drift, unresolved coreference, and loss of the global constraints required for fine-grained knowledge graph construction. Existing context-augmentation methods either provide only limited local context or incur substantial computational cost while introducing irrelevant information, largely because they do not fully exploit document hierarchy. We propose Hi-SCCG (Hierarchical Structure-aware Chunking and Context Generation), a framework that models document structure by reconstructing the logical skeleton as a semantic tree through LLM-based heading correction and by generating cached multi-granularity summaries with a bottom-up recursive strategy. During inference, Hi-SCCG injects a lightweight path-aware context formed by concatenating ancestor summaries from the leaf chunk to the document root, thereby helping anchor local text to its document-level and section-level subjects. We further introduce LDE-500, a focused benchmark for document-level IE over Chinese hierarchical documents, and use Subject Restoration Rate (SRR) as a diagnostic subset-recall measure for triples that require subject restoration. On LDE-500, Hi-SCCG achieves an F1-score of 0.82 and a diagnostic SRR of 82.1%, with a 9.4 percentage-point absolute SRR improvement over the strongest evaluated baseline. In a representative token-accounting case involving a 45K-token document, after including one-time heading correction, recursive summary-generation calls, extraction input tokens, and extraction output tokens, Hi-SCCG reduces total KG-construction token consumption by 75.4–77.7% relative to SLIDE. These results suggest that structure-aware path injection is a promising strategy for fine-grained IE in structure-rich long documents when SRR is interpreted together with standard triple-level metrics and subset-level precision. A supplementary fully human-annotated Legal-OOD-60 evaluation shows a similar trend in this compact legal-domain sample, where Hi-SCCG achieves an F1-score of 0.77 and an SRR of 75.0%, although broader cross-domain validation remains necessary.",
+      "link": "https://doi.org/10.1038/s41598-026-58930-z",
+      "authors": [
+        "Pingfang Tian",
+        "Peishan Xie",
+        "Qiyuan Li",
+        "Jinguang Gu"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:10+00:00",
+      "last_seen": "2026-09-22T06:32:10+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T06:32:10+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70816-8": {
+      "key": "doi:10.1038/s41598-026-70816-8",
+      "doi": "10.1038/s41598-026-70816-8",
+      "title": "Modeling cross-media agenda interactions in the international communication of Chinese culture using multi-source news time-series data",
+      "abstract": "Abstract Modeling cross-media agenda evolution is challenging because media agendas involve both temporal dependence in issue salience and structural reconfiguration among issue associations. Most existing intermedia agenda studies rely on contemporaneous correlations or simple lag comparisons, which reveal synchronization but provide limited evidence of predictive precedence across heterogeneous media systems. To address this limitation, this study develops an integrated time-series framework combining transformer-based agenda extraction, network agenda representation, cross-lag correlation analysis, vector autoregressive modeling, Granger-type predictive-dependence testing, and transfer entropy estimation. Using multi-source news time-series data on the international communication of Chinese culture from January 2021 to December 2023, we construct outlet-level measures of issue salience and structural agenda density and examine temporal-dependence patterns among official international media, global mainstream media, and digital-native or transnational online media. The results reveal structured predictive-precedence gradients across institutional media categories and hub-mediated agenda connectivity centered on selected intermediary outlets. Models incorporating structural indicators achieve higher explanatory power and lower forecast error than salience-only models, indicating that network configuration provides incremental predictive information beyond issue prominence alone. Overall, the findings suggest that cross-media agenda evolution reflects structured temporal dependence and directed information association rather than coincidental co-movement or definitive causal influence.",
+      "link": "https://doi.org/10.1038/s41598-026-70816-8",
+      "authors": [
+        "Liqun Deng"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:11+00:00",
+      "last_seen": "2026-09-22T06:32:11+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70903-w": {
+      "key": "doi:10.1038/s41598-026-70903-w",
+      "doi": "10.1038/s41598-026-70903-w",
+      "title": "Explainable machine learning identifies candidate shared neuroanatomical features in Alzheimer’s and Parkinson’s via importance inversion transfer",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-70903-w",
+      "authors": [
+        "Daniele Caligiore",
+        "Simone Torsello"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:11+00:00",
+      "last_seen": "2026-09-22T06:32:11+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71059-3": {
+      "key": "doi:10.1038/s41598-026-71059-3",
+      "doi": "10.1038/s41598-026-71059-3",
+      "title": "A perinatal nomogram enables two-step screening for umbilical cord blood donors from antenatal assessment to bedside confirmation",
+      "abstract": "Abstract The high-quality umbilical cord blood (HQUCB) is closely related to successful cord blood transplantation, and given the substantial resources required for umbilical cord blood (UCB) collection, processing, and storage, optimizing the identification of HQUCB donors for cord blood banking has become a critical priority. This study aimed to develop and validate a perinatal nomogram that enables two-step donor screening: antenatal triage using routine maternal indicators, followed by bedside confirmation with neonatal indicators immediately after delivery. We recruited 423 participants, randomly dividing them into training ( n = 296) and validation ( n = 127) cohorts. Multivariate analysis identified seven independent predictors: younger maternal age, absence of hypertensive disorders complicating pregnancy, higher amniotic fluid index, earlier gestational age, male neonate, higher neonatal weight, and vaginal delivery. These predictors were subsequently allocated into two tiers, with the first four maternal factors for antenatal screening and the remaining three neonatal factors for postnatal confirmation, thus forming a two-step framework within the nomogram. Model performance was comprehensively evaluated using receiver operating characteristic (ROC) analysis and calibration curves. The nomogram demonstrated robust discrimination, with an area under the ROC curve (AUC) of 0.982 in the training cohort and 0.943 in the internal validation cohort. The calibration curve demonstrated good agreement in both cohorts. This perinatal two-step nomogram enables immediate prediction of donor suitability from antenatal assessment to bedside confirmation, thereby supporting optimal resource allocation in cord blood banking using readily accessible clinical data.",
+      "link": "https://doi.org/10.1038/s41598-026-71059-3",
+      "authors": [
+        "Yueshuai Pan",
+        "Bohan Lv",
+        "Guofang Kuang",
+        "Ruting Gu",
+        "Qianqian Li",
+        "Lili Wei"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T06:32:11+00:00",
+      "last_seen": "2026-09-22T06:32:11+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
