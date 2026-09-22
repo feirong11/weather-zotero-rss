@@ -146866,6 +146866,548 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-21T18:29:41+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1029/2025jd046147": {
+      "key": "doi:10.1029/2025jd046147",
+      "doi": "10.1029/2025jd046147",
+      "title": "Simulating Regional‐Scale Aerosol Radiative Effects of Wildfire Smoke Using a High‐Resolution Coupled Meteorology‐Chemistry Model: HRRR‐Chem",
+      "abstract": "Abstract Wildfires are increasing in frequency and intensity, strongly influencing both regional air quality and the Earth's radiation budget via their aerosol emissions. Relying on an unparalleled observational data set from the 2019 NOAA/NASA FIREX‐AQ campaign, this study quantifies the direct radiative effects of two wildfires using the HRRR‐Chem. Model predictions agree well with observed aerosol absorption, composition, and mass concentrations in fresh smoke (PM 2.5 > 1,500 μg m −3 ). Our results show pronounced regional direct radiative effects, including daily mean surface cooling exceeding −150 W m −2 and atmospheric warming up to +40 W m −2 in dense plumes. However, our analysis indicates that surface cooling is underestimated in the densest fresh smoke plumes due to aerosol scattering underpredictions. This scattering underestimation is linked to the grid‐scale dilution of dense fresh‐smoke gradients at the 3 km scale, as well as challenges in capturing complex fresh‐smoke particle size distributions using prescribed emission sizes within modal aerosol schemes, emphasizing the need for fire‐specific emission parameters in future biomass burning modeling studies. Furthermore, sensitivity analyses reveal that the volatility of primary organic aerosol is the dominant source of uncertainty in the direct radiative effect (up to 80%), while the optical properties of brown carbon and aerosol mixing state contribute 10%–20% and 5%–15% uncertainty, respectively.",
+      "link": "https://doi.org/10.1029/2025jd046147",
+      "authors": [
+        "Minsu Choi",
+        "Ravan Ahmadov",
+        "J. L. Schnell",
+        "Johana Romero‐Alvarez",
+        "Sudheer Bhimireddy",
+        "Haiqin Li",
+        "Joshua P. Schwarz",
+        "Pedro Campunzano Jost",
+        "Hongyu Guo",
+        "Jose L. Jimenez",
+        "Pawan Gupta",
+        "Thomas F. Eck",
+        "Philippe Goloub",
+        "Olga Kalashnikova",
+        "Chuanyu Xu",
+        "Fangjun Li",
+        "R. Bradley Pierce",
+        "Georg A. Grell"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-22T00:32:06+00:00",
+      "last_seen": "2026-09-22T00:32:06+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1029/2026jd046348": {
+      "key": "doi:10.1029/2026jd046348",
+      "doi": "10.1029/2026jd046348",
+      "title": "Characterization and Meteorological Drivers of Dust Events Over California's Central Valley",
+      "abstract": "Abstract Dust events in California's Central Valley pose severe risks to public health, regional air quality, and transportation. Yet, the climatology and meteorological drivers of dust events in the region are poorly characterized due to sparse monitoring and limitations of satellite observations. Using meteorological observations from 15 meteorological stations, we systematically catalog and analyze dust events across the Central Valley during 2005–2024, leveraging a hybrid approach that combines observer‐reported dust codes with meteorological criteria that capture events missed by manual reporting. We identified 707 dust events, averaging ∼35 events per year with a significant increase over the past two decades. These dust events are generally short‐lived (≤1 h), occur mainly in the afternoon hours (14:00–18:00 local time), and are most frequent in the southern San Joaquin Valley between September and November. Self‐organizing map analysis during the September–November peak dust season reveals four dominant synoptic‐scale configurations driving dust events, characterized by anomalously strong surface winds, low relative humidity, and amplified mid‐tropospheric troughs. Specifically, positively tilted troughs with northwesterly along valley surface winds produced widespread dust events during abnormally dry conditions, while negatively tilted troughs are associated with convective‐driven fronts. Our results provide a robust foundation for improving dust forecasting and public health interventions in the agriculturally intensive Central Valley.",
+      "link": "https://doi.org/10.1029/2026jd046348",
+      "authors": [
+        "Precious Ebiendele",
+        "Adeyemi A. Adebiyi",
+        "John T. Abatzoglou",
+        "Karin Ardon‐Dryer",
+        "Md. Minhazul Kibria",
+        "Cade Hogle"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-09-22T00:32:06+00:00",
+      "last_seen": "2026-09-22T00:32:06+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77940-z": {
+      "key": "doi:10.1038/s41467-026-77940-z",
+      "doi": "10.1038/s41467-026-77940-z",
+      "title": "Host-pathogen pyrimidine metabolism drives cystic fibrosis lung disease",
+      "abstract": "Cystic fibrosis (CF), caused by CFTR mutations, is characterized by progressive pulmonary remodeling, particularly during bacterial infection. This pathological environment, exacerbated by altered epithelial growth, leads to thickened airway walls, inducing permanent narrowing and long-term breathing difficulties. However, what drives this adverse milieu remains unclear. Here, we identify activation of the de novo pathway of pyrimidine synthesis (DNPPS) as a central contributor of CF lung remodeling. In response to impaired mitochondrial bioenergetics, CFTR-mutant epithelial cells engage compensatory DNPPS activity, functionally coupling mitochondrial oxidative metabolism to pyrimidine production and, inadvertently, promoting proliferation. This phenotype is reversible with CFTR modulators and pharmacologic DNPPS inhibitors using clinically established agents. Strikingly, Pseudomonas aeruginosa, the predominant CF pathogen, undergoes convergent pyrimidine adaptation, activating its own DNPPS machinery to amplify biomass and sustain a remodeled niche. Together, these findings define pyrimidine metabolism as a shared host-pathogen axis driving epithelial restructuring and bacterial persistence in the CF lung. Here, Lohia et al show that pyrimidine metabolism is a driver of pulmonary remodelling and bacterial infection in people with cystic fibrosis.",
+      "link": "https://doi.org/10.1038/s41467-026-77940-z",
+      "authors": [
+        "Gaurav Kumar Lohia",
+        "Ying-Tsun Chen",
+        "Samantha Chen",
+        "Ayesha Beg",
+        "Erin Theiller",
+        "Aomeng Cui",
+        "Ahmed M. Moustafa",
+        "Sebastián A. Riquelme"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-22T00:32:13+00:00",
+      "last_seen": "2026-09-22T00:32:13+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T00:32:13+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77931-0": {
+      "key": "doi:10.1038/s41467-026-77931-0",
+      "doi": "10.1038/s41467-026-77931-0",
+      "title": "Risk stratification for MDR/RR-TB: a comprehensive integrated patient-level analysis from TB programs and contemporary clinical trials",
+      "abstract": "Abstract Tuberculosis is the deadliest infectious disease, and treatments for multidrug-resistant tuberculosis are lengthy and toxic. By analyzing a large international database (N = 7,750), we identified patient risk phenotypes linked to unfavorable outcomes. Factors like HIV infection, age, low BMI, smoking, acid-fast bacillus smear positivity, extrapulmonary involvement, and cavitary disease were associated ( p < 0.001) with worse clinical outcomes (ROC AUC 0.728; 95% CI 0.726–0.731) and were used to derive a patient risk score. Low-risk patients had a lower probability of unfavorable outcome over time since treatment initiation compared to high-risk patients ( p < 0.001). External validation with a highly effective 6-month BPaL regimen showed 97% treatment success for low-risk patients and 88% for medium-to-high-risk patients. Stratifying patients by risk phenotype enables more effective, personalized tuberculosis interventions, which are key to improving cure rates.",
+      "link": "https://doi.org/10.1038/s41467-026-77931-0",
+      "authors": [
+        "Maria Garcia-Cremades",
+        "Jonathon R. Campbell",
+        "Natasha Strydom",
+        "Belén P. Solans",
+        "Samer Mouksassi",
+        "Ziran Li",
+        "Patrick P. J. Phillips",
+        "Gustavo E. Velásquez",
+        "Payam Nahid",
+        "Dick Menzies",
+        "Radojka M. Savic"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-22T00:32:15+00:00",
+      "last_seen": "2026-09-22T00:32:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77953-8": {
+      "key": "doi:10.1038/s41467-026-77953-8",
+      "doi": "10.1038/s41467-026-77953-8",
+      "title": "Carbon nanotubes as the supporting film for cryo-EM specimen preparation",
+      "abstract": "Abstract Specimen preparation is a critical and rate-limiting step in cryo-EM structural analysis, primarily due to challenges posed by the air-water interface. In this study, we introduce carbon nanotubes (CNTs) as a one-dimensional fibrous support material to address this issue. CNTs interact with macromolecules, effectively protecting them from air-water interfaces, and macromolecules arrange themselves around CNTs in various orientations. Furthermore, CNTs biofunctionalized with affinity tags exhibit strong specificity in binding target macromolecules, facilitating direct purification of targets from cell lysates and on-grid assembly of complexes for subsequent cryo-EM analysis. We also demonstrate that CNT grids are compatible with cell culturing, allowing for seamless integration into the cryo-EM characterization workflow for cellular structures. We anticipate that these properties will make the CNT network a promising support for cryo-EM.",
+      "link": "https://doi.org/10.1038/s41467-026-77953-8",
+      "authors": [
+        "Jiling Song",
+        "Zhengni Wang",
+        "Duanliang Zhou",
+        "Zi Yuan",
+        "Xia Jia",
+        "Xiaopeng Li",
+        "Chenhui Zhang",
+        "Yongbo Liu",
+        "Yu Rao",
+        "Dongju Wang",
+        "Kaili Jiang",
+        "Hong-Wei Wang",
+        "Nan Liu"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-22T00:32:15+00:00",
+      "last_seen": "2026-09-22T00:32:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72181-y": {
+      "key": "doi:10.1038/s41598-026-72181-y",
+      "doi": "10.1038/s41598-026-72181-y",
+      "title": "Reboxetine blocks NMDA receptors in a voltage-, use-, and activity-dependent manner",
+      "abstract": "Abstract Reboxetine is a selective norepinephrine reuptake inhibitor which has initially been approved as an antidepressant. In addition, it has been used off label for panic disorder and attention deficit hyperactivity disorder, particularly when methylphenidate is ineffective. As the action of other known monoamine reuptake inhibitors, including fluoxetine and atomoxetine, turned out to be effective blockers of NMDA receptors, we analyzed whether reboxetine similarly inhibits NMDA receptors. The whole-cell configuration of the patch-clamp technique was used to analyze the effect of reboxetine on recombinant NMDA receptors transiently expressed in tsA201 cells. Reboxetine reversibly blocked NMDA receptors in a concentration-dependent manner with a half-maximal inhibition of 20.4 ± 3.6 µM, when NMDA (50 µM) and glycine (10 µM) were used to activate GluN2A containing receptors. For GluN2B a corresponding value of 12.6 ± 3.1 µM was estimated. Inhibition increased at higher agonist concentrations, consistent with an uncompetitive, activity-dependent mechanism. Furthermore, the block occurred in a voltage- and use-dependent manner, indicating an open-channel blocking mechanism with an interaction site located deep within the channel pore (zδ = 0.94). In addition, a modest subunit dependence was observed, with greater inhibition of GluN2B- than GluN2A-containing receptors. Finally, Reboxetine belongs to a rare group of NMDA receptor antagonists whose efficacy increases with the concentration of the agonist. This activity-dependent profile is therapeutically attractive because it predicts preferential suppression of pathological NMDA-receptor over-activation while leaving low-frequency physiological signaling comparatively unaffected.",
+      "link": "https://doi.org/10.1038/s41598-026-72181-y",
+      "authors": [
+        "Karl Josef Föhr",
+        "Bettina Jungwirth",
+        "Hubert Schrezenmeier",
+        "David Alexander Christian Messerer"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:18+00:00",
+      "last_seen": "2026-09-22T00:32:18+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72500-3": {
+      "key": "doi:10.1038/s41598-026-72500-3",
+      "doi": "10.1038/s41598-026-72500-3",
+      "title": "Age-dependent heterogeneity in brain networks and interhemispheric synchrony in overactive bladder syndrome",
+      "abstract": "Overactive bladder (OAB) may involve age-dependent alterations in brain networks, but whether age modifies structural network organization and interhemispheric synchrony remains unclear. In this cross-sectional study, 111 participants with OAB and 114 healthy controls were classified as young (≤ 40 years), middle-aged (41–65 years), and older (> 65 years). The primary hypothesis was tested using diagnosis-by-age-stratum interaction models in global structural network topology and whole-brain voxelwise degree centrality (DC) and voxel-mirrored homotopic connectivity (VMHC). Complementary continuous-age models were supportive, whereas seed-based connectivity and imaging–clinical correlations were exploratory. Significant interactions were observed for clustering coefficient (Cp), right supramarginal gyrus DC, and left inferior parietal lobule VMHC. Cp and right supramarginal gyrus DC were higher in middle-aged but lower in older participants with OAB than in age-matched controls; older participants also showed reduced left inferior parietal lobule VMHC and left IPL–right SMG functional connectivity. Parietal imaging measures were associated with greater clinical burden, particularly in older adults. Continuous-age analyses supported the DC and VMHC findings but not Cp. These results indicate age-dependent neuroimaging heterogeneity in OAB and suggest that age should be considered when characterizing brain–bladder network alterations.",
+      "link": "https://doi.org/10.1038/s41598-026-72500-3",
+      "authors": [
+        "Ye Hua",
+        "Siyi Fu",
+        "Lingxuan Yin",
+        "Yuwei Zhang",
+        "Kaiyuan Gu",
+        "Feng Lu",
+        "Jia Xuª",
+        "Yuhua Zhou",
+        "Huikai Miao",
+        "Jiayu Gu",
+        "Yifan Sun",
+        "Yao Chen",
+        "Yi Fan",
+        "Ninghan Feng"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:18+00:00",
+      "last_seen": "2026-09-22T00:32:18+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T00:32:18+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72420-2": {
+      "key": "doi:10.1038/s41598-026-72420-2",
+      "doi": "10.1038/s41598-026-72420-2",
+      "title": "Bridging the gap between damaged infrastructures and disaster mortality",
+      "abstract": "Abstract Driven by the lack of global empirical data, there is limited research that analyzed the relationship between infrastructure damage and disaster impact. In this research, we addressed this gap by scraping 79 Post Disaster Needs Assessment reports to collect disaster specific infrastructure damage data for 79 disaster events of this century. Then, we used the data in the Generalized Propensity Score method allowing us to reveal the real effect of infrastructure damage on disaster mortality by accounting for all other confounding factors. We derived an aggregate hazard agnostic response function indicating that damaged infrastructures exponentially increase disaster mortality. We also found that the impact of damaged infrastructures on disaster mortality is more profound among the low- and lower-middle-income countries as compared to overall impact. Lastly, we found that among different infrastructure sectors, the damage to energy, WASH (water, sanitation and hygiene), and health sectors lead to higher disaster mortality as compared to transport, communication, and education sectors. Through these empirical relationships, this research bridges the evidential gap between damaged infrastructures and disaster mortality that can help decision-makers forwarding infrastructure resilience agendas and prioritizing infrastructure sectors for resilience related investments.",
+      "link": "https://doi.org/10.1038/s41598-026-72420-2",
+      "authors": [
+        "Arkaprabha Bhattacharyya",
+        "Nazli Yonca Aydin",
+        "Tina Comes"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:19+00:00",
+      "last_seen": "2026-09-22T00:32:19+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71850-2": {
+      "key": "doi:10.1038/s41598-026-71850-2",
+      "doi": "10.1038/s41598-026-71850-2",
+      "title": "A multi-algorithm ordinal classification framework with SHAP interaction analysis for predicting construction accident injury severity",
+      "abstract": "Abstract Construction remains one of the most hazardous industries worldwide, yet existing machine learning studies on construction injury severity have largely focused on single-factor importance rankings and have rarely quantified how risk factors combine to amplify fatality probability. This study developed a unified ordinal-classification framework benchmarking seven machine learning algorithms on 22,217 construction accident records extracted from the U.S. Occupational Safety and Health Administration (OSHA) database between 2015 and 2023. Inverse-frequency class weighting was applied across all models, and a custom focal-loss objective was additionally used in the three gradient-boosting learners to address class imbalance. All models were tuned through Bayesian optimization with five-fold cross-validation, and the best model was interpreted using TreeSHAP global importance, dependence, and pairwise interaction values. CatBoost achieved the best performance (Accuracy = 0.768, Macro-F1 = 0.721, AUC-ROC = 0.862, Fatal-Recall = 0.663), improving upon the Logistic Regression baseline by 6.1 percentage points (relative + 10.1%) in fatal recall. Height-related work, fall events, fall height, company size, and construction phase emerged as the top five predictors. Two pairwise interactions, company size × construction phase and height-related occupations × warm season (Spring/Summer), produced synergistic risk associations that are invisible to single-factor analyses. The strongest interaction (company size × construction phase) yielded a joint SHAP contribution 1.8 times the linear-additive expectation. These associations were translated into four threshold-based managerial rules with empirical fatality rates ranging from 12.8 to 21.3% (1.7 × to 2.8 × the sample baseline of 7.6%), supporting post-incident severity triage, targeted regulatory inspection prioritization, and risk-rated insurance underwriting. The analytical workflow is designed to be transferable to other national accident databases, though feature-specific thresholds require recalibration to account for differences in regulatory regimes, workforce composition, and climatic conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-71850-2",
+      "authors": [
+        "Peng Wang"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:19+00:00",
+      "last_seen": "2026-09-22T00:32:19+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71461-x": {
+      "key": "doi:10.1038/s41598-026-71461-x",
+      "doi": "10.1038/s41598-026-71461-x",
+      "title": "Evaluating high-frequency ground-penetrating radar for 3D characterization of burrow networks in carbonate strata",
+      "abstract": "Bioturbation strongly modifies sedimentary rock heterogeneity by altering burrow geometry, connectivity, porosity, and permeability, yet three-dimensional characterization of burrow networks remains difficult at representative rock-block scales. Computed tomography (CT) provides high-resolution imaging but is limited by sample size and laboratory constraints. This study evaluates whether high-frequency ground-penetrating radar (GPR) can provide comparable three-dimensional characterization of burrow networks in carbonate rocks. A limestone block from the Hanifa Formation, Saudi Arabia, containing abundant fine Thalassinoides burrows, was surveyed using a 2.7 GHz GPR system, acquiring 200 parallel profiles with 3 mm line spacing in approximately 90 minutes. The processed GPR volume was compared with CT scans acquired from twelve sub-blocks of the same sample. Despite a theoretical vertical resolution of only 1–2 cm, which approaches the diameter of many burrows, the GPR data successfully resolved the principal burrow architecture, including major interconnected zones and the overall vertical and lateral distribution of the burrow network. Quantitative comparison shows that the CT-derived burrow volume fraction ranges from $$0.9\\%$$ to $$10.0\\%$$, while the calibrated GPR estimates range from $$2.1\\%$$ to $$11.5\\%$$, with both methods exhibiting nearly identical spatial trends among the twelve sub-blocks. These results demonstrate that, although CT provides superior spatial resolution, high-frequency GPR can produce reliable quantitative estimates of burrow distribution and connectivity over substantially larger sample volumes, making it an effective non-destructive complement to CT for laboratory investigations and a promising technique for future field-scale characterization of bioturbated carbonate reservoirs.",
+      "link": "https://doi.org/10.1038/s41598-026-71461-x",
+      "authors": [
+        "Omar M. Abdeltwab",
+        "Sherif M. Hanafy",
+        "Hassan ElTom"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:19+00:00",
+      "last_seen": "2026-09-22T00:32:19+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T00:32:19+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72045-5": {
+      "key": "doi:10.1038/s41598-026-72045-5",
+      "doi": "10.1038/s41598-026-72045-5",
+      "title": "Integration of multi-omics and machine learning reveals sodium overload related molecular subtypes and biomarkers in sepsis",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-72045-5",
+      "authors": [
+        "Lisan Cui",
+        "Min Han",
+        "Zongshuai Wang",
+        "Dejian Zhang",
+        "Bo Wang",
+        "Leilei Zhang",
+        "Shen Li",
+        "Xue Zhang"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:20+00:00",
+      "last_seen": "2026-09-22T00:32:20+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72559-y": {
+      "key": "doi:10.1038/s41598-026-72559-y",
+      "doi": "10.1038/s41598-026-72559-y",
+      "title": "Analysis of vibration signals in the diagnosis of knee cartilage damage using vibroarthrography and machine learning",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-72559-y",
+      "authors": [
+        "Robert Karpiński",
+        "Arkadiusz Syta",
+        "Anna Machrowska",
+        "Przemysław Krakowski",
+        "Marcin Maciejewski",
+        "Józef Jonak"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:20+00:00",
+      "last_seen": "2026-09-22T00:32:20+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-65736-6": {
+      "key": "doi:10.1038/s41598-026-65736-6",
+      "doi": "10.1038/s41598-026-65736-6",
+      "title": "Lithium-ion battery state-of-health prediction using Inception-V4 network optimized by Modified Hiking Optimization Algorithm",
+      "abstract": "Electrochemical impedance spectroscopy (EIS) represents a non-invasive method of measuring state-of-health (SoH) of lithium-ion batteries, but it is difficult to obtain strong degradation measurements because of complicated responses with frequency. The paper presents a new approach of combining Inception-V4 deep learning architecture with a Modified Hiking Optimization Algorithm (MHOA) to obtain precise SoH estimation using only raw impedance spectra. Unlike traditional approaches that rely on equivalent-circuit modeling or complex multidimensional feature extraction, the proposed end-to-end model directly utilizes the complete electrochemical impedance spectrum. The end-to-end network is trained and tested using an available online EIS dataset. EIS spectra were measured for 14,752 experiments for batteries subjected to controlled laboratory environments (25 °C and 45 °C), 6 states of charge, and cycling from 100% to 80% SoH, for which there were 14 logarithmically spaced frequencies from 0.05 Hz to 1000 Hz. The first validation is on a chronologically separated test set, that is, on later cycles of the same cells to test temporal generalization, in which case the test RMSE is 1.15%. On a completely new (not used for training or validation) cell, a test is on cross-cell generalization which results in an RMSE of 0.148%. Outputs from the dual branch network includes circuit like parameter estimations, for which it has been verified to be close to those in the respective equivalent circuit representations. All presented results are from an offline simulation on time-separated data, and no claim is made towards real-time, embedded BMS performance. Using a dataset of 14,752 EIS measurements collected under different temperature conditions and aging stages, the method achieves an overall test RMSE of about 1.15%. It also shows strong capability to generalize to degradation conditions that were not present in the training data. The dual-branch network is capable of providing accurate SoH predictions and interpretable parameters in the form of equivalent-circuit simultaneously, allowing it to be used in a battery management system. The proposed framework shows stable and reliable performance across the evaluated EIS dataset.",
+      "link": "https://doi.org/10.1038/s41598-026-65736-6",
+      "authors": [
+        "Jianhua Lu",
+        "Fen Qin"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:20+00:00",
+      "last_seen": "2026-09-22T00:32:20+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T00:32:20+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72570-3": {
+      "key": "doi:10.1038/s41598-026-72570-3",
+      "doi": "10.1038/s41598-026-72570-3",
+      "title": "AERMOD sensitivity to terrain and land-cover representation at a coastal power plant in Northern Iran",
+      "abstract": "AERMOD sensitivity to terrain and land-cover inputs was evaluated at the Shahid Salimi Power Plant in northern Iran. A controlled 2 × 2 design combined terrain grids with reported spacings of 12.5 and 30 m with standard and Sentinel-2 object-based land-cover representations. Emissions, source and receptor geometry, and meteorological observations were held constant. Scenario performance for NOx, SO2 and CO2 was compared using R2, root mean square error (RMSE) and mean absolute error. Replacing the 30 m grid with the 12.5 m grid reduced RMSE by 14.9–31.3% across paired comparisons. The 12.5 m grid with standard land cover produced the strongest agreement for NOx (R2 = 0.73; RMSE = 12.30 µg/m3) and CO2 (R2 = 0.72; RMSE = 105.48 µg/m3), whereas the OBIA scenario performed best for SO2 (R2 = 0.66; RMSE = 3.65 µg/m3). Terrain change improved all metrics, while land-cover responses depended on pollutant. Metric confidence intervals were unavailable, and native terrain products remained unverified. OBIA was illustrative because classification validation and parameter-transfer records were incomplete. Without documented background removal, CO2 statistics remained descriptive and supported neither ambient validation nor health-risk assessment. Future work should verify spatial inputs and extend concurrent seasonal monitoring across the coastal plain and inland foothills.",
+      "link": "https://doi.org/10.1038/s41598-026-72570-3",
+      "authors": [
+        "Mohammad Javad Jalilpour",
+        "Masoumeh Soleymani Tushmanlo",
+        "Abolfazl Soleymani",
+        "Aziz Azizpour",
+        "Gholamreza Asadollahfardi"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:21+00:00",
+      "last_seen": "2026-09-22T00:32:21+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T00:32:21+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72356-7": {
+      "key": "doi:10.1038/s41598-026-72356-7",
+      "doi": "10.1038/s41598-026-72356-7",
+      "title": "Explainable machine learning analysis of factors associated with skilled birth attendance in Burkina Faso",
+      "abstract": "Abstract Skilled birth attendance (SBA) is essential for reducing maternal and neonatal mortality, but its coverage varies Burkina Faso. This study used explainable machine learning to predict SBA, identify key predictors, and examine geographic and urban–rural descriptive inequalities. This cross-sectional study analyzed 5,111 women aged 15–49 years from the 2021 Burkina Faso Demographic and Health Survey (BF-DHS). Features were selected using Boruta feature selection, and SMOTE used for class imbalance. Five machine learning models used in this study such as Random Forest (RF), Decision Tree (DT), K-Nearest Neighbors (KNN), Logistic Regression (LR), and Support Vector Machine (SVM) were trained. Model performance was evaluated using accuracy, precision, recall, F1-score, Matthew’s correlation coefficient (MCC), Cohen’s kappa, and AUROC. SHapley Additive exPlanations (SHAP) interpreted model predictions, while decision curve analysis (DCA) and spatial mapping evaluated clinical utility and geographic variation. Among five models, RF achieved the highest discrimination, with moderate performance (AUROC = 0.71). The key predictors included province, antenatal care visits ≥ 4, maternal age at first birth ≥ 20 years, age at first sexual intercourse ≥ 18 years, sexual activity, household wealth, and religion. Descriptive spatial mapping showed the higher predicted SBA probabilities in central and western provinces and lower probabilities in Sahel, Sud-Ouest, and Est, with greater inequalities in rural areas rural areas. These results highlight that interpretable machine learning combined with spatial analysis can identify predictors of SBA and capture subnational inequalities, offering reproducible, data-driven insights for maternal health research.",
+      "link": "https://doi.org/10.1038/s41598-026-72356-7",
+      "authors": [
+        "Md Salek Miah"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:22+00:00",
+      "last_seen": "2026-09-22T00:32:22+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72089-7": {
+      "key": "doi:10.1038/s41598-026-72089-7",
+      "doi": "10.1038/s41598-026-72089-7",
+      "title": "Bearing performance and failure-mode prediction of geocell-reinforced foundations",
+      "abstract": "The plate-load tests of geocell-reinforced foundations were simulated using the Particle Flow Code in Two Dimensions (PFC2D) to investigate bearing performance under varying geocell geometries, layout configurations, and eccentric loading conditions. The results show that geocell reinforcement markedly alters foundation failure modes and increases bearing capacity by factors of 1.39–5.65. The optimum burial-depth ratio and reinforcement-layer number were u/B = 0.1 and N = 2, respectively, yielding the maximum bearing-capacity improvement. A soft-voting ensemble integrating five optimized base classifiers was subsequently developed through weighted averaging to predict failure modes. The ensemble achieved an accuracy and F1-score of 0.81, a Kappa coefficient of 0.71, and a Matthews correlation coefficient (MCC) of 0.72, outperforming all individual base classifiers. Shapley additive explanations (SHAP) analysis identified geocell height, soil relative density, and load eccentricity as the dominant factors influencing failure-mode evolution. The proposed model enables direct prediction of failure modes in geocell-reinforced foundations based on soil, geocell, and loading parameters, demonstrating practical engineering relevance.",
+      "link": "https://doi.org/10.1038/s41598-026-72089-7",
+      "authors": [
+        "Yanfang Feng",
+        "Yin Bo",
+        "Zhixiang Chen"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:22+00:00",
+      "last_seen": "2026-09-22T00:32:22+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T00:32:22+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72389-y": {
+      "key": "doi:10.1038/s41598-026-72389-y",
+      "doi": "10.1038/s41598-026-72389-y",
+      "title": "PRISM: a physics-reality integrated signal multistream framework for explainable deepfake detection using handcrafted forensic features",
+      "abstract": "Deepfake detectors achieve strong benchmark performance but remain difficult to interpret and can degrade under unseen manipulation methods, compression and acquisition conditions. We present PRISM (Physics-Reality Integrated Signal Multistream) a video-level framework based on 50 explicit handcrafted forensic descriptors capturing sensor-residual, physiological, geometric, motion, texture, illumination and compression evidence. MediaPipe is used only as a fixed pretrained landmark-localization utility; the forensic representation contains no learned deep visual embeddings, and classification is performed from the resulting 50-dimensional video representation. Under an identity-disjoint FaceForensics + + c23 protocol, PRISM-50 achieved AUCs of 0.9706, 0.8096, 0.9631 and 0.7867 for DeepFakes, Face2Face, FaceSwap and NeuralTextures, respectively. Zero-shot Celeb-DF v2 evaluation yielded an AUC of 0.6322, with substantial shifts in compression, noise, physiological and geometric descriptors. Across five recent DF40 manipulation pipelines, zero-shot AUC ranged from 0.5995 to 0.9719, demonstrating strong generator dependence. Logistic Regression, Random Forest and LightGBM retained useful discrimination from the same representation, whereas Xception and LSDA achieved higher predictive performance. SHAP stability and perturbation analyses showed that highly attributed descriptors materially influenced classifier decisions without implying causal evidence of manipulation. PRISM is therefore positioned as an interpretable forensic framework for examining measurable evidence, feature interactions and failure mechanisms across manipulation and acquisition domains.",
+      "link": "https://doi.org/10.1038/s41598-026-72389-y",
+      "authors": [
+        "Firdous Sadaf Mohammad Ismail",
+        "Miheer Satish Kulkarni",
+        "Nileshchandra Pikle",
+        "Snehal Bankatrao Shinde"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:23+00:00",
+      "last_seen": "2026-09-22T00:32:23+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T00:32:23+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72571-2": {
+      "key": "doi:10.1038/s41598-026-72571-2",
+      "doi": "10.1038/s41598-026-72571-2",
+      "title": "T-cell responses to ancestral SARS-CoV-2 and Omicron in unvaccinated hospitalised adults living with and without HIV in South Africa",
+      "abstract": "HIV-associated immune dysfunction may impact SARS-CoV-2–specific T-cell responses, yet data in COVID-19–unvaccinated people living with HIV (PLWH) remain limited. We evaluated virus-specific T-cell responses one month after COVID-19–related hospitalisation in antiretroviral-treated PLWH and HIV-uninfected adults recovering from ancestral (Wuhan-Hu-1), Beta (B.1.351), or Delta (B.1.617.2) variant infection. Flow cytometry assessed the magnitude, polyfunctionality, and activation (HLA-DR, CD38, and CD26) of CD4+, CD8+, and CD4+CD8+ (double positive, DP) T-cell subsets, as well as cross-reactivity to Omicron (BA.4/BA.5). Seventeen PLWH and 21 HIV-uninfected black African adults were enrolled. No statistically significant differences were observed in SARS-CoV-2–specific CD4+, CD8+, and DP T-cell response magnitudes, responder frequencies, and cytokine production profiles (IFN-γ, IL-2, and TNF-α) between groups following adjustment for multiple comparisons. Spike- and nucleocapsid-specific responses correlated strongly in PLWH, particularly among CD4+ and CD8+ T cells, with fewer significant correlations observed among HIV-uninfected participants. CD26 expression and T-cell activation phenotypes (HLA-DR/CD38 subsets) did not differ by HIV status after adjustment for multiple comparisons. Both groups demonstrated cross-recognition of Omicron, irrespective of the infecting SARS-CoV-2 variant. Overall, our results provide no evidence of substantial differences in SARS-CoV-2–specific T-cell responses and activation profiles between antiretroviral-treated PLWH and HIV-uninfected adults, while both groups demonstrated cross-reactive T-cell responses to Omicron.",
+      "link": "https://doi.org/10.1038/s41598-026-72571-2",
+      "authors": [
+        "William C. McMahon",
+        "Gaurav Kwatra",
+        "Alane Izu",
+        "Natali Serafin",
+        "Farzanah Laher",
+        "Sharon Shalekoff",
+        "Caroline T. Tiemessen",
+        "Shabir A. Madhi",
+        "Marta C. Nunes"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:24+00:00",
+      "last_seen": "2026-09-22T00:32:24+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T00:32:24+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72742-1": {
+      "key": "doi:10.1038/s41598-026-72742-1",
+      "doi": "10.1038/s41598-026-72742-1",
+      "title": "A novel multidimensional distance measure for graphs",
+      "abstract": "We introduce a novel multidimensional distance measure between graphs that extends our previously defined Vectorial Tree Distance (VTD) to general undirected, unweighted graphs. We name the new measure ’Vectorial Graph Distance’ (VGD). The method converts each graph into a unique tree by combining a bounded quotient graph, constructed using node-betweenness centrality, with a modified breadth-first search (BFS) that ensures uniqueness. Once converted, the resulting trees are compared using the VTD, yielding a structured vector-valued distance that reflects hierarchical differences between graphs. We demonstrate the utility of the VGD to separate molecular graphs taken from the ENZYMES (BRENDA) and Proteins (Protein Data Bank) datasets. We further show that the VGD successfully partitions graphs with different hierarchical structure. The approach captures meaningful structural distinctions and provides an interpretable, multi-level measure of graph similarity.",
+      "link": "https://doi.org/10.1038/s41598-026-72742-1",
+      "authors": [
+        "Avner Priel",
+        "Boaz Tamir"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:25+00:00",
+      "last_seen": "2026-09-22T00:32:25+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T00:32:25+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72270-y": {
+      "key": "doi:10.1038/s41598-026-72270-y",
+      "doi": "10.1038/s41598-026-72270-y",
+      "title": "Repeated strategies and negative implementation errors shape induced game types in the iterated Prisoner’s Dilemma",
+      "abstract": "Abstract The iterated Prisoner’s Dilemma is often studied in terms of strategy performance and long-run cooperation. This paper offers an alternative perspective: given a finite set of strategies, the long-run interaction between strategies is interpreted as an induced symmetric 2 × 2 game, and the distribution of such induced game types is examined under implementation errors. Thirteen strategies are used in large-scale computerized round-robin tournaments. For each noise level, long-run per-round payoffs are estimated by repeated sampling with a geometric stopping rule, and each strategy pair is classified into standard symmetric game types using a payoff-ordering taxonomy. The resulting payoff matrices are then used in a discrete-time replicator dynamic to identify which induced game types characterize the evolved population. In addition, a population-weighted transformation is applied in which payoff entries are weighted by encounter frequencies implied by final population shares, yielding a system-level classification of the effective strategic environment. Whereas the encounter-weighted share of induced Prisoner’s Dilemma games is negligible in the final generation under noise-free play, it becomes substantial under negative implementation errors. By contrast, population-weighted classifications concentrate on Concord and Harmony, for the parameter values considered. Bootstrap analysis indicates that the induced game classifications are generally stable under replicate-level resampling.",
+      "link": "https://doi.org/10.1038/s41598-026-72270-y",
+      "authors": [
+        "Andreas Duerholt"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:26+00:00",
+      "last_seen": "2026-09-22T00:32:26+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72204-8": {
+      "key": "doi:10.1038/s41598-026-72204-8",
+      "doi": "10.1038/s41598-026-72204-8",
+      "title": "Mediterranean diet quality is inversely associated with premenstrual symptom severity in young adult women",
+      "abstract": "Abstract Premenstrual disorders, including premenstrual syndrome and premenstrual dysphoric disorder, are common cyclic conditions influenced by neuroendocrine, inflammatory, and metabolic mechanisms. Emerging evidence suggests that diet quality may be associated with premenstrual symptom severity; however, the association between Mediterranean diet adherence and PMDs, particularly the extent to which this association may be confounded by body mass index (BMI), remains insufficiently characterized. This cross-sectional study included 849 young adult women. Data were collected using a structured questionnaire assessing dietary habits, sociodemographic characteristics, menstrual history, physical activity, sleep duration, and anthropometric measurements. Mediterranean diet adherence was evaluated using the “Mediterranean Diet Quality Index (KIDMED)”, and premenstrual symptoms were assessed using the “Premenstrual Symptoms Diagnostic Scale (PSDS)”. Multivariable linear regression analyses were performed to examine associations between KIDMED scores and PSDS outcomes. BMI was added to the fully adjusted model to evaluate its potential confounding influence on these associations. The mean age of participants was 19.62 ± 2.02 years, and the mean BMI was 21.55 ± 3.16 kg/m 2 . Higher KIDMED scores were significantly associated with lower PSDS total scores. Specifically, each one-unit increase in KIDMED score was significantly associated with a 0.795-point reduction in PSDS total score (95%CI: -1.255; -0.335; Model 1; R 2 = 0.013, p < 0.001). After adjustment for demographic and lifestyle covariates, higher KIDMED scores remained associated with lower total PSDS scores (Model 2: B = − 0.723, p = 0.003). Further adjustment for BMI modestly attenuated this association (Model 3: B = − 0.636, p = 0.007), corresponding to an approximately 12% reduction in the magnitude of the KIDMED coefficient, while the association remained statistically significant. Greater adherence to the Mediterranean diet was independently associated with lower premenstrual symptom severity. Adjustment for BMI modestly attenuated, but did not eliminate, this association, suggesting that BMI may account for part of the observed relationship between Mediterranean diet quality and premenstrual symptoms.",
+      "link": "https://doi.org/10.1038/s41598-026-72204-8",
+      "authors": [
+        "Çağdaş Salih Meriç",
+        "Hacı Ömer Yılmaz"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:26+00:00",
+      "last_seen": "2026-09-22T00:32:26+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72372-7": {
+      "key": "doi:10.1038/s41598-026-72372-7",
+      "doi": "10.1038/s41598-026-72372-7",
+      "title": "Energy-efficient sub-thermionic switching in group-V nanoribbon TFETs for beyond-CMOS logic",
+      "abstract": "The scaling limits of conventional CMOS technology have intensified the search for steep-slope switching devices capable of reducing power consumption beyond the thermionic limit. Tunnel field-effect transistors (TFETs) are promising candidates for this purpose; however, simultaneously achieving sub-thermionic switching (SS < 60 mV dec⁻1) and high drive current at deeply scaled channel lengths remains a major challenge. In this work, density functional theory (DFT) combined with the non-equilibrium green’s function (NEGF) formalism is employed to investigate phosphorene, arsenene, and antimonene nanoribbon TFETs in both armchair and zigzag configurations, benchmarked against the International roadmap for devices and systems (IRDS) requirements for 10-nm logic applications. Significant performance differences are observed as a function of edge orientation and material composition. Armchair phosphorene nanoribbons (A-PNRs) exhibit excessive ambipolar leakage and fail to satisfy the low-power (LP) OFF-state criterion. In contrast, armchair antimonene nanoribbons (A-SbNRs) achieve a minimum subthreshold swing of 43.9 mV dec⁻1 and an ION/IOFF ratio exceeding 10⁶ in the LP regime, owing to their favorable balance between bandgap and carrier transport properties. Zigzag nanoribbon configurations consistently fail to satisfy the complete set of IRDS performance targets. Although none of the investigated materials simultaneously meet all High-Performance (HP) requirements, A-SbNRs exhibit the most balanced overall performance. These results identify armchair antimonene nanoribbons as promising channel materials for ultra-scaled, low-power TFET technologies beyond conventional CMOS electronics.",
+      "link": "https://doi.org/10.1038/s41598-026-72372-7",
+      "authors": [
+        "H. Shamloo",
+        "A. Yazdanpanah-Goharrizi"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-22T00:32:26+00:00",
+      "last_seen": "2026-09-22T00:32:26+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-22T00:32:26+00:00",
+      "matched_channels": {}
     }
   }
 }
