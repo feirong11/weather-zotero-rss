@@ -171187,6 +171187,483 @@
           "machine learning"
         ]
       }
+    },
+    "doi:10.1002/joc.70606": {
+      "key": "doi:10.1002/joc.70606",
+      "doi": "10.1002/joc.70606",
+      "title": "Understanding Heat Waves in Rajasthan: Spatio‐Temporal Analysis, Hazard Assessment, and Hotspot Mapping",
+      "abstract": "ABSTRACT Heat waves (HWs) cause substantial loss of life and economic damage globally, and in Rajasthan, India's most climatologically exposed state, their intense and prolonged nature poses a severe threat to human health. Despite this, comprehensive studies examining heat wave (HW) characteristics, hotspot identification, and management frameworks for Rajasthan remain scarce. To address this gap, this study analyses HW characteristics for March–June (1988–2021) using India Meteorological Department (IMD) gridded data, delineates hazard hotspot zones through six frequency, intensity, and severity parameters weighted via the analytical hierarchy process (AHP), and assesses temporal trends using the Mann–Kendall test. Results reveal significant spatial and temporal variations in the frequency, severity, and intensity of HWs. June records the highest HW frequency, while May is the most thermally extreme month, averaging approximately 3 days per year with temperatures exceeding 45°C, predominantly concentrated in the eastern part of the state, with Bharatpur (east) and Bikaner (northwest) among the most severely affected districts. AHP‐based hazard mapping identifies Bikaner, Churu, Ganganagar, and Hanumangarh in the northern region, and Alwar, Bharatpur, Dholpur, and eastern Jaipur in the eastern region, as primary hotspot districts. Their intensification is driven by declining rainfall, reduced soil moisture, and urban heat dome effects, factors that reinforce positive land–atmosphere feedbacks. Mann–Kendall analysis reveals statistically significant ( p < 0.05) increasing trends in HW frequency across eastern and southern districts, including Alwar, Bharatpur, Dholpur, and Karauli in the eastern region, and Banswara and Dungarpur in the southern region. Southwestern districts, Barmer, Jaisalmer, Jalore, Sirohi, and Jhalawar, show a non‐significant decreasing trend, which may be attributable to increased rainfall that sustains soil moisture and moderate temperatures through evaporative cooling. Critically, hotspot districts face compounding heat stress and water scarcity risks, with adverse implications for ecosystems and carbon cycling. The key findings of the study provide valuable insights for disaster management agencies and planning departments in addressing future HW events and implementing effective risk reduction strategies in the region. This research represents an important step toward developing a comprehensive HWs hazard map for the entire state of Rajasthan, which will aid in safeguarding human lives and property.",
+      "link": "https://doi.org/10.1002/joc.70606",
+      "authors": [
+        "Vandana Choudhary",
+        "Milap Punia",
+        "Suman Bhattacharyya"
+      ],
+      "published": "2026-09-25T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-26T06:30:40+00:00",
+      "last_seen": "2026-09-26T06:30:40+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78046-2": {
+      "key": "doi:10.1038/s41467-026-78046-2",
+      "doi": "10.1038/s41467-026-78046-2",
+      "title": "Branched-type nanocluster-junction fluorofluidic-gels for interface-adaptive thermal conduction and mechanical resistance",
+      "abstract": "With the miniaturization and high integration of microelectronic devices, efficient thermal management is increasingly critical. Conventional thermal interface materials often suffer from a certain degree of mismatch between their thermal conductivity and contact thermal resistance. Herein, we develop a thermal interface fluorofluidic-gel with a branched-type nanocluster-junction network. Benefiting from the interfacial infiltration enabled by the branched-junction fluoronetwork and the efficient thermal pathways constructed by thermal conductive nanocomposites, the fluorofluidic-gel exhibits a high thermal conductivity of 5.89 W·m⁻¹·K⁻¹ and a low contact thermal resistance of 0.15 cm²·K·W⁻¹. It also achieves reversible adhesion and mechanical resistance, with an adhesive strength of 189.3 kPa, adhesion energy of 220.3 J·m⁻² and impact resistance of 3.91 J·cm⁻¹. In addition, this gel maintains thermal stability from −80 °C to 300 °C and exhibits an electrical breakdown strength exceeding 24 kV/mm. We ‌anticipate‌ that adaptive thermal interface fluorofluidic-gel presents a promising solution for high-heat-flux electronic thermal management. ‘Conventional thermal interface materials often suffer from a certain degree of mismatch between their thermal conductivity and contact thermal resistance. Here the authors develop a thermal interface fluorofluidic-gel with a branched-type nanocluster-junction network exhibiting high thermal conductivity and low contact thermal resistance.",
+      "link": "https://doi.org/10.1038/s41467-026-78046-2",
+      "authors": [
+        "Weiming Tang",
+        "Hangsheng Zhou",
+        "Hanyu Wang",
+        "Xingyue Zhu",
+        "Lei Jiang",
+        "Ziguang Zhao",
+        "Shutao Wang"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-26T06:30:47+00:00",
+      "last_seen": "2026-09-26T06:30:47+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-26T06:30:47+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72294-4": {
+      "key": "doi:10.1038/s41598-026-72294-4",
+      "doi": "10.1038/s41598-026-72294-4",
+      "title": "Administration of a phosphodiesterase 4B inhibitor reduces hippocampal neuronal cell death after global cerebral ischemia",
+      "abstract": "Abstract Global cerebral ischemia (GCI) causes widespread neuronal injury, with hippocampal neurons being particularly vulnerable. This study examined whether post-GCI treatment with amlexanox (AMX), a phosphodiesterase 4B (PDE4B) inhibitor, reduces hippocampal neurodegeneration and modulates lysosome/autophagy-associated processes. In a mouse model of GCI, AMX (10 mg/kg, intraperitoneally) was administered daily, and hippocampal injury was evaluated using histological and molecular analyses. AMX treatment reduced neuronal degeneration and preserved neuronal integrity in the hippocampus. These effects were accompanied by reduced PDE4B expression, increased levels of proteins associated with lysosomal and autophagic processes, and changes in apoptosis-related protein expression. Overall, AMX treatment exerted neuroprotective effects and was associated with alterations in lysosome/autophagy-associated markers following GCI. Although the underlying signaling mechanisms and autophagic flux were not directly examined, these findings suggest that AMX may represent a potential therapeutic approach for reducing ischemia-induced neuronal injury.",
+      "link": "https://doi.org/10.1038/s41598-026-72294-4",
+      "authors": [
+        "Se Wan Park",
+        "Bo Young Choi",
+        "A. Ra Kho",
+        "Dae Ki Hong",
+        "Min Woo Lee",
+        "Song Hee Lee",
+        "Beom Seok Kang",
+        "Min Kyu Park",
+        "Chang Jun Lee",
+        "Hyun Wook Yang",
+        "Seo Young Woo",
+        "Dong Yeon Kim",
+        "Won Il Yang",
+        "Hyun Ho Jung",
+        "Sang Won Suh"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:51+00:00",
+      "last_seen": "2026-09-26T06:30:51+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-62939-9": {
+      "key": "doi:10.1038/s41598-026-62939-9",
+      "doi": "10.1038/s41598-026-62939-9",
+      "title": "Prevalence and associated factors of traditional eyelash epilation among patients with trachomatous trichiasis in South Ethiopia",
+      "abstract": "Trachoma remains the leading infectious cause of blindness globally, with Ethiopia bearing the highest disease burden. Trachomatous trichiasis (TT), the advanced stage of trachoma, requires surgical correction to prevent irreversible blindness. However, many affected patients rely on traditional eyelash epilation as an alternative to surgery. This study aimed to assess the prevalence of traditional eyelash epilation and identify factors associated with its practice among TT patients in South Ethiopia. A community-based cross-sectional study was conducted using baseline data from a cluster randomized controlled trial carried out in selected woredas, in South Ethiopia, in 2026. A total of 464 adult TT patients were included through multistage cluster sampling across 58 kebeles. Data were collected using interviewer-administered structured questionnaires and clinical eye examination. Mixed-effects logistic regression was used to identify factors associated with traditional eyelash epilation, accounting for clustering at the kebele level. Statistical significance was declared at p < 0.05. The prevalence of traditional epilation among TT patients was 46.8% (95% CI 42.2–51.3). Each additional month of symptom duration increased the odds of traditional epilation by 7% (AOR = 1.07, 95% CI 1.04–1.10). Similarly, participants who lived more than a 30 min walk from a health facility had significantly higher odds of traditional epilation than those living within 30 min (AOR = 1.87, 95% CI 1.00–3.48). Participants with adequate knowledge about TT surgery (AOR = 0.32, 95% CI 0.16–0.62) and favourable attitudes toward TT surgery (AOR = 0.56, 95% CI 0.32–0.98) were less likely to practice epilation. Traditional epilation remains prevalent among patients with TT in South Ethiopia. Longer duration of symptoms, limited access to health facilities, and inadequate knowledge and unfavourable attitudes toward TT surgery were associated factors. Strengthening social and behavioural change communication to improve awareness and attitudes toward surgical management, along with expanding access to TT surgical services, is essential to reduce reliance on traditional epilation.",
+      "link": "https://doi.org/10.1038/s41598-026-62939-9",
+      "authors": [
+        "Eyasu Ware",
+        "Teklu Wegayehu",
+        "Daniel Woldeyes",
+        "Zerihun Zerdo"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:51+00:00",
+      "last_seen": "2026-09-26T06:30:51+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-26T06:30:51+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73036-2": {
+      "key": "doi:10.1038/s41598-026-73036-2",
+      "doi": "10.1038/s41598-026-73036-2",
+      "title": "In vitro evaluation of pH, calcium ion release and interfacial characterization of calcium silicate–based and epoxy resin–based sealers",
+      "abstract": "Abstract This in vitro study evaluated the physicochemical properties and interfacial behavior of four calcium silicate–based sealers (CSBS) compared to an epoxy resin–based sealer. Specimens were prepared under standardized conditions, and pH and calcium (Ca 2+ ) ion release were measured over time. The interfacial characterization was performed on selected extracted teeth using scanning electron microscopy to evaluate gap formation and energy-dispersive X-ray spectroscopy to determine elemental composition. Statistical analysis included linear mixed-effects models for repeated pH and interfacial gap measurements, one- and two-way ANOVA with Tukey’s HSD post hoc test, and Kruskal–Wallis test with Dunn’s post hoc test, with statistical significance set at p < 0.05. All CSBS exhibited consistently high alkaline pH values and measurable calcium ion release, whereas the epoxy resin–based sealer showed neutral pH and no detectable Ca 2+ release. Interfacial analysis revealed higher Calcium-to-Phosphorus (Ca/P) ratios and lower relative calcium differences for CSBS, whereas the resin-based sealer showed greater differences in calcium and carbon content at the dentine–sealer interface. Additionally, interfacial gap width differed according to sealer type and canal region, with CSBS generally showing smaller SEM-measured gaps than AH Plus and gap widths tending to increase toward the apical region. CSBS demonstrated higher alkalinity, measurable calcium ion release, and generally favorable interfacial adaptation compared with the epoxy resin–based sealer. The observed alkaline pH, calcium ion release, and favorable interfacial adaptation highlight physicochemical and interfacial characteristics that are relevant when considering CSBS for root canal obturation.",
+      "link": "https://doi.org/10.1038/s41598-026-73036-2",
+      "authors": [
+        "Mateusz Radwanski",
+        "Ireneusz Piwonski",
+        "Maciej Wojtczak",
+        "Augusto R Elias Boneta",
+        "Salvatore Sauro",
+        "Jukka P. Matinlinna",
+        "Monika Lukomska-Szymanska"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:52+00:00",
+      "last_seen": "2026-09-26T06:30:52+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70308-9": {
+      "key": "doi:10.1038/s41598-026-70308-9",
+      "doi": "10.1038/s41598-026-70308-9",
+      "title": "Green-synthesized copper nanoparticles differentially modulate germination and selected stress-response genes in Phelipanche aegyptiaca",
+      "abstract": "Abstract Egyptian broomrape ( Phelipanche aegyptiaca ) is a devastating parasitic weed requiring eco-friendly control strategies. This in vitro study investigated the effects of green-synthesised copper oxide (CuO) nanoparticles, produced using Anethum graveolens extract, on P. aegyptiaca germination and targeted stress-gene expression. Nanoparticles were physicochemically characterised via TEM, DLS, and FTIR. Germination bioassays (1–25 mg L⁻¹ CuO-NPs; 25 mg L⁻¹ bulk CuSO₄) were conducted under four distinct physiological conditions. Under non-inductive conditions, 1 mg L⁻¹ CuO-NPs stimulated germination from ~ 0.7% to ~ 8.1%, indicating a clear hormetic response. Conversely, 10–25 mg L⁻¹ CuO-NPs caused strong germination inhibition and radicle-growth suppression (> 97% reduction), even under optimal strigolactone stimulation. Unlike bulk CuSO₄, CuO-NPs triggered dose-dependent upregulation of antioxidant and phenylpropanoid genes ( SOD , APX , PAL ) and significantly elevated phenolic and flavonoid contents. Furthermore, EDS revealed that CuO-NPs produced more spatially dispersed copper deposition on seed coats compared to localised aggregates formed by bulk copper. These findings demonstrate that green-synthesised CuO-NPs effectively modulate parasitic weed germination and stress-related gene expression in vitro , highlighting their promising potential for targeted seed-bank management pending further comprehensive environmental and host-safety validation.",
+      "link": "https://doi.org/10.1038/s41598-026-70308-9",
+      "authors": [
+        "Marwa A. Ibrahim",
+        "Fathalla M. Zaitoun",
+        "Elsayed E. Hafez",
+        "Doaa A. Komeil"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:52+00:00",
+      "last_seen": "2026-09-26T06:30:52+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72968-z": {
+      "key": "doi:10.1038/s41598-026-72968-z",
+      "doi": "10.1038/s41598-026-72968-z",
+      "title": "Optimized design of 3D human pose estimation algorithm based on improved adaptive attention mechanism for sports training",
+      "abstract": "Accurate three-dimensional (3D) human pose estimation is fundamental to sports training analysis, athlete performance monitoring, and rehabilitation guidance. Existing deep learning-based methods are primarily limited by two key deficiencies: (1) fixed receptive fields of convolutional networks hinder the effective learning of long-range joint dependencies, and (2) standard residual backbones fail to differentiate the discriminative importance of individual feature channels, which is particularly detrimental to depth coordinate regression accuracy in complex athletic scenarios. In this paper, we propose a novel 3D human pose estimation network enhanced by an Improved Adaptive Attention Mechanism, specifically optimized for sports training scenarios. Building upon a weakly supervised transfer learning baseline, we introduce a Residual Attention Module (RAM) that integrates ECANet into the ResNet50 residual blocks to reinforce channel-wise feature discrimination critical for depth estimation. Additionally, we design an Adaptive Attention Mechanism based on Batch Normalization initialization to ensure seamless compatibility with pre-trained weights, preventing the disruption of learned semantic information during early training. Extensive experiments on the Human3.6M benchmark demonstrate that our method achieves significant performance gains, reducing the Mean Per Joint Position Error (MPJPE) from 64.9 mm to 58.6 mm–a 9.7% relative improvement. To explicitly validate the model’s utility in real-world sports training, we extend our evaluation to the AthleticsPose dataset, featuring authentic high-speed athletic motions. Furthermore, comprehensive evaluations on 2D sports datasets yield state-of-the-art results, including a 94.3% PCK@0.2 on the LSP dataset, with notable accuracy gains in challenging distal joints such as wrists and ankles. Ablation studies validate the distinct and cumulative contributions of the channel and spatial recalibration modules. Finally, qualitative assessments and inter-joint cosine similarity matrix analyses confirm that the proposed architecture markedly improves the modeling of structural biomechanical relationships and provides robust depth estimation under severe self-occlusions and complex asymmetric postures–capabilities directly beneficial for precise technique analysis in athletic environments.",
+      "link": "https://doi.org/10.1038/s41598-026-72968-z",
+      "authors": [
+        "PengFei Li",
+        "RuoYun Huang",
+        "SanBao Wang"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:52+00:00",
+      "last_seen": "2026-09-26T06:30:52+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-26T06:30:52+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71154-5": {
+      "key": "doi:10.1038/s41598-026-71154-5",
+      "doi": "10.1038/s41598-026-71154-5",
+      "title": "Attenuation of self-produced touch in the posterior insula reflects body image disturbances in anorexia nervosa",
+      "abstract": "Abstract Body image disturbance (BID) is a core feature of anorexia nervosa (AN), encompassing multimodal distortions in bodily self-perception. Affective touch, a gentle, emotionally salient tactile stimulus, is implicated in body ownership but has not been extensively studied in AN. Affective touch is processed in the insula, an area involved in interoception and bodily self-awareness which has been shown to be altered both structurally and functionally in AN. This study explored the neural mechanisms underlying BID by examining how individuals with AN process self-produced affective touch. Women with AN ( n = 44) and age-matched healthy controls (HC, n = 40), participated in a self-other-object touch task during functional brain imaging and filled out questionnaires related to body image and eating disorder symptomatology. During self-touch, individuals with AN exhibited increased activation in the right posterior insula compared to object-touch, whereas HC did not. This insular activation correlated positively with body attitude (BAT) and body size estimation (FRS) scores in AN, but negatively in healthy controls, suggesting divergent processing of self-related tactile input. These findings suggest that posterior insular responses to self-produced touch may reflect disturbed sensory self-processing in AN, and that touch-based mechanisms contributing to body ownership in healthy individuals may operate differently in the context of AN. Broadening BID research beyond the visual modality opens new avenues for translational research and treatment.",
+      "link": "https://doi.org/10.1038/s41598-026-71154-5",
+      "authors": [
+        "Morgan Frost-Karlsson",
+        "Maria Zetterqvist",
+        "Håkan Olausson",
+        "Rebecca Boehme"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:53+00:00",
+      "last_seen": "2026-09-26T06:30:53+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72131-8": {
+      "key": "doi:10.1038/s41598-026-72131-8",
+      "doi": "10.1038/s41598-026-72131-8",
+      "title": "S2DFusion: a statistical and scale difference attention network for infrared and visible image fusion",
+      "abstract": "Infrared and visible image fusion aims to integrate cross-modal complementary information for comprehensive all-weather scene perception. However, existing methods often fail to effectively decouple background noise from modality-specific salient features, leading to contrast degradation, diminished thermal target prominence, and the loss of fine texture details in the fused images. To address these limitations, we propose S2DFusion, a novel statistical and scale-differential attention network that constructs a “difference-oriented” explicit decoupling and fusion paradigm. Specifically, the infrared branch introduces a Statistical Difference Attention (SDA) module to actively separate and refine high-energy thermal targets from the background. Concurrently, the visible branch employs a Scale Difference Large Kernel (SDLK) module to capture and enhance multi-scale high-frequency textures. To prevent spatial confusion during feature integration, we design a lateral branch with a Local Attention Module (LAM) to preserve unique features, and a Common-Unique Cross Aggregation Module (CUCAM) at the bottleneck to achieve deep semantic integration. Furthermore, the network is driven by a multi-task loss function combining feature decoupling, intensity fidelity, and salient gradient boosting to maximize structural detail and contrast preservation. Extensive experiments across multiple public datasets demonstrate that S2DFusion achieves state-of-the-art performance in both subjective visual quality and objective metrics. Moreover, evaluations on downstream YOLO object detection tasks validate that the proposed method significantly enhances detection accuracy and robustness in complex environments by preserving high-fidelity thermal targets and multi-scale details. Feature-level decomposition analysis further verifies that the learned common and unique representations exhibit the intended cross-modal similarity and intra-modal orthogonality. Sensitivity and perceptual-quality analyses show that the gradient amplification factor provides a controllable trade-off between edge enhancement and perceptual naturalness, while downstream evaluations with both YOLOv5s and YOLOv8s demonstrate that the benefit is not detector-specific.",
+      "link": "https://doi.org/10.1038/s41598-026-72131-8",
+      "authors": [
+        "Zexuan Bian"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:53+00:00",
+      "last_seen": "2026-09-26T06:30:53+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-26T06:30:53+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73681-7": {
+      "key": "doi:10.1038/s41598-026-73681-7",
+      "doi": "10.1038/s41598-026-73681-7",
+      "title": "Family acceptance as a buffer against hate-speech induced depression and suicidal ideation among gay and lesbian individuals in Poland",
+      "abstract": "Experiences of minority stress likely contribute to elevated levels of depression and suicidal ideation among LGBT individuals. We examined whether the self-reported frequency of exposure to hate speech targeting gay men and lesbians was associated with these outcomes and whether family acceptance of one’s sexual orientation attenuated these associations. We used data from a national survey of the Polish LGBTQiA community (N = 3827 gay men and lesbians). Participants reported the severity of eight symptoms of depression, as well as the frequency of suicidal ideation. They also indicated how often they had encountered homophobic hate speech, and which categories of close family members accepted their sexual orientation. A higher self-reported frequency of exposure to homophobic hate speech was associated with greater severity of depressive symptoms and more frequent suicidal ideation. These associations were moderated by family acceptance, such that they were weaker among participants with higher family acceptance scores. Our findings provide evidence that family acceptance may buffer negative mental health outcomes of hate speech exposure among gay men and lesbians.",
+      "link": "https://doi.org/10.1038/s41598-026-73681-7",
+      "authors": [
+        "Wiktor Soral",
+        "Michał Bilewicz",
+        "Mikołaj Winiewski",
+        "Dominika Bulska"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:53+00:00",
+      "last_seen": "2026-09-26T06:30:53+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-26T06:30:53+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68609-0": {
+      "key": "doi:10.1038/s41598-026-68609-0",
+      "doi": "10.1038/s41598-026-68609-0",
+      "title": "Musculoskeletal pain and atrial fibrillation: the Framingham Heart Study",
+      "abstract": "Given the morbidity and mortality of atrial fibrillation (AF), identifying factors associated with its onset is a priority. Chronic pain affects one-third of Americans and is linked to cardiovascular disease outcomes, including stroke and mortality. Since there are common pathophysiological mechanisms, including inflammation and oxidative stress, we sought to investigate whether musculoskeletal pain, including widespread pain (WSP), was associated with AF. Participants aged ≥ 45 years from the Framingham Heart Study (FHS) Original and Offspring cohorts who completed a pain assessment were included. Pain was categorized into three groups: widespread pain (WSP), non-widespread pain (non-WSP), and no pain. Incident AF was identified using ECGs and medical records. We assessed the relation of pain and risk of incident AF using Fine-Gray subdistribution hazard modeling accounting for competing risk of death. Models were adjusted for potential confounders. The incident AF analysis included 3,740 participants (N = 358 AF events). Mean age at pain assessment was 62 ± 11 years and 56% were women. Compared to those with no pain, the risk for incident AF was modestly elevated among those with non-WSP (sHR = 1.30 (95% CI: 1.03–1.64); p = 0.03) and WSP (sHR = 1.41 (95% CI: 1.01–1.98); p = 0.04) in age/sex-adjusted models. The association was attenuated after multivariable adjustment (sHR non-WSP = 1.26 (95% CI: 1.00-1.59; p = 0.05) and sHR WSP = 1.35 (95% CI: 0.96–1.88; p = 0.08). We observed a modest association between musculoskeletal pain (WSP and non-WSP) and 10-year incident AF in age and sex-adjusted models that accounted for the competing risk mortality, however, this finding did not attain statistical significance after adjustment for the CHARGE-AF1 risk factor score components in the multivariable model.",
+      "link": "https://doi.org/10.1038/s41598-026-68609-0",
+      "authors": [
+        "Juan-Pablo Zertuche",
+        "David T. Felson",
+        "Tuhina Neogi",
+        "Eric J. Roseen",
+        "Emelia J. Benjamin",
+        "Sarah R. Preis"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:54+00:00",
+      "last_seen": "2026-09-26T06:30:54+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-26T06:30:54+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72027-7": {
+      "key": "doi:10.1038/s41598-026-72027-7",
+      "doi": "10.1038/s41598-026-72027-7",
+      "title": "Structural, thermal, mechanical and physical performance of cellulose fibers based low-density polyethylene/recycled polyethylene terephthalate blend composites",
+      "abstract": "Abstract Despite the increasing interest in recycled polymer composites and natural fiber reinforcement, relatively few studies have systematically examined low-density polyethylene (LDPE)/recycled polyethylene terephthalate (r-PET) blend systems reinforced with cellulose fibers recovered from used disposable paper cups, particularly through a direct comparison of untreated and methacrylic acid-grafted fibers. In this context, the present study developed sustainable composites based on LDPE and r-PET reinforced with cellulose fibers extracted from post-consumer paper cups and chemically modified with methacrylic acid. FTIR analysis indicated successful surface modification, as evidenced by the disappearance or reduction of lignin- and hemicellulose-related bands after bleaching and the appearance of a carbonyl band at approximately 1712 cm − 1 after grafting. XRD results showed a marked increase in crystallinity after bleaching, from 21.13% for washed fibers to 54.70% for bleached fibers. Grafted fibers retained an intermediate crystallinity of 46.75%, reflecting the partial disruption of the cellulose structure by grafting. TGA showed that methacrylic acid grafting improved the thermal stability of the fibers, increasing the main decomposition temperature from 327 °C for washed fibers to 354.48 °C for grafted fibers. DSC analysis was consistent with the enhanced thermal response and crystallization behavior of the composites, whereas r-PET incorporation increased the rigidity and thermal resistance relative to neat LDPE. Mechanically, blending LDPE with 25 wt% r-PET increased the ultimate tensile strength from 1.69 MPa to 7.40 MPa and Young’s modulus from 101.55 MPa to 272.17 MPa. The addition of grafted fibers further improved the tensile strength to 6.78 MPa and modulus to 218.58 MPa compared with untreated fibers. Water absorption tests showed that untreated fibers significantly increased moisture uptake, whereas methacrylic acid-grafted fibers markedly reduced water absorption and improved dimensional stability. Overall, the results suggest that integrating recycled PET and chemically modified cellulose fibers into LDPE matrices can yield composites with improved mechanical performance, enhanced thermal stability, and reduced water uptake relative to neat LDPE, thereby contributing to waste valorization and circular-economy-oriented applications within the limitations of the present system.",
+      "link": "https://doi.org/10.1038/s41598-026-72027-7",
+      "authors": [
+        "Hamida Boussehel",
+        "Lina Alloui",
+        "Abbes Ouaar",
+        "P. N. B. Reis",
+        "Zoheb Karim",
+        "Mohammad Jawaid"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:55+00:00",
+      "last_seen": "2026-09-26T06:30:55+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70794-x": {
+      "key": "doi:10.1038/s41598-026-70794-x",
+      "doi": "10.1038/s41598-026-70794-x",
+      "title": "Correction of extreme wind speed forecasts using ensemble learning over typical gale areas in Xinjiang, China",
+      "abstract": "The complex terrain of Xinjiang generates frequent extreme winds, posing risks to transportation safety. Numerical forecasts along transportation routes suffer from systematic biases stemming from limited observational data and terrain-amplification effects. Using observations from representative stations in key gale zones of Xinjiang, this study evaluates ECMWF gust forecasts from January 2023 to December 2025. While the model exhibits good correlation with observations, it generally underestimates wind speeds in the “Front Baili Wind Zone” and “Baili Wind Zone”. RMSE increases as wind speeds become more extreme, with the maximum RMSE reaching 10.24 m s⁻1 at the representative station. Accordingly, several ML techniques are employed to correct ECMWF gust forecasts. Results indicate that stacking (a machine-learning ensemble model) reduces RMSE by a maximum of 51.8% relative to the raw ECMWF forecast at Station A., while XGBoost achieves a maximum RMSE reduction of 47.9%. Notably, the stacking model demonstrates limited but useful generalization capabilities in areas with sparse observations and complex underlying surfaces. In terms of extreme wind speeds, ECMWF forecasts exhibit very low accuracy for wind speeds above level 14 in the verification samples. However, forecasts corrected by Stacking model effectively capture such extreme wind speeds, with gust forecast accuracy reaching up to 77.8% (Force 16) at representative stations.Therefore, integrating ensemble ML models into operational applications holds promising prospects for improving the forecasting performance of numerical models in areas with complex terrains.",
+      "link": "https://doi.org/10.1038/s41598-026-70794-x",
+      "authors": [
+        "Yasenjiang Kuerban",
+        "Xinmin Pan",
+        "Shangfei Hai",
+        "Yicheng Ge",
+        "Bin Liu",
+        "Chao Hu",
+        "Ailiyaer Aihaiti"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:55+00:00",
+      "last_seen": "2026-09-26T06:30:55+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-26T06:30:55+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73401-1": {
+      "key": "doi:10.1038/s41598-026-73401-1",
+      "doi": "10.1038/s41598-026-73401-1",
+      "title": "Improving frequency stability in islanded urban microgrids by improved cascaded controller (1+PD-3DOF-FOPID) mobile EV energy storage",
+      "abstract": "Maintaining frequency stability in islanded urban microgrids (IUMs) in the presence of disturbances from renewable energy sources such as photovoltaics and wind turbine generators, along with parameter uncertainties, constitutes a fundamental challenge. Owing to their inherent intermittency and low inertia, these sources can significantly jeopardize frequency stability in islanded operation. Mobile EV energy storage can play a pivotal role in enhancing frequency stability within IUMs. However, to ensure that such storage effectively contributes to system stability, a robust load frequency control system (LFC) is essential, one that performs reliably under both disturbances and parametric uncertainties. In this paper, a 1 + PD‑3DOF‑FOPID cascaded controller is designed for the LFC system of the IUM. In this structure, the inner (1 + PD) loop is responsible for rapid disturbance rejection, while the outer 3DOF‑FOPID controller handles fine adjustment and steady‑state error elimination. This combination effectively reduces frequency overshoot and undershoot, improves damping of oscillations, and maintains stability even under severe variations in system parameters. The coefficients of the proposed cascade controller are optimally tuned using the Harris Hawks Optimization (HHO) algorithm, which offers advantages such as avoiding local minima and achieving fast convergence. To evaluate its performance, the proposed method is compared with several existing approaches, including PD‑3DOF‑PID (COA), 3DOF‑PID (COA), and FOPID. The comparative results indicate that the proposed controller improves overshoot by 30%, undershoot by 54%, and frequency deviation settling time by 66% relative to the other methods. Moreover, the results confirm that the proposed approach exhibits strong robustness against both disturbances and parameter uncertainties, and it significantly enhances the overall frequency stability of the islanded urban microgrid.",
+      "link": "https://doi.org/10.1038/s41598-026-73401-1",
+      "authors": [
+        "Farhad Amiri"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:55+00:00",
+      "last_seen": "2026-09-26T06:30:55+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-26T06:30:55+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-67246-x": {
+      "key": "doi:10.1038/s41598-026-67246-x",
+      "doi": "10.1038/s41598-026-67246-x",
+      "title": "Data-driven identification of economic drivers and regional disparities of ecological resilience in china’s urban agglomerations: an explainable deep learning framework",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-67246-x",
+      "authors": [
+        "Heng Wang",
+        "Yuan Wang",
+        "Xiaohui Ding",
+        "Luping Li",
+        "Jialu Tang"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:56+00:00",
+      "last_seen": "2026-09-26T06:30:56+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-72885-1": {
+      "key": "doi:10.1038/s41598-026-72885-1",
+      "doi": "10.1038/s41598-026-72885-1",
+      "title": "No detectable association of APOE ε4 with spatial navigation and broader cognition in healthy young adults",
+      "abstract": "Abstract Alzheimer’s disease (AD) causes progressive memory loss and disorientation. It is preceded by a prolonged preclinical phase marked by pathological changes in medial temporal lobe regions involved in spatial navigation. Spatial navigation tasks have been proposed for early AD detection, and altered navigation performance was reported in older carriers of the apolipoprotein E (APOE) ε4 allele, the major genetic risk factor for sporadic AD. However, whether spatial navigation or other cognitive abilities are affected in younger ε4 carriers remains unclear. Here, we genotyped 1,000 healthy young adults (18–35 years) who completed the app-based navigation game “Sea Hero Quest” and several tasks assessing working memory, processing speed, executive functioning, and face recognition. APOE ε3ε4 carriers ( N = 88) showed no detectable differences from ε3ε3 carriers ( N = 327) on the assessed spatial navigation and cognitive measures, supported by equivalence testing and Bayesian analyses. Exploratory findings in smaller APOE ε2 subgroups (ε2ε2/ε2ε3/ε2ε4, N s = 7/51/7) suggested navigation closer to environmental borders and better memory updating, better face recognition, and faster processing speed than in ε3ε3 controls. Therefore, APOE-related behavioural differences in young adults appeared small at best, highlighting the need for paradigms sensitive to very subtle changes decades before potential dementia onset.",
+      "link": "https://doi.org/10.1038/s41598-026-72885-1",
+      "authors": [
+        "Luise P. Graichen",
+        "Lea Schenk",
+        "Christian Gausterer",
+        "Isabella C. Wagner"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:56+00:00",
+      "last_seen": "2026-09-26T06:30:56+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71342-3": {
+      "key": "doi:10.1038/s41598-026-71342-3",
+      "doi": "10.1038/s41598-026-71342-3",
+      "title": "Association between trajectory patterns of urea-to-creatinine ratio within 7 days after admission and prognosis in patients with sepsis",
+      "abstract": "Abstract Sepsis is a life-threatening syndrome characterized by substantial clinical heterogeneity. The urea-to-creatinine ratio (UCR) is a readily available biomarker reflecting systemic metabolic stress and renal handling; however, the prognostic value of its dynamic trajectories in sepsis remains unclear. This study aimed to identify UCR trajectory phenotypes in patients with sepsis using longitudinal data analysis and to investigate their associations with 30-day all-cause mortality. This retrospective cohort study was conducted using data from the MIMIC-IV database. A total of 7145 patients who met the Sepsis-3 diagnostic criteria were included. Longitudinal UCR measurements within the first 7 days after ICU admission were analyzed using latent class growth mixture modeling (LCGMM) to identify distinct trajectory patterns. Kaplan–Meier survival analysis and multivariable Cox proportional hazards regression were performed to evaluate the associations between UCR trajectory phenotypes and 30-day all-cause mortality. Five distinct UCR trajectory classes were identified by LCGMM: Class 1 (low-to-high sharp increase, 2.9%), Class 2 (low-to-moderate gradual increase, 24.3%), Class 3 (persistently low stable, 55.6%), Class 4 (high-to-low rapid decline, 2.0%), and Class 5 (moderately high gradual decline, 15.1%). Using Class 1 as the reference, multivariable Cox regression analysis demonstrated significantly lower mortality risks in all other classes (hazard ratios [HRs]: Class 2: 0.469; Class 3: 0.346; Class 4: 0.251; Class 5: 0.350; all P < 0.001). Subgroup analyses further revealed that the prognostic value of UCR trajectories was more pronounced in patients without acute kidney injury (AKI) and in those not requiring mechanical ventilation (interaction P < 0.001). LCGMM-based modeling of dynamic UCR trajectories effectively identifies sepsis phenotypes with distinct prognoses. Trajectories characterized by a sharp increase or persistently elevated UCR are associated with the highest mortality risk. This approach demonstrates enhanced risk stratification capability, particularly among patients without documented AKI. Our findings provide novel evidence supporting the use of routinely available, dynamic laboratory indicators for prognostic assessment and individualized management in patients with sepsis.",
+      "link": "https://doi.org/10.1038/s41598-026-71342-3",
+      "authors": [
+        "Xinyi Li",
+        "Hao Pan",
+        "Runjia Li",
+        "Yanli Wang"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:56+00:00",
+      "last_seen": "2026-09-26T06:30:56+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73487-7": {
+      "key": "doi:10.1038/s41598-026-73487-7",
+      "doi": "10.1038/s41598-026-73487-7",
+      "title": "ANN modelling and GA optimisation of microalgal removal of cortisone acetate, organic matter and nutrients",
+      "abstract": "Abstract Microalgal treatment can couple pharmaceutical attenuation with organic-matter and nutrient removal, but the operating windows for saline and freshwater species remain insufficiently defined. This laboratory study combined a central composite design, dual-detector confirmation of cortisone acetate (CA) removal, biomass mass balance, and artificial neural network (ANN) modelling and genetic algorithm (GA) optimisation to evaluate Tetraselmis chui ( T. chui ) and Scenedesmus obtusus ( S. obtusus ) under salinity, pH, and treatment-time variation. Cortisone acetate was evaluated with T. chui , whereas biochemical oxygen demand (BOD), chemical oxygen demand (COD), total nitrogen (TN), and total phosphorus (TP) were measured for both species. At 30.00 g/L salinity, pH 8.00, and 10.00 days, T. chui achieved 96.62% CA removal and 95.69–96.91% removal of the four water-quality parameters. At 0.00 g/L salinity, pH 7.00, and 10.00 days, S. obtusus achieved 96.25–98.41% removal of BOD, COD, TN, and TP. Species-specific ANN models accurately reproduced the experimental response surfaces (R² = 0.997 for T. chui and 0.978 for S. obtusus ), and the GA identified species-specific optima within the experimental ranges. The integrated experimental–analytical–modelling framework identifies salinity as the principal operational control while distinguishing the saline niche of T. chui from the freshwater niche of S. obtusus .",
+      "link": "https://doi.org/10.1038/s41598-026-73487-7",
+      "authors": [
+        "Zahra Derakhshan",
+        "Fahimeh Tavakoli",
+        "Mehrzad Feilizadeh",
+        "Mohammad Reza Samaei",
+        "Fatemeh Kazeruni",
+        "Nima Hooshmand Kouchak",
+        "Abdolrahim Asadollahi"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:56+00:00",
+      "last_seen": "2026-09-26T06:30:56+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-71322-7": {
+      "key": "doi:10.1038/s41598-026-71322-7",
+      "doi": "10.1038/s41598-026-71322-7",
+      "title": "Improved DASP-guided normal vector refinement for automatic discontinuity identification in 3D rock mass point clouds",
+      "abstract": "Abstract The spatial orientation of rock discontinuities is a fundamental parameter for evaluating rock mass stability and designing engineering support systems. This study proposes an automatic discontinuity identification method for three-dimensional rock mass point clouds based on improved density analysis of stereographic projections (DASP)-guided normal vector refinement. An adaptive voxel partitioning strategy and an improved DASP algorithm are employed to automatically determine the number of clusters and the initial orientation centers for K-means clustering. Furthermore, a prior orientation-guided normal vector diagnosis and selective re-estimation strategy is developed to mitigate the influence of mixed normal vectors on discontinuity identification. Validation using both a publicly available dataset and an in situ tunnel-face point cloud demonstrates that the proposed method achieves mean absolute errors as low as 0.89° and 1.05° for dip direction and dip angle, respectively. The proposed approach enables efficient discontinuity identification and automatic extraction of orientation parameters from complex rock mass point clouds.",
+      "link": "https://doi.org/10.1038/s41598-026-71322-7",
+      "authors": [
+        "Biao Leng",
+        "Fusheng Ye",
+        "Yuxuan Jiang",
+        "Jiajia Zhu",
+        "Ningfei Yuan",
+        "Xieyu Che",
+        "Yifan Jiang",
+        "Long Xiang",
+        "Zhibing Yu",
+        "Lunzhao Zhang"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:56+00:00",
+      "last_seen": "2026-09-26T06:30:56+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-70584-5": {
+      "key": "doi:10.1038/s41598-026-70584-5",
+      "doi": "10.1038/s41598-026-70584-5",
+      "title": "Local versus central differential privacy under final-model privacy attacks in low-client-count cross-silo federated learning",
+      "abstract": "Federated learning reduces the need to centralize raw data, but does not prevent privacy leakage from client updates, aggregation messages, or the final released model. This work compares local differential privacy (LDP), central differential privacy (CDP), record-level differentially private stochastic gradient descent (DP-SGD), and secure aggregation (SecAgg) in a low-client-count cross-silo setting with full client participation, across four datasets spanning image classification, tabular binary classification, and two time-series forecasting tasks. The study separates training-time confidentiality from final-model leakage and evaluates the released models under two final-model privacy attacks, membership inference and targeted reconstruction. Under these attacks, SecAgg leaves final-model leakage essentially unchanged: it protects the confidentiality of per-client updates during training but provides no $$(\\varepsilon ,\\delta )$$ guarantee for the released model, and is therefore evaluated as a complementary training-time mechanism whose principal cost is a training-time overhead of approximately 49% to 106%, varying by dataset and client count. Differential privacy constrains final-model leakage more directly, but its practical value depends on the balance between privacy protection and retained utility. Across the evaluated configurations, record-level DP-SGD, implemented locally on each client by clipping and perturbing per-example gradients, preserved utility best, staying closest to the non-private baseline on every task and remaining usable on image classification, where both client-contribution-level mechanisms collapsed to chance-level accuracy. Among the client-level mechanisms, CDP matched or exceeded LDP at equal privacy budget, because under a single consistent accountant the two share the same noise calibration and LDP carries $$\\sqrt{M}$$ more aggregate noise; the advantage of DP-SGD in turn follows from privacy amplification by subsampling, which lets it reach a given budget at roughly a tenth of the client-level noise. Under both final-model attacks the released models leaked little: membership inference stayed close to random guessing on the classification tasks, with a modest, temporally confounded elevation on the time-series tasks, and targeted reconstruction never improved on an uninformed baseline. These findings support selecting privacy-enhancing mechanisms according to the attacker model, trust assumptions, privacy unit, and acceptable utility loss, rather than by mechanism label alone.",
+      "link": "https://doi.org/10.1038/s41598-026-70584-5",
+      "authors": [
+        "Hlib Kokin",
+        "Oleksandr Lytvyn",
+        "Giang Nguyen"
+      ],
+      "published": "2026-09-26T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-26T06:30:56+00:00",
+      "last_seen": "2026-09-26T06:30:56+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-26T06:30:56+00:00",
+      "matched_channels": {}
     }
   }
 }
