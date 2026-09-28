@@ -175491,6 +175491,136 @@
           "machine learning"
         ]
       }
+    },
+    "doi:10.1002/joc.70602": {
+      "key": "doi:10.1002/joc.70602",
+      "doi": "10.1002/joc.70602",
+      "title": "Characteristics and Mechanism of Water Vapour Resources in the Northern Slope of Kunlun Mountains",
+      "abstract": "ABSTRACT Atmospheric water resources in the northern slope of Kunlun Mountains (NKM) are a crucial limiting factor for regional economic development and ecological security. Consequently, it is urgent to accurately assess the atmospheric water vapour and potential mechanisms in NKM. Results show that MERRA‐2 data sets exhibit better performance in describing the evolution of water vapour transport and precipitation during 1980 to 2023 in the NKM relative to ERA5 and NCEP re‐analysis. Based on MERRA‐2, evapotranspiration (0.51 mm/decade) and precipitation (0.55 mm/decade) exhibited increasing trends during 1980 to 2023 in the NKM. Similarly, atmospheric water resources, consisting of water vapour content (99.65%) and cloud water (0.35%), also experience an increasing trend which is closely related to perturbed circulations of an anticyclone over the NKM. The upper branch of the anticyclone of southerly could bring abundant input water vapour to Kunlun Mountains, resulting in positive WVB (6.6 Gt/year). The mechanism is generalized as three key pathways of South Asian monsoon‐driven low‐level vapour transport, plateau thermal pumping and northward relay upper water vapour transport. Because of the ascending flow and water vapour convergence, the precipitation conversion rate (PCR) exhibits relatively higher values in the Kunlun Mountains than that in the Tarim Basin. Our findings could be conducive to understanding the characteristics of atmospheric water vapour resources in NKM and also provide scientific support for its utilization.",
+      "link": "https://doi.org/10.1002/joc.70602",
+      "authors": [
+        "Min Luo",
+        "Yuqi Zhou",
+        "Ruifeng Ma",
+        "Chenglong Zhou",
+        "Xi Li",
+        "Khan Alam"
+      ],
+      "published": "2026-09-27T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-28T00:35:28+00:00",
+      "last_seen": "2026-09-28T00:35:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1002/joc.70608": {
+      "key": "doi:10.1002/joc.70608",
+      "doi": "10.1002/joc.70608",
+      "title": "Investigating the Impact of El Niño–Southern Oscillation on Rangeland Productivity in the Limpopo Province, South Africa",
+      "abstract": "ABSTRACT The El Niño–Southern Oscillation (ENSO) is a major driver of climate variability that influences rainfall patterns and vegetation productivity across semi‐arid regions of southern Africa. Understanding how ENSO affects rangeland productivity is essential for improving climate adaptation and sustainable livestock management in Limpopo Province, South Africa. This study investigated the influence of ENSO on rangeland productivity between 1999 and 2024 across 10 representative sites in Limpopo Province. Dry Matter Productivity (DMP) derived from the Copernicus Global Land Service was analysed together with seasonal rainfall and the Oceanic Niño Index (ONI). Long‐term trends were evaluated using the Mann–Kendall trend test and Sen's slope estimator, while standardized anomaly analyses and ENSO phase comparisons were used to assess rainfall and vegetation variability. Rainfall trends were generally weak and statistically non‐significant, with a significant decrease detected only at Lephalale (τ = −0.34, p = 0.017), despite pronounced interannual variability. In contrast, significant increasing trends in annual DMP were observed at Mhinga (τ = 0.343, p = 0.015), Mooketsi (τ = 0.415, p = 0.003), and Marble Hall (τ = 0.394, p = 0.005), with Sen's slope estimates ranging from 0.53 to 0.98 kg DM ha⁻¹ day⁻¹ year⁻¹ across these sites. Long‐term mean monthly DMP revealed a distinct seasonal cycle, with greening during early summer, peak productivity from January to April, and senescence during the dry winter months. ENSO phase comparisons showed that La Niña years were generally associated with above‐average November–December–January (NDJ) rainfall, whereas El Niño years exhibited below‐average rainfall. Higher February–March–April (FMA) DMP anomalies followed above‐normal NDJ rainfall conditions, while lower productivity occurred following below‐normal conditions. Spatial differences were evident, with the eastern and southern regions consistently exhibiting higher productivity than the drier northern and western regions. These findings demonstrate that ENSO influences rangeland productivity primarily through its effect on seasonal rainfall. Integrating ENSO‐based climate information with satellite‐derived vegetation monitoring can strengthen drought preparedness, improve seasonal grazing management, and support climate‐resilient rangeland management in semi‐arid South Africa.",
+      "link": "https://doi.org/10.1002/joc.70608",
+      "authors": [
+        "Phumzile Maluleke",
+        "Mokhele E. Moeletsi",
+        "Mitsuru Tsubo"
+      ],
+      "published": "2026-09-27T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-09-28T00:35:28+00:00",
+      "last_seen": "2026-09-28T00:35:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-59542-3": {
+      "key": "doi:10.1038/s41598-026-59542-3",
+      "doi": "10.1038/s41598-026-59542-3",
+      "title": "Serial MRI over 20 years supports a staged sequence of cervical degenerative findings in asymptomatic volunteers",
+      "abstract": "Magnetic resonance imaging findings of cervical degeneration are common in asymptomatic adults, but whether these findings follow a predictable sequence is unclear. We analyzed serial cervical MRI data from 131 asymptomatic volunteers examined at baseline, 10 years, and 20 years. At the disc level, we modeled trajectories of decreased signal intensity (DSI), anterior compression (AC), posterior disc protrusion (PDP), disc-space narrowing (DSN), and foraminal stenosis (FS). DSI trajectories showed a graded association with later AC and PDP at both follow-up intervals. Compared with discs that remained DSI-negative, persistent DSI was associated with approximately threefold higher risks of AC and PDP at 10 years and fivefold higher risks at 20 years. Among discs with baseline DSI, persistent AC/PDP identified discs at highest risk of later FS, whereas associations with DSN were weaker. Pairwise analyses showed that AC and PDP usually appeared within the same decade, whereas FS more often preceded DSN among late structural findings. These results support a staged pattern of cervical degenerative MRI findings in which DSI was associated with later AC/PDP and persistent AC/PDP identified a higher-risk pathway toward FS. This framework may improve interpretation of incidental cervical MRI findings.",
+      "link": "https://doi.org/10.1038/s41598-026-59542-3",
+      "authors": [
+        "Kota Watanabe",
+        "Kenshi Daimon",
+        "Hirokazu Fujiwara",
+        "Takehiro Michikawa",
+        "Eijiro Okada",
+        "Daisuke Ichihara",
+        "Kenya Nojiri",
+        "Masahiko Watanabe",
+        "Hiroyuki Katoh",
+        "Kentaro Shimizu",
+        "Hiroko Ishihama",
+        "Masaya Nakamura",
+        "Morio Matsumoto"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-28T00:35:32+00:00",
+      "last_seen": "2026-09-28T00:35:32+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-28T00:35:32+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-56974-9": {
+      "key": "doi:10.1038/s41598-026-56974-9",
+      "doi": "10.1038/s41598-026-56974-9",
+      "title": "Training executive control and multitasking abilities in older adults: training gains and transfer effects of an online pilot randomized controlled trial",
+      "abstract": "Developing meaningful and effective cognition-oriented treatments to enhance cognition and dementia prevention is a major public health need. This online randomized controlled trial assessed the effects of a new web-based cognitive training platform, the Breakfast Game (BG), which simulates real-life executive control/multitasking demands. Participants were randomized into 1) experimental group: BG using the Emphasis Change (EmCh), a strategy to facilitate flexible attention allocation, or 2) active control group: BG without EmCh. Thirty-eight cognitively unimpaired older adults, highly educated (mean 16.4 years) and mostly White (78%), were included in the study. Participants underwent pre- and post-assessments with 12 intervention sessions, three times per week. The intent-to-treat approach and linear-mixed models were implemented, and all models controlled for baseline performance. Both groups improved the game performance over the sessions, but the EmCh presented significantly greater improvement. There were time-by-group interactions in the game metrics and near-transfer outcomes on multitasking and executive/attention control, indicating greater training gains and transfer effects in the EmCh group. There were no distant-transfer effects on self-efficacy, mood, or cognitive activities in daily life. The BG with the EmCh is a promising online intervention tool to promote cognitive health and enhance executive control / multitasking abilities in aging.",
+      "link": "https://doi.org/10.1038/s41598-026-56974-9",
+      "authors": [
+        "Kayri K. Bartolotta",
+        "Maya Gal",
+        "Michelle Hernandez",
+        "Daniel Ben-Eliezer",
+        "Andrei R. Teodorescu",
+        "Seonjoo Lee",
+        "Sylvie Belleville",
+        "Benjamin M. Hampstead",
+        "Daniel Gopher",
+        "Michal Schnaider Beeri",
+        "Yaakov Stern",
+        "Sharon Sanz Simon"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-28T00:35:37+00:00",
+      "last_seen": "2026-09-28T00:35:37+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-28T00:35:37+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72628-2": {
+      "key": "doi:10.1038/s41598-026-72628-2",
+      "doi": "10.1038/s41598-026-72628-2",
+      "title": "Machine learning and GIS-based spatiotemporal prediction of urban sprawl in a rapidly growing African city: a case study of Dodoma, Tanzania",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-72628-2",
+      "authors": [
+        "Pascal Mlaga",
+        "Nelly Babere"
+      ],
+      "published": "2026-09-27T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-28T00:35:38+00:00",
+      "last_seen": "2026-09-28T00:35:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
     }
   }
 }
