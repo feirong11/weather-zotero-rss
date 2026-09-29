@@ -181211,6 +181211,654 @@
       "enrichment_attempts": 0,
       "last_enrichment_attempt": "",
       "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78095-7": {
+      "key": "doi:10.1038/s41467-026-78095-7",
+      "doi": "10.1038/s41467-026-78095-7",
+      "title": "Tall adhesions overcome cell surface steric interference and rescue antibody-dependent phagocytosis in macrophages",
+      "abstract": "Abstract Macrophages phagocytose IgG-opsonized target cells by forming phagocytic synapses upon binding of IgG to Fcγ receptors (FcγR) expressed on the macrophage surface. However, binding requires accessibility of both IgG and FcγR within densely packed glycocalyces that decorate the macrophage and target cell surfaces. Here, we use cell-like target particles to show that non-binding ‘bystander’ proteins not directly involved in phagocytic signaling can sterically interfere with FcγR engagement, ultimately inhibiting synapse formation and phagocytosis. Furthermore, we demonstrate that adding a tall binding protein to the target particle overcomes bystander-mediated inhibition and substantially recovers phagocytosis in a process we call kinetic enhancement. We confirm that tall binders are sufficient to drive short binder engagement in vitro and introduce theory and simulations to explain the nonmonotonic dependence of phagocytosis on tall binder surface density. These findings show that kinetic enhancement is a general and tunable feature of interface formation, providing a strategy for re-engineering transition states to promote short receptor engagement at cell-cell contacts.",
+      "link": "https://doi.org/10.1038/s41467-026-78095-7",
+      "authors": [
+        "Aymeric Chorlay",
+        "Aaron M. Joffe",
+        "Jared Huzar",
+        "Jaffar Hasnain",
+        "Caitlin E. Cornell",
+        "Phillip L. Geissler",
+        "Daniel A. Fletcher"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-29T00:34:32+00:00",
+      "last_seen": "2026-09-29T00:34:32+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78184-7": {
+      "key": "doi:10.1038/s41467-026-78184-7",
+      "doi": "10.1038/s41467-026-78184-7",
+      "title": "Stress-adaptive conductive network and ion-segregated polymeric-inorganic interphases enable durable room-temperature silicon-based solid-state batteries",
+      "abstract": "Silicon negative electrodes could increase energy density of solid-state lithium-ion batteries, however, their practical development is impeded by severe volume expansion, sluggish lithiation kinetics, and unstable solid-solid interphases. Here we develop a stress-adaptive micrometer-sized Si-Zinc-amorphous carbon composite negative electrode integrated with an elastic salt-segregated poly(vinylidene fluoride-co-hexafluoropropylene) solid electrolyte. A weakly bonded interface between silicon and nitrogen- and fluorine-doped amorphous carbon mechanically decouples silicon expansion from the conductive framework, preserving electrical connectivity during cycling. Concurrently, the preferential formation of lithium-zinc alloy enhances electronic transport and homogenizes stress distribution. The salt-segregated electrolyte further generates polymeric-inorganic bilayer solid-electrolyte interphases, consisting of a lithium fluoride/lithium oxide-rich inner layer that facilitates interfacial ion transfer and a compliant polymeric outer layer that accommodates repeated volume changes. This synergistic electrode-electrolyte design enables high capacity and stable cycling stability of solid-state batteries at 26 °C. Notably, full cells assembled with LiFePO4 and LiNi0.8Co0.1Mn0.1O2 positive electrodes exhibit long-term durability over 2000 and 800 cycles, respectively. At 2 mAh cm−2 and 0.02 A g−1, the solid-state cell delivers 337 Wh kg−1 based on positive/negative materials and solid electrolyte. Silicon electrodes promise higher-energy solid-state batteries but suffer from expansion and unstable interfaces. Here, authors combine a stress-adaptive silicon composite with a layered polymer-inorganic interface to enable fast charging and long-term cycling.",
+      "link": "https://doi.org/10.1038/s41467-026-78184-7",
+      "authors": [
+        "Chuyang Li",
+        "Zhefei Sun",
+        "Bin Wang",
+        "Wenwei Ding",
+        "Changhui Ke",
+        "Chaofei Lan",
+        "Qingqing Zhou",
+        "Yadong Wang",
+        "Shuijian He",
+        "Huixin Chen",
+        "Mengmeng Fan",
+        "Lili Liu",
+        "Lu Gan",
+        "Yutong Wang",
+        "Shijie Feng",
+        "Hui Yang",
+        "Songyan Chen",
+        "Qiaobao Zhang",
+        "Xiang Han"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-29T00:34:32+00:00",
+      "last_seen": "2026-09-29T00:34:32+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-29T00:34:32+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78173-w": {
+      "key": "doi:10.1038/s41467-026-78173-w",
+      "doi": "10.1038/s41467-026-78173-w",
+      "title": "The plasma protease inhibitor ITIH4 forms oligomeric complexes and senses broader proteolytic activity",
+      "abstract": "In self-perpetuating proteolytic cascades within the body, tight regulation by an excess of inhibitors is essential to maintain homoeostasis. The plasma protein inter-α-trypsin inhibitor heavy chain 4 (ITIH4) inhibits extracellular proteolytic pathways, including the contact system and the complement cascade, by a mechanism requiring cleavage of ITIH4 but without direct binding to the active site of the cleaving protease. The structural and mechanistic details of the cleavage-induced changes in ITIH4 that lead to protease inhibition remain elusive. Here, we show that ITIH4 undergoes an unexpectedly large, conformational change upon cleavage involving complete unfolding of an immunoglobulin domain and a reorganisation of the N-terminal F3 domain. The cleaved N-terminal fragment of ITIH4 (ITIH4N) forms ultra stable homo-oligomers with as many as seven ITIH4N molecules attached to the inhibited protease. This homo-interaction mimics the initial binding event with the cleaving protease. Mutation-induced disruption of homo-oligomerization leads to direct attachment of multiple ITIH4N molecules to different residues on the same protease and does not compromise inhibition, pointing to a function of ITIH4N oligomerization beyond protease inhibition. While proteolysis of ITIH4 may lead to inhibition of the cleaving protease, we show that nascent ITIH4N may associate with a molecule different from the cleaving protease or an existing protease-ITIH4N complex. Our data provide a comprehensive structural foundation for establishing a mechanistic framework for the function of ITIH4 and drive the future analysis of its in vivo function. Using electron microscopy, the authors describe the conformational changes induced when the plasma protease inhibitor ITIH4 is cleaved and activated. Moreover, oligomerization of cleaved ITIH4 is shown not to impact protease inhibition.",
+      "link": "https://doi.org/10.1038/s41467-026-78173-w",
+      "authors": [
+        "Martin Høgholm Jørgensen",
+        "Annette Gudmann Hansen",
+        "Ana Casañal",
+        "Steffen Thiel",
+        "Gregers Rom Andersen"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-09-29T00:34:35+00:00",
+      "last_seen": "2026-09-29T00:34:35+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-09-29T00:34:35+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73566-9": {
+      "key": "doi:10.1038/s41598-026-73566-9",
+      "doi": "10.1038/s41598-026-73566-9",
+      "title": "A single-cell atlas of coronary artery and bypass grafts: from cellular heterogeneity to therapeutic targets for enhancing graft longevity",
+      "abstract": "Abstract The long-term success of coronary artery bypass grafting (CABG) critically depends on the choice of vascular graft, yet the molecular determinants of their differential clinical performance remain poorly understood. A systematic, high-resolution comparison of these grafts is essential for optimizing graft selection and improving patient outcomes. By integrating public scRNA-seq datasets and performing original immunofluorescence validations, we constructed a comprehensive single-cell transcriptomic atlas comparing the native coronary artery (CA) with the three principal grafts: the internal thoracic artery (ITA), radial artery (RA), and saphenous vein graft (SVG). We mapped their cellular ecosystems and molecular signatures to elucidate the biological basis of their clinical behavior. Our analysis provides a robust molecular rationale for the ITA’s gold-standard status, revealing a superior vasoprotective phenotype characterized by enhanced endothelial vasodilatory function, minimal contractile potential, and a uniquely quiescent cell-cell communication network. Conversely, the RA displays the highest intrinsic vasoreactivity signature, molecularly underpinning its clinical predisposition to vasospasm. The saphenous vein exhibits a multidimensional high-risk profile, with potent pro-proliferative, pro-fibrotic, and pro-inflammatory characteristics that align with its propensity for neointimal hyperplasia and accelerated failure. Crucially, we observed an association between the grafts’ transcriptomic similarity, quantified by a novel Mean Inter-cluster Distance (MID) metric, and their known clinical patency gradient (ITA > RA > SVG). This atlas elucidates the fundamental biological heterogeneity of CABG grafts, proposes key molecular pathways (e.g., RhoA/ROCK, MIF) as candidate targets warranting further investigation for improving graft longevity, and provides a foundational resource for personalizing graft selection. Our work offers a new quantitative framework for evaluating and designing the next generation of vascular grafts.",
+      "link": "https://doi.org/10.1038/s41598-026-73566-9",
+      "authors": [
+        "Jinyang Yu",
+        "Tong Ding",
+        "Yichen Gong",
+        "Yuanhao Fu",
+        "Luyu Meng",
+        "Xiang Zhu",
+        "Yunpeng Ling"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73668-4": {
+      "key": "doi:10.1038/s41598-026-73668-4",
+      "doi": "10.1038/s41598-026-73668-4",
+      "title": "Effects of bilateral balanced orbital decompression on orbital, retinal, and choroidal vascular parameters in thyroid-associated orbitopathy",
+      "abstract": "Abstract To evaluate vascular changes following balanced orbital decompression (BOD) in thyroid-associated orbitopathy (TAO). This prospective study included 30 orbits of 15 patients with inactive TAO undergoing BOD. Clinical, orbital vascular, and retinal/choroidal microvascular parameters were assessed preoperatively and at postoperative months 1, 3, and 6 using patient-clustered generalized estimating equation models. Proptosis decreased by 3.93 mm at month 6 (95% CI, − 4.62 to − 3.25; p < 0.001), while BCVA remained stable. OA-PSV increased by 7.77 cm/s at month 3 (95% CI, 0.81 to 14.72; p = 0.029), and SOV diameter decreased by 0.261 mm at month 6 (95% CI, − 0.431 to − 0.091; p = 0.003). From month 1 to month 6, central SCP, DCP, and CC vessel densities increased by 1.54, 1.42, and 2.23%, respectively ( p = 0.006, p = 0.014, and p < 0.001), whereas superior SCP and DCP densities decreased from baseline to month 6 ( p = 0.033 and p = 0.032). FAZ area decreased at months 3 and 6 ( p < 0.001 and p = 0.021). SFCT decreased at month 3 ( p = 0.002), and CVI decreased by 0.61 at month 6 (95% CI, − 1.16 to − 0.05; p = 0.031). BOD was associated with temporally and regionally heterogeneous orbital and ocular vascular changes. The study was retrospectively registered at ClinicalTrials.gov (Identifier: NCT07393230).",
+      "link": "https://doi.org/10.1038/s41598-026-73668-4",
+      "authors": [
+        "Burçin Göğüş Çamlı",
+        "Volkan Dericioğlu",
+        "Didem Dizdar Yiğit",
+        "Onur Buğdaycı",
+        "Mustafa Hurmuzlı"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73960-3": {
+      "key": "doi:10.1038/s41598-026-73960-3",
+      "doi": "10.1038/s41598-026-73960-3",
+      "title": "Horizontal visibility network topology reveals pathological loss of complexity in heart rate variability",
+      "abstract": "Abstract Physiological health is typically associated with complex, multiscale heart rate variability (HRV) arising from the coordinated action of regulatory mechanisms. In contrast, pathology is often marked by the progressive loss of this organization. Here we apply horizontal visibility graphs (HVGs) to RR-interval ECG time series from cohorts with Normal autonomic function, Early cardiac autonomic neuropathy (CAN) and Definite CAN. The HVG transformation represents the signal as a network in which the nodes (amplitudes) can form links regardless of their temporal distance provided a certain inequality is satisfied. We analyze total and scale-resolved triangular motifs together with the associated Euler characteristic as indicators of network organization. These measures display a systematic monotonic reduction with increasing pathology that is robust against variation in window length and in the threshold used to define long-range structure, consistent with the interpretation that pathology is associated with a simplification in graph topology. The strongest separation observed is between Normal and Definite CAN, while Early-stage separation remains more modest. Furthermore, the network measures are strongly correlated with conventional time-domain HRV, particularly RMSSD. Consequently while the present analysis does not establish independent or predictive information beyond standard HRV indices, it demonstrates that clinically associated differences in HRV are also expressed in the topology of the corresponding visibility graphs.",
+      "link": "https://doi.org/10.1038/s41598-026-73960-3",
+      "authors": [
+        "Jack C. M. Hughes",
+        "Fedor V. Kusmartsev",
+        "Glenn W. Muschert",
+        "Herbert F. Jelinek"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71290-y": {
+      "key": "doi:10.1038/s41598-026-71290-y",
+      "doi": "10.1038/s41598-026-71290-y",
+      "title": "Enhancing drought resilience in pearl millet (Pennisetum glaucum L.) through nano foliar nutrient and biostimulant interventions",
+      "abstract": "Abstract Pearl millet ( Pennisetum glaucum L.) is an important cereal crop in rainfed regions owing to its inherent drought tolerance. However, drought stress adversely affects crop growth, physiological processes and yield. A pot experiment was conducted during the post-monsoon season at ICAR–Central Research Institute for Dryland Agriculture (ICAR-CRIDA), Hyderabad to evaluate the effects of different nano-nutrient foliar sprays on pearl millet under deficit moisture stress. Foliar application of nano-nutrients during and after stress alleviation at the vegetative and flowering stages improved crop growth and yield attributes. Compared with the control, yield losses were limited to 9% and 13% following application of SWAS @ 0.5% after alleviation of vegetative-stage stress and to 13% following application of NDAPAS @ 0.2% after alleviation of flowering-stage stress. At the vegetative stage, foliar application of SWAS at 0.5% resulted in the highest relative water content (RLWC, 93.2%), soil moisture (19.3%), membrane stability index (MSI, 93.2%) and nitrate reductase (NR) activity (2962.2 µg g⁻ 1 FW) while maintaining lower levels of proline (32.0 µg g⁻ 1 FW), malondialdehyde (MDA, 15.7 µg g⁻ 1 FW), free amino acids (FAA, 21.2 µg g⁻ 1 FW) and total soluble sugars (TSS, 1.8 µg g⁻ 1 FW). At the flowering stage, NDAPAS at 0.2% resulted in the highest RLWC (93.0%) and soil moisture (17.9%), with reduced proline (33.0 µg g⁻ 1 FW), FAA (2.1 µg g⁻ 1 FW), and TSS (22.8 µg g⁻ 1 FW). Foliar sprays also improved chlorophyll fluorescence parameters (φP₀, φE₀, ψ₀, δR₀, and performance index) showing better photosynthetic efficiency and stability of photosystem II under stress. Application of SWAS at 0.5% at the vegetative stage and NDAPAS at 0.2% at the flowering stage was the most effective for improving crop yields under deficit moisture stress.",
+      "link": "https://doi.org/10.1038/s41598-026-71290-y",
+      "authors": [
+        "Venugopalan Visha Kumari",
+        "K. A. Gopinath",
+        "Vinod Kumar Singh",
+        "Arun Kumar Shanker",
+        "N. Jyothi Lakshmi",
+        "Bathula Sunitha",
+        "Shalini Vankudoth",
+        "Gangaraju Subramanyam",
+        "Anila Alex"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73802-2": {
+      "key": "doi:10.1038/s41598-026-73802-2",
+      "doi": "10.1038/s41598-026-73802-2",
+      "title": "Noradrenergic signaling in human olfaction assessed by multimodal [11C]yohimbine PET/neuromelanin MRI across sex, healthy aging and Parkinson’s disease",
+      "abstract": "Abstract The role of the noradrenergic system in human olfaction remains to be demonstrated given that, due to the technical limitations of in vivo molecular imaging, most of our knowledge is derived from animal studies. Here, we combine [ 11 C]Yohimbine PET imaging to quantify α2-adrenoceptor availability and neuromelanin-sensitive MRI of the locus coeruleus with behavioral olfactory testing in a cohort of 114 participants encompassing individuals ranging from normosmic to markedly hyposmic across a broad biological continuum. A broad range of olfactory performance was obtained by including 84 healthy controls of both sexes and of various ages and 30 patients with Parkinson’s disease, three major factors known to modulate olfactory processing. In the unadjusted pooled cohort, no significant association was observed between any of the three olfactory performance scores and locus coeruleus MRI signal, but odor identification and discrimination scores showed weak but significant negative correlations with [ 11 C]yohimbine binding in the piriform cortex and amygdala. These correlations were no longer significant after adjustment for age, sex, and diagnostic status and were not detected in within-group analyses. These findings suggest a cohort-level association between α2-adrenoceptor availability in olfactory cortical regions and odor identification/discrimination scores; however, this relationship could not be dissociated from the demographic and clinical factors represented in this cohort.",
+      "link": "https://doi.org/10.1038/s41598-026-73802-2",
+      "authors": [
+        "Chloé Laurencin",
+        "Sarah Brosse",
+        "Sophie Lancelot",
+        "Inés Mérida",
+        "Nicolas Costes",
+        "Cristina Martín-Barceló",
+        "Jérôme Redouté",
+        "Barbara Segura",
+        "Nathalie Mandairon",
+        "Moustafa Bensafi",
+        "Philippe Boulinguez",
+        "Bénédicte Ballanger"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73255-7": {
+      "key": "doi:10.1038/s41598-026-73255-7",
+      "doi": "10.1038/s41598-026-73255-7",
+      "title": "Effects of ileostomy and colostomy care training app versus video on caregiver anxiety and self-efficacy",
+      "abstract": "Abstract A stoma is a surgically created opening in the abdomen that allows waste to exit the body. This procedure is often required for conditions like cancer or bowel disease. Living with a stoma brings significant physical, psychological, and social challenges for both patients and their caregivers. Caregivers often experience high levels of stress, leading to increased anxiety and reduced self-efficacy. This study aimed to compare the effectiveness of video- and application-based education in reducing anxiety and improving self-efficacy among primary caregivers of patients who have ileostomy and colostomy. This quasi-experimental study involved 126 primary caregivers of patients with stomas who were attending a stoma clinic in Kerman province, Iran. Participants were randomly assigned to one of three groups: an application group, a video group, or a control group. During one month, ostomy care training was provided to the intervention groups using stoma application or video. Research tools included a demographic information questionnaire, the Hamilton Anxiety Rating Scale (HAM-A), and the Generalized Self-Efficacy Scale (GSE-17). After receiving their respective interventions, participants’ anxiety and self-efficacy were reassessed. The results indicated a significant reduction in anxiety among participants in both the application (from 21.78 ± 7.02 to 21.10 ± 7.11) and video groups (from 18.15 ± 8.21 to 17.95 ± 8.25) after the intervention, while the control group experienced an increase in anxiety (from 25.95 ± 7.32 to 28.05 ± 6.07). There was significant difference between the control group and both the application and video groups ( P < 0.05). While, the application and video groups indicating that both methods were similarly effective ( P > 0.05, effect size = 0.374). Self-efficacy increased from 57.98 ± 5.45 to 66.68 ± 5.20 in the application group and from 58.45 ± 5.61 to 63.15 ± 5.92 in the video group, compared to 51.50 ± 5.66 to 53.28 ± 5.52 in the control group, with the most significant increase in the application group. The self-efficacy score was significantly higher in the video group compared to the control group ( P < 0.05, effect size = 0.453). This study demonstrated that application and video-based educational interventions effectively reduced caregivers’ anxiety and enhanced their self-efficacy. Caregivers who receive structured education are better prepared to manage caregiving tasks. The interactive and accessible nature of digital education tools, such as application, may provide more flexible and repeated access to important information, further supporting caregivers. The integration of technology into caregiver education can significantly improve the quality of care for patients and enhance the well-being of caregivers.",
+      "link": "https://doi.org/10.1038/s41598-026-73255-7",
+      "authors": [
+        "Sima Mokhtarabadi",
+        "Peiman Prandeh Afshar",
+        "Wesam Taher Almagharbeh",
+        "Mohammad Ali Zakeri",
+        "Reihane Sanati",
+        "Fatemeh Dehghan",
+        "Mahlagha Dehghan"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73458-y": {
+      "key": "doi:10.1038/s41598-026-73458-y",
+      "doi": "10.1038/s41598-026-73458-y",
+      "title": "EWCMD: real-time attack detection using ensemble weighted combination machine learning and deep learning methods",
+      "abstract": "Abstract The evolving IoT threat landscape makes Distributed Denial-of-Service (DDoS) attacks a persistent security concern. This paper proposes a five-stage ensemble intrusion detection framework combining machine learning and deep learning. The first four stages train and evaluate seven machine learning classifiers and a convolutional neural network (CNN) on the NSL-KDD and UNSW-NB15 datasets, incorporating feature selection and hyperparameter optimization to improve accuracy and reduce computational cost. The fifth stage introduces two final prediction strategies: a weighted roulette-wheel mechanism (ERCMD) for low-latency decisions and a CNN-based meta-classifier (EDCMD) for maximum accuracy. ERCMD achieves over 96% accuracy on both datasets, while EDCMD reaches up to 100% accuracy on NSL-KDD and 99.95% on UNSW-NB15.",
+      "link": "https://doi.org/10.1038/s41598-026-73458-y",
+      "authors": [
+        "Poorya Hassanzadeh",
+        "Masoud Kargar",
+        "Mozhgan Gholami",
+        "Ali Ghaffari"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning",
+          "deep learning",
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-73936-3": {
+      "key": "doi:10.1038/s41598-026-73936-3",
+      "doi": "10.1038/s41598-026-73936-3",
+      "title": "Association of the CIMI with multimorbidity classification among U.S. adults with CKD and cancer via interpretable SHAP-based machine learning",
+      "abstract": "Abstract People who carry a diagnosis of both chronic kidney disease (CKD) and cancer face a markedly greater likelihood of unfavorable clinical outcomes, a situation that complicates therapeutic planning and everyday disease management. A pathological process common to the two disorders is sustained inflammation, which drives disease advancement through disturbed immune regulation, oxidative injury and altered metabolism. Composite indices that pool inflammatory and metabolic signals from routine hematological and biochemical tests could therefore help to recognize, among individuals already diagnosed with either CKD or cancer, those who harbor both conditions at the same time. Nonetheless, classification studies undertaken with the specific purpose of separating CKD–cancer comorbidity from either condition alone remain scarce. Drawing on data from the National Health and Nutrition Examination Survey (NHANES), we set out to appraise systematically how well a panel of Comprehensive Inflammatory and Metabolic Indices (CIMI) discriminates concurrent CKD–cancer comorbidity, and to construct and internally assess an optimal classifier using several machine learning algorithms. Records for 139,205 adults were first examined across several NHANES waves spanning 1999 through August 2023. Adopting the comorbidity-oriented selection approaches applied in earlier NHANES investigations, the analysis finally comprised 1,385 adults affected by CKD together with cancer and 9,506 adults affected by only one of the two conditions (10,891 adults in all following complete-case screening), every one of whom possessed complete laboratory and diagnostic information. Thirty-one CIMI—computed from peripheral blood cell counts, serum albumin, liver function parameters and lipid profiles—were merged with demographic variables. Classification models were then built with six algorithms: random forest, Extreme Gradient Boosting (XGBoost), Logistic Regression (LR), Recursive Partitioning and Regression Trees (RPART), Naive Bayes (NB) and k-nearest neighbors (KNN). Development and evaluation proceeded under stratified 10-fold cross-validation applied to the whole analytic sample ( n = 10,891). SMOTE was confined to the interior of each training fold, and every performance statistic was derived from pooled out-of-fold predictions. Neither a holdout set nor an external validation cohort was employed, and the primary endpoint was the area under the receiver operating characteristic curve (AUC-ROC). Contributions of individual features within the best model were interpreted using SHapley Additive exPlanations (SHAP). This work addressed a cross-sectional classification of a pre-existing composite comorbidity state rather than forecasting future disease. Since CKD status rested on one examination only, the outcome denotes concurrent cancer accompanied by diminished kidney function and/or albuminuria, not CKD confirmed clinically; likewise, because cancer status came exclusively from a self-reported questionnaire item (MCQ220) that carried no information on subtype, stage or treatment, the outcome constitutes a heterogeneous composite label. XGBoost delivered the strongest overall performance of the six algorithms, attaining an AUC-ROC of 0.776 (95% CI 0.763–0.789), an AUPRC of 0.445 (95% CI 0.415–0.471) and a Matthews Correlation Coefficient (MCC) of 0.287; every paired DeLong comparison with the remaining five algorithms proved significant (all P < 0.001). Sensitivity reached 0.665 and specificity 0.735 at the Youden-optimal threshold (0.133), while at the conventional 0.5 cut-off the corresponding values were 0.227 and 0.987. According to the SHAP analysis, the ten most influential features comprised Age, CALLY, CLR, monocyte count (MON), FIB-4, ALB, Race_3, SIRI/AISI, IBI and CRP; each one remained within the top ten in ≥ 93% of 100 resampling replicates, yet, since a number of these indices are mathematically nested, such attributions are exploratory and cannot be construed as independent clinical contributions. With the NHANES database, we constructed and internally assessed a classification model for CKD–cancer comorbidity that combines several CIMI. XGBoost ranked first in discriminative ability among the six algorithms examined. Sensitivity nevertheless stayed poor at the conventional 0.5 threshold (0.227), and probability calibration was only moderate (Brier score 0.092; calibration slope 0.79); the model thus cannot serve on its own as a screening or diagnostic instrument and is better viewed as an exploratory classifier of a pre-existing composite state. Age, CALLY and CLR also emerged as important discriminative features. These results shed new light on the classification of people living with CKD and cancer concurrently, on the behavior of classification models and the contribution of explainable modeling to comorbidity research, and on the design of more targeted clinical assessment approaches.",
+      "link": "https://doi.org/10.1038/s41598-026-73936-3",
+      "authors": [
+        "PiBo Du",
+        "JinShen Pan",
+        "YongJian Ye",
+        "ChaoLan Fang",
+        "XuBo Dai",
+        "WeiXiong Xu"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-73892-y": {
+      "key": "doi:10.1038/s41598-026-73892-y",
+      "doi": "10.1038/s41598-026-73892-y",
+      "title": "Video-based mechanical state monitoring of isolating switches using conductive-tube included-angle trajectories",
+      "abstract": "Abstract Conventional vision-based recognition of isolating switches mainly outputs discrete opening or closing states and therefore provides limited information about continuous mechanical motion during switching operations. To address this limitation, this paper proposes a video-based mechanical state monitoring method for isolating switches using conductive-tube included-angle trajectories. The time-varying included angle between the centerlines of the upper and lower conductive tubes is used as the primary visual mechanical feature. For a fixed-view video, the region of interest, joint center, and reference separating the two conductive tubes are initialized in the first frame and reused in all subsequent frames. Planar perspective rectification is applied to establish a common motion plane. The conductive-tube centerlines are then extracted using Canny-Devernay sub-pixel edge detection, Hough-based coarse localization, and common-normal total-least-squares fitting of paired outer boundaries. During motion, two-frame differencing generates a motion mask that constrains candidate edges extracted from the current frame. At stationary endpoints, such as the fully open and fully closed states, the procedure automatically switches to a single-frame geometric-edge extraction path. Field surveillance videos acquired in an operating high-voltage substation are used to demonstrate the processing procedure and trajectory extraction, whereas quantitative validation is conducted on a 384-frame closing video of a GW23A-252 isolating switch acquired using a fixed camera under indoor lighting. A nonlinear piecewise physical model incorporating the four-bar linkage, rack-and-pinion mechanism, and final-stage clamping mechanism is developed to map the measured spindle angle to a reference conductive-tube included angle. Frame-by-frame evaluation shows that the proposed method produces valid results for all 384 frames and achieves a mean absolute error of 2.06°, a root-mean-square error of 3.24°, and a coefficient of determination of 0.9967, compared with 2.82°, 4.08°, and 0.9948, respectively, for the YOLOv5s-based comparison method. Under strong controlled nonuniform illumination disturbance, the illumination-induced mean absolute error of two-frame differencing is 0.26°, lower than the 0.49° obtained using MOG2. These results demonstrate that the conductive-tube included-angle trajectory provides a geometrically interpretable visual feature for quantitative characterization of continuous isolating-switch motion.",
+      "link": "https://doi.org/10.1038/s41598-026-73892-y",
+      "authors": [
+        "Lu Shihao",
+        "Shi Haotian",
+        "Li Maofeng",
+        "Liu Jia",
+        "Wu Qiang",
+        "Wang Yu"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73202-6": {
+      "key": "doi:10.1038/s41598-026-73202-6",
+      "doi": "10.1038/s41598-026-73202-6",
+      "title": "Roll bond welding produces a strong, intermetallic compound-free butt weld between aluminum and copper",
+      "abstract": "Abstract In this study, a solid-state welding method based on rolling was successfully developed. For this purpose, Aluminum (Al) 1050 sheets and commercial pure copper (Cu) sheets, each with a thickness of 2 mm, were used. The sheets were cut at a 30° angle at the contact interface and bonded together via cold rolling with a 60% thickness reduction. After rolling, due to the imposed strain, the 30° angle decreased to 12°. Optical microscopy (OM), scanning electron microscopy (SEM), electron backscatter diffraction (EBSD), energy-dispersive spectroscopy (EDS), microhardness, and tensile strength tests were employed to investigate the microstructure and mechanical properties of the weld. In addition, the commercial finite element package Abaqus was used for numerical simulation. The rolling reduced the average grain size of Al and Cu from 35 μm to 5 μm to 5 μm and 2 μm, respectively. EDS analysis showed that no intermetallic compounds (IMC) formed at the Al/Cu interface, confirming that bonding occurred primarily through mechanical interlocking rather than atomic diffusion. Kernel average misorientation (KAM) maps derived from EBSD analysis revealed a higher strain concentration at the Al/Cu interface compared to other regions of the sample. The numerical simulation confirmed the EBSD results. The tensile strength of the welded sample was 148 MPa, which was equal to that of the rolled Al in this study. During tensile testing, fracture occurred in the Al region, while the weld remained intact.",
+      "link": "https://doi.org/10.1038/s41598-026-73202-6",
+      "authors": [
+        "Hamid Partoyar",
+        "Hamid Reza Jafarian",
+        "Vinayak S. Hiremath",
+        "HamidReza Koohdar",
+        "Akash Biradar",
+        "Faseeulla Khan Mohammad",
+        "Akbar Heidarzadeh"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74022-4": {
+      "key": "doi:10.1038/s41598-026-74022-4",
+      "doi": "10.1038/s41598-026-74022-4",
+      "title": "Prevalence and associated factors of basic activities of daily living impairment in Chinese patients with comorbid T2DM and hypertension",
+      "abstract": "Abstract This cross-sectional study aimed to determine the prevalence of basic activities of daily living (BADL) impairment and its associated factors in Chinese patients with comorbid type 2 diabetes mellitus (T2DM) and hypertension. The Katz ADL scale was used to assess BADL impairment. Totally 475 participants were consecutively enrolled from a secondary hospital in Hunan, China. The mean age of the study participants was 69.80 ± 9.10, 277 (58.3%) of them were females, and 82 (17.3%) had completed high school or above. The prevalence of BADL impairment was 17.47%. Multivariable logistic regression analysis showed that aged ≥ 70 and the presence of other chronic conditions were associated with higher odds of BADL impairment. Additionally, high school education or above and living alone were associated with lower odds of BADL impairment, which should be interpreted cautiously because these estimates were based on very few events. These findings indicate the need for additional support among those in high-risk groups, including regular physician review, in-home nursing, and allied health support. However, due to the nature of cross-sectional study design, causal effects cannot be drawn and the effects may be bi-directional. Future prospective studies are needed to determine the direction of the linkages.",
+      "link": "https://doi.org/10.1038/s41598-026-74022-4",
+      "authors": [
+        "Ziling Feng",
+        "Wenduo Yu",
+        "Hongying Liu",
+        "Wenyan Zhang",
+        "Ni Xiong",
+        "Leyao Tang",
+        "Hua Zhong",
+        "Wenjie Dai"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73698-y": {
+      "key": "doi:10.1038/s41598-026-73698-y",
+      "doi": "10.1038/s41598-026-73698-y",
+      "title": "Synergistic effects of zinc and phosphorus on salinity tolerance in potato: Integrating morpho-physiological traits and nutrient transporter gene expression",
+      "abstract": "Abstract The accumulation of salts in the soil acts as a primary barrier to successful potato cultivation, directly hindering vital processes such as photosynthetic activity, overall development, and nutritional equilibrium. This research analyzed how the individual and synergetic application of zinc (Zn) and phosphorus (P) influences the physiological, morphological, molecular, and biochemical reactions of four distinct potato varieties (D6, KG911-91, D220, and KG913) grown in high-salinity environments. Findings confirmed that salt exposure consistently impaired root health, biomass production, and the density of photosynthetic pigments. Nevertheless, the targeted administration of Zn and P—especially when used in tandem—mitigated these stressors and boosted plant vitality. Distinct differences in salt resilience were observed across the genotypes. KG911-91 emerged as the most robust variety, followed by D220, both of which maintained superior osmotic regulation and pigment levels under stress. Conversely, KG913 displayed the highest sensitivity to salt. While genotype D6 demonstrated a significant upregulation of nutrient transporter genes, its stunted growth compared to D220 and KG911-91 suggests that this molecular response was a mere reaction to stress rather than an effective adaptive mechanism. Supplementing these nutrients boosted the synthesis of chlorophyll, soluble sugars, anthocyanins, and carotenoids, thereby reinforcing the plants’ antioxidant defenses, osmotic balance, and photosynthetic efficacy. Statistical analysis via Principal Component Analysis (PCA) revealed that metabolite and pigment profiles were the primary drivers of physiological variance, whereas morphological disparities were largely defined by biomass metrics. On a genetic level, the synchronized expression of StZIP_2179 , StZIP_2151 , and StPHT2 in tolerant varieties—specifically when treated with a combination of Zn and P—facilitated superior nutrient uptake and stress resilience. In summary, this study demonstrates that integrated Zn–P fertilization is an effective method for bolstering salinity tolerance in potatoes. By optimizing nutrient transport, sustaining photosynthesis, and enhancing osmotic performance, this strategy provides a viable pathway for improving crop yields in challenging, salt-stressed agricultural lands.",
+      "link": "https://doi.org/10.1038/s41598-026-73698-y",
+      "authors": [
+        "Abbas Saidi",
+        "Zahra Hajibarat",
+        "Ahmad Mousapour Gorji"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73858-0": {
+      "key": "doi:10.1038/s41598-026-73858-0",
+      "doi": "10.1038/s41598-026-73858-0",
+      "title": "Development and external validation of a machine learning model for predicting stroke-associated pneumonia in acute ischemic stroke patients receiving pantoprazole",
+      "abstract": "Abstract This study aimed to develop and externally validate a machine learning (ML)-based risk prediction model for stroke-associated pneumonia (SAP) in acute ischemic stroke (AIS) patients receiving pantoprazole. Data from AIS patients receiving pantoprazole were retrospectively extracted from the MIMIC-IV 3.0 database. This retrospective cohort study enrolled 651 AIS patients treated with pantoprazole from the MIMIC-IV 3.0 database, randomly partitioned into a training cohort ( n = 455) and an internal validation cohort ( n = 196) at a 7:3 ratio. The primary outcome was incident SAP. A two-stage feature selection strategy was adopted: LASSO regression for preliminary filtering, followed by bidirectional stepwise multivariable logistic regression. Subsequently, nine ML algorithms—decision tree (DT), k-nearest neighbor (KNN), random forest (RF), support vector machine (SVM), extreme gradient boosting (XGBoost), light gradient boosting machine (LightGBM), categorical boosting (CatBoost), naive Bayes (NB), neural network (NN)—were trained and evaluated via 10-fold cross-validation. Model performance was comprehensively assessed by the area under the receiver operating characteristic curve (AUC), sensitivity, specificity, accuracy, F1 score, Brier score, calibration curve, and decision curve analysis (DCA). Independent external validation was conducted using 580 patients from the eICU-CRD database. The optimal model was selected and interpreted via SHapley Additive exPlanations (SHAP) analysis to elucidate feature importance and decision rationale. Finally, a nomogram was constructed to increase the readability of the predictive results. Age, male sex, platelet count, respiratory rate, and Sepsis-3 status were identified as independent predictors of SAP. The LightGBM model outperformed the other ML algorithms, with an internal validation AUC of 0.671 (95% CI: 0.593–0.749), a sensitivity of 0.544, a specificity of 0.735, an accuracy of 0.640, and an F1 score of 0.562. In the external validation set, the AUC was 0.679 (95% CI: 0.612–0.746), accompanied by acceptable calibration and measurable clinical net benefit within practical clinical risk ranges. SHAP analysis further revealed that Sepsis-3, platelet count, and age were the primary determinants influencing model predictions. The LightGBM model demonstrates moderate discriminative performance in predicting SAP among pantoprazole-treated AIS patients. It may serve as an adjunctive tool for early risk stratification but is insufficient for standalone SAP diagnosis.",
+      "link": "https://doi.org/10.1038/s41598-026-73858-0",
+      "authors": [
+        "Sufang Yang",
+        "Ji Li",
+        "Lin Chen",
+        "Jin Min",
+        "Lu Li",
+        "Guohua Liu"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning",
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-73978-7": {
+      "key": "doi:10.1038/s41598-026-73978-7",
+      "doi": "10.1038/s41598-026-73978-7",
+      "title": "Comparative deep learning analysis of pulp stone detection in restored and healthy teeth on panoramic radiographs",
+      "abstract": "Abstract The aim of this study was to comparatively evaluate the performance of deep learning–based artificial intelligence (AI) models trained on panoramic radiographs in detecting pulp stone (PS) in restored and healthy teeth. In this study, 1,119 panoramic radiographs containing PS, acquired between January 2022 and June 2025, were used. PS on the panoramic radiographs was annotated using the LabelMe software. A total of 4,230 PS labels were included in the dataset. These labels were classified into two groups according to the tooth condition: healthy teeth ( n = 3345) and restored teeth ( n = 885). For baseline performance comparison, YOLOv8 and YOLO11 deep learning architectures were used. In addition, a YOLO–GNN hybrid model was developed to reduce the performance loss observed in restored teeth. Model performance was evaluated on the test dataset using the mAP₅₀ and mAP₅₀–₉₅ metrics. According to the results, PS detection performance was consistently higher in healthy teeth compared to restored teeth across all models. Across all evaluated YOLO11 variants, baseline mAP₅₀ values for the healthy class ranged from 79.1% to 81.5%, while restored-class performance ranged from 67.6% to 73.1%. Following YOLO-GNN hybrid training, restored-class mAP₅₀ improved across all three architectures. The largest gain was observed in YOLO11l, increasing from 67.6% to 72.0% (+ 4.4 pp), whereas YOLO11m achieved the highest absolute restored-class mAP₅₀ value of 76.3%, increasing from 73.1% (+ 3.2 pp). Relative to the original baseline, healthy-class performance was maintained or improved across the final YOLO-GNN configurations. These gains reflect the cumulative effect of increased resolution, fine-tuning strategy, and GNN integration. Ablation studies confirmed that the GNN module’s isolated contribution ranged from + 1.1 to + 1.8 pp in restored-class mAP₅₀, with statistically significant lesion-level differences observed for YOLO11m ( p = 0.001) and YOLO11l ( p < 0.001). This study demonstrated that deep learning–based AI models are capable and promising in detecting PS on panoramic radiographs. Detection performance was higher in healthy teeth than in restored teeth. YOLO11 outperformed YOLOv8, and the GNN-based hybrid model improved the detection performance in restored teeth. Further multicenter studies with larger datasets are required to enhance clinical generalizability.",
+      "link": "https://doi.org/10.1038/s41598-026-73978-7",
+      "authors": [
+        "Emine Şimşek",
+        "Ali Cüvitoğlu",
+        "Özge Kurt",
+        "Jale Bektaş"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "AI model",
+          "deep learning",
+          "artificial intelligence"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-73735-w": {
+      "key": "doi:10.1038/s41598-026-73735-w",
+      "doi": "10.1038/s41598-026-73735-w",
+      "title": "Human position sense and the role of gravitational torque: a parabolic flight study",
+      "abstract": "Abstract An important issue in spaceflight is the loss of sensory information associated with malfunction of the proprioceptive system. Specifically, in microgravity, astronauts become uncertain about the positions of their limbs if they cannot see them. We have recently been studying limb position sense during altered gravity conditions and demonstrated that this becomes degraded, most probably because of the changed gravitational torque at limb joints. To further examine this assumption, a one-arm pointing study was conducted to investigate the effects of micro- and hypergravity created during parabolic flight. Results of six participants showed that the effects of altered gravity on position sense were particularly evident when the difference between the gravitational torque experienced under normal gravity and the torque under altered gravity was large. This suggests that a mismatch between the internal model of gravity and incoming sensory information underlies a deterioration of the sense of position. Moreover, it was explored whether the microgravity-induced loss of torque at the elbow joint can be recovered by wearing compression garments, but results revealed no beneficial effect.",
+      "link": "https://doi.org/10.1038/s41598-026-73735-w",
+      "authors": [
+        "Bernhard M. Weber",
+        "Michael Panzirsch"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74016-2": {
+      "key": "doi:10.1038/s41598-026-74016-2",
+      "doi": "10.1038/s41598-026-74016-2",
+      "title": "Dual-plane X-ray–based reconstruction of bone geometry and ligament footprints using statistical shape modelling in the canine stifle",
+      "abstract": "Abstract Accurate subject-specific bone geometry and ligament attachment sites are important for biomechanical analysis and surgical planning of the canine stifle joint. This study developed and validated a dual-plane X-ray–based 2D–3D reconstruction framework for simultaneous estimation of subject-specific bone geometry and ligament footprint locations. A footprint-embedded deformable shape template was constructed by integrating ligament footprint outlines into femoral and tibial statistical shape models derived from CT datasets. Bone reconstruction was performed using an alternating two-stage optimization combining point-to-plane correspondence–based pose estimation and silhouette-based shape refinement. The framework was validated using 12 canine hindlimb specimens with CT-derived models as ground truth. X-ray fluoroscopic images were acquired sequentially at different viewing angles and paired to form dual-plane X-ray configurations with angular separations of 90°, 60°, and 30° for evaluation. The root-mean-square errors for the reconstructed distal femur and proximal tibia ranged from 0.4 to 0.5 mm. The 90° and 60° configurations achieved significantly higher reconstruction accuracy than the 30° configuration. Mean ligament footprint centroid errors ranged from 1.6 to 3.1 mm across the ligaments and insertion sites. In conclusion, the proposed framework achieved submillimetre bone shape reconstruction errors with concurrent ligament footprint estimation under the evaluated ex vivo conditions when dual-plane X-rays were acquired with larger angular separations.",
+      "link": "https://doi.org/10.1038/s41598-026-74016-2",
+      "authors": [
+        "Yu-Chih Wang",
+        "Ching-Ho Wu",
+        "Cheng-Chung Lin"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72578-9": {
+      "key": "doi:10.1038/s41598-026-72578-9",
+      "doi": "10.1038/s41598-026-72578-9",
+      "title": "Multi-criteria decision analysis for route prioritization of hydrogen shipping corridors to support maritime decarbonization",
+      "abstract": "Abstract The maritime shipping industry is responsible for approximately 3% of global greenhouse gas emissions. As a result, it faces growing regulatory and environmental pressure to shift towards cleaner alternative fuels. Green hydrogen, produced from renewable sources, is the possible alternative to change the maritime industry, as it represents a zero-emission alternative. Although hydrogen offers significant potential for maritime decarbonization, production costs limit its competitiveness. Considering the limitations, the purpose of this study is to prioritize international maritime cargo routes for hydrogen corridor deployment by assessing the feasibility of decarbonizing maritime cargo shipping routes between Türkiye and Hamburg using a multi-criteria decision analysis framework. Because the evaluation encompasses technical, operational, economic, and environmental factors, MCDA is necessary due to the complexity of the decision-making process. Route 2 is the most practical alternative according to the results of AHP and TOPSIS, mostly because of operational factors including engine number, refueling stops and port proximity. This suggests that while sustainability objectives (such as the Paris Agreement, CBAM) guide the shift, operational concerns play a key role in developing potential hydrogen deployment pathways. Using a simplified comparative emissions framework for route-level assessment, the results indicate that hydrogen-based pathways may contribute to lower-emission maritime transport, although operational and technical factors remain the primary drivers of route suitability. The findings show that policy objectives by themselves are insufficient to guarantee the adoption of hydrogen. It is essential that implementation strategies and route planning take operational requirements into account. Future research should look more closely at the challenges encountered in optimizing routes for the use of hydrogen in maritime transportation.",
+      "link": "https://doi.org/10.1038/s41598-026-72578-9",
+      "authors": [
+        "Mariam El Jamal",
+        "Sayan Das",
+        "Mine Güngörmüşler"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73826-8": {
+      "key": "doi:10.1038/s41598-026-73826-8",
+      "doi": "10.1038/s41598-026-73826-8",
+      "title": "Trophoblast glycoprotein is a novel therapeutic target for extramammary Paget disease",
+      "abstract": "Abstract Extramammary Paget disease (EMPD) is a rare skin cancer mainly found in the anogenital area of older people. It remains challenging to treat advanced EMPD due to the lack of effective treatments. The development of novel therapeutic approaches is thus strongly desired, but EMPD’s rarity and the lack of an appropriate in vitro model have impeded investigation of this disease. The aim of this work is to evaluate trophoblast glycoprotein (TPBG) as a promising therapeutic target for EMPD. To achieve this, TPBG expression was first analyzed in 124 (116 primary and 8 metastatic) samples from 116 EMPD patients. Using a recently established patient-derived EMPD cell line, KS-EMPD-1, the function of TPBG was assessed in vitro. TPBG was expressed in patients’ EMPD lesions with various staining intensities. It was also expressed in KS-EMPD-1 cells, while the inhibition of TPBG by siRNA in these cells significantly inhibited their proliferation accompanied by the decreased expression of cyclin D1. TPBG knockdown in KS-EMPD-1 cells also inhibited cell invasion. KS-EMPD-1 cells were also sensitive to cytotoxic agents commonly used as components of antibody-drug conjugate, a novel kind of targeted drug. These results suggest that TPBG will possibly serve as a therapeutic target for advanced EMPD.",
+      "link": "https://doi.org/10.1038/s41598-026-73826-8",
+      "authors": [
+        "Yuka Tanaka",
+        "Takamichi Ito",
+        "Keiko Tanegashima",
+        "Kiichiro Nishio",
+        "Yumiko Kaku-Ito",
+        "Takeshi Nakahara"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73861-5": {
+      "key": "doi:10.1038/s41598-026-73861-5",
+      "doi": "10.1038/s41598-026-73861-5",
+      "title": "Exploring rhizosheath formation as a target trait for selecting Sorghum bicolor adapted to combined drought and heat stress",
+      "abstract": "Abstract Although rhizosheath formation (RF) is linked with plant abiotic stress tolerance, it remains neglected and underutilized in plant breeding, yet it could be a selection target trait. A study was conducted at two sites under combined drought and heat stress (CDHS) conditions investigating how root system architectural (RSA) traits, rhizobacteria relative abundance and soil chemical properties associated with RF in sorghum. Six genotypes, i.e., three pre-release lines and three check varieties were laid out at two sites, in a randomized complete block design (RCBD) with two replications. RF, 16 S rRNA amplicon sequencing, RSA traits, soil chemical properties and grain yield (GY) data were collected. RF significantly ( P < 0.05) varied with sorghum genotypes and correlated ( r = 0.456) with GY performance. In addition, RF exhibited up to 94% trait heritability and greater variability than GY. RSA traits, rhizobacteria relative abundance and soil chemical properties significantly associated with RF explaining up to 90.46% variation and achieving up to 84.78% K-fold_R 2 value suggestively demonstrating good model generalization ability to unseen data. Study findings suggest the possible application of RF as a target trait in sorghum selection for adaptability to CDHS, specifically at post-flowering crop growth stage. The pre-release genotype i.e. ICSV111IN, exhibited high stable GY performance and RF superiority. The winning genotype can be recommended for further field yield testing for possible release targeting stress-prone agro-ecologies. Evidence generated from this study could help guide breeders on how RF can be applied as a target trait in plant selection.",
+      "link": "https://doi.org/10.1038/s41598-026-73861-5",
+      "authors": [
+        "Alec Magaisa",
+        "Elizabeth Ngadze",
+        "Tshifhiwa Mamphogoro",
+        "Martin Philani Moyo",
+        "Casper Nyaradzai Kamutando"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73539-y": {
+      "key": "doi:10.1038/s41598-026-73539-y",
+      "doi": "10.1038/s41598-026-73539-y",
+      "title": "GCN-based learner movement feature network modeling for personalized training path planning and dynamic evaluation",
+      "abstract": "Abstract Personalized training path planning has emerged as an active concern in intelligent sports education, yet many existing approaches struggle to capture the dependencies that link diverse movement features. This study develops a graph convolutional neural network (GCN) approach that models learner movement feature networks for personalized path planning and dynamic evaluation. We build heterogeneous graphs in which motor skills and learner profiles serve as nodes, while edges encode skill correlations and learner similarities through a hybrid weighting strategy. On top of these graphs, a GCN architecture with attention and residual connections learns discriminative embeddings; the path planning module then couples these embeddings with reinforcement learning to assemble training trajectories that respect prerequisite constraints and balance competing objectives. A dynamic evaluation component monitors learner performance and triggers adaptive path adjustments through incremental embedding refinement. On a single-institution university physical education dataset, and averaging five runs that differ only in the random seed, the proposed method reaches 83.67% ± 0.29% path recommendation accuracy and a 24.35% ± 0.38% training effect improvement rate; the margin over the strongest baseline we tested is 4.76% points, with a bootstrap 95% confidence interval of 4.26 to 5.22 points and a paired t-test giving p < 0.001. Dynamic evaluation attains 87.92% ± 0.35% mastery prediction accuracy, against 71.24% ± 0.58% for the static counterpart. The improvement rate comes from a comparison between class sections that were allocated by timetable rather than by randomisation, and is therefore reported as an association. We read these results as evidence that graph-based representations capture useful relational structure in motor skill domains, rather than as proof of broad cross-sport applicability. The scope is deliberately bounded: the framework targets sports organised around hierarchical skill dependencies—gymnastics, swimming, track and field, and structured ball-skill progressions—and the evaluation is in-domain on one institutional corpus rather than a cross-sport generalisation test.",
+      "link": "https://doi.org/10.1038/s41598-026-73539-y",
+      "authors": [
+        "Zhijun Sun"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-73368-z": {
+      "key": "doi:10.1038/s41598-026-73368-z",
+      "doi": "10.1038/s41598-026-73368-z",
+      "title": "Secondary outcomes of the early collaborative intervention EACI on salivary cortisol co regulation in preterm infants and mothers",
+      "abstract": "Abstract The Early Collaborative Intervention (EACI) aims to strengthen early parent–infant relationships among moderate to late preterm infants in neonatal intensive care. This randomized controlled trial evaluated whether EACI influences mother–infant salivary cortisol co-regulation in mother–infant dyads, as well as infant cortisol reactivity and breast milk exposure during early infancy. Secondary outcomes were assessed in 54 dyads in the intervention group and 41 in the standard care group at one and four months’ corrected age. Salivary cortisol was collected before and after a bath at one month and a still-face procedure at four months. Significant mother–infant salivary cortisol co-regulation was observed in the per-protocol intervention group at both time points, whereas no such synchrony emerged in the standard care group. Maternal cortisol levels decreased following stressors in both groups, while infant cortisol reactivity remained unchanged. Although a higher proportion of infants receiving EACI were given breast milk at four months, this difference was only statistically significant in the intention-to-treat analysis. These findings indicate that EACI enhances early mother–infant salivary cortisol co-regulation but does not alter infant cortisol responses to mild or anger stressors. The results highlight the potential of brief, relationship-focused interventions to support early stress-regulatory processes in preterm infants. Trial registration: Evalotte Mörelius, ClinicalTrials.gov NCT: 02034617 (first posted 10/01/2014). Study Details | NCT02034617 | Evaluation of a Parent-Infant Interaction Model | ClinicalTrials.gov.",
+      "link": "https://doi.org/10.1038/s41598-026-73368-z",
+      "authors": [
+        "Evalotte Mörelius",
+        "Charlotte Sahlén Helmer",
+        "Thomas Abrahamsson",
+        "Elvar Theodorsson",
+        "Ulrika Birberg Thornberg"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74014-4": {
+      "key": "doi:10.1038/s41598-026-74014-4",
+      "doi": "10.1038/s41598-026-74014-4",
+      "title": "Simulation-driven deep learning approach for module-level state of charge estimation in electric vehicles with active thermal management assessment",
+      "abstract": "Abstract Accurate state of charge (SOC) estimation for electric vehicle (EV) lithium-ion batteries is challenged by complex electro-thermal dynamics. Despite recent advances in data-driven methods, a critical gap persists: existing models are trained on single-cell datasets and therefore fail to capture the cell-to-cell thermal gradients and dynamic electro-thermal coupling inherent in practical multi-cell modules. To address this gap, this study proposes a comprehensive, Simulation-based data-driven framework bridging high-fidelity simulations with a hybrid convolutional neural network-long short-term memory (CNN-LSTM) architecture. Following rigorous validation of the base pseudo-2D electrochemical-thermal model against experimental data, a 32-cell module dataset was generated under highly transient driving cycles (US06, UDDS), successfully bypassing the prohibitive costs of experimental data acquisition. Using the optimized 100-s historical data window, the CNN-LSTM achieved an MAE of approximately 1.1% on the held-out US06 dataset at an unseen temperature condition, demonstrating generalization under an operating condition excluded from model development. Five-fold cross-validation further yielded an average SOC MAE of approximately 2.0%, confirming the stability of the proposed model across different temporal subsets of the training data. Furthermore, an integrated 3D thermal management case study demonstrated that while an active spiral liquid cooling channel maintains optimal module temperatures (30–40 °C) and limits spatial gradients (≤ 5 °C), a cooling system failure leads to a rapid loss of usable capacity, reaching the voltage cut-off at approximately 1600 s, less than half the discharge duration sustained under active cooling. Ultimately, this research confirms that effective battery management requires both accurate deep learning algorithms for state estimation and active thermal control to maintain usable capacity and thermal safety.",
+      "link": "https://doi.org/10.1038/s41598-026-74014-4",
+      "authors": [
+        "Z. Alimohammadi",
+        "A. Sattari",
+        "Z. Azimifar",
+        "G. Karimi"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning",
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-73758-3": {
+      "key": "doi:10.1038/s41598-026-73758-3",
+      "doi": "10.1038/s41598-026-73758-3",
+      "title": "Foliar boric acid application affects yield components, seed boron content, oil quality, and induces vivipary in Styrian oil pumpkin (Cucurbita pepo subsp. pepo var. styriaca)",
+      "abstract": "Abstract Styrian oil pumpkin is a medicinal plant whose seeds contain important active substances. In Iran, its yield is lower than the global average, partly due to boron (B) deficiency, an essential micronutrient for reproduction. This study evaluated the effects of foliar boric acid application (0, 50, 100, 150, and 200 ppm) at four growth stages (vegetative, male flowering, female flowering, and early fruit set) on quantity and quality traits of Styrian oil pumpkin in a split-plot experiment based on a randomized complete block design with three replications, conducted at experimental station of the Department of Horticultural Sciences, University of Tehran, Karaj, Iran, during one growing season. Results showed that the highest fruit yield (46,775 kg/ha), seed yield (1,847.7 kg/ha), and oil (46.79%) were obtained at 150 ppm B applied at male or female flowering, where hollow seeds decreased by 53.5%. Conversely, 200 ppm B at early fruit set resulted in the highest seed B content (127.6 ppm) and viviparous seeds (150.7 per fruit). Correlation analysis showed strong positive correlations between seed B content and vivipary ( r = 0.83) and between seed yield and oil ( r = 0.50). Hollow seeds were strongly negatively correlated with the filled-to-hollow ratio ( r = − 0.91) and with yield traits ( r = − 0.60 to − 0.68). The first two rincipal components (PC1 and PC2) explained 62.8% of the total variance, confirming that 150 ppm B at male or female flowering is optimal, while 200 ppm B at early fruit set induces severe vivipary. We recommend foliar application of 150 ppm boric acid at male or female flowering to maximize yield, oil quality, and seed fill while avoiding vivipary in Styrian oil pumpkin.",
+      "link": "https://doi.org/10.1038/s41598-026-73758-3",
+      "authors": [
+        "Abolghasem Hamidi Moghaddam",
+        "Abdolkarim Kashi"
+      ],
+      "published": "2026-09-28T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-09-29T00:34:38+00:00",
+      "last_seen": "2026-09-29T00:34:38+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
