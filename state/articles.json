@@ -71,7 +71,7 @@
       "key": "doi:10.1175/jas-d-26-0031.1",
       "doi": "10.1175/jas-d-26-0031.1",
       "title": "A Generalized Richardson Number Diagnostic for Turbulence in the Free Atmosphere",
-      "abstract": "Abstract A new Richardson number formulation, Ri new , is introduced to improve the diagnosis of turbulence in the stratified free atmosphere. The formulation is derived from the turbulent kinetic energy budget and accounts for both vertical wind shear and horizontal shear (deformation and divergence), weighted by the ratio of horizontal to vertical eddy viscosities ( K mh /K mv ). This extends the classical Richardson number Ri old , which accounts only for vertical shear. The diagnostics Ri new , Ri old , and the widely used Turbulence Index 1 (TI1), computed from ERA5 reanalysis, are evaluated using more than 247 million automated turbulence reports from commercial aircraft (2017–2024). Across various turbulence intensity thresholds, Ri new consistently outperforms the other diagnostics, resulting in higher AUC values and improved probability of detection at operationally relevant false-alarm rates. The highest skill is obtained for K mh /K mv ≈ 5000. Seasonal and regional evaluations indicate that the added value of Ri new is largest where turbulence generation involves both vertical and horizontal shear, such as over the contiguous United States and during summer. Ri new remains the best-performing diagnostic in all regions and seasons. Spatial case studies show that Ri new identifies 83–98% of observed moderate-or-greater turbulence events compared with 54–85% for Ri old . This substantial improvement in detection comes with a much smaller increase in false alarms, confirming that Ri new provides a more physically realistic representation of turbulence-prone regions. These results demonstrate that incorporating horizontal wind shear into the Richardson number yields a physically consistent and statistically robust improvement in turbulence diagnostics, with relevance for research and operational applications.",
+      "abstract": "Abstract A new Richardson number formulation, Ri new , is introduced to improve the diagnosis of turbulence in the stratified free atmosphere. The formulation is derived from the turbulent kinetic energy budget and accounts for both vertical wind shear and horizontal shear (deformation and divergence), weighted by the ratio of horizontal to vertical eddy viscosities ( K mh / K mυ ). This extends the classical Richardson number Ri old , which accounts only for vertical shear. The diagnostics Ri new , Ri old , and the widely used turbulence index 1 (TI1), computed from ERA5 reanalysis, are evaluated using more than 247 million automated turbulence reports from commercial aircraft (2017–24). Across various turbulence intensity thresholds, Ri new consistently outperforms the other diagnostics, resulting in higher area under the receiver operating characteristic (ROC) curve (AUC) values and improved probability of detection at operationally relevant false alarm rates. The highest skill is obtained for K mh / K mυ ≈ 5000. Seasonal and regional evaluations indicate that the added value of Ri new is largest where turbulence generation involves both vertical and horizontal shear, such as over the contiguous United States and during summer. The Ri new remains the best-performing diagnostic in all regions and seasons. Spatial case studies show that Ri new identifies 83%–98% of observed moderate-or-greater turbulence events compared with 54%–85% for Ri old . This substantial improvement in detection comes with a much smaller increase in false alarms, confirming that Ri new provides a more physically realistic representation of turbulence-prone regions. These results demonstrate that incorporating horizontal wind shear into the Richardson number yields a physically consistent and statistically robust improvement in turbulence diagnostics, with relevance for research and operational applications. Significance Statement Turbulence at cruising altitudes is a major aviation hazard and is expected to increase as the climate warms. The Richardson number is a classical measure of the balance between turbulence suppression by atmospheric stability and generation by vertical wind shear. Here, we introduce an extension that also accounts for horizontal wind shear, which can be important near jet streams. Using more than 247 million aircraft turbulence reports, we show that this formulation consistently improves turbulence detection compared to the traditional Richardson number and a widely used turbulence index. The improvement is robust across turbulence intensities, seasons, and regions. These findings provide a more physically consistent approach to diagnosing turbulence and may support advances in aviation forecasting and climate impact assessments.",
       "link": "https://doi.org/10.1175/jas-d-26-0031.1",
       "authors": [
         "Mohamed Foudad",
@@ -606,7 +606,7 @@
       "key": "doi:10.1175/jcli-d-25-0407.1",
       "doi": "10.1175/jcli-d-25-0407.1",
       "title": "South America Drought as a Precursor to Tropical Pacific Sea Surface Temperature Cooling",
-      "abstract": "Abstract South America has experienced notable drought conditions over recent decades. Concurrently, the adjacent tropical eastern Pacific has exhibited cooling anomalies in sea surface temperature (SST). Here, through observational analyses and climate model simulations, we reveal that terrestrial drought in central South America (CSA) acts as an emerging precursor to SST cooling in the tropical central-eastern Pacific (TCEP). Our statistical analysis identifies a robust lagged relationship whereby anomalous winter (December–February) TCEP SST cooling systematically follows reduced spring (March–May) CSA soil moisture. Employing diagnostic analyses of atmospheric and oceanic processes together with a hierarchy of climate models—including soil moisture sensitivity experiments, linear baroclinic model simulations, and fully coupled Earth system model experiments—we demonstrate a coherent mechanistic pathway in which reduced soil moisture in CSA triggers a subtropical-to-equatorial meridional precipitation dipole that disrupts Pacific zonal circulation, strengthen easterly trade winds, activates ocean–atmosphere feedbacks, and ultimately lead to cooling of TCEP SST in the subsequent winter. Our findings demonstrate a novel ocean-land-atmosphere coupling pathway modulating tropical Pacific variability, with significant implications for enhancing understanding of ocean-land-atmosphere interactions.",
+      "abstract": "Abstract South America has experienced notable drought conditions over recent decades. Concurrently, the adjacent tropical eastern Pacific has exhibited cooling anomalies in sea surface temperature (SST). Here, through observational analyses and climate model simulations, we reveal that terrestrial drought in central South America (CSA) acts as an emerging precursor to SST cooling in the tropical central–eastern Pacific (TCEP). Our statistical analysis identifies a robust lagged relationship whereby anomalous winter (December–February) TCEP SST cooling systematically follows reduced spring (March–May) CSA soil moisture. Employing diagnostic analyses of atmospheric and oceanic processes together with a hierarchy of climate models—including soil moisture sensitivity experiments, linear baroclinic model simulations, and fully coupled Earth system model experiments—we demonstrate a coherent mechanistic pathway in which reduced soil moisture in CSA triggers a subtropical-to-equatorial meridional precipitation dipole that disrupts Pacific zonal circulation, strengthens easterly trade winds, activates ocean–atmosphere feedbacks, and ultimately leads to cooling of TCEP SST in the subsequent winter. Our findings demonstrate a novel ocean–land–atmosphere coupling pathway modulating tropical Pacific variability, with significant implications for enhancing understanding of ocean–land–atmosphere interactions.",
       "link": "https://doi.org/10.1175/jcli-d-25-0407.1",
       "authors": [
         "Wei Lou",
@@ -1659,7 +1659,7 @@
       "key": "doi:10.1175/waf-d-25-0237.1",
       "doi": "10.1175/waf-d-25-0237.1",
       "title": "Winter Precipitation Type Diagnosis and Uncertainty Quantification with a Physically Consistent Machine Learning Method",
-      "abstract": "Abstract Accurately forecasting winter precipitation type and its transitions is critical for high-impact decision making. However, existing methods struggle in thermodynamically ambiguous regimes, and most do not quantify forecast uncertainty from a single model run. We developed an evidential neural network that predicts calibrated probabilities for four winter precipitation types (rain, snow, freezing rain, and ice pellets) along with epistemic uncertainty estimates at the computational cost of a standard neural network. The model was trained on quality-controlled and curated observations from the crowd-sourced mPING dataset paired with vertical thermodynamic profiles from the NOAA Rapid Refresh model analyses. Rigorous physical quality control removed thermodynamically implausible reports. Bulk evaluation against held-out mPING observations from June 2020 through June 2022 shows the ML model outperforms area-based deterministic methods in success ratio for freezing rain and ice pellets while maintaining comparable or better performance for rain and snow. A reduced freezing rain probability of detection reflects genuinely ambiguous thermodynamic environments rather than a uniform model deficiency and is more robustly represented through the full probability distribution than through the dominant predicted class alone. Thermodynamic regime analysis demonstrates that model prediction errors are physically structured and concentrated in interpretable regions of diagnostic space consistent with the known difficulty of freezing rain and ice pellet discrimination. We further demonstrate the model’s physical consistency and operational utility through two contrasting mid-western U.S. winter storm case studies and an interactive visualization tool that enables dynamic interrogation of model predictions and uncertainty in real time.",
+      "abstract": "Abstract Accurately forecasting winter precipitation type and its transitions is critical for high-impact decision-making. However, existing methods struggle in thermodynamically ambiguous regimes, and most do not quantify forecast uncertainty from a single model run. We developed an evidential neural network that predicts calibrated probabilities for four winter precipitation types (rain, snow, freezing rain, and ice pellets) along with epistemic uncertainty estimates at the computational cost of a standard neural network. The model was trained on quality-controlled and curated observations from the crowd-sourced Meteorological Phenomena Identification Near the Ground (mPING) dataset paired with vertical thermodynamic profiles from the NOAA Rapid Refresh model analyses. Rigorous physical quality control removed thermodynamically implausible reports. Bulk evaluation against held-out mPING observations from June 2020 to June 2022 shows the machine learning (ML) model outperforms area-based deterministic methods in success ratio for freezing rain and ice pellets while maintaining comparable or better performance for rain and snow. A reduced freezing rain probability of detection reflects genuinely ambiguous thermodynamic environments rather than a uniform model deficiency and is more robustly represented through the full probability distribution than through the dominant predicted class alone. Thermodynamic regime analysis demonstrates that model prediction errors are physically structured and concentrated in interpretable regions of diagnostic space consistent with the known difficulty of freezing rain and ice pellet discrimination. We further demonstrate the model’s physical consistency and operational utility through two contrasting Midwestern U.S. winter storm case studies and an interactive visualization tool that enables dynamic interrogation of model predictions and uncertainty in real time.",
       "link": "https://doi.org/10.1175/waf-d-25-0237.1",
       "authors": [
         "Charlie Becker",
@@ -1693,7 +1693,7 @@
       "key": "doi:10.1175/waf-d-26-0017.1",
       "doi": "10.1175/waf-d-26-0017.1",
       "title": "Automated Identification and Microphysical Characterization of ZDR Columns in Severe Thunderstorms",
-      "abstract": "Abstract The differential reflectivity (Z DR ) column is a notable radar signature in thunderstorms, serving as a proxy for updrafts and an early indicator of storm intensity. However, a quantitative relationship among the Z DR column morphology, related microphysical characteristics, and dynamic structures based on sufficient field observations has not yet been reported. To explore these quantitative relationships, we develop a three-dimensional Z DR column identification method based on 100 Z DR columns within severe thunderstorms (primarily supercells) in the Pearl River Delta region of South China from April to July in 2021 and 2024. 3D-connected component labeling with horizontal and vertical tolerance mechanisms is integrated into the method to ensure the structural independence and integrity of multiple Z DR columns coexisting within the same thunderstorm. This method shows that Z DR columns in severe thunderstorms exhibit mean depths of approximately 2 km, mean widths of approximately 6 km, mean volumes of approximately 30 km 3 , 30–70 min lifecycles, and high liquid water contents (mean =2.23 g m −3 ). Quantitative relationships between three morphological parameters (volume, width, and depth) of Z DR columns and updraft volumes retrieved from multiradar wind fields using 1–11 m s −1 thresholds were also determined. All three morphological parameters of the Z DR column outperform the traditional 35 dBZ echo top height in indicating updraft intensity. In addition, the distribution of hydrometeors was explored. Our results, derived from extensive observations, quantitatively highlight the strong relationship between Z DR column morphology and thunderstorm dynamic structure, providing a theoretical foundation for improving severe weather warnings and forecasts.",
+      "abstract": "Abstract The differential reflectivity ( Z DR ) column is a notable radar signature in thunderstorms, serving as a proxy for updrafts and an early indicator of storm intensity. However, a quantitative relationship among the Z DR column morphology, related microphysical characteristics, and dynamic structures based on sufficient field observations has not yet been reported. To explore these quantitative relationships, we develop a three-dimensional Z DR column identification method based on 100 Z DR columns within severe thunderstorms (primarily supercells) in the Pearl River delta region of South China from April to July in 2021 and 2024. The 3D-connected component labeling with horizontal and vertical tolerance mechanisms is integrated into the method to ensure the structural independence and integrity of multiple Z DR columns coexisting within the same thunderstorm. This method shows that Z DR columns in severe thunderstorms exhibit mean depths of approximately 2 km, mean widths of approximately 6 km, mean volumes of approximately 30 km 3 , 30–70-min life cycles, and high liquid water contents (mean = 2.23 g m −3 ). Quantitative relationships between three morphological parameters (volume, width, and depth) of Z DR columns and updraft volumes retrieved from multiradar wind fields using 1–11 m s −1 thresholds were also determined. All three morphological parameters of the Z DR column outperform the traditional 35-dB Z echo-top height in indicating updraft intensity. In addition, the distribution of hydrometeors was explored. Our results, derived from extensive observations, quantitatively highlight the strong relationship between Z DR column morphology and thunderstorm dynamic structure, providing a theoretical foundation for improving severe weather warnings and forecasts. Significance Statement Differential reflectivity ( Z DR ) columns observed by dual-polarization radar are known indicators of updrafts in thunderstorms, but they have rarely been quantitatively characterized on the basis of abundant observational datasets, which are needed for objective operational use. This study introduces an automated three-dimensional method to identify Z DR columns and demonstrates that their depths, widths, and volumes are strongly related to updraft intensities. Compared with traditional updraft indicators such as the echo-top height, Z DR column morphology provides a more accurate representation of updraft intensity within severe thunderstorms. These results show that Z DR columns can be used as practical radar-based tools to improve real-time monitoring and nowcasting of severe convective storms.",
       "link": "https://doi.org/10.1175/waf-d-26-0017.1",
       "authors": [
         "Zhe Li",
@@ -1830,7 +1830,7 @@
       "key": "doi:10.1175/waf-d-26-0026.1",
       "doi": "10.1175/waf-d-26-0026.1",
       "title": "Center Fixing Tropical Cyclones Using Machine Learning-Based Nighttime Visible Imagery",
-      "abstract": "Abstract A machine learning-derived nighttime visible imagery is evaluated for its ability to improve objective tropical cyclone (TC) center-fix accuracy during periods of darkness. Using the Automated Rotational Center Hurricane Eye Retrieval (ARCHER-2) algorithm, 2,507 Geostationary Machine Learning-Nighttime Visible Imagery (A-NVI), shortwave infrared (SWIR), and longwave infrared (LWIR) image sets from the Atlantic and Western Pacific (WPAC) basins during the 2019–2024 seasons were analyzed. Results indicate that A-NVI reduces median center-fix error by 12.45 km (28.6%) relative to SWIR and by 35.87 km (53.6%) relative to LWIR imagery. Improvements were even greater at tropical depression (TD)- and tropical storm (TS)-strength, with reductions of 27.55 km (38.8%) relative to SWIR and 86.27 km (66.5%) relative to LWIR. By enhancing the depiction of low-level circulation structure beneath upper-level cloud cover, A-NVI appears to provide center-fix guidance that is less influenced by deep convective asymmetries than traditional infrared (IR) imagery. These results highlight the potential operational value of A-NVI for improving nighttime TC position estimates, supporting forecaster situational awareness, and enhancing center initialization for track and intensity forecast workflows.",
+      "abstract": "Abstract A machine learning–derived nighttime visible imagery is evaluated for its ability to improve objective tropical cyclone (TC) center-fix accuracy during periods of darkness. Using the Automated Rotational Center Hurricane Eye Retrieval, version 2 (ARCHER-2), algorithm, 2507 Geostationary Machine Learning Nighttime Visible Imagery (A-NVI), shortwave infrared (SWIR), and longwave infrared (LWIR) image sets from the Atlantic and western Pacific (WPAC) basins during the 2019–24 seasons were analyzed. Results indicate that A-NVI reduces median center-fix error by 12.45 km (28.6%) relative to SWIR imagery and by 35.87 km (53.6%) relative to LWIR imagery. Improvements were even greater at tropical depression (TD) and tropical storm (TS) strength, with reductions of 27.55 km (38.8%) relative to SWIR and 86.27 km (66.5%) relative to LWIR. By enhancing the depiction of low-level circulation structure beneath upper-level cloud cover, A-NVI appears to provide center-fix guidance that is less influenced by deep convective asymmetries than traditional infrared (IR) imagery. These results highlight the potential operational value of A-NVI for improving nighttime TC position estimates, supporting forecaster situational awareness, and enhancing center initialization for track and intensity forecast workflows.",
       "link": "https://doi.org/10.1175/waf-d-26-0026.1",
       "authors": [
         "Nathan Stanford",
@@ -74189,7 +74189,7 @@
       "key": "doi:10.1175/jcli-d-26-0062.1",
       "doi": "10.1175/jcli-d-26-0062.1",
       "title": "Interactions Between the SPCZ and Convectively Coupled Equatorial Waves",
-      "abstract": "Abstract Variability in the South Pacific Convergence Zone (SPCZ) is tightly linked to interactions between local convection and large-scale circulation, yet the roles of convectively-coupled equatorial waves (CCEWs) in modulating the SPCZ remain poorly understood. Using a combined Fourier–wavelet transform, we isolate CCEW signals in daily outgoing longwave radiation (OLR) and quantify their interactions with the SPCZ. We find that approximately 38% of the total OLR variance with in the SPCZ region resides in CCEW bands, with convectively-coupled equatorial Rossby waves (CCERWs) providing the dominant contribution of about 20%. Wave structures of CCERWs sharpen upon encountering the SPCZ, with convection aligning along the SPCZ axis and exhibiting reduced westward phase speed. Detailed diagnostics of CCERW–SPCZ interactions reveal that a convective coupling mechanism involving feedbacks between wave dynamics, surface evaporation, and convection governs CCERW propagation and growth in this region. Southeasterly flow ahead of the cyclonic vorticity anomaly strengthens local trade winds, enhancing surface evaporation. Enhanced evaporation fuels the growth and westward propagation of convection within CCERWs, with convective maxima located west of the vorticity center. Latent heat release associated with convection induces a secondary cyclonic circulation that amplifies the wave while slowing its westward propagation through vortex stretching. This wave–evaporation–convection feedback is further reinforced by the SPCZ background state, leading to the sharpened wave structures observed during SPCZ–CCERW interactions. Overall, this study clarifies the significant role of CCEWs in modulating SPCZ variability and provides new insight into convective coupling mechanisms within CCERWs.",
+      "abstract": "Abstract Variability in the South Pacific convergence zone (SPCZ) is tightly linked to interactions between local convection and large-scale circulation, yet the roles of convectively coupled equatorial waves (CCEWs) in modulating the SPCZ remain poorly understood. Using a combined Fourier–wavelet transform, we isolate CCEW signals in daily outgoing longwave radiation (OLR) and quantify their interactions with the SPCZ. We find that approximately 38% of the total OLR variance within the SPCZ region resides in CCEW bands, with convectively coupled equatorial Rossby waves (CCERWs) providing the dominant contribution of about 20%. Wave structures of CCERWs sharpen upon encountering the SPCZ, with convection aligning along the SPCZ axis and exhibiting reduced westward phase speed. Detailed diagnostics of CCERW–SPCZ interactions reveal that a convective coupling mechanism involving feedbacks between wave dynamics, surface evaporation, and convection governs CCERW propagation and growth in this region. Southeasterly flow ahead of the cyclonic vorticity anomaly strengthens local trade winds, enhancing surface evaporation. Enhanced evaporation fuels the growth and westward propagation of convection within CCERWs, with convective maxima located west of the vorticity center. Latent heat release associated with convection induces a secondary cyclonic circulation that amplifies the wave while slowing its westward propagation through vortex stretching. This wave–evaporation–convection feedback is further reinforced by the SPCZ background state, leading to the sharpened wave structures observed during SPCZ–CCERW interactions. Overall, this study clarifies the significant role of CCEWs in modulating SPCZ variability and provides new insight into convective coupling mechanisms within CCERWs. Significance Statement Although the South Pacific convergence zone straddles the boundary between the tropics and extratropics, most studies on the SPCZ have focused on interactions with extratropical waves or the Madden–Julian oscillation. In this study, we show that convectively coupled equatorial waves account for much of the variability in convection within the SPCZ, with equatorial Rossby waves contributing the largest share among the identified wave bands. Interactions between these waves and the SPCZ sharpen wave structures and slow their propagation through a feedback loop involving large-scale wave dynamics, surface evaporation, and convection. This wave–evaporation–convection feedback provides a new physical framework for understanding how tropical waves interact with large-scale convergence zones. Our results highlight the importance of equatorial wave processes for SPCZ variability and broaden understanding of circulation–convection coupling mechanisms within convectively coupled equatorial waves.",
       "link": "https://doi.org/10.1175/jcli-d-26-0062.1",
       "authors": [
         "Yuanrui Chen",
@@ -189875,8 +189875,8 @@
       "issn": "0003-0007",
       "first_seen": "2026-09-30T18:30:49+00:00",
       "last_seen": "2026-09-30T18:30:49+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-30T18:30:49+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-10-01T00:37:49+00:00",
       "matched_channels": {}
     },
     "doi:10.1175/bams-d-26-0309.1": {
@@ -189900,8 +189900,8 @@
       "issn": "0003-0007",
       "first_seen": "2026-09-30T18:30:50+00:00",
       "last_seen": "2026-09-30T18:30:50+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-09-30T18:30:50+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-10-01T00:37:49+00:00",
       "matched_channels": {}
     },
     "doi:10.1175/jtech-d-26-0028.1": {
@@ -192519,6 +192519,1386 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-09-30T18:31:53+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1175/jas-d-25-0191.1": {
+      "key": "doi:10.1175/jas-d-25-0191.1",
+      "doi": "10.1175/jas-d-25-0191.1",
+      "title": "Response of Atmospheric Convection to Surface Drying: New Insights from Isentropic Analysis",
+      "abstract": "Abstract There is strong evidence that the atmospheric moisture content of several solar system planets, including Earth, has varied over their lifetimes. A growing body of work also documents a range of atmospheric water vapor content on exoplanets. An improved understanding of the coupling between atmospheric moisture availability and convection could yield greater intuition about the past and current states of planetary atmospheres, including Earth’s atmosphere. In this work, we investigate the changing heat engine behavior of localized radiative–convective equilibrium convection in a suite of moist-to-near-dry numerical simulations. Each simulation has a constant surface relative humidity, with values ranging from saturated to nearly dry surface conditions. We observe a deepening of the planetary boundary layer and a corresponding lifting of the cloud base under surface drying, in agreement with previous numerical and observational studies. The primary factor contributing to this is the reduction in the lifting condensation level temperature implied by the Clausius–Clapeyron relationship. Additionally, a diagnostic of the overall mass transport by atmospheric convection increases in drier conditions, consistent with prior work. This mainly results from an increase in planetary boundary layer convective mass transport. In contrast, free-tropospheric convective mass transport decreases, in agreement with previous studies. Finally, we find that surface evaporation is associated with less irreversible entropy production under surface drying and transitions from a spontaneous process to a nonspontaneous process. This occurs because near-surface air is more humid than the surface in the drier experiments, whereas in moister conditions, the boundary layer is drier than the surface.",
+      "link": "https://doi.org/10.1175/jas-d-25-0191.1",
+      "authors": [
+        "Laurel Régibeau-Rockett",
+        "Morgan E O’Neill"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of the Atmospheric Sciences",
+      "journal_label": "Journal of the Atmospheric Sciences",
+      "issn": "0022-4928",
+      "first_seen": "2026-10-01T00:37:45+00:00",
+      "last_seen": "2026-10-01T00:37:45+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0541.1": {
+      "key": "doi:10.1175/jcli-d-25-0541.1",
+      "doi": "10.1175/jcli-d-25-0541.1",
+      "title": "Global Climatology and Trends of the Dominant Wave-Breaking Probability",
+      "abstract": "Abstract Wave breaking is the dominant physical process responsible for the energy dissipation of ocean surface waves and is critical for exchanges of momentum, energy, and mass across the air–sea interface. Over the past two decades, extensive research efforts have been devoted to investigating the climatology and trends of wind speed and wave height in global oceans, revealing their upward trends over the past several decades. Nonetheless, research on global-scale wave-breaking statistics remains relatively limited. It is not immediately clear whether wave steepness and wave breaking have intensified because the trends of wavelength are unknown. In this paper, we first present a simplified theoretical analysis based on the empirical wind-sea fetch laws and Toba’s 3/2 power law. A climatological relation between wind-sea wave steepness and wind speed is obtained, which suggests that as a consequence of accelerating winds on a climatological time scale, wave height grows faster than wavelength does and thus results in amplified steepness and intensified wave breaking. We then conduct a thorough analysis of global climatology and trends of the dominant wave-breaking probability b T , an important proxy of wave breaking estimated empirically from a recently produced global wave hindcast over the period from 1992 to 2019. It is confirmed that in the Southern Ocean (global oceans), b T has increased by approximately 4% (2%) over the past 28 years, and these relative trends of b T are comparable to those for wind speed and wave height.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0541.1",
+      "authors": [
+        "Shaoshuai Shi",
+        "Qingxiang Liu",
+        "Lang Cao",
+        "Shuo Li",
+        "Tianqi Sun",
+        "Alexander Babanin"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:46+00:00",
+      "last_seen": "2026-10-01T00:37:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0740.1": {
+      "key": "doi:10.1175/jcli-d-25-0740.1",
+      "doi": "10.1175/jcli-d-25-0740.1",
+      "title": "Regularized Fingerprinting with Linearly Optimal Weight Matrix in Detection and Attribution of Climate Change",
+      "abstract": "Abstract Climate change detection and attribution play a central role in establishing the influence of human activities on global warming. The widely used optimal fingerprinting framework can be formulated as a linear errors-in-variables regression in which the covariance of internal climate variability is estimated from climate model simulations. Existing regularized optimal fingerprinting approaches often underestimate the variance of the scaling factors, leading to confidence intervals that are too narrow and fail to achieve nominal coverage. In this paper, we first propose consistent variance estimators for the regression coefficients within the general class of linear shrinkage weight matrices, thereby addressing the undercoverage problem in conventional methods. Building on this result, we further derive a linearly optimal weight matrix that directly minimizes the asymptotic variances of the estimated scaling factors. Numerical studies confirm improved empirical coverage and shorter interval lengths. When applied to annual mean near-surface air temperature (1951–2020), the proposed method produces narrower and more reliable intervals and provides new insights in detection and attribution across different regional scales. Significance Statement Optimal fingerprinting is a central tool for detecting and attributing climate change by linking observed climate signals to external forcings. In practice, both the fingerprints and the spatiotemporal covariance structure of internal climate variability must be estimated from climate model simulations, creating errors-in-variables challenges that complicate statistical inference. Existing methods often lose the original optimality of fingerprinting and can produce confidence intervals with poor coverage. We propose a new estimation framework that retains optimality in a more general and realistic setting where the covariance matrix is completely unknown. Numerical studies demonstrate that the proposed method delivers reliable uncertainty quantification while remaining efficient, improving confidence in detection and attribution results.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0740.1",
+      "authors": [
+        "Haoran Li",
+        "Yan Li"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:46+00:00",
+      "last_seen": "2026-10-01T00:37:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0633.1": {
+      "key": "doi:10.1175/jcli-d-25-0633.1",
+      "doi": "10.1175/jcli-d-25-0633.1",
+      "title": "Teleconnections and Topography: How Snowpack Prediction Using Sea Surface Temperature Varies within the Colorado Rocky Mountains",
+      "abstract": "Abstract Mountain snowpack in the western United States can be difficult to predict multiple months in advance, especially within the Colorado Rocky Mountains, where snowpack prediction varies widely by location and derives little skill from El Niño–Southern Oscillation (ENSO). Using a high-resolution snow water equivalent (SWE) depth reanalysis dataset, we investigate how seasonal snowpack prediction using sea surface temperature (SST) in the North Pacific and North Atlantic Oceans varies across prominent crests and valleys in the Colorado Rocky Mountains. Possible atmospheric mechanisms are proposed to explain SST patterns associated with enhanced SWE using self-organizing maps. We find that southern areas of the domain receive significant prediction skill from SSTs within a portion of the tropical North Atlantic and that this SST pattern is associated with the frequency of surface cyclone passages southwest of the domain. Northern areas, by contrast, receive significant prediction skill from SSTs further north in the North Atlantic—an SST pattern related to the strength of the North Pacific high. Prediction skill increases from west to east, where a larger fraction of snow accumulation events coincides with the passage of surface cyclones. A forecast experiment is constructed using December SSTs to predict 1 April SWE, which produces an average correlation of 0.51 between predicted and observed SWE across the domain and a maximum correlation of 0.75 on the eastern slope of the Colorado Front Range for the years analyzed. This promising result highlights the potential to predict snowpack in small mountain watersheds more accurately, which may benefit water management in these locations.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0633.1",
+      "authors": [
+        "Jeremy Barroll",
+        "Ben Livneh",
+        "Andrew Winters"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:46+00:00",
+      "last_seen": "2026-10-01T00:37:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0442.1": {
+      "key": "doi:10.1175/jcli-d-25-0442.1",
+      "doi": "10.1175/jcli-d-25-0442.1",
+      "title": "Impacts of Different Anthropogenic Forcings on Tropical Cyclone Frequency in Large Ensemble Climate Model Simulations",
+      "abstract": "Abstract To better understand the effects of anthropogenic forcings on tropical cyclone (TC) activity, we investigate the individual impacts of anthropogenic aerosols (AAER), greenhouse gases (GHG), and biomass burning aerosols (BMB) on TC frequency using Community Earth System Model, version 2 (CESM2), large ensemble simulations. Changes in TC genesis are estimated using a dynamic genesis potential index (DGPI), where distinct impacts from AAER and GHG are revealed. Increasing GHG emissions result in a decrease and southward shift in DGPI over the North Atlantic and eastern North Pacific since 1940, whereas the time-dependent AAER emissions lead to a decrease and southward shift in DGPI before 1980s and an increase and northward shift thereafter. In addition, BMB emission increases lead to a slight increase in TC frequency in the North Atlantic. Various dynamic and thermodynamic parameters act cooperatively to change TC frequency associated with GHG and AAER over the North Atlantic, while the increase in DGPI associated with BMB is mainly due to the changes in dynamic variables. AAER effects largely dominate DGPI changes in earlier decades, but GHG effects become increasingly dominant in recent decades. Near-future projections, characterized by continued increases in GHG emissions and steady or declined AAER emissions, suggest decreased DGPI over the North Atlantic and eastern North Pacific driven primarily by GHG forcing. A comparison between DGPI and an alternative, thermodynamic genesis potential index (GPI) shows similar increases or decreases in TC genesis potential with quantitative differences. However, comparisons between CESM2, CESM1, and six CMIP6 models show considerable intermodel spread in DGPI response, highlighting model uncertainties and the need for caution when applying and interpreting multimodel ensemble means. Significance Statement This study explores how different types of human-caused emissions—greenhouse gases, anthropogenic aerosols, and biomass burning aerosols—affect tropical cyclone frequency. Using Community Earth System Model, version 2 (CESM2), model simulations, we find that greenhouse gases lead to fewer tropical cyclones and a southward shift in their formation since the 1940s. In contrast, the time-dependent anthropogenic aerosol emissions reduce cyclone frequency before the 1980s but contribute to an increase afterward, along with a northward shift in cyclone formation. Anthropogenic aerosols have had a stronger influence on tropical cyclone frequency in earlier decades, while greenhouse gases have become the dominant driver, leading to the emergence of the anthropogenic signals in tropical cyclone frequency. However, large differences in historical attributions and near-future projections exist between different models.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0442.1",
+      "authors": [
+        "Sarah Henry",
+        "Zhuo Wang",
+        "Seung-Ki Min",
+        "Hamish Ramsay"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:46+00:00",
+      "last_seen": "2026-10-01T00:37:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ]
+      }
+    },
+    "doi:10.1175/jcli-d-24-0512.1": {
+      "key": "doi:10.1175/jcli-d-24-0512.1",
+      "doi": "10.1175/jcli-d-24-0512.1",
+      "title": "Enhanced Teleconnections of Maritime Continent Deforestation on North Pacific Climate during La Niña Conditions",
+      "abstract": "Abstract This study investigates how deforestation in the Maritime Continent (MC) modulates extratropical atmospheric circulation over the North Pacific during different phases of El Niño–Southern Oscillation (ENSO). By analyzing ensemble idealized deforestation experiments, the research reveals a distinct modulation effect based on the ENSO phase. During El Niño, an elongated subtropical jet stream acts as a waveguide, confining deforestation-induced atmospheric waves, which leads to a flattened Aleutian low over the North Pacific and reduced impacts on North America. Conversely, during La Niña, the contracted subtropical jet allows these waves to propagate toward higher latitudes, where deforestation in the MC triggers a Pacific–North American (PNA)-like pattern and causing significant warming in North America. Linear baroclinic model experiments highlight the sensitivity of the extratropical atmospheric response to MC deforestation, particularly over New Guinea, emphasizing the regional dependency of this sensitivity. These findings suggest that deforestation in the MC may have broader impacts on higher latitudes, particularly during La Niña years or under future global warming scenarios that could favor prolonged or multiyear La Niña conditions. Significance Statement This study uncovers the significant influence of Maritime Continent (MC) deforestation on extratropical atmospheric circulation, particularly over the North Pacific, with effects that vary depending on the phase of El Niño–Southern Oscillation (ENSO). By demonstrating how deforestation-induced atmospheric waves interact differently with the atmospheric jet streams during El Niño and La Niña phases, the research highlights the potential for MC deforestation to drive substantial climatic changes in higher latitudes, especially under La Niña conditions. These findings underscore the broader implications of regional land-use changes on global climate patterns, offering critical insights for future climate projections and mitigation strategies.",
+      "link": "https://doi.org/10.1175/jcli-d-24-0512.1",
+      "authors": [
+        "He-Ming Xiao",
+        "Kai-Chih Tseng",
+        "Jin-Yi Yu",
+        "Huang-Hsiung Hsu",
+        "Ting-Hui Lee",
+        "Min-Hui Lo"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:46+00:00",
+      "last_seen": "2026-10-01T00:37:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0730.1": {
+      "key": "doi:10.1175/jcli-d-25-0730.1",
+      "doi": "10.1175/jcli-d-25-0730.1",
+      "title": "Horseshoe Salinity Pattern in the Upper Indian Ocean and Its Decadal Variability",
+      "abstract": "Abstract Salinity plays a crucial role in the global hydrological cycle and climate system by regulating upper-ocean stratification and sea surface temperature (SST). Past studies have revealed the dynamics of salinity variation in the world’s major ocean basins and its linkage to global climate on interannual-to-decadal time scales. However, understanding of upper-ocean salinity variability in the Indian Ocean, especially on decadal time scale and its global implications, remains limited. This study identifies a prominent horseshoe salinity pattern (HSP), present in the Indian Ocean, extending from the surface to 150-m depth. It exhibits pronounced decadal variability and is closely associated with SST variability in the southeastern Indian Ocean (SEIO) with a lag of ∼18 months. Composite maps and a sea surface salinity budget analysis reveal that SST anomalies in the SEIO region modulate the local Walker and Hadley circulation anomaly causing variation in the precipitation pattern. These changes drive upper-ocean freshening or salinification, producing the observed HSP. Advection contributes regionally to salinity variability, particularly in the southern Indian Ocean, but does not play a dominant role in shaping the coherent HSP structure. Further, this pattern modulates upper-ocean stratification, leading to the development of SST anomalies in the western tropical Indian Ocean. These findings offer novel insight into the Indian Ocean salinity dynamics, highlighting the role of SST–salinity coupling, and have the potential for improving predictions of decadal climate variability and its global implications. Significance Statement Given the growing focus on decadal climate prediction and the critical role of salinity in global climate, understanding the decadal-scale variability in upper-ocean salinity is important. While past research has focused on sea surface salinity changes in the tropical Indian Ocean, subsurface salinity variability on decadal time scales remains poorly understood. This study uncovers a horseshoe salinity pattern in the upper Indian Ocean up to 150 m, driven by precipitation anomalies linked to southeastern Indian Ocean SST variations. Further, this pattern affects the upper-ocean stratification and causes SST anomalies in the western tropical Indian Ocean. These findings fill a major knowledge gap in Indian Ocean salinity dynamics and have direct implications to improve decadal climate prediction and model evaluation.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0730.1",
+      "authors": [
+        "Limonlisa Sahu",
+        "Balaji Senapati",
+        "Mihir K. Dash",
+        "Swadhin K. Behera"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:46+00:00",
+      "last_seen": "2026-10-01T00:37:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0545.1": {
+      "key": "doi:10.1175/jcli-d-25-0545.1",
+      "doi": "10.1175/jcli-d-25-0545.1",
+      "title": "Combined Effects of Annual Cycle and ENSO on Tropical Cyclone Genesis over the Western North Pacific",
+      "abstract": "Abstract El Niño–Southern Oscillation (ENSO) is important to the interannual variability of tropical cyclone (TC) genesis in the western North Pacific (WNP). However, the mechanisms for the TC seasonal changes in ENSO developing phase remain unclear. This study addresses the critical influences of the background sea surface temperature (SST) annual cycle and ENSO-related SST anomalies (SSTAs) in regulating TC genesis seasonal changes. The results show that during eastern Pacific (EP) El Niño years, TC genesis increases in the southeastern WNP and decreases in the northwest in summer, while in autumn, TC genesis strengthens in the east and weakens in the west. For central Pacific (CP) El Niño events, basinwide enhancement occurs in summer, with a southeast–northwest contrast in fall, whereas La Niña developing years exhibit nearly opposite patterns. These variations arise from anomalous convection generated by the combination of warm background SST annual cycle and ENSO SSTA, which modify large-scale conditions for TC genesis. Background SST can also strengthen ENSO evolution via the Bjerknes feedback, amplifying circulation impacts. This work provides a new perspective on the critical role of background SST annual cycle in shaping the ENSO–TC relationship, which is potentially helpful for improving seasonal TC prediction over the WNP.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0545.1",
+      "authors": [
+        "Han Zhu",
+        "Yi-Peng Guo"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:46+00:00",
+      "last_seen": "2026-10-01T00:37:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ]
+      }
+    },
+    "doi:10.1175/jcli-d-25-0364.1": {
+      "key": "doi:10.1175/jcli-d-25-0364.1",
+      "doi": "10.1175/jcli-d-25-0364.1",
+      "title": "Estimating Medicane Precipitation Hazard",
+      "abstract": "Abstract Mediterranean hurricanes, or “medicanes,” are rare, tropical-like cyclones producing intense rainfall and posing significant hazards to coastal populations. This study estimates medicane precipitation hazards using a statistical-deterministic approach that generates synthetic tracks from reanalysis data and global climate models. Coupling these tracks with the tropical cyclone rainfall (TCR) algorithm, the precipitation field for each synthetic event is calculated, enabling spatially and temporally resolved hazard assessments. Validation against ERA5, satellite products, and surface observations confirms the model’s performance, particularly in coastal regions, despite a localized rainfall underestimation in the central Mediterranean Sea. Sensitivity analyses (via track subsampling and TCR-ERA5 coupling) reveal that this discrepancy is not driven by sample size or the rainfall algorithm but likely by synthetic track generation or input data limitations. Under the RCP8.5 scenario, projected future changes indicate a marked increase in rainfall extremes: 100-yr return period rainfall is expected to increase by up to 140 mm along the Adriatic coast, 250-yr events by up to 160 mm, and 500-yr events may exceed 800 mm total rainfall in some areas. In particular, regions such as southern Italy, northern Algeria, Sardinia, and Corsica are expected to see an increase of 100–160 mm in extreme Medicane-induced rainfall. Conversely, no substantial change is projected over southern Greece. This methodology offers a robust framework for quantifying hydrological impacts of low-frequency, high-impact storms in the Mediterranean. Our findings underscore the potential for more destructive rainfall events under climate change, highlighting the urgent need for enhanced monitoring, improved local observational networks, and targeted adaptation strategies.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0364.1",
+      "authors": [
+        "Miriam Saraceni",
+        "Lorenzo Silvestri",
+        "Paolina Bongioannini Cerlini",
+        "Romu Romero",
+        "Kerry Emanuel"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:46+00:00",
+      "last_seen": "2026-10-01T00:37:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone",
+          "hurricane"
+        ]
+      }
+    },
+    "doi:10.1175/jcli-d-26-0086.1": {
+      "key": "doi:10.1175/jcli-d-26-0086.1",
+      "doi": "10.1175/jcli-d-26-0086.1",
+      "title": "Vertical Structure of the High-Level Cross-Equatorial Flow and Response to ENSO in Boreal Summer",
+      "abstract": "Abstract Cross-equatorial flow (CEF) represents a fundamental atmospheric phenomenon in the tropical troposphere. While low-level CEF (LCEF) has been extensively studied, the understanding of high-level CEF (HCEF) remains insufficient. Based on three reanalysis datasets [fifth generation European Centre for Medium-Range Weather Forecasts atmospheric reanalysis (ERA5), Japanese 55-yr Reanalysis (JRA-55), and Modern-Era Retrospective Analysis for Research and Applications, version 2 (MERRA-2)] and CMIP6 models, this study conducts a comprehensive analysis of HCEF, including its vertical structure, multiple time scale variabilities, and relationship with El Niño–Southern Oscillation (ENSO). The results indicate that HCEF has four primary channels located over the eastern Pacific, the Atlantic, West Africa, and the Indian Ocean–Maritime Continent, respectively. While interannual variability of HCEF is relatively consistent across the datasets, substantial discrepancies exist in its decadal variability and trend. The linkage between HCEF and the underlying LCEF exhibits dataset dependence and channel difference at interannual scales. The eastern Pacific HCEF (EPHCEF) is directly modulated by two types of ENSO due to sea surface temperature anomalies that excite anomalous convection, which in turn modifies patterns of upper-tropospheric convergence and divergence, thereby driving HCEF anomalies. During eastern Pacific (EP) ENSO events, Atlantic HCEF (ALHCEF) and West Africa HCEF (WAHCEF) exhibit significant interannual variability through a physical process similar to that affecting EPHCEF. Statistical analysis suggests that the Atlantic Niño is more likely to be the primary driver of their variability compared with ENSO. The simulation results of CMIP6 for eastern Pacific ENSO are similar to those of the reanalysis datasets but show systematic biases for central Pacific (CP) ENSO. These findings significantly advance our understanding of the tropical upper-tropospheric circulation.",
+      "link": "https://doi.org/10.1175/jcli-d-26-0086.1",
+      "authors": [
+        "Xinming Zhang",
+        "Guocan Wu"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:46+00:00",
+      "last_seen": "2026-10-01T00:37:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-3919cover": {
+      "key": "doi:10.1175/jcli-3919cover",
+      "doi": "10.1175/jcli-3919cover",
+      "title": "Journal Information and Table of Contents",
+      "abstract": "",
+      "link": "https://doi.org/10.1175/jcli-3919cover",
+      "authors": [],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:46+00:00",
+      "last_seen": "2026-10-01T00:37:46+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:37:46+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0384.1": {
+      "key": "doi:10.1175/jcli-d-25-0384.1",
+      "doi": "10.1175/jcli-d-25-0384.1",
+      "title": "Phase Transitions in Climate Network Unravel the Large-Scale Onset and Withdrawal of Indian Monsoon",
+      "abstract": "Abstract The seasonal migration of the planetary-scale convectively coupled system of intertropical convergence zone brings sustained rainfall over the Indian subcontinent and establishes large-scale monsoon. However, to make accurate predictions that support agricultural policies, we must define the onset of sustained rainfall at every location. The necessity of defining the onset of a large-scale phenomenon at a local scale appears elusive and remains unresolved. Operational definitions are unable to differentiate between large-scale and local onsets, thereby restricting their utility to farmers. We propose a novel transdisciplinary perspective that separates onsets due to local transient phenomena from true onsets related to the large-scale monsoon system. We view the arrival of monsoon as the emergence of a large-scale persistent organization from the spatiotemporal evolution of clusters of local onsets. Using network science, we track the largest cluster formed by connecting locations in spatial proximity that have undergone local onset. We then define the large-scale onset at one location when that location becomes part of a planetary-scale cluster of onsets. Thus, we establish monsoon as a phase transition in the framework of climate networks. We also discover that climatological monsoon progression over India comprises two abrupt growths in the size of the largest cluster of local onsets delineating the emergence and spatial spread of Indian monsoon. Climatologically, the large-scale onset over peninsular India occurs after a large-scale cluster is established over northeast India (NEI). The cluster from NEI propagates west and merges with a cluster over the peninsula, establishing a planetary-scale monsoon system that progresses northward consistently. Significance Statement Agriculture in India can be made climate resilient if farmers are provided bogus-free onset and withdrawal dates of monsoon. Even though monsoon is a planetary-scale phenomenon, we must define monsoon onset at a local scale for the benefit of farmers throughout the country. Operational definitions are based on regional weather measurements and can be corrupted by local and transient weather phenomena. We provide an objective method to define the large-scale onset and withdrawal of monsoon at every location by tracking the largest cluster of rainfall onsets in a climate network. Our transdisciplinary approach helps identify if the local rainfall will be sustained by and is part of the interconnected large-scale monsoon system and is, therefore, devoid of bogus onsets.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0384.1",
+      "authors": [
+        "Yogenraj Patil",
+        "Gaurav Chopra",
+        "Shruti Tandon",
+        "B. N. Goswami",
+        "R. I. Sujith"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:48+00:00",
+      "last_seen": "2026-10-01T00:37:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0615.1": {
+      "key": "doi:10.1175/jcli-d-25-0615.1",
+      "doi": "10.1175/jcli-d-25-0615.1",
+      "title": "Precipitation Changes and Possible Mechanisms in the Global Arid Regions during the Last 40 Years",
+      "abstract": "Abstract Over the past 40 years, arid regions have warmed faster than the global mean. Due to the limited evaporative moisture in arid regions, changes in precipitation and their relationship with rising temperatures remain unclear. Based on Multi-Source Weighted-Ensemble Precipitation (MSWEP) and the Climatic Research Unit (CRU) temperature data, this study investigates the characteristics of changes in precipitation and extreme precipitation in eight arid regions globally from 1980 to 2024 and analyzes the relationship between precipitation and temperature and its possible mechanisms. The results show that, in contrast to global and nonarid regions, where extreme precipitation has generally increased, precipitation and extreme precipitation in arid regions have exhibited decreasing trends, with rates of −39.6 and −21.9 mm decade −1 , respectively. Precipitation and extreme precipitation in arid regions have spatial heterogeneity, with increasing trends observed in North Africa at rates of 4.7 and 4.1 mm decade −1 , respectively. Unlike the global-mean precipitation, which generally shows a positive response to temperature rise, arid regions show a negative response of precipitation and extreme precipitation to rising temperatures, except in North Africa. In North Africa, the response of precipitable water (PW) to temperature (10% K −1 ) exceeds the global mean (7% K −1 ), which may contribute to the positive response of precipitation to temperature. In other arid regions, the response of PW to temperature ranges from −2.7% to 2.9% K −1 , which is weaker than the global mean. Furthermore, relative humidity and convective available potential energy are negatively correlated with temperature but positively correlated with precipitation, indicating that temperature rise reduces atmospheric saturation and convective intensity, thereby weakening the conversion of water vapor into precipitation, corresponding to the negative correlation between precipitation and temperature in most arid regions. Significance Statement Precipitation in arid regions has decreased since the 1980s, which is different from the global scale. The possible mechanisms of precipitation changes in arid regions suggest that, considering the moisture deficit, although the atmosphere’s vapor-holding capacity increases with warming, the actual atmospheric water vapor content does not increase, and relative humidity and convective available potential energy decrease, thereby weakening the conversion of water vapor into precipitation, corresponding to the negative correlation between precipitation and temperature in most arid regions.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0615.1",
+      "authors": [
+        "Chenghai Wang",
+        "Wentao Zhang",
+        "Feimin Zhang"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:48+00:00",
+      "last_seen": "2026-10-01T00:37:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-26-0144.1": {
+      "key": "doi:10.1175/jcli-d-26-0144.1",
+      "doi": "10.1175/jcli-d-26-0144.1",
+      "title": "Seasonal Variations in the MJO Propagation and Decay over the Maritime Continent owing to Background Circulation and Modulation by ENSO",
+      "abstract": "Abstract Some Madden–Julian oscillation (MJO) events maintain enhanced convection over the Maritime Continent and propagate into the western Pacific, whereas others weaken near the Maritime Continent. Using satellite-derived outgoing longwave radiation and reanalysis, we identify MJO events during October–April 1985/86–2020/21 and examine monthly variability from November through April. Events are classified by the amplitude of 20–100-day intraseasonal convection over the Maritime Continent into propagating (P type) and decaying (D type) categories. D-type events peak in November, whereas P-type events prevail in January–February. This seasonal cycle accompanies a southward shift of the MJO track. In January–February, the track is often confined to the southern Maritime Continent and northern Australia, limiting interaction with Maritime Continent topography and its barrier effect. Background-state (>100 days) composites show stronger P–D differences in November and weaker differences in January–February. In November, P-type events are accompanied by stronger 850-hPa westerlies, larger precipitable water over the western and central Pacific, and an eastward shift of the ascending branch of the Walker circulation along the MJO path. The El Niño–Southern Oscillation (ENSO) stratification shows that, in November, P-type events occur more often during El Niño, whereas D-type events occur more often during La Niña. This ENSO dependence is consistent with the eastward-shifted Walker circulation ascent during P-type events relative to D-type events. The separation is largest when ENSO is defined by Niño-4 sea surface temperature (SST) anomalies. These results indicate that ENSO-related modulation of the background circulation contributes to whether November MJO events maintain convection across the Maritime Continent. Significance Statement The Madden–Julian oscillation (MJO) is a 30–90-day pulse of rainfall and winds that affects weather beyond the tropics. Over the Maritime Continent (the archipelagic region between the Indian and Pacific Oceans), some MJO events propagate into the western Pacific, while others decay. The fraction of decaying events peaks in November, when the MJO crosses the islands, but is low in January–February, when it tracks along northern Australia and interacts less with island topography. In November, propagating events occur with a moister atmosphere, stronger westerlies, and an eastward-shifted Walker circulation. MJO propagation in November is more frequent during El Niño and decays during La Niña, with these seasonal variations indicating that the background circulation is modulated by El Niño–Southern Oscillation.",
+      "link": "https://doi.org/10.1175/jcli-d-26-0144.1",
+      "authors": [
+        "Togo Sugiura",
+        "Hiroshi G. Takahashi"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:48+00:00",
+      "last_seen": "2026-10-01T00:37:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jcli-d-25-0602.1": {
+      "key": "doi:10.1175/jcli-d-25-0602.1",
+      "doi": "10.1175/jcli-d-25-0602.1",
+      "title": "Tropical Teleconnection Influences on Decadal Trends in West Antarctic Surface Mass Balance",
+      "abstract": "Abstract The surface mass balance (SMB) of the Antarctic Ice Sheet is a critical factor influencing global mean sea level rise and has substantial implications for future projections of sea level rise. In recent decades, the Antarctic Ice Sheet SMB trends show pronounced regional disparities, marked by a decrease over the western part but an increase over the eastern part of West Antarctica. Through a synthesis of ice core records and five reanalysis datasets, as well as atmospheric dynamics analysis and numerical model simulations, we demonstrate that the multidecadal trends in tropical sea surface temperature are key drivers of the dipole-like SMB trends in West Antarctica. Specifically, the eastern tropical Pacific cooling associated with the phase changes of the interdecadal Pacific oscillation (IPO) and the tropical Atlantic warming associated with the Atlantic multidecadal oscillation (AMO) can modulate tropical convection and latent-heating anomalies, thereby stimulating Rossby wave trains propagating to West Antarctica, resulting in the contrasting moisture divergence and precipitation changes between the western and eastern parts of West Antarctica. In particular, the statistical analysis and model simulations clarify the seasonality of these teleconnections. Both the Pacific and Atlantic contribute to the dipole-like SMB pattern during austral spring and autumn, while the Pacific is the major contributor during austral summer. Our findings have broad implications for understanding the recent observed SMB trends as well as future projections of Antarctic SMB changes and consequent global sea level rise.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0602.1",
+      "authors": [
+        "Kai Man",
+        "Xichen Li",
+        "Jürg Luterbacher",
+        "Lei Geng",
+        "Naiming Yuan",
+        "Yurong Hou",
+        "Yonghao Wang",
+        "Yujie Miao"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:48+00:00",
+      "last_seen": "2026-10-01T00:37:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical convection"
+        ]
+      }
+    },
+    "doi:10.1175/jcli-d-25-0618.1": {
+      "key": "doi:10.1175/jcli-d-25-0618.1",
+      "doi": "10.1175/jcli-d-25-0618.1",
+      "title": "AMOC Discrepancies across Reanalyses and Models Limit Dynamical Understanding",
+      "abstract": "Abstract The Atlantic meridional overturning circulation (AMOC) influences global climate, yet its multiscale variability and the processes governing it remain uncertain across models and observations. Using four ocean reanalyses and forced ocean–sea ice simulations from three model families [Energy Exascale Earth System Model Model for Prediction Across Scales (MPAS), Parallel Ocean Program (POP), and Nucleus for European Modelling of the Ocean (NEMO)], each run in both a coarse [low resolution (LR)] and a mesoscale-permitting or eddy-resolving [high resolution (HR)] configuration, we assess the consistency of their representation of AMOC strength, overturning freshwater transport, salt-advection feedback, and gyre circulation around 58°N, 26°N, and 34°S over the past 50–70 years. Across the three model families, two LR–HR pairs simulate a stronger mean overturning at higher resolution, while one shows weak sensitivity. Across reanalyses, larger overturning amplitudes coincide with higher nominal resolution, but these products differ also in forcing, model formulation, and assimilation scheme. At 26°N, a robust negative coupling between freshwater transport and AMOC strength emerges across datasets, consistent with the salt-advection feedback. This relationship is absent at 58°N and inconsistent across datasets at 34°S, suggesting that the linear coupling between overturning and freshwater transport breaks down outside the subtropical North Atlantic. Among gyre diagnostics, only the mean strength of the North Atlantic subtropical gyre measured by its barotropic streamfunction exhibits a coherent and significant positive linear relationship with mean AMOC strength across all products and resolutions. No analogous signal emerges for the subpolar gyre or the South Atlantic subtropical gyre. This robustness points to the North Atlantic subtropical gyre as a consistent indicator of mean overturning strength across model strategies.",
+      "link": "https://doi.org/10.1175/jcli-d-25-0618.1",
+      "authors": [
+        "Alessandro Raganato",
+        "Annalisa Bracco",
+        "Luke Van Roekel",
+        "Doroteaciro Iovino"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Climate",
+      "journal_label": "Journal of Climate",
+      "issn": "0894-8755",
+      "first_seen": "2026-10-01T00:37:48+00:00",
+      "last_seen": "2026-10-01T00:37:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/mwr-d-25-0285.1": {
+      "key": "doi:10.1175/mwr-d-25-0285.1",
+      "doi": "10.1175/mwr-d-25-0285.1",
+      "title": "Distinguishing Tropical Cyclone Extreme Rapid Intensification from Ordinary Rapid Intensification",
+      "abstract": "Abstract Tropical cyclone (TC) rapid intensification (RI) is not actually rare on a per storm basis. A third of all TCs undergo RI at some point during their lifetime, and most commonly, the peak intensification rate for an RI storm is exactly 30 kt (24 h) −1 (the threshold for RI). However, only 12% of RI storms (4% of all TCs) intensify by at least 60 kt in 24 h, which is defined here as “extreme RI.” This study uses best track data and other observational datasets to explore whether there are meaningful differences that distinguish the small set of TCs that experience extreme RI from the much more common cases of “ordinary RI.” RI typically begins within 24 h of genesis and at an intensity of only 30–35 kt, for both extreme and ordinary RI TCs. The duration of extreme RI events is systematically longer (36–54 h) than ordinary RI events (24 h), and this difference is related to the environment remaining more favorable over a longer continuous period. Extreme RI is much more frequent when environmental vertical wind shear remains less than 15 kt and potential intensity exceeds 140 kt, whereas ordinary RI events quite often occur in unfavorable environments. Multiple observational datasets are used to demonstrate that intensification rate generally increases with decreasing radius of maximum wind. However, extreme RI storms are equally likely to be smaller or larger than average, and it appears that the environment plays a dominant role in distinguishing extreme RI from ordinary RI. Significance Statement Rapid intensification of tropical cyclones is the focus of many studies but as conventionally defined (at least 30 kt of intensification within 24 h) is quite common on a per storm basis. Here, we seek to understand what distinguishes tropical cyclones that experience “extreme rapid intensification”—which we define as at least 60 kt of intensification within 24 h—from “ordinary rapid intensification.” Only about 5% of all tropical cyclones undergo extreme rapid intensification, but these tend to become category-4 and category-5 storms. We find that the most important distinguishing factor is that extreme rapid intensification storms experience a more favorable environment (in terms of winds and ocean temperature) for a longer period than do ordinary rapid intensification storms.",
+      "link": "https://doi.org/10.1175/mwr-d-25-0285.1",
+      "authors": [
+        "Daniel P. Stern",
+        "Peter M. Finocchio",
+        "Jonathan R. Moskaitis",
+        "James D. Doyle"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Monthly Weather Review",
+      "journal_label": "Monthly Weather Review",
+      "issn": "0027-0644",
+      "first_seen": "2026-10-01T00:37:48+00:00",
+      "last_seen": "2026-10-01T00:37:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ]
+      }
+    },
+    "doi:10.1175/mwr-d-25-0200.1": {
+      "key": "doi:10.1175/mwr-d-25-0200.1",
+      "doi": "10.1175/mwr-d-25-0200.1",
+      "title": "Using IMERG to Understand the Relationship between Precipitation Structure and Intensification in Tropical Cyclones",
+      "abstract": "Abstract Tropical cyclone (TC) vortex alignment and precipitation axisymmetrization are often precursors to rapid intensification (RI), yet precipitation is poorly observed in the open ocean due to the absence of ground-based radars and aircraft reconnaissance. This study identifies significant differences in precipitation patterns under similar environmental shear and TC intensity between RI and slowly intensifying (SI) cases using the Integrated Multi-satellitE Retrievals for Global Precipitation Measurement (IMERG) dataset, a spatially and temporally consistent global dataset of microwave-based observations between 1998 and 2023. Results show precipitation magnitude is significantly greater in the inner core (within 100 km from the center) in RI cases than in SI cases. At intensities weaker than 75 kt (1 kt ≈ 0.51 m s −1 ), heavier mean precipitation is related to a larger 24-h intensity change. For stronger TCs, mean precipitation and intensity change are less related. This study additionally examines how the radius of maximum precipitation (RMP) varies with vortex tilt magnitude and with the radius of maximum winds (RMW), using IMERG, ERA5, and tail-Doppler radar (TDR). All datasets capture a wavenumber-1 asymmetry in precipitation under varying vortex tilts, but the RMP is located further from the center in ERA5 and IMERG than in TDR, especially for small TCs, with the largest discrepancy in ERA5. The results demonstrate that TDR is superior to IMERG and ERA5 for diagnosing inner-core TC structure and its relationship to intensity change; however, satellite-based precipitation products, such as IMERG, remain a better alternative than reanalysis.",
+      "link": "https://doi.org/10.1175/mwr-d-25-0200.1",
+      "authors": [
+        "Alex Alvin Cheung",
+        "Daniel P. Stern",
+        "Peter M. Finocchio",
+        "Jonathan Poterjoy"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Monthly Weather Review",
+      "journal_label": "Monthly Weather Review",
+      "issn": "0027-0644",
+      "first_seen": "2026-10-01T00:37:48+00:00",
+      "last_seen": "2026-10-01T00:37:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ]
+      }
+    },
+    "doi:10.1175/mwr-d-25-0277.1": {
+      "key": "doi:10.1175/mwr-d-25-0277.1",
+      "doi": "10.1175/mwr-d-25-0277.1",
+      "title": "Dual-Parameter Control of Vertical Diffusion in Tropical Cyclone Intensification",
+      "abstract": "Abstract Despite the critical roles of boundary layer turbulent processes in tropical cyclone (TC) development, the distinct contributions of the vertical extent and peak magnitude of vertical eddy diffusivity K m to TC intensification remain insufficiently understood. Using a series of Global-to-Regional Integrated Forecast System simulations of Typhoon Lekima (2019), this study investigates how the vertical extent and magnitude parameters, embedded within the eddy-diffusivity mass-flux planetary boundary layer scheme, modulate turbulent processes and influence TC intensification. The findings suggest that the vertical extent parameter impacts both TC early spinup efficiency and rapid intensification (RI) physics, whereas the magnitude parameter primarily affects RI. Specifically, during vortex spinup, a reduced vertical extent enhances the turbulent moisture flux gradient and diminishes vertical diffusion, thereby promoting feedback in the wind-induced surface heat exchange (WISHE). As RI begins, a reduced vertical extent weakens downward mixing of azimuthal momentum, amplifying boundary layer gradient imbalance. In contrast, the weakening of turbulent mixing resulting from the reduction in peak magnitude becomes pronounced before RI onset. This ensuing boundary layer imbalance thus facilitates RI initiation. These findings establish a unified framework, demonstrating how the vertical extent parameter modulates early WISHE-driven spinup, while both parameters influence gradient wind imbalance during RI, thereby linking turbulent processes to the stage-dependent dominance of TC intensification mechanisms.",
+      "link": "https://doi.org/10.1175/mwr-d-25-0277.1",
+      "authors": [
+        "Xue-Song Zhu",
+        "Xu Zhang",
+        "Bowen Zhao",
+        "Wei Huang",
+        "Hui Yu",
+        "Qijun Huang",
+        "Shanghong Wang",
+        "Haibo Wang"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Monthly Weather Review",
+      "journal_label": "Monthly Weather Review",
+      "issn": "0027-0644",
+      "first_seen": "2026-10-01T00:37:48+00:00",
+      "last_seen": "2026-10-01T00:37:48+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone",
+          "typhoon"
+        ]
+      }
+    },
+    "doi:10.1175/jamc-d-25-0114.1": {
+      "key": "doi:10.1175/jamc-d-25-0114.1",
+      "doi": "10.1175/jamc-d-25-0114.1",
+      "title": "Increased Short-Term Drought Occurrence amid a Decline in Long-Term and Flash Droughts in the Carolinas",
+      "abstract": "Abstract North and South Carolina (i.e., the Carolinas) are more drought prone than other parts of the country due to higher rates of evapotranspiration, warm temperatures, and reliance on precipitation from tropical cyclones and summer storms. In this study, we analyze droughts in the Carolinas on three time scales: short-term, flash, and long-term. Short-term and long-term droughts are defined by duration, whereas flash droughts are differentiated by their rapid onset. Between 1980 and 2022, short-term and flash droughts in the Carolinas occur most frequently in the Coastal Plain, while long-term droughts occur most frequently in the Piedmont and Mountain subregions. Short-term and long-term drought occurrence exhibit pronounced seasonality, whereas flash droughts exhibit little seasonality and instead show distinct geographical preference. We find that flash droughts are more likely to evolve into long-term droughts than short-term droughts. Notably, we find that long-term and flash droughts have decreased in frequency, while short-term droughts have increased in occurrence. This shift toward more frequent short-term droughts implies that droughts have decreased in duration, possibly due to an increase in high-intensity precipitation events. The Coastal Plain may be the most impacted by this transition, as it historically experiences the most short-term droughts and is experiencing the largest increase in their occurrence. More short-term droughts could have negative implications for both aquaculture and agriculture in this area.",
+      "link": "https://doi.org/10.1175/jamc-d-25-0114.1",
+      "authors": [
+        "Kaitlin Karaffa",
+        "Sarah M. Larson",
+        "Kathie D. Dello",
+        "Antonia Sebastian"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Applied Meteorology and Climatology",
+      "journal_label": "Journal of Applied Meteorology and Climatology",
+      "issn": "1558-8424",
+      "first_seen": "2026-10-01T00:37:50+00:00",
+      "last_seen": "2026-10-01T00:37:50+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ]
+      }
+    },
+    "doi:10.1175/jamc-d-25-0040.1": {
+      "key": "doi:10.1175/jamc-d-25-0040.1",
+      "doi": "10.1175/jamc-d-25-0040.1",
+      "title": "Improvement of Near-Surface Wind Speed Simulations over China Using Superresolution Convolutional Neural Network",
+      "abstract": "Abstract Global climate models (GCMs) still show limited skill in reproducing near-surface wind speed (NSWS) over mainland China, especially in regions with complex terrain. In this study, we applied an encoder–decoder superresolution convolutional neural network as a statistical postprocessing framework to reconstruct daily NSWS from 14 Coupled Model Intercomparison Project phase 6 (CMIP6) models to a finer 0.25° grid, using CN05.1 as the reference dataset. The model was trained on the historical period and evaluated over 2000–14, and its performance was compared with the raw CMIP6 ensemble and NEX-GDDP-CMIP6. The downscaled ensemble substantially improved the simulation of NSWS over mainland China. During 2000–14, it achieved a regional mean bias of −0.07 m s −1 and a spatial correlation coefficient of 0.93 for annual-mean NSWS, outperforming both CMIP6 and NEX-GDDP-CMIP6. It also better reproduced seasonal patterns, interannual variability, and the spatial distribution of recent changes. Applied to future shared socioeconomic pathway (SSP)-RCP scenarios, the downscaled projections indicate a weak but statistically significant decline in area-mean NSWS over the twenty-first century, with larger decreases under stronger forcing. However, the projected China-wide mean during the next two decades remains close to the 1980–2014 baseline, while localized increases persist in parts of eastern and northeastern China. These results show that superresolution convolutional neural network (CNN) methods can provide useful postprocessing for CMIP6 NSWS over China, although future work should assess the added value of static predictors such as topography and land cover and further evaluate extreme wind behavior. Significance Statement The purpose of this study is to better understand how deep learning methods can enhance the ability of climate models to simulate near-surface wind speed (NSWS) over complex terrain regions. This is important because even small changes in wind speed can significantly affect wind energy assessment, extreme weather response, and the reliability of regional climate studies. Our results demonstrate the effectiveness of a superresolution convolutional neural network (SRCNN) in improving the spatial accuracy of wind speed simulations and highlight the critical role of high-resolution data in future climate projections and renewable energy planning.",
+      "link": "https://doi.org/10.1175/jamc-d-25-0040.1",
+      "authors": [
+        "Hao Zhang",
+        "Wenxi Lu",
+        "Yunfeng Duo",
+        "Hong Zhou",
+        "Keran Yang"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Applied Meteorology and Climatology",
+      "journal_label": "Journal of Applied Meteorology and Climatology",
+      "issn": "1558-8424",
+      "first_seen": "2026-10-01T00:37:50+00:00",
+      "last_seen": "2026-10-01T00:37:50+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning",
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1175/jamc-d-26-0033.1": {
+      "key": "doi:10.1175/jamc-d-26-0033.1",
+      "doi": "10.1175/jamc-d-26-0033.1",
+      "title": "Drought Intensification in the Intermountain West during Second-Dip La Niña Events: Evidence from Utah",
+      "abstract": "Abstract Reliable seasonal drought forecasts are critical for water management in the Intermountain West, yet hydroclimate predictability in this region remains limited because canonical El Niño–Southern Oscillation (ENSO) teleconnections are weak and spatially inconsistent. Here, we show that Utah experiences a robust and coherent drought response during the second dip of multiyear La Niña events, in contrast to the weak and variable responses observed during preceding El Niño and first-dip La Niña winters. Composite analyses of gridded reanalysis products, statewide climate indices, and station-based observations reveal that second-dip La Niña events are characterized by reduced winter–spring precipitation, anomalously warm temperatures, and increased numbers of dry and warm days. These conditions result in diminished 1 April snow water equivalent, suppressed summer streamflow, reduced soil moisture, and strongly negative Palmer Drought Severity Index anomalies across Utah. By contrasting early (1951–90) and recent (1991–2023) periods, we further show that these drought responses have intensified under a warming climate. While the large-scale circulation anomalies associated with second-dip La Niña events primarily reflect internal ENSO-related variability, rising temperatures amplify drought severity through increased evaporative demand, reduced runoff efficiency, and earlier snowmelt timing. Together, these results indicate that second-dip La Niña winters provide an enhanced and physically grounded source of seasonal drought predictability for Utah. Incorporating second-dip La Niña signals into drought early warning systems may therefore improve water resource planning in snow-dominated, topographically complex regions of the Intermountain West. Significance Statement Reliable seasonal drought prediction remains a major challenge in the Intermountain West, where water resources support agriculture, ecosystems, and rapidly growing populations. In Utah, hydroclimate responses to traditional climate drivers such as El Niño and single-year La Niña events are often weak or inconsistent, limiting the usefulness of conventional seasonal forecasts. This study shows that drought risk increases markedly when La Niña persists for two consecutive winters. These second-dip La Niña events are associated with consistently warmer and drier winter–spring conditions, reduced snowpack, and suppressed summer streamflow, culminating in intensified statewide drought. Although the large-scale circulation anomalies primarily reflect internal ENSO-related variability, background warming amplifies drought severity by increasing evaporative demand and reducing runoff efficiency. Identifying second-dip La Niña events therefore provides a physically grounded and actionable pathway for improving multiseason drought early warning and supporting proactive water management in snow-dominated regions of the Intermountain West.",
+      "link": "https://doi.org/10.1175/jamc-d-26-0033.1",
+      "authors": [
+        "Yoshimitsu Chikamoto",
+        "Nahid A. Hasan",
+        "Wei Zhang",
+        "Jonathan D. D. Meyer",
+        "Robert R. Gillies",
+        "Jacob Stuivenvolt-Allen",
+        "Michael J. McPhaden"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Applied Meteorology and Climatology",
+      "journal_label": "Journal of Applied Meteorology and Climatology",
+      "issn": "1558-8424",
+      "first_seen": "2026-10-01T00:37:50+00:00",
+      "last_seen": "2026-10-01T00:37:50+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/jamc-d-25-0225.1": {
+      "key": "doi:10.1175/jamc-d-25-0225.1",
+      "doi": "10.1175/jamc-d-25-0225.1",
+      "title": "An Intercomparison of High-Resolution Spatiotemporal Historical Precipitation and Temperature Datasets for British Columbia, Canada",
+      "abstract": "Abstract Historical gridded climate datasets of precipitation and temperature can provide different representations of past climate conditions at the same locations and time periods depending on the sources and methods used to produce the datasets. Here, we evaluate and quantify these differences for eight high-resolution (∼10 km) gridded climate datasets over British Columbia (BC), Canada, where sparse station records and complex meteorology produce many challenges in the representation of past climate. The eight datasets considered include four station-observation-based sources [Pacific Climate Impacts Consortium (PCIC) Meteorology for Northwest North America (PNWNAmet), Natural Resources Canada Meteorological dataset (NRCANmet), Daymet, and Ensemble Meteorological Dataset for North America (EMDNA)] and four reanalysis-based sources [land component of the fifth generation European Centre for Medium-Range Weather Forecasts (ECMWF) atmospheric reanalysis (ERA5-Land); Canadian Surface Reanalysis, version 2.1 (CaSRv21) and version 3.1 (CaSRv31); and Climatologies at High Resolution for the Earth’s Land Surface Areas (CHELSA)-downscaled Water and Global Change (WATCH) Forcing Dataset with ERA5 over the ocean (CHELSA-W5E5)]. Each of these is evaluated by comparing 1981–2010 climatologies of seasonal average maximum and minimum temperatures and total precipitation to station observations and BC Parameter-Elevation Regressions on Independent Slopes Model (PRISM) climatologies. The analysis identifies cold and dry biases for both CaSR versions, cold and wet biases in ERA5-Land, widespread dry biases in NRCANmet, and warm biases in EMDNA and CHELSA-W5E5 maximum temperatures. Aside from these broader patterns, the datasets display regionally specific differences, particularly for Daymet, EMDNA, and CHELSA-W5E5. Results from the comparisons are summarized to identify which of the datasets should be favored for different variables or regions. These results highlight points of disagreement between the datasets for BC that can inform choices for dataset selection and identify areas for potential improvement. Significance Statement This analysis compares eight historical climate datasets for precipitation and temperature with weather station observations and a high-resolution station-based reference dataset in British Columbia, Canada. The historical datasets use different methods and observational sources to produce representations of past climate and, therefore, do not always agree for certain variables and locations. Here, we quantify differences between the historical datasets for seasonal climatologies of precipitation and temperature in BC. The results are used to identify where the datasets perform better in BC, which provides information both to support dataset selection for different applications and to identify areas in the datasets for further improvement.",
+      "link": "https://doi.org/10.1175/jamc-d-25-0225.1",
+      "authors": [
+        "Stephen R. Sobie",
+        "Charles L. Curry"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Journal of Applied Meteorology and Climatology",
+      "journal_label": "Journal of Applied Meteorology and Climatology",
+      "issn": "1558-8424",
+      "first_seen": "2026-10-01T00:37:50+00:00",
+      "last_seen": "2026-10-01T00:37:50+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1175/waf-d-25-0251.1": {
+      "key": "doi:10.1175/waf-d-25-0251.1",
+      "doi": "10.1175/waf-d-25-0251.1",
+      "title": "Reconstruction of Three-Dimensional Cloud Structures Using FY-4B AGRI Observations and CMA-MESO Forecasts",
+      "abstract": "Abstract Accurate observation of cloud parameters is critical for weather forecasting, climate model improvement, and extreme-weather warning, yet the reconstruction of three-dimensional cloud structures remains a major challenge. In this study, geostationary infrared observations from Fengyun-4B ( FY-4B ) Advanced Geostationary Radiation Imager (AGRI) are combined with CMA-MESO background fields within a Bayesian framework to reconstruct the model-predicted hydrometeor field and subsequently derive the complete three-dimensional cloud structure, characterized by cloud liquid water content, cloud ice water content, and cloud fraction. The incorporation of prior information enhances the reliability and physical interpretability of the reconstructed cloud structure. For a squall line that affected South China on 30 April 2024, the reconstructed cloud field shows closer agreement with observations in both brightness temperature and radar reflectivity than the prereconstruction model simulation, yielding a more accurate representation of cloud-field characteristics. A further assimilation experiment demonstrates that introducing the reconstructed hydrometeors into the CMA-MESO initial field brings the spatial distribution of precipitation into closer agreement with observations and improves the threat score for light-to-moderate precipitation. Finally, combining the AGRI-reconstructed cloud field with the Geostationary Interferometric Infrared Sounder (GIIRS) hyperspectral data to extract subgrid-scale information highlights the value of multisensor synergy and establishes a foundation for hyperspectral all-sky data assimilation. Significance Statement Clouds strongly influence weather and climate, yet their three-dimensional internal structure remains difficult to observe directly, thereby limiting the accuracy of weather forecasts and severe-weather warnings. This study presents a method that integrates infrared imagery from a geostationary weather satellite with a numerical weather prediction model to reconstruct detailed three-dimensional cloud information, including the liquid water and ice content of each cloud. Tested on a squall line over southern China, the approach produced a more realistic representation of clouds and, when used to refine the model’s initial conditions, yielded improved rainfall forecasts. The results demonstrate that integrating satellite observations with numerical models can enhance cloud monitoring and support more accurate forecasting of high-impact weather.",
+      "link": "https://doi.org/10.1175/waf-d-25-0251.1",
+      "authors": [
+        "Xingtao Song",
+        "Wei Han",
+        "Senyi Kong",
+        "Jiapeng Yan",
+        "Kang Zhou"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Weather and Forecasting",
+      "journal_label": "Weather and Forecasting",
+      "issn": "0882-8156",
+      "first_seen": "2026-10-01T00:37:52+00:00",
+      "last_seen": "2026-10-01T00:37:52+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1002/joc.70614": {
+      "key": "doi:10.1002/joc.70614",
+      "doi": "10.1002/joc.70614",
+      "title": "A Hybrid Bi‐ LSTM ‐ AM Framework for Improving Extreme Rainfall Prediction and Bias Correction",
+      "abstract": "ABSTRACT Reliable forecasting of extreme rainfall remains a critical challenge for flood management in climate‐sensitive regions. This study develops and evaluates an attention‐augmented, bidirectional long short‐term memory framework (Bi‐LSTM‐AM) used for gauge‐based prediction and raster‐based bias correction for extreme rain events. The resulting prediction and bias‐correction models are trained by station observations and reanalysis data during 1980–2019. Nine extreme rainfall events in 2022–2024 are extracted as the independent verification set. Among all the bias correction models, the WRF + Bi‐LSTM‐AM combination achieves the highest accuracy across lead times of 1–5 days. The most efficient size of lookback window is found to be 7 days that well balances predictive accuracy and data demands. An event‐clustered paired bootstrap comparison further proves a consistent advantage of Bi‐LSTM‐AM over QM. From the perspective of spatial dependence, the accuracy of the bias‐correction models seems to correlate less with local terrains but more significantly with the rain centres. The future research need of improving the tracking of trajectories and intensities of rain centres is highlighted for extreme rainfall forecasting.",
+      "link": "https://doi.org/10.1002/joc.70614",
+      "authors": [
+        "Youcan Feng",
+        "Xin Huang",
+        "Donghe Ma",
+        "Jin Sun"
+      ],
+      "published": "2026-09-30T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-10-01T00:37:58+00:00",
+      "last_seen": "2026-10-01T00:37:58+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1002/joc.70612": {
+      "key": "doi:10.1002/joc.70612",
+      "doi": "10.1002/joc.70612",
+      "title": "Heatwaves, Human Thermal Stress and Socioeconomic Vulnerability: A District‐Level Heat‐Risk Assessment of Bundelkhand, India",
+      "abstract": "ABSTRACT Heatwaves are amongst the most severe climate‐related hazards in semi‐arid regions, posing increasing threats to human health, livelihoods and environmental sustainability. This study investigated the spatiotemporal characteristics of heatwaves and human thermal stress across the Bundelkhand region of India during 1981–2024 using the India Meteorological Department (IMD) heatwave criteria and the universal thermal climate index (UTCI). Heatwave characteristics were integrated with thermal stress exposure, socioeconomic vulnerability and long‐term trend analyses to develop a district‐level composite heat‐risk assessment. Bundelkhand experienced persistent and spatially heterogeneous heatwave conditions, with a mean annual frequency of 1.80 ± 1.26 (IMD) and 1.73 ± 1.18 (UTCI) independent heatwave events, corresponding to 11.61 ± 8.41 and 11.41 ± 8.13 heatwave days year −1 , respectively. Mean heatwave duration exceeded 5.8 days, whilst maximum event intensity reached 5.05°C ± 2.16°C above the IMD threshold and 3.10°C ± 1.48°C above the UTCI threshold. The pre‐monsoon season (April–June) represented the period of greatest thermal stress, with mean monthly maximum temperature reaching 41.15°C ± 1.24°C in May and mean UTCI exceeding 36°C. Mann–Kendall analysis identified significant ( p < 0.05) increases in annual maximum UTCI across seven districts and in extreme heat‐stress exposure across eight districts, with Hamirpur exhibiting the strongest increase (Sen's slope = 7.91, p = 0.001). Lalitpur (0.80), Chitrakoot (0.77), and Chhatarpur (0.70) were identified as the most critical heat‐risk hotspots based on the composite index. These findings demonstrate that heat‐related risk in Bundelkhand is shaped by the combined effects of increasing heatwave activity, intensifying thermal stress and socioeconomic vulnerability, providing a robust scientific basis for district‐level heat adaptation planning, early‐warning systems and climate‐resilient public health interventions.",
+      "link": "https://doi.org/10.1002/joc.70612",
+      "authors": [
+        "Yogeshwar Singh",
+        "Rahul Kumar",
+        "Pavan Kumar",
+        "Soumyajeet Sahu",
+        "Shobhit Pipil",
+        "Manish Srivastav",
+        "Shiv Vendra Singh",
+        "A. K. Singh",
+        "Benson Turyasingura"
+      ],
+      "published": "2026-09-30T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-10-01T00:37:58+00:00",
+      "last_seen": "2026-10-01T00:37:58+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109094": {
+      "key": "doi:10.1016/j.atmosres.2026.109094",
+      "doi": "10.1016/j.atmosres.2026.109094",
+      "title": "Divergent impacts of summertime extreme heat on O3 and PM2.5 levels in the Beijing-Tianjin-Hebei and Yangtze River Delta regions: Driving chemical and physical processes",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109094",
+      "authors": [
+        "Peifu Xie",
+        "Hong Liao",
+        "Huibin Dai"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:01+00:00",
+      "last_seen": "2026-10-01T00:38:01+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:01+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109016": {
+      "key": "doi:10.1016/j.atmosres.2026.109016",
+      "doi": "10.1016/j.atmosres.2026.109016",
+      "title": "Impacts of the future Amazon deforestation on the precipitation over the Peruvian central Andes and related atmospheric features",
+      "abstract": "This study investigates the impact of a 40% Amazon deforestation scenario (projected for 2050) on precipitation over the central Peruvian Andes during five austral summer seasons (DJF 2001–2006) using high-resolution (1 km) WRF simulations. While a widespread rainfall reduction pattern is observed over the Amazon-Andes transition zone, statistically significant decreases ( p < 0.10) at the gridpoint level are primarily concentrated near rainfall hotspots in the Amazon-Andes transitions zone, reaching an average reduction of 12% (−1.4 mm day −1 ). This drying signal is physically associated with a weakening of the South American Low-Level Jet (LLJ) and reduced moisture influx, which specifically inhibits convective activity during the morning peak hours (23–11 LT). In the high-altitude Mantaro Basin, we observe a consistent drying pattern (−5%) that extends from the transition zone; although these changes are not statistically significant due to high interannual variability, the physical signal of precipitation reduction and dry air advection remains clear. Conversely, the western Andean ridges exhibit a localized precipitation increase (up to 20%) linked to intensified cross-barrier easterly wind anomalies reinforcing diurnal anabatic circulation. We further find that while 5 km resolution captures broad basin-scale patterns, convection-permitting scales (1 km) are essential for resolving these complex topographic effects. These findings highlight a critical vulnerability concentrated along the eastern slopes and the high Andes. The identified drying patterns, which are particularly pronounced in the Andes-Amazon transition zone (a global biodiversity hotspot) and extend into the highlands, pose a significant threat to endemic ecosystems and regional water security, specifically through reservoir inflow reduction and negative impacts on agriculture.",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109016",
+      "authors": [
+        "Miguel Saavedra",
+        "Clementine Junquas",
+        "Ken Takahashi",
+        "Yamina Silva",
+        "Jhan-Carlo Espinoza",
+        "Juan-Pablo Sierra"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:02+00:00",
+      "last_seen": "2026-10-01T00:38:02+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:02+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109059": {
+      "key": "doi:10.1016/j.atmosres.2026.109059",
+      "doi": "10.1016/j.atmosres.2026.109059",
+      "title": "Modeling and analysis of winter arctic clouds and their radiative impacts using three microphysics schemes in polar-WRF",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109059",
+      "authors": [
+        "Zilu Zhang",
+        "Libo Zhou",
+        "Meigen Zhang",
+        "Shupo Ma",
+        "Fei Li",
+        "Jinhuan Zhu"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:03+00:00",
+      "last_seen": "2026-10-01T00:38:03+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:03+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109069": {
+      "key": "doi:10.1016/j.atmosres.2026.109069",
+      "doi": "10.1016/j.atmosres.2026.109069",
+      "title": "A machine learning hail recognition method integrating DBSCAN clustering and spatiotemporal tracking",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109069",
+      "authors": [
+        "Yunong Guan",
+        "Chunguang Yin",
+        "Bin Wu",
+        "Haixing Gong",
+        "Siyu Zhu",
+        "Jiakai Zhu",
+        "Rui Shi",
+        "Hao Sun"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:03+00:00",
+      "last_seen": "2026-10-01T00:38:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1016/j.atmosres.2026.109104": {
+      "key": "doi:10.1016/j.atmosres.2026.109104",
+      "doi": "10.1016/j.atmosres.2026.109104",
+      "title": "Hierarchical deep learning framework for ozone forecasting and source apportionment: A China-wide analysis",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109104",
+      "authors": [
+        "Hongxi Yao",
+        "Danni Xu",
+        "Mao Ye",
+        "Bo Wang",
+        "Huipeng Zhang",
+        "Meng Luo",
+        "Kaihui Zhao"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:03+00:00",
+      "last_seen": "2026-10-01T00:38:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1016/j.atmosres.2026.109073": {
+      "key": "doi:10.1016/j.atmosres.2026.109073",
+      "doi": "10.1016/j.atmosres.2026.109073",
+      "title": "Brown carbon optical emissions from residential coal combustion in china: Dominance of solvent-insoluble components",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109073",
+      "authors": [
+        "Fan Li",
+        "Qiaoqiao Wang",
+        "Nan Ma",
+        "Zechao Hu",
+        "Xiaocong Zhao",
+        "Ning Yang",
+        "Zheng Yang",
+        "Guangjin Liu",
+        "Yuanwei Zhong",
+        "Jiangchuan Tao",
+        "Juan Hong",
+        "Yaqing Zhou",
+        "Yafang Cheng",
+        "Hang Su"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:03+00:00",
+      "last_seen": "2026-10-01T00:38:03+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:03+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109065": {
+      "key": "doi:10.1016/j.atmosres.2026.109065",
+      "doi": "10.1016/j.atmosres.2026.109065",
+      "title": "Coupled atmospheric radiative transfer–machine learning retrieval of cloud shortwave radiative forcing over the Qinghai–Xizang Plateau",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109065",
+      "authors": [
+        "Lingxiao Wu",
+        "Yinan Wang",
+        "Tianlu Chen",
+        "Nima Ciren",
+        "Dui Wang"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:04+00:00",
+      "last_seen": "2026-10-01T00:38:04+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning"
+        ]
+      }
+    },
+    "doi:10.1016/j.atmosres.2026.109095": {
+      "key": "doi:10.1016/j.atmosres.2026.109095",
+      "doi": "10.1016/j.atmosres.2026.109095",
+      "title": "Classification and mechanisms of summer drought types in Eastern Northwest China",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109095",
+      "authors": [
+        "Bicheng Huang",
+        "Yue Zhang",
+        "Hongyan Shen",
+        "Rong Zhi",
+        "Tao Su",
+        "Zhonghua Qian",
+        "Yongping Wu"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:04+00:00",
+      "last_seen": "2026-10-01T00:38:04+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:04+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109096": {
+      "key": "doi:10.1016/j.atmosres.2026.109096",
+      "doi": "10.1016/j.atmosres.2026.109096",
+      "title": "Coupling of rainband structure and intraseasonal monsoon variability shaping rainfall distribution during weak tropical cyclone Lupit (2021)",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109096",
+      "authors": [
+        "Qian Wang",
+        "Na Wei",
+        "Dajun Zhao",
+        "Jiaolan Fu",
+        "Yinglong Xu"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:04+00:00",
+      "last_seen": "2026-10-01T00:38:04+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ]
+      }
+    },
+    "doi:10.1016/j.atmosres.2026.109092": {
+      "key": "doi:10.1016/j.atmosres.2026.109092",
+      "doi": "10.1016/j.atmosres.2026.109092",
+      "title": "Evaluating the performance of the Global Forecast System (GFS) during a tropical cyclone over India using Radiosonde observations: A case study",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109092",
+      "authors": [
+        "M. Ashok Williams",
+        "Anshul Chauhan",
+        "S.T. Akhil Raj",
+        "M.I. Ansari",
+        "Gajendra Kumar",
+        "Vijay Kumar Soni"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:04+00:00",
+      "last_seen": "2026-10-01T00:38:04+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "tropical-cyclone": [
+          "tropical cyclone"
+        ]
+      }
+    },
+    "doi:10.1016/j.atmosres.2026.109097": {
+      "key": "doi:10.1016/j.atmosres.2026.109097",
+      "doi": "10.1016/j.atmosres.2026.109097",
+      "title": "Fumigation effect over a tropical coastal environment using the collocated measurements of black carbon aerosols and atmospheric boundary layer height",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109097",
+      "authors": [
+        "M. Ashok Williams",
+        "T.V. Lakshmi Kumar",
+        "M. Venkat Ratnam",
+        "D. Narayana Rao"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:04+00:00",
+      "last_seen": "2026-10-01T00:38:04+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:04+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109079": {
+      "key": "doi:10.1016/j.atmosres.2026.109079",
+      "doi": "10.1016/j.atmosres.2026.109079",
+      "title": "Efficient precipitation downscaling over the Southern Tibetan Plateau with deep learning surrogates",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109079",
+      "authors": [
+        "Dayang Li",
+        "Yang Yang",
+        "Yan Zhou",
+        "Fuqiang Tian",
+        "Long Yang"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:05+00:00",
+      "last_seen": "2026-10-01T00:38:05+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1016/j.atmosres.2026.109072": {
+      "key": "doi:10.1016/j.atmosres.2026.109072",
+      "doi": "10.1016/j.atmosres.2026.109072",
+      "title": "The evolution of aerosol types and direct radiative forcing in Beijing-Tianjin-Hebei, China: A long-term analysis with a modified Gaussian mixture model",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109072",
+      "authors": [
+        "Jing Wang",
+        "Weijia Liu",
+        "Yongxiang Han",
+        "Zhanpeng Yu",
+        "Zefeng Zhang"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:05+00:00",
+      "last_seen": "2026-10-01T00:38:05+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:05+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109074": {
+      "key": "doi:10.1016/j.atmosres.2026.109074",
+      "doi": "10.1016/j.atmosres.2026.109074",
+      "title": "Diagnosing cloudbursts over Indian megacities near land-sea boundary during the 2025 Monsoon: Multi-platform observations, atmospheric drivers and model predictability",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109074",
+      "authors": [
+        "Gargi Rakshit",
+        "Debjit Paul",
+        "Soumyajyoti Jana",
+        "Sarvesh Dubey",
+        "Dushmanta Ranjan Pattanaik",
+        "Parthasarathi Mukhopadhyay"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:06+00:00",
+      "last_seen": "2026-10-01T00:38:06+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:06+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109076": {
+      "key": "doi:10.1016/j.atmosres.2026.109076",
+      "doi": "10.1016/j.atmosres.2026.109076",
+      "title": "Insights of climate-driven changes in CH4 and CO2 source contributions at European coastal observatories",
+      "abstract": "Regional carbon dioxide (CO₂) and methane (CH₄) source contributions were analysed at two European coastal observatories, El Arenosillo (ARN) in southwestern Spain and Capo Granitola (CGR) in southern Italy, using in situ observations and STILT model simulations from 2006 to 2023, enabling source attribution to biogenic, fossil fuel, anthropogenic, and natural contributions. Model-observation agreement was robust, with CO₂ and CH₄ correlation coefficients of 0.599–0.900 and 0.693–0.859, respectively. Footprints revealed ARN's sensitivity to Atlantic and Iberian airflows, while CGR was influenced by the central Mediterranean, southern Italy and North Africa. Background dominated (~98%), with regional CO₂ sources being biogenic (0.81–0.91%) and fossil fuel (0.47–0.56%), and CH₄ sources anthropogenic (~1.4%) and natural (0.25–0.29%). STILT-simulated source contributions exhibited consistent seasonal and diurnal patterns at both stations. Total CO 2 and CH 4 concentrations increased in line with global trends. However, source-specific Theil–Sen trend analysis revealed significant shifts between the sub-periods 2006–2010 and 2019–2023. Overall trends accelerated by a factor of 1.6 for CO₂ and by factors of 2.9 and 3.6 for CH₄ at ARN and CGR, respectively. The biogenic CO₂ trend at ARN increased 22-fold between the early and recent sub-periods, while at CGR it transitioned from negative to positive. At ARN, natural CH₄ trends weakened by 46%, whereas at CGR they reversed in sign, suggesting reduced sink strength or enhanced emissions. Anthropogenic reductions weakened or stabilized. These results highlight shifting greenhouse gas sources in European coastal regions, driven by climate feedbacks, urging broader-scale studies. • STILT model used to analyse CO₂ and CH₄ trends at two European coastal stations. • Potential weakening of regional CO₂ biospheric sink suggested by STILT. • Shifts in anthropogenic CH₄ trends suggest slower or reversed reductions. • Natural CH₄ sources increased/decreased driven by climate feedbacks. • Findings highlight weakening mitigation efforts and rising natural GHG emissions.",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109076",
+      "authors": [
+        "J.A. Adame",
+        "U. Karstens",
+        "M. Busetto",
+        "G. Tranchida",
+        "M. Yela",
+        "T. Aalto",
+        "A. Leppänen",
+        "P. Cristofanelli"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:06+00:00",
+      "last_seen": "2026-10-01T00:38:06+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:06+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109078": {
+      "key": "doi:10.1016/j.atmosres.2026.109078",
+      "doi": "10.1016/j.atmosres.2026.109078",
+      "title": "Drought onset acceleration in Northern China and its drivers",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109078",
+      "authors": [
+        "Qiang Zhang",
+        "Suping Wang",
+        "Ping Yue",
+        "Jianshun Wang"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:07+00:00",
+      "last_seen": "2026-10-01T00:38:07+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:07+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109070": {
+      "key": "doi:10.1016/j.atmosres.2026.109070",
+      "doi": "10.1016/j.atmosres.2026.109070",
+      "title": "Sustenance characteristics and discriminant method of low-level jets based on coherent Doppler wind lidar",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109070",
+      "authors": [
+        "Yue Liu",
+        "Jinlong Yuan",
+        "Shuo Zhang",
+        "Anning Chen",
+        "Jiadong Hu",
+        "Jiawei Qiu",
+        "Xu Zhou",
+        "Shuxue Zhou",
+        "Haiyun Xia",
+        "Zhiyuan Jin"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:07+00:00",
+      "last_seen": "2026-10-01T00:38:07+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:07+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/s0169-8095(26)00380-7": {
+      "key": "doi:10.1016/s0169-8095(26)00380-7",
+      "doi": "10.1016/s0169-8095(26)00380-7",
+      "title": "Editorial Board",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/s0169-8095(26)00380-7",
+      "authors": [],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:08+00:00",
+      "last_seen": "2026-10-01T00:38:08+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:08+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109071": {
+      "key": "doi:10.1016/j.atmosres.2026.109071",
+      "doi": "10.1016/j.atmosres.2026.109071",
+      "title": "Levante and Poniente winds in the Strait of Gibraltar: Present and future characterization using regional climate models",
+      "abstract": "Levante and Poniente are regional winds that appear in the Strait of Gibraltar with great intensity and frequency. However, they have not been the focus of many modelling studies so far. For this reason, the present work has two aims. First, to evaluate the capability to describe both winds using the largest available set of outputs from regional climate models and different wind data frequencies, spatial resolutions and atmosphere-ocean coupling characteristics. Second, to study wind changes between present (1950–2005) and future climate conditions (RCP8.5, 2006-2099). Results indicate that available spatial resolution is essential for a proper wind description. Internal physics are also a source of variation. Coupling effect does not lead to important changes on any of the studied regional winds. Levante occurs in the historical period between 110–130 days per year, covering 42%–44% of the Strait, with future increase of 10–20 annual events, depending on the model. Levante spatial extension varies with mixed trend signs. Poniente is detected between 135–155 days per year over 45%–50% of the Strait for the historical period and shows future debilitation in its magnitude with around 5–20 less days. This pioneering work manifests the capability of regional climate models to quantify Levante and Poniente events. Future climate change projections should be further studied to obtain as much regional climate model outputs as possible and to increase the robustness of such projections. Besides, a deeper analysis of weather variability patterns related to these wind conditions would strongly increase our understanding of the atmospheric mechanisms behind such important regional winds.",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109071",
+      "authors": [
+        "María Ortega",
+        "Claudia Gutiérrez",
+        "Noelia López-Franca",
+        "María Ofelia Molina",
+        "William Cabos",
+        "Dmitry Sein",
+        "Enrique Sánchez"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:08+00:00",
+      "last_seen": "2026-10-01T00:38:08+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:08+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109075": {
+      "key": "doi:10.1016/j.atmosres.2026.109075",
+      "doi": "10.1016/j.atmosres.2026.109075",
+      "title": "Climatology of extreme convective systems in China from joint TRMM and GPM observations",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109075",
+      "authors": [
+        "Jiahao Lin",
+        "Xiaoteng Huang",
+        "Zihao Zhang",
+        "Xingyi Lin",
+        "Yuhang Hu",
+        "Yanbo Wang",
+        "Xiaoqun Hu",
+        "Fanchao Lyu",
+        "Xueke Wu"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:09+00:00",
+      "last_seen": "2026-10-01T00:38:09+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:09+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109067": {
+      "key": "doi:10.1016/j.atmosres.2026.109067",
+      "doi": "10.1016/j.atmosres.2026.109067",
+      "title": "Springtime impacts of stratospheric intrusion on near-surface ozone over the Yangtze River Delta",
+      "abstract": "Stratospheric intrusion (SI) is an important natural source of tropospheric ozone (O 3 ), yet its contribution to pollution in the Yangtze River Delta (YRD) remains poorly quantified. This study investigates the spatiotemporal characteristics and mechanisms of spring SI impacts on near-surface O 3 over the YRD during 2013–2025 using ERA5 reanalysis, multi-source observations, and backward trajectories. High-potential-vorticity (high-PV) events at 300 hPa, serve as SI indicators, are classified into three primary modes (E1–E3) using empirical Orthogonal Function (EOF) analysis, representing distinct source regions over East Asia. Composite results reveal a clear temporal lag: the YRD remains relatively clean on the high-PV day, followed by significant near-surface O 3 enhancements 1–2 days later, averaging 4–10 μg/m 3 . Among these modes, E3 events, centered over southern Northeast China, exert the strongest influence in intensity and extent, while E2 shows weak surface impacts due to prevailing mid-tropospheric ascending motion. Diagnostic analyses show that downward transport efficiency is strongly controlled by post-trough subsidence, while tilted descending branches in E1 and E3 facilitate the transport of O 3 -rich air into the lower troposphere. Case studies are selected from high-PV events that exhibit clear SI signatures. These SI events typically affect near-surface O 3 for 9–12 h, with moderate enhancement in E1 (∼22 μg/m 3 ) and stronger, more localized impacts in E3 case (up to 71 μg/m 3 ) concentrated along the coastal YRD. These results confirm mid-to-high latitude SI as a substantial driver of spring O 3 episodes, underscoring the importance of accounting for SI in regional air quality forecasting.",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109067",
+      "authors": [
+        "Jingyi Fan",
+        "Sijia Lou",
+        "Jinpeng Lu",
+        "Qianyu Ren",
+        "Tengyu Liu",
+        "Xin Huang",
+        "Lian Xue",
+        "Ke Ding",
+        "Aijun Ding"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:09+00:00",
+      "last_seen": "2026-10-01T00:38:09+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:09+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109089": {
+      "key": "doi:10.1016/j.atmosres.2026.109089",
+      "doi": "10.1016/j.atmosres.2026.109089",
+      "title": "Investigation into turbulent coherent structures and pollutant dispersion over radiatively heated/cooled urban surfaces using large-eddy simulation",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109089",
+      "authors": [
+        "Dong-Hwi Kim",
+        "Beom-Soon Han",
+        "Seong-Ho Hong",
+        "Kyeongjoo Park",
+        "Jong-Jin Baik"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:10+00:00",
+      "last_seen": "2026-10-01T00:38:10+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:10+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109090": {
+      "key": "doi:10.1016/j.atmosres.2026.109090",
+      "doi": "10.1016/j.atmosres.2026.109090",
+      "title": "High prevalence of nitrogen-containing compounds in organic aerosols along an elevation gradient (500–3100 m a.s.l.) in the Sichuan Basin, China",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109090",
+      "authors": [
+        "Rongqiu Li",
+        "Xi Shu",
+        "Philip K. Hopke",
+        "Qi Ying",
+        "Xiaolan Yang",
+        "Miao Feng",
+        "Xue Qiao",
+        "Ya Tang"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:10+00:00",
+      "last_seen": "2026-10-01T00:38:10+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:10+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109068": {
+      "key": "doi:10.1016/j.atmosres.2026.109068",
+      "doi": "10.1016/j.atmosres.2026.109068",
+      "title": "An elevation-dependent downscaling framework for reconstructing high-resolution daily air temperature over China from 1961 to 2024",
+      "abstract": "High-resolution temperature datasets are essential for climate and agricultural research, yet the limitation of the existing products often includes coarse spatial resolution, short temporal coverage, or limited accuracy in regions with complex terrain. This study constructed a 1-km daily temperature dataset (including T max , T min and T mean ) for China from 1961 to 2024 using a machine-learning downscaling approach. An elevation-dependent refinement strategy was proposed, in which samples were grouped by elevation and transitional-zone weighted fusion was applied to ensure spatial continuity. XGBoost, optimized through Bayesian optimization and 10-fold cross-validation, was used to model nonlinear relationships between temperature and multi-source covariates. Independent validation demonstrated substantial improvements over ERA5-Land, with RMSE reduced to 0.97 °C, 0.75 °C, and 1.35 °C for T max , T mean , and T min , respectively, particularly in high-elevation regions. The dataset effectively reproduced long-term temperature trends and extreme climate indices (including TXx, TNn, TX90p, TN10p, TX35d and TX35l), confirming its suitability for climate trend analysis and extreme-event research.",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109068",
+      "authors": [
+        "Aodong Du",
+        "Shuai Han",
+        "Yujing Liang",
+        "Junxia Gu",
+        "Tao Zhang",
+        "Chunxiang Shi"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:11+00:00",
+      "last_seen": "2026-10-01T00:38:11+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:11+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1016/j.atmosres.2026.109099": {
+      "key": "doi:10.1016/j.atmosres.2026.109099",
+      "doi": "10.1016/j.atmosres.2026.109099",
+      "title": "Increasing exposure to compound heatwave and drought events in China during 1961–2020",
+      "abstract": "",
+      "link": "https://doi.org/10.1016/j.atmosres.2026.109099",
+      "authors": [
+        "Peihua Qin",
+        "Zhenghui Xie",
+        "Binghao Jia"
+      ],
+      "published": "2026-10-01T00:00:00+00:00",
+      "journal": "Atmospheric Research",
+      "journal_label": "Atmospheric Research",
+      "issn": "0169-8095",
+      "first_seen": "2026-10-01T00:38:11+00:00",
+      "last_seen": "2026-10-01T00:38:11+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:11+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/d41586-026-03106-y": {
+      "key": "doi:10.1038/d41586-026-03106-y",
+      "doi": "10.1038/d41586-026-03106-y",
+      "title": "AI ‘speech clock’ assesses how fast you’re ageing from your voice",
+      "abstract": "Nature - The pitch and emotional content of your speech are important predictors of accelerated ageing, researchers find.",
+      "link": "https://doi.org/10.1038/d41586-026-03106-y",
+      "authors": [
+        "Gemma Conroy"
+      ],
+      "published": "2026-09-30T00:00:00+00:00",
+      "journal": "Nature",
+      "journal_label": "Nature",
+      "issn": "0028-0836",
+      "first_seen": "2026-10-01T00:38:14+00:00",
+      "last_seen": "2026-10-01T00:38:14+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:14+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78205-5": {
+      "key": "doi:10.1038/s41467-026-78205-5",
+      "doi": "10.1038/s41467-026-78205-5",
+      "title": "Repurposing Cas12a2-mediated abortive infection for efficient and low-toxicity microbial genome editing",
+      "abstract": "CRISPR-Cas systems have revolutionized microbial genome engineering, yet counter-selection strategies typically rely on targeted DNA cleavage, where the severe cytotoxicity of double-strand breaks restricts transformation efficiency and clonal recovery. Here, we present an innovative strategy, SuCas12a2-Universal Recombination Editing (SURE), that circumvents these limitations by repurposing the RNA-targeting CRISPR-Cas12a2 system. Instead of directly attacking the genome, SURE utilizes Cas12a2’s RNA-triggered collateral activity to induce an abortive infection-like state, providing a potent yet recoverable selective pressure. This strategy increases transformation efficiency by up to 1,000-fold compared to Cas9- or Cas12-based systems while achieving over 90% editing efficiency for gene knockout, insertion, and replacement in Escherichia coli MG1655. We validate the SURE platform’s broad utility by extending it to diverse species, including Bacillus subtilis BSZR and Shewanella oneidensis MR-1. Mechanistically, we identify collateral double-stranded DNA degradation as the decisive factor for driving efficient selection. Finally, we apply this system to engineer E. coli MG1655 for efficient assimilation of the plastic monomer ethylene glycol, demonstrating its practical utility. Collectively, this work establishes a universal and robust RNA-guided editing framework that resolves the toxicity-efficiency trade-off inherent to the conventional DNA-targeting methods. Microbial genome engineering is often limited by toxicity from existing selection methods. Here, the authors develop a Cas12a2-based RNA-guided editing strategy that improves efficiency and reduces cellular damage, providing a robust tool for microbial engineering.",
+      "link": "https://doi.org/10.1038/s41467-026-78205-5",
+      "authors": [
+        "Hao-Da Wang",
+        "Lan Hu",
+        "Jing Han",
+        "Zhou-Hua Cheng",
+        "Han-Qing Yu",
+        "Dong-Feng Liu"
+      ],
+      "published": "2026-09-30T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-01T00:38:18+00:00",
+      "last_seen": "2026-10-01T00:38:18+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:18+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78180-x": {
+      "key": "doi:10.1038/s41467-026-78180-x",
+      "doi": "10.1038/s41467-026-78180-x",
+      "title": "Magnetic Electroluminescent response as a predictive indicator of operational lifetime in phosphorescent blue OLEDs",
+      "abstract": "Improving operational lifetime remains a major challenge for blue organic light-emitting diodes (OLEDs) harvesting triplet excitons. Achieving substantial lifetime enhancement requires analytical techniques that elucidate degradation mechanisms. Because conventional lifetime analysis involves destructive aging tests, developing non-invasive methods that correlate strongly with device longevity is highly desirable. Here, we show that the operational lifetime of blue phosphorescent OLEDs quantitatively correlates with the electroluminescence (EL) response under magnetic fields. This behavior is explained by a magneto-EL response function that reflects degradation-sensitive spin-pair kinetics under magnetic fields. A strong linear correlation (confidence > 95%) is identified between the magneto-EL response strength (fMEL) and device lifetime, with longer-operable OLEDs exhibiting lower fMEL values. These findings establish a non-destructive approach for analyzing and predicting the stability of blue phosphorescent OLEDs. Predicting the operational lifetime of blue organic light-emitting diodes without destructive and lengthy aging tests remains challenging. Ji et al. identify a magnetic-field electroluminescence response that quantitatively predicts operational lifetime.",
+      "link": "https://doi.org/10.1038/s41467-026-78180-x",
+      "authors": [
+        "Jeoungmin Ji",
+        "Young Hun Jung",
+        "Eun-Jeong Jang",
+        "Byeongheon Song",
+        "Jooyeon Oh",
+        "Jae-Hyun Lee",
+        "Jang Hyuk Kwon",
+        "Seunghyup Yoo"
+      ],
+      "published": "2026-09-30T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-01T00:38:19+00:00",
+      "last_seen": "2026-10-01T00:38:19+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:19+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78038-2": {
+      "key": "doi:10.1038/s41467-026-78038-2",
+      "doi": "10.1038/s41467-026-78038-2",
+      "title": "A Robust Gel Polymer Electrode with Controlled-Release Polymerization towards Practical Lithium-Sulfur Batteries",
+      "abstract": "While rational electrode engineering has promoted the kinetics of lithium-sulfur batteries, persistent lithium polysulfide diffusion continues to undermine the cyclability of conventional liquid electrolyte systems. We propose a quasi-solid gel electrode design that integrates the sulfur species-blocking attributes of a solid-state system within a liquid electrolyte framework. This is achieved through a well-designed free radical-controlled-release polymerization strategy, which precisely governs the formation of a processable poly(ethyl cyanoacrylate) network. This approach enables secondary in situ gelation triggered by electrolyte infiltration, forming gel-phase electrode architectures. Mechanistically, the resulting gel-based electrode provides dynamically adaptive stress dissipation to accommodate volume variations, establishes continuous ion-permeable pathways for deeper positive electrode discharge, and acts as a synergistic physico-chemical barrier for sulfur species confinement. As a result, the positive electrode delivers a high initial capacity of 812.8 mA h g–1 at 2 C and sustains stable cycling operation over 1000 cycles. A 1.7 Ah-level pouch cell demonstrates potential for a sustained power supply for an unmanned aerial vehicle. A free radical-controlled-release polymerization strategy precisely governs the formation of poly(ethyl cyanoacrylate) network. Secondary gelation triggered by electrolyte infiltration leads to the effective enhancement of lithium-sulfur batteries.",
+      "link": "https://doi.org/10.1038/s41467-026-78038-2",
+      "authors": [
+        "Jingkang Li",
+        "Donghua Wang",
+        "Nanwu Gao",
+        "Wenlong Cai",
+        "Junjie Zhang",
+        "Zhijuan Zou",
+        "Lixian Song",
+        "Yingze Song",
+        "Guangmin Zhou"
+      ],
+      "published": "2026-09-30T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-01T00:38:20+00:00",
+      "last_seen": "2026-10-01T00:38:20+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:20+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78044-4": {
+      "key": "doi:10.1038/s41467-026-78044-4",
+      "doi": "10.1038/s41467-026-78044-4",
+      "title": "WeedNet: a foundation model-based global-to-local AI approach for weed species identification and classification",
+      "abstract": "Early weed identification is crucial for effective management and control, and researchers, agronomists, and technology developers are increasingly interested in automating this process using computer vision and artificial intelligence; however, limited expert-verified data and variable morphological features have hindered the development of AI-based weed identification models. To address these issues, we present WeedNet, a global-scale weed identification model that can recognize an extensive set of weed species. WeedNet is an end-to-end weed identification pipeline that uses self-supervised learning, fine-tuning, and enhanced trustworthiness strategies. WeedNet achieved 91.02% accuracy across 1,593 weed species, with 41% of species achieving 100% accuracy. Using a fine-tuning approach, the local Iowa WeedNet model achieved 97.38% overall accuracy for 84 Iowa weeds. Testing across intra-species dissimilarity and inter-species similarity suggests that diversity in the images collected, spanning all the growth stages and distinguishable plant characteristics, is crucial in driving model performance. The global WeedNet model serves as a foundation, and the global-to-local strategy enables targeted fine-tuning to improve performance in regional weed communities. Additional validation of drone- and ground-rover-based images highlights WeedNet’s potential for integration into robotic platforms. Furthermore, integration with artificial intelligence for conversational use provides intelligent agricultural and ecological conservation consulting tools for farmers, researchers, and government agencies across diverse landscapes. Weeds consistently threaten crop yields worldwide, making early and accurate identification essential for effective management. Trained on 14 million images representing 1,593 weed species, WeedNet achieved 91% global accuracy and, through global-to-local fine-tuning, reached 97% accuracy for Iowa weeds.",
+      "link": "https://doi.org/10.1038/s41467-026-78044-4",
+      "authors": [
+        "Yanben Shen",
+        "Timilehin T. Ayanlade",
+        "Venkata Naresh Boddepalli",
+        "Mojdeh Saadati",
+        "Ashlyn Rairdin",
+        "Zi K. Deng",
+        "Muhammad Arbab Arshad",
+        "Shivani Chiranjeevi",
+        "Aditya Balu",
+        "Daren Mueller",
+        "Asheesh K. Singh",
+        "Wesley Everman",
+        "Nirav Merchant",
+        "Baskar Ganapathysubramanian",
+        "Meaghan Anderson",
+        "Soumik Sarkar",
+        "Arti Singh"
+      ],
+      "published": "2026-09-30T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-01T00:38:21+00:00",
+      "last_seen": "2026-10-01T00:38:21+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-01T00:38:21+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "artificial intelligence"
+        ]
+      }
     }
   }
 }
