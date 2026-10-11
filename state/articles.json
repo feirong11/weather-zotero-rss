@@ -250506,6 +250506,302 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-10-11T12:48:05+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1029/2026ms005900": {
+      "key": "doi:10.1029/2026ms005900",
+      "doi": "10.1029/2026ms005900",
+      "title": "An Online Moisture Tagging Framework for Detrainment of Convective Hydrometeors and Associated Precipitation in Convection‐Permitting Models",
+      "abstract": "Abstract Convective detrainment is an important process in mesoscale convective systems (MCSs) that strongly influence adjacent stratiform clouds and precipitation. However, it remains difficult to quantify convective detrainment in numerical models. In this study, we develop an online convection identification and water vapor tracer (WVT) framework based on the Eulerian WVTs coupled with Weather Research and Forecasting convection‐permitting model. Convection is identified using radar reflectivity, and two types of tracers are introduced to track water species and precipitation within convective regions and those detrained from them, which can be distinguished from those newly generated in the stratiform areas. The framework is applied to both an idealized case and a real case. In the idealized simulation, the framework captures the convective detrainment and its associated precipitation during the lifecycle of convective systems featured by rapid evolution in location and structure. In the real case, the framework demonstrates distinct temporal variations in the intensity and area coverage of stratiform precipitation produced by convective detrainment. Both the ice‐ and liquid‐phase detrainments decrease dramatically at the moment when convective precipitation starts to increase, suggesting intensified conversion from cloud to precipitating hydrometeors. After that, the conversion efficiency weakens, which is favorable for the formation of stratiform clouds and precipitation. Overall, this framework provides a useful tool for quantifying the characteristics and impacts of convective detrainment and for evaluating convective parameterization schemes.",
+      "link": "https://doi.org/10.1029/2026ms005900",
+      "authors": [
+        "Guoqing Dai",
+        "Ben Yang",
+        "Xin Xu",
+        "Yuanzhe Zhang",
+        "Lianglu Qu",
+        "Yuncheng Yang",
+        "Yun Qian",
+        "Yaocun Zhang",
+        "Danqing Huang"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "journal_label": "Journal of Advances in Modeling Earth Systems",
+      "issn": "1942-2466",
+      "first_seen": "2026-10-11T21:57:07+00:00",
+      "last_seen": "2026-10-11T21:57:07+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74457-9": {
+      "key": "doi:10.1038/s41598-026-74457-9",
+      "doi": "10.1038/s41598-026-74457-9",
+      "title": "Autotaxin induces fibrosis in lamina cribrosa cells in glaucoma",
+      "abstract": "Lysophosphatidic acid (LPA) and the enzyme that generates it, autotaxin, have been shown to play a role in fibrosis in the trabecular meshwork in glaucoma, contributing to increased intraocular pressure. We wished to investigate the role of LPA and autotaxin in fibrosis of the lamina cribrosa (LC) of the optic nerve head in glaucoma. LC cells from glaucoma patient donors (GLC) and normal controls (NLC) were cultured, and expression of autotaxin and LPA receptors were determined through real-time quantitative PCR (RT-qPCR), western blotting and immunofluorescence. Autotaxin activity in cell media was measured via a phospholipase assay. GLC cells were treated with an autotaxin inhibitor S32826, and the rate of cell proliferation and ECM gene expression were assessed. GLC cells showed significantly increased autotaxin mRNA (3.84 ± 1.71 fold p < 0.05) and protein expression (1.54 ± 0.41 fold p < 0.05) compared to NLC. The LPA receptor LPA3 was also significantly overexpressed (2.73 ± 0.23 fold p < 0.001). Treatment of GLC cells with S32826 significantly reduced autotaxin activity, cell proliferation and expression of ECM genes COL1A (0.51±0.06, p < 0.05) and FN1 (0.64±0.12, p < 0.05). Inhibition of autotaxin decreased cell proliferation and ECM production in LC cells, and therefore could be a potential target for fibrosis in the LC in glaucoma.",
+      "link": "https://doi.org/10.1038/s41598-026-74457-9",
+      "authors": [
+        "Amy O’Regan",
+        "Mustapha Irnaten",
+        "Sarah Eivers",
+        "Jeffrey O’Callaghan",
+        "Deborah Wallace",
+        "Colm J. O’Brien"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:12+00:00",
+      "last_seen": "2026-10-11T21:57:12+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T21:57:12+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74761-4": {
+      "key": "doi:10.1038/s41598-026-74761-4",
+      "doi": "10.1038/s41598-026-74761-4",
+      "title": "Intelligent adaptive energy management framework for hybrid solar-grid EV fast-charging stations with energy storage and time-based demand response optimization",
+      "abstract": "The rapid expansion of electric vehicle (EVs) is significantly increasing pressure on the conventional electrical grid and introducing new challenges in load management, peak demand, and grid stability. Conventional grid systems, dependent on fossil fuel-based generation, contribute to greenhouse gas emissions and limit the environmental benefits of EV adoption. Although several studies have integrated photovoltaic (PV) systems with EV charging networks, most have not addressed real-time coordination between multiple power sources, time-of-use (ToU) pricing, and dynamic demand response (DR). To overcome these limitations, this paper proposes an Intelligent Adaptive Energy Management Framework (IAEMF) for a 1 MW hybrid solar-grid EV DC fast-charging station equipped with a 600-kWh energy storage system (ESS). The framework incorporates a time-adaptive multi-mode control algorithm that dynamically allocates power among PV generation, ESS, and the utility grid based on irradiance, electricity pricing, and load demand. The proposed system supports five operational modes PV-to-ESS, PV-to-EV, Grid-to-EV, ESS-to-EV, and PV-to-Grid facilitating fully bidirectional energy exchange across the DC bus. A variable-step Perturb and Observe (P&O) MPPT algorithm is implemented to maximize solar energy extraction, while the adaptive allocation strategy continuously adjusts PV distribution factors according to ESS state-of-charge (SOC) and demand variations. Time-of-use (ToU) pricing enables cost-effective energy management by shifting grid charging to off-peak periods and the demand response (DR) enables priority-based scheduling during peak periods by balancing user urgency, PV utilization, and grid cost simultaneously. MATLAB/Simulink simulations demonstrate that the proposed IAEMF achieves 87.8% renewable energy utilization, a grid export-to-import ratio of 4.2:1, and 71.8% average daily solar contribution, while maintaining stable DC bus voltage and efficient ESS utilization. Furthermore, the proposed system achieves CO₂ emission reduction of 659.5 tonnes/year by minimizing through grid imports. In addition, the total PV generation-based CO₂ offset reaches 1,853 tonnes per year. The results validate that the proposed hybrid architecture provides a scalable and sustainable solution for next-generation EV fast-charging infrastructure.",
+      "link": "https://doi.org/10.1038/s41598-026-74761-4",
+      "authors": [
+        "Dhivya Govindasamy",
+        "Rajarajeswari Rathinam",
+        "Basem Abu Zneid",
+        "Viktoriia Bereznychenko",
+        "Ezzeddine Touti"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:15+00:00",
+      "last_seen": "2026-10-11T21:57:15+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T21:57:15+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-59114-5": {
+      "key": "doi:10.1038/s41598-026-59114-5",
+      "doi": "10.1038/s41598-026-59114-5",
+      "title": "ECO-EDGE: joint DAG offloading and fabric routing in Multi-AP MEC via conic optimization",
+      "abstract": "Mobile Edge Computing (MEC) enables low-latency services by migrating computational resources closer to end-users. However, as mobile workloads increasingly adopt complex Directed Acyclic Graph (DAG) topologies, system performance is strongly affected by interdependent data shuffling across the inter-server fabric and synchronization constraints during uplink transmission. Existing models frequently neglect physical fabric capacity limits and decouple communication from computation, leading to inefficient energy usage and increased latency. In this paper, we propose a coupled Mixed-Integer Non-Linear Programming (MINLP) formulation that jointly optimizes multi-AP association, task placement, Dynamic Voltage and Frequency Scaling (DVFS), and explicit inter-server routing under per-application deadline constraints. To address the inherent non-convexity and combinatorial complexity of the joint problem, we introduce the ECO-EDGE framework. ECO-EDGE decomposes the original MINLP using a Block Coordinate Descent (BCD) architecture and solves relaxed subproblems via tailored convexification techniques, including McCormick-based convex envelopes for bilinear placement products, a “Bits-per-RB” formulation that maps communication constraints into exponential cones, and power- and rotated second-order cone representations for computation and fabric delay modeling. The resulting relaxed BCD scheme exhibits monotonic objective decrease under exact block solution, while deterministic rounding and topological list-scheduling are applied to recover feasible schedules, which are subsequently verified for deadline satisfaction. Simulation results in dense multi-AP deployments show that ECO-EDGE reduces total system energy by up to $$81.8\\%$$ compared to a Local-Only baseline and achieves an empirical deadline satisfaction rate of $$97.9\\%$$, outperforming heuristic, fabric-oblivious, and disjoint optimization baselines.",
+      "link": "https://doi.org/10.1038/s41598-026-59114-5",
+      "authors": [
+        "Mofadal Alymani",
+        "Alhanof Almutairi",
+        "Fatimah Alhayan",
+        "Abdulaziz Seraj Alnori",
+        "Reham Al-Dayil",
+        "Nadhem NEMRI",
+        "Shouki A. Ebad"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:16+00:00",
+      "last_seen": "2026-10-11T21:57:16+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T21:57:16+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-68548-w": {
+      "key": "doi:10.1038/s41598-026-68548-w",
+      "doi": "10.1038/s41598-026-68548-w",
+      "title": "Lymphocyte-predominant inflammation refines lung histopathology scoring in preclinical respiratory viral infection: support from deep learning analysis",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-68548-w",
+      "authors": [
+        "Sang Hyeok Seok",
+        "Hyeon Ah Kim",
+        "Hyeok-Won An",
+        "Yu Jin Lee",
+        "Na Yun Lee",
+        "Gyeong Min Yoon",
+        "Jung-Min Kim",
+        "Ho Young Lee",
+        "Won Gi Yoo",
+        "Je Kyung Seong",
+        "Jun Won Park"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:17+00:00",
+      "last_seen": "2026-10-11T21:57:17+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-75821-5": {
+      "key": "doi:10.1038/s41598-026-75821-5",
+      "doi": "10.1038/s41598-026-75821-5",
+      "title": "Marital satisfaction and parent-reported emotional competence in Chinese preschoolers: serial indirect associations through mindful parenting and parental involvement",
+      "abstract": "Guided by Belsky’s parenting process model, this pooled cross-sectional study examined a theory-ordered pattern of statistical associations linking marital satisfaction, mindful parenting, parental involvement, and parent-reported emotional competence. Participants were 5,303 married biological parents of kindergarten children in Hubei Province, China, most of whom were mothers. A latent-variable structural equation model adjusted for data-collection batch and relevant demographic characteristics; classroom-cluster-robust re-estimation was used to evaluate the nested recruitment structure. Marital satisfaction was positively associated with mindful parenting and parental involvement; mindful parenting and parental involvement were each positively associated with parent-reported emotional competence. The theory-ordered statistical indirect association through the serially specified parenting constructs was positive (β = 0.038, cluster-robust 95% CI [0.029, 0.046]), whereas the adjusted direct association between marital satisfaction and parent-reported emotional competence was nonsignificant. Covariance-equivalent directional specifications fit identically, indicating that temporal and causal ordering could not be established. Because all constructs were reported by the same parent at one time point, the findings describe theory-consistent statistical associations and do not show that one parenting process preceded another, transmitted an effect, or would improve the child outcome if changed. Longitudinal and multi-informant research is needed.",
+      "link": "https://doi.org/10.1038/s41598-026-75821-5",
+      "authors": [
+        "Tongyao Wang",
+        "Haoyu Qu",
+        "Peiyue Wu",
+        "Zhihan Xu",
+        "Mengxin Li",
+        "Miaomiao Luo"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:17+00:00",
+      "last_seen": "2026-10-11T21:57:17+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T21:57:17+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75642-6": {
+      "key": "doi:10.1038/s41598-026-75642-6",
+      "doi": "10.1038/s41598-026-75642-6",
+      "title": "Optimization of UV-C irradiation time for biologically treated saline wastewater using artificial neural networks and a hybrid multi-criteria decision-making framework",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-75642-6",
+      "authors": [
+        "Mohammadnabi Omidvar",
+        "Farshad Farahbod"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:18+00:00",
+      "last_seen": "2026-10-11T21:57:18+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-75326-1": {
+      "key": "doi:10.1038/s41598-026-75326-1",
+      "doi": "10.1038/s41598-026-75326-1",
+      "title": "Device-assisted calf-raise training combining high-speed and eccentric exercises improves gait speed in older adults",
+      "abstract": "Abstract Plantar flexors are critical for mobility in older adults. Although movement velocity contributes to gait performance in addition to strength, few interventions target both plantar flexor strength and velocity. To address this gap, we developed a novel device to support a program incorporating both high-speed and eccentric plantar-flexor exercises and examined whether this device-assisted program improves plantar flexion strength, movement velocity, and gait speed. In a nonrandomized controlled trial, 40 older adults were allocated to either a training group ( n = 20) or a control group ( n = 20). The training group undertook a 10-week calf-raise program using a custom-built device, whereas the control group continued usual activities. The program was performed twice daily, 5 days per week, and included high-speed calf-raises (20 repetitions) and eccentric calf-raises (30 repetitions). Of the 19 participants who initiated the intervention, 18 completed the program (retention rate, 94.7%), and all achieved the prescribed target dose (adherence, 100%). Compared with controls, the training group showed greater improvements in gait speed (+ 0.17 m/s) and plantar flexion strength (+ 7.5 kgf) and movement velocity (+ 104.9 °/s). These findings suggest that device-assisted calf-raise training may improve plantar flexor function and gait performance in older adults. Trial registration: UMIN-CTR, UMIN000052504; 15/10/2023.",
+      "link": "https://doi.org/10.1038/s41598-026-75326-1",
+      "authors": [
+        "Atsuki Kanayama",
+        "Ryoga Ueba",
+        "Saki Yamamoto",
+        "Shoji Kinoshita",
+        "Hiroshi Nagao",
+        "Yuki Yano",
+        "Chikako Kamimukai",
+        "Kenji Doma",
+        "Akira Iwata"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:18+00:00",
+      "last_seen": "2026-10-11T21:57:18+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74122-1": {
+      "key": "doi:10.1038/s41598-026-74122-1",
+      "doi": "10.1038/s41598-026-74122-1",
+      "title": "High-pressure processing and thermal pasteurization of blueberry purée-based baby food differentially modulate polyphenol bioaccessibility and intestinal cell responses",
+      "abstract": "Abstract Proper processing of baby foods, ensuring both safety and the highest possible nutrient retention and bioaccessibility, is of particular importance for the health and development of infants and young children. In this study, blueberry purée-based baby food was subjected to conventional thermal pasteurization (TP) and high-pressure processing (HPP) at moderate temperature, and their effects on sensory quality and the availability of bioactive compounds were compared. Polyphenol stability and antioxidant bioaccessibility were evaluated during storage and simulated gastrointestinal digestion, while intestinal cell responses and prebiotic-related activity were assessed separately. HPP-treated purées showed significantly higher phenolic bioaccessibility, whereas differences in antioxidant bioaccessibility and anthocyanin recovery between treatments were not statistically significant. Caco-2 cell viability varied with treatment and incubation time, whereas intracellular reactive oxygen species levels were not significantly affected by processing treatment and decreased with incubation time. The effects of both preservation methods on microbial growth were dependent on bacterial group and incubation time. Positive PAS values were observed for Lactobacillus after both 24 and 48 h, whereas Bifidobacterium did not show a selective growth advantage over Enterobacteriaceae under the applied experimental conditions. Short-chain fatty acids remained below the detection threshold in the fermented purée samples and the inulin control, although several unsaturated fatty acids were quantifiable after fermentation in both processed purées. These results demonstrate that HPP and thermal pasteurization differentially modulate the functional properties of blueberry purée-based baby food and highlight the importance of preservation strategy selection in the development of foods intended for sensitive consumer groups.",
+      "link": "https://doi.org/10.1038/s41598-026-74122-1",
+      "authors": [
+        "Bozena Mazurkiewicz",
+        "Magdalena Matusiewicz",
+        "Elzbieta Wojcik-Gront",
+        "Tomasz Krucon",
+        "Witold Uhrynowski",
+        "Natalia Jeznach",
+        "Slawomir Jaworski"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:18+00:00",
+      "last_seen": "2026-10-11T21:57:18+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75551-8": {
+      "key": "doi:10.1038/s41598-026-75551-8",
+      "doi": "10.1038/s41598-026-75551-8",
+      "title": "Physical activity and incident hypertension in relation to anthropometric and liver-related indices during 5-year follow-up in the Azar Cohort Study",
+      "abstract": "Abstract Hypertension (HTN) is a major global public health concern. This study examined the association between physical activity (PA) and incident HTN, focusing on the mediating roles of anthropometric (AI) and liver-related indices (LI) in the Azar cohort. Data from 11,754 adults without baseline HTN were analyzed. Fifteen anthropometric and nine liver-related indices were assessed using standard protocols. PA was measured via a validated questionnaire based on metabolic equivalent of task (MET). Generalized Structural Equation Modeling (GSEM) was applied to evaluate direct and indirect associations. Results Individuals with HTN were older and had higher anthropometric and liver-related measures, while PA levels were lower (P < 0.001). Higher PA was associated with a lower risk of HTN (RR = 0.91, 95% CI:0.89–0.94), whereas higher AI (RR = 1.92, 95% CI:1.81–1.99) and LI (RR = 1.21, 95% CI:1.19–1.23) were associated with a higher risk of HTN. AI and LI accounted for part of the observed PA–HTN association, with a stronger contribution from AI than LI (53.64% vs. 34.95%). After accounting for the mediators, the association between PA and HTN remained significant (RR = 0.94, 95% CI:0.91–0.96). The association remained significant after adjustment; each one-unit increase in MET was linked to a 6% lower HTN risk (RR = 0.94, 95% CI: 0.91–0.96). PA was inversely associated with HTN risk, with anthropometric factors accounting for a greater proportion of the observed association than liver-related factors. The partial mediation suggests that other factors may also contribute to this association.",
+      "link": "https://doi.org/10.1038/s41598-026-75551-8",
+      "authors": [
+        "Rouhollah Haghshenas",
+        "Mohammad Hossein Somi",
+        "Elnaz Faramarzi"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:18+00:00",
+      "last_seen": "2026-10-11T21:57:18+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74310-z": {
+      "key": "doi:10.1038/s41598-026-74310-z",
+      "doi": "10.1038/s41598-026-74310-z",
+      "title": "Tribological performance of PTFE/polyimide pulp/GCNT composites",
+      "abstract": "Abstract Polytetrafluoroethylene (PTFE) is widely used as a solid lubricant but suffers from poor wear resistance, limiting its application in demanding mechanical components. In this study, PTFE-based composites reinforced with polyimide (PI) pulp and graphitized carbon nanotubes (GCNTs) were prepared via a cold-press sintering process. The tribological properties were evaluated under different loads (2 N and 10 N) and frequencies (1 Hz and 4 Hz) using a ball-on-disk tribometer. The results show that the composite with 5 wt% PI pulp and 1 wt% GCNT (designated as #3) exhibits the best overall performance. At 2 N and 1 Hz, its coefficient of friction (COF) reaches 0.025, which is 69.3% lower than that of pure PTFE. Meanwhile, the wear rate is reduced by up to 75% under 10 N and 4 Hz. Scanning electron microscopy (SEM) and energy-dispersive X-ray spectroscopy (EDS) analyses indicate that the improved tribological performance is mainly attributed to the formation of a continuous and uniform transfer film on the counterface. PI pulp constructs a load-bearing fibrous network that enhances mechanical strength, while GCNTs promote the adhesion and stability of the transfer film, effectively changing the sliding contact from composite–steel to film–steel and reducing both friction and wear. This work offers a practical route for developing PTFE-based self-lubricating composites with balanced mechanical and tribological properties.",
+      "link": "https://doi.org/10.1038/s41598-026-74310-z",
+      "authors": [
+        "Jinsheng Zhou",
+        "Xuan Sun",
+        "Dan Zhao",
+        "Chao Si",
+        "Shengqiang Wu"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:18+00:00",
+      "last_seen": "2026-10-11T21:57:18+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73706-1": {
+      "key": "doi:10.1038/s41598-026-73706-1",
+      "doi": "10.1038/s41598-026-73706-1",
+      "title": "Prioritizing climate-resilient housing recovery in conflict-affected Yemen: a district-level MCDA and uncertainty framework",
+      "abstract": "Abstract Yemen’s housing recovery requires choices among districts where flood exposure, conflict, displacement and humanitarian need overlap. This study develops a district-level multi-criteria decision analysis (MCDA) framework to identify districts that remain high priorities for early climate-resilient housing recovery under alternative assumptions. The model combines seven dimensions: flood hazard, human exposure, built exposure, climate stress, conflict fragility, displacement pressure and humanitarian severity. Four weighting scenarios are tested, and Monte Carlo perturbation examines rank stability when normalized inputs and scenario weights vary. The model does not estimate direct housing damage; it screens districts under combined physical and social pressures and compares the national ranking with heterogeneous city-level evidence. The highest-ranked districts are Ma’rib, Ma’rib City, Sirwah, Al Marawi’ah, Khur Maksar, Ad Durayhimi, Tuban and Bani Sa’d. Flood-gate, missing-data, internal-weight and sparse-RDT ablation tests preserve the leading pattern, although uncertainty increases near selection thresholds. The framework provides a transparent national screening tool for recovery sequencing, subject to local engineering assessment and stakeholder validation before implementation.",
+      "link": "https://doi.org/10.1038/s41598-026-73706-1",
+      "authors": [
+        "Saleem Ahmed Al-Azazi",
+        "Khalid Alezi"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T21:57:18+00:00",
+      "last_seen": "2026-10-11T21:57:18+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
