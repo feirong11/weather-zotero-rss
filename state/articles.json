@@ -246511,8 +246511,8 @@
       "issn": "0169-8095",
       "first_seen": "2026-10-11T05:45:12+00:00",
       "last_seen": "2026-10-11T05:45:12+00:00",
-      "enrichment_attempts": 1,
-      "last_enrichment_attempt": "2026-10-11T05:45:12+00:00",
+      "enrichment_attempts": 2,
+      "last_enrichment_attempt": "2026-10-11T12:47:51+00:00",
       "matched_channels": {}
     },
     "doi:10.1038/s41467-026-78616-4": {
@@ -249907,6 +249907,605 @@
           "machine learning"
         ]
       }
+    },
+    "doi:10.1038/s41467-026-78580-z": {
+      "key": "doi:10.1038/s41467-026-78580-z",
+      "doi": "10.1038/s41467-026-78580-z",
+      "title": "Time-lapse RESOLFT nanoscopy empowered by deep learning",
+      "abstract": "Abstract Capturing the dynamic interplay of proteins and organelles within cells requires microscopy methods with high spatial and temporal resolution. Reversible Saturable OpticaL Fluorescent Transition (RESOLFT) demonstrated great potential for live cell nanoscopy by using patterned light and reversibly switching fluorescent probes. Despite the latest improvement in both switching probes and optical schemes, the duration and frame rate of the time-lapse are still limited by photobleaching and spatial sampling steps. Here, we present two distinct strategies based on deep learning to restore low signal-to-noise-ratio (SNR) or under-sampled images pushing the experimental boundaries of RESOLFT. We demonstrate the capability of Hierarchical DivNoising (HDN) to restore low-SNR RESOLFT data while maintaining full spatial resolution, both in supervised and unsupervised settings. This allows a 10-fold reduction of light dose per frame, and up to 5 times longer imaging. Then, we present Fast-MoNaLISA, a method that reduces the acquisition time of any point-scanning systems. This allows a 4-fold increase in frame rate, and a reduction of scanning artefacts. Overall, our methods open up possibilities for dynamic data acquisition at the sub-organelle level, such as vesicles budding in and out from intact mitochondria, or the actin meshwork formation and dissociation.",
+      "link": "https://doi.org/10.1038/s41467-026-78580-z",
+      "authors": [
+        "Guillaume Minet",
+        "Anirban Ray",
+        "Francesca Pennacchietti",
+        "Giovanna Coceano",
+        "Florian Jug",
+        "Ilaria Testa"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-11T12:47:55+00:00",
+      "last_seen": "2026-10-11T12:47:55+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41467-026-78555-0": {
+      "key": "doi:10.1038/s41467-026-78555-0",
+      "doi": "10.1038/s41467-026-78555-0",
+      "title": "Intensification of near-inertial currents in the Atlantic Ocean over the past two decades",
+      "abstract": "Near-inertial currents (NICs) play a key role in surface material redistribution and ocean mixing, yet their long-term variability remains poorly known. Using in situ current measurements from surface drifters, we provide observational evidence for a pronounced intensification of surface NICs in the Atlantic Ocean over the past two decades (2003–2022). Basin–mean NIC strength increases at a rate of 3.8 ± 1.7% per decade, with a spatial pattern characterized by strengthening in the South Atlantic and the high-latitude North Atlantic, and weakening in the low-latitude North Atlantic. We further show that these trends in Atlantic NICs are primarily driven by changes in near-inertial wind forcing, particularly those associated with mesoscale weather systems, while variations in mixed-layer depth playing a minor role. This observed intensification of Atlantic NICs may have important implications for ocean transport and mixing, and needs to be properly represented in the current generation of climate models. Ocean drifter observations reveal that Atlantic near-inertial currents intensified by almost 4% per decade during 2003–2022. This intensification is primarily driven by changes in wind forcing associated with mesoscale weather systems.",
+      "link": "https://doi.org/10.1038/s41467-026-78555-0",
+      "authors": [
+        "Yuhang Zheng",
+        "Xiaoming Zhai",
+        "David P. Stevens",
+        "Wei Wu",
+        "Wenhao Gong",
+        "Yan Du"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-11T12:47:55+00:00",
+      "last_seen": "2026-10-11T12:47:55+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T12:47:55+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78598-3": {
+      "key": "doi:10.1038/s41467-026-78598-3",
+      "doi": "10.1038/s41467-026-78598-3",
+      "title": "HCV incidence and prevalence trends among people who use drugs in France 2004 to 2023",
+      "abstract": "Abstract Hepatitis C virus (HCV) remains a key public health challenge, particularly among people who use and inject drugs (PWUD, PWID). While direct-acting antivirals (DAA) have revolutionized HCV treatment, meeting the WHO’s 2030 elimination target requires accurate estimation of incidence and prevalence to guide prevention and care. We analyze cross-sectional surveys conducted in France in 2004, 2013, and 2023, recruiting PWUD at harm reduction services and collecting behavioral and biological data. We estimate age-and time-dependent prevalence of HCV antibodies and HCV RNA using multivariate regression models while incidence was estimated from two-state transmission models. The demographic profile of PWUD has aged over time (mean age 35 years in 2004 vs. 44 in 2023) while injection prevalence remained stable (61.7% in 2023). Between 2013 and 2023, HCV burden declined substantially: HCV RNA prevalence fell from 19.4% (95% CI 16.3–23.0) to 9.5% (7.2–12.3) among all PWUD, and from 29.6% to 14.5% among PWID. Incidence among PWID decreased from 6.5 (4.1–8.0) to 2.4 (1.4–4.2) per 100 person-years. These reductions likely reflect the combined impact of DAA scale-up and harm reduction policies, marking substantial progress toward elimination targets. However, ongoing transmission highlights persistent barriers requiring targeted public health actions.",
+      "link": "https://doi.org/10.1038/s41467-026-78598-3",
+      "authors": [
+        "Chiara E. Sabbatini",
+        "Yann Le Strat",
+        "Christophe Bonaldi",
+        "Cécile Brouard",
+        "Martin Audran",
+        "Leïla Saboni",
+        "Jean-Baptiste Richard",
+        "Amélie David",
+        "Catherine Gaudy-Graffin",
+        "Stéphane Chevaliez",
+        "Francis Barin",
+        "Karl Stefic",
+        "Marie Jauffret-Roustide"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-11T12:47:57+00:00",
+      "last_seen": "2026-10-11T12:47:57+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78648-w": {
+      "key": "doi:10.1038/s41467-026-78648-w",
+      "doi": "10.1038/s41467-026-78648-w",
+      "title": "An automated operon refactoring workflow for heterologous expression of non-ribosomal peptide biosynthetic gene clusters",
+      "abstract": "Microbial genomes encode numerous biosynthetic gene clusters, yet most remain experimentally uncharacterized, particularly large non-ribosomal peptide synthetase (NRPS) clusters that resist conventional cloning. Existing refactoring approaches are labor-intensive, depend on de novo DNA synthesis and are difficult to scale. Here we show that OSAR (One-Step Assembly and Refactoring)—an automated platform integrating algorithmic primer design with yeast homologous-recombination cloning—directly assembles and refactors NRPS clusters without custom DNA synthesis. We apply OSAR to 34 low- to medium-GC bacterial NRPS clusters (7–78 kb) and successfully assemble 31. Expression in Bacillus subtilis yields 29 peptides from 10 clusters. Several products arose from cryptic biosynthetic behaviors such as potential module skipping and premature release. OSAR provides a practical workflow for assembly and refactoring of NRPS clusters and may facilitate the translation of sequence information into natural products. Existing approaches for biosynthetic gene cluster (BGC) discovery are labor-intensive, depend on de novo DNA synthesis and are difficult to scale. Here we show that an automated platform for one-step assembly and refactoring of BGCs facilitates facile novel product discovery.",
+      "link": "https://doi.org/10.1038/s41467-026-78648-w",
+      "authors": [
+        "Zhibo Li",
+        "Lifu Liu",
+        "Xingyan Sun",
+        "Hui Wu",
+        "Shiquan Fu",
+        "Jiao Jin",
+        "Yangming Zhang",
+        "Xiyan Zhang",
+        "Zishuo Zeng",
+        "Zhiyin Tao",
+        "Ningxin Chen",
+        "Xinran Wang",
+        "Jianming Lv",
+        "Pan Luo",
+        "Dan Hu",
+        "Hao Gao",
+        "Jay D. Keasling",
+        "Xiaozhou Luo"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-11T12:47:57+00:00",
+      "last_seen": "2026-10-11T12:47:57+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T12:47:57+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78507-8": {
+      "key": "doi:10.1038/s41467-026-78507-8",
+      "doi": "10.1038/s41467-026-78507-8",
+      "title": "A supergene and genomic mosaicism are associated with phenotypic evolution in Galápagos tree finches",
+      "abstract": "Abstract Adaptive radiations provide powerful models to study the origins of phenotypic novelty and species diversity. Darwin’s finches constitute a classic example of adaptive radiation, in which beak morphology is a key trait related to fitness. Here, we focus on Camarhynchus tree finches by analyzing whole genomes in combination with morphological data to revisit long-standing questions regarding their origins raised before genetic evidence became available. Camarhynchus diversified over the last 100,000 years, yielding some striking morphological differences despite shallow genetic divergence. We identify several highly differentiated loci, including G03 , a supergene affecting beak and body size. We reveal a striking example of genomic mosaicism, in which autosomal differentiation between two sympatric species is restricted primarily to a single locus -( G03 )- that approaches fixation, shifting them from one phenotypic optimum to another. Contextualized in a broader phylogenetic framework, we also reveal an unexpected diversity of G03 haplotypes and show that the small and large G03 alleles diverged early in the radiation, suggesting a key genetic innovation enabling ecological expansion among species of Darwin’s finches. Our results further establish Camarhynchus as a model example of speciation with gene flow, underscoring the broader role of hybridization in generating biodiversity.",
+      "link": "https://doi.org/10.1038/s41467-026-78507-8",
+      "authors": [
+        "Matteo Sebastianelli Arbelaez",
+        "Erik D. Enbody",
+        "Carl-Johan Rubin",
+        "Carlos A. Valle",
+        "Lukas F. Keller",
+        "B. Rosemary Grant",
+        "Peter R. Grant",
+        "Leif Andersson"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-11T12:47:58+00:00",
+      "last_seen": "2026-10-11T12:47:58+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74379-6": {
+      "key": "doi:10.1038/s41598-026-74379-6",
+      "doi": "10.1038/s41598-026-74379-6",
+      "title": "Physical activity and blood pressure as predictors of cognitive function in the all of us research program",
+      "abstract": "Abstract Physical activity (PA) is positively associated with cognition, whereas elevated blood pressure shows a negative association. However, most studies relied on subjective, self-reported measures of PA. In this study, we examined associations of PA (daily step count from Fitbit wearable devices), systolic (SBP) and diastolic (DBP) blood pressure spanning 14 years, with end-of-study cognitive performance in 3,093 participants in the All of Us Research Program (AoU). Cognition was assessed by the Gradual Onset Continuous Performance Task (Grad-CPT), Delay Discounting Task (DD-Task), Multiracial Emotional Recognition Task (Emorecog-Task) and Flanker-Task. Baseline PA metrics were positively associated with Grad-CPT (β = 0.31, 95% CI: 0.18 to 0.44), DD-Task (β = 0.05, 95% CI: 0.04 to 0.07), and Flanker-Task (β = 0.26, 95% CI: 0.17 to 0.35). Baseline SBP was negatively associated with DD-Task (β = -0.01, 95% CI: -0.02 to -0.004). Longitudinal k-means clustering identified 3 clusters of individuals—A, B and C— with mean daily steps of 5108, 8875 and 14,161 respectively. Individuals in clusters B and C had higher scores than those in cluster A on the DD-Task, Grad-CPT and Flanker-Task. These findings underscore the potential role of PA promotion and optimal blood pressure management in supporting cognitive health.",
+      "link": "https://doi.org/10.1038/s41598-026-74379-6",
+      "authors": [
+        "Olaoluwa O. Okusaga",
+        "Yi-Sian Lin",
+        "Elizabeth Atkinson"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:47:59+00:00",
+      "last_seen": "2026-10-11T12:47:59+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75553-6": {
+      "key": "doi:10.1038/s41598-026-75553-6",
+      "doi": "10.1038/s41598-026-75553-6",
+      "title": "ECG-based automated detection of sleep apnea using deep neural networks and hidden markov models",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-75553-6",
+      "authors": [
+        "Sara Qnatyan",
+        "Hojat Ghimatgar",
+        "Ahmad Keshavarz"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:47:59+00:00",
+      "last_seen": "2026-10-11T12:47:59+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-75571-4": {
+      "key": "doi:10.1038/s41598-026-75571-4",
+      "doi": "10.1038/s41598-026-75571-4",
+      "title": "Physicochemical quality, molecular composition, tocopherol profiling, and in vitro activity of cold-pressed Sacha inchi (Plukenetia volubilis L.) oil",
+      "abstract": "Abstract Sacha inchi ( Plukenetia volubilis L.) oil is among the richest plant-derived sources of alpha-linolenic acid (ALA), offering vegetarians a plant-based route to omega-3 fatty acid. This study encompasses around the characterization of cold-pressed Sacha inchi oil (SIO) combining physicochemical quality assessment and molecular composition. GC-FID analysis quantified five major fatty acids, with ALA as the predominant fatty acid (49.61 ± 0.05%), with total PUFA content of 84.25 ± 0.07%, with a ω-6:ω-3 ratio of 0.70:1. LC–MS/MS analysis revealed a total tocopherol content of 492.685 ± 0.049 mg kg⁻¹. SIO exhibited concentration-dependent DPPH (IC₅₀ = 24.94 ± 2.58 µg mL⁻¹) and ABTS radical scavenging activity (IC₅₀ = 31.99 ± 1.13 µg mL⁻¹). In RAW 264.7 macrophages, SIO showed concentration-dependent effects on cell viability, with IC₅₀ values of 213.40 ± 5.73 µg/mL in LPS untreated cells. SIO also reduced LPS-induced NO production by 6.05–49.62% at 10–75 µg mL⁻¹. And exhibits cytotoxicity against MDA-MB-231 triple-negative breast cancer cells (IC₅₀ = 15.08 µg mL⁻¹; 95% CI: 14.14–16.06 µg mL⁻¹) and HEK-293 cells (IC₅₀ = 45.53 µg mL⁻¹; 95% CI: 43.02–48.02 µg mL⁻¹). These findings highlight the compositional richness of SIO and support its potential as PUFA-rich functional food ingredient.",
+      "link": "https://doi.org/10.1038/s41598-026-75571-4",
+      "authors": [
+        "Gobika Shanmugam",
+        "Renganathan Sahadevan"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:47:59+00:00",
+      "last_seen": "2026-10-11T12:47:59+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74903-8": {
+      "key": "doi:10.1038/s41598-026-74903-8",
+      "doi": "10.1038/s41598-026-74903-8",
+      "title": "Trajectories of cardiopulmonary adaptation and executive function in elite endurance athletes receiving transcranial direct current stimulation with interval training",
+      "abstract": "This study examined how transcranial direct current stimulation (tDCS) interacts with high-intensity interval training (HIIT) to shape cardiopulmonary fitness and executive function in elite endurance athletes across an 8-week protocol. Sixty-six nationally ranked athletes were stratified by training tenure, competitive level, and baseline maximal oxygen uptake, then prospectively allocated, with participant and outcome-assessor blinding, to one of three intervention arms: real-tDCS plus HIIT, sham-tDCS plus HIIT, or HIIT-only; 59 completed the programme. Both stimulation arms alternated between a left dorsolateral prefrontal montage and a bilateral motor montage, and cortical target was carried through the analysis as a within-subject factor rather than folded into a single stimulation label. Cardiopulmonary indices, executive function (Stroop, N-back, Flanker), prefrontal hemodynamics via functional near-infrared spectroscopy, and heart rate variability were measured at four assessment waves, with female athletes tested inside the early follicular window at every wave. Nonlinear mixed-effects and generalized additive mixed models resolved dynamic trajectories at the individual level, while a second-order partial derivative quantified the stimulation × load interaction. End-of-study allocation guesses did not depart from chance in either masked arm, so blinding held. Because masking held only for the two stimulation arms, the real- versus sham-tDCS comparison carries the causal weight of the trial, and the HIIT-only arm enters as a partially unblinded reference rather than a second control. Against sham, the real-tDCS arm showed a delayed but steeper rise in maximal oxygen uptake and an earlier separation in Stroop interference. A modelled cumulative exposure-response surface exhibited a non-monotone shape with an interior maximum whose geometry, but not whose coordinates, survived leave-one-subject-out cross-validation; because intensity and duration were fixed and exposure varied only with session completion, we present that surface as exploratory. Cross-system coupling between prefrontal oxygenation and ventilatory threshold strengthened under active stimulation, consistent with, though not proof of, a bidirectional central-peripheral regulation account. Adherence captured the largest share of individual response variance, with BDNF and ACTN3 variants contributing modestly. As exploratory findings, these patterns are consistent with a stratified, trajectory-aware view of neuromodulation in elite training, though claims about an optimal dose must await confirmatory trials that deliberately vary stimulation intensity.",
+      "link": "https://doi.org/10.1038/s41598-026-74903-8",
+      "authors": [
+        "Chunmin Dai",
+        "Liping Zhang"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:47:59+00:00",
+      "last_seen": "2026-10-11T12:47:59+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T12:47:59+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75533-w": {
+      "key": "doi:10.1038/s41598-026-75533-w",
+      "doi": "10.1038/s41598-026-75533-w",
+      "title": "Methane bursts during spring thaw in the permafrost region of Northeast China",
+      "abstract": "Spring thaw in permafrost regions is associated with episodic bursts in atmospheric methane concentration. In this study, these methane bursts were investigated across different permafrost types in Northeast China. MODIS data and Sentinel-5P methane observations were used to derive the thaw onset date and methane burst timing, respectively. Results showed that methane bursts exhibited distinct spatial and interannual variability. Methane burst date was delayed with increasing permafrost stability, and median burst dates occurred in early to mid-April in unstable permafrost, late April to early May in semi-stable permafrost and stable permafrost. Meanwhile, methane bursts generally occurred within 15 days after thaw onset. There was a consistent positive relationship between thaw onset date and methane burst date across all years, with regression slopes of 0.78–1.07. Notably, the median lag tended to shorten from 15 to 22 days in 2020 to 11 days in 2024, suggesting an increasingly rapid temporal response of methane bursts to spring thaw over the study period.",
+      "link": "https://doi.org/10.1038/s41598-026-75533-w",
+      "authors": [
+        "Haiwen Xia",
+        "Ying Guo",
+        "Wei Shan",
+        "Shuhan Zhou",
+        "Shuhao Cao"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:00+00:00",
+      "last_seen": "2026-10-11T12:48:00+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T12:48:00+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72057-1": {
+      "key": "doi:10.1038/s41598-026-72057-1",
+      "doi": "10.1038/s41598-026-72057-1",
+      "title": "Dietary acid load is associated with quality of life in overweight and obese adult in Iranian women: a cross sectional study",
+      "abstract": "Epidemiologic investigations have shown that dietary acid load (DAL) is associated with some limited quality of life (QoL) markers; however, according to the documents available so far, the association of this dietary pattern with QoL among overweight and obese women is not clear. Therefore, this study aimed to evaluate the association of DAL and QoL among overweight and obese adult women. This cross-sectional study included 377 overweight and obese women. A validated food frequency questionnaire (FFQ) was used to assess dietary intake. DAL was estimated based on potential renal acid load (PRAL) and net endogenous acid production (NEAP). QoL was assessed using the 36-item Short-Form Health Survey (SF-36). Linear regression models were applied with progressive adjustment for potential confounders including age, body mass index, physical activity, smoking, marital status, education, occupation, supplement use, and total energy intake. In crude analyses, both NEAP and PRAL were positively associated with the General Health and Physical Functioning domains of the SF-36. After adjustment for age, body mass index, physical activity, smoking status, marital status, educational level, occupational status, supplement use, and total energy intake (Model 2), higher NEAP remained significantly associated with General Health (β = 3.23, 95% CI: 0.05, 6.40; P = 0.04). The association with Physical Functioning was no longer statistically significant (β = 2.72, 95% CI: -0.33, 5.78; P = 0.08). Higher PRAL also showed a borderline positive association with General Health (β = 3.15, 95% CI: -0.11, 6.43; P = 0.05) and Physical Functioning (β = 3.09, 95% CI: -0.05, 6.25; P = 0.05) after adjusting all confounders. No significant associations were observed between DAL indices and total SF-36 scores after multivariable adjustment. In this cross-sectional study, higher dietary acid load was associated with better general health and physical functioning among overweight and obese Iranian women. These findings should be confirmed in prospective studies.",
+      "link": "https://doi.org/10.1038/s41598-026-72057-1",
+      "authors": [
+        "Niloufar Rasaei",
+        "Mahsa Samadi",
+        "Niki Bahrampour",
+        "Elnaz Daneshzad",
+        "Fatemeh Gholami",
+        "Atefeh Tavakoli",
+        "Cain C. T. Clark",
+        "Khadijeh Mirzaei"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:01+00:00",
+      "last_seen": "2026-10-11T12:48:01+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T12:48:01+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74127-w": {
+      "key": "doi:10.1038/s41598-026-74127-w",
+      "doi": "10.1038/s41598-026-74127-w",
+      "title": "Pesticide health literacy and preventive behaviors among greenhouse operators in Northeastern Iran",
+      "abstract": "Greenhouse operators face high pesticide exposure risks, yet the cognitive pathways translating health literacy (HL) into preventive behaviors remain unclear. This study examined the multidimensional construct of Pesticide Health Literacy (PHL) and its association with preventive behaviors among greenhouse operators. This cross-sectional census study was conducted among 115 greenhouse operators in Neyshabur County, Iran. Data were collected using validated PHL and preventive behavior questionnaires. Data were analyzed using descriptive statistics, independent samples t-tests, one-way analysis of variance (ANOVA), and hierarchical multiple regression. Participants exhibited moderate PHL (mean: 61.92 ± 16.96 out of 115) but significantly lower preventive behaviors (mean: 8.90 ± 1.74 out of 21). Hierarchical multiple regression revealed that PHL was the strongest independent factor associated with preventive behaviors (β = 0.63, P < 0.001), followed by educational attainment (β = 0.37, P < 0.001). Sociodemographic variables alone did not significantly explain variation in preventive behaviors (R2 = 0.084, P = 0.140). PHL, particularly the critical information assessment domain, showed a stronger association with preventive behaviors than the sociodemographic factors examined in this study. The findings suggest that interventions addressing pesticide safety should extend beyond basic information provision and include skills for critically evaluating pesticide-related information, particularly among operators with lower educational attainment. Such an approach may help address the gap in HL preventive behaviors in high-risk agricultural settings.",
+      "link": "https://doi.org/10.1038/s41598-026-74127-w",
+      "authors": [
+        "Ali Akbar Mahmoodi",
+        "Fatemeh Pourhaji",
+        "Mahboobeh Naseri"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:02+00:00",
+      "last_seen": "2026-10-11T12:48:02+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T12:48:02+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75645-3": {
+      "key": "doi:10.1038/s41598-026-75645-3",
+      "doi": "10.1038/s41598-026-75645-3",
+      "title": "Bearing capacity and safety factors of ring foundations in spatially variable soils: a hybrid FELA-machine learning approach",
+      "abstract": "Abstract Ring foundations efficiently support axisymmetric structures like silos, storage tanks, chimneys, and cooling towers with reduced concrete volume compared to solid circular foundations. Their ultimate bearing capacity is strongly affected by asymmetric loading and spatial variability in soil properties. This study presents a hybrid machine learning framework to predict normalized bearing capacity factors and safety factors for ring foundations in spatially variable cohesive-frictional (c-φ) soils. Datasets were generated via finite element limit analysis (FELA) in OptumG2, incorporating random field modeling of effective cohesion (c’) (lognormal, depth-linear mean: µ c’ = 10 kPa, k = 1 kPa/m, COV = 0.3) and friction angle (φ’ up to 40°). Four loading configurations (complete, internal half, middle half, external half), inner-to-outer radius ratios of 0–0.9, rough/smooth interfaces, and nine anisotropic scale-of-fluctuation cases (horizontal: 10–60 m; vertical: 2–8 m) were analyzed. A Convolutional Neural Network processed random field images and parameters, achieving R² > 0.95 and relative errors < 3%. External half and complete loading gave highest capacities; internal half reduced them by up to 40%. Spatial variability in c’ and φ’ contracted failure envelopes by 10–25%, emphasizing reliability-based design. The framework dramatically reduces computational cost versus traditional FELA/Monte Carlo while retaining accuracy, supporting preliminary design, optimization, and risk assessment.",
+      "link": "https://doi.org/10.1038/s41598-026-75645-3",
+      "authors": [
+        "Moein Mohammadizadeh",
+        "Mohsen Mohammadizadeh"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:02+00:00",
+      "last_seen": "2026-10-11T12:48:02+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "machine learning",
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-75579-w": {
+      "key": "doi:10.1038/s41598-026-75579-w",
+      "doi": "10.1038/s41598-026-75579-w",
+      "title": "CFD investigation of a novel gabion-based porous medium configuration for energy dissipation in ogee spillway stilling basins",
+      "abstract": "Ogee spillways which provide very large discharge rates are extensively employed for civil engineering applications, but high velocity flows generated by Ogee spillways can be seriously harmful to downstream structures. This numerical investigation is conducted to assess the potential of adding porous media (uniform gabions and cross shaped gabions, with varying porosities: 30%, 40% and 50%) to the stilling basin at the bottom of ogee spillways to dissipate energy. The maximum improvement in relative energy dissipation compared with the smooth-bed configuration reached approximately 65% for the uniform gabion configuration and 46% for the cross-shaped gabion configuration. In addition, the addition of porous media led to significantly low downstream Froude numbers as much as 91%–98%, showing the flow can be reduced from supercritical to subcritical flow regimes. Moreover, use of gabion based porous media provides a new cheap and hydraulic effective alternatives to the concrete stilling basins and their hydraulic efficiency can significantly contribute to construction cost saving.",
+      "link": "https://doi.org/10.1038/s41598-026-75579-w",
+      "authors": [
+        "Ehsan Aminvash",
+        "Rasoul Daneshfaraz"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:02+00:00",
+      "last_seen": "2026-10-11T12:48:02+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T12:48:02+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-69589-x": {
+      "key": "doi:10.1038/s41598-026-69589-x",
+      "doi": "10.1038/s41598-026-69589-x",
+      "title": "Person-independent and cross-dataset evaluation of convolutional and recurrent architectures for eye movement classification",
+      "abstract": "Abstract Classifying eye movements into fixations, saccades, and smooth pursuits is a basic step in the analysis of gaze recordings. Deep models are now common for this task, but they are often evaluated on windows that share participants between training and test sets, which leaves open how well they work for people the model has not seen. This paper reports a person-independent comparison of three architectures—a one-dimensional CNN, an LSTM, and a CNN–LSTM hybrid—for four-class eye movement classification on the GazeCom dataset (54 participants, 250 Hz, expert frame-level annotations). Each model is trained and tested under leave-one-person-out cross-validation, so every participant is held out in turn, and each architecture is run with two input representations: raw gaze position and a derived set that adds velocity, acceleration, and angular change. Model differences are assessed at the participant level (paired tests over 54 folds, Holm-corrected) rather than on overlapping windows. Two findings are consistent across the study. First, recurrent modeling is what separates the strong models from the weak one: the LSTM and the hybrid reach a macro-F1 of about 0.82 with the derived input, while the CNN reaches 0.71, and the gap holds for every participant. Second, adding the convolutional front end to the LSTM does not help: the hybrid and the plain LSTM are statistically indistinguishable with the raw input and separated by less than 0.01 macro-F1 with the derived input, so the extra component is not warranted by the data; the hybrid carries about 70% more parameters than the LSTM for no measurable gain. The derived input improves every architecture, most for the CNN and for the smooth-pursuit class. Three non-learned or lightweight baselines (velocity threshold, velocity–dispersion, and a Random Forest on kinematic features), tuned per fold and evaluated under the same protocol, stay near 0.53–0.54 macro-F1 on the fixation/saccade/pursuit task, well below all three deep models. When the GazeCom-trained models are tested without retraining on the Lund2013 recordings and scored against both expert raters, accuracy falls as expected, but the ordering of the architectures is preserved. The plain LSTM is therefore an adequate model for this task; the smooth-pursuit class remains the main source of error and is the most useful target for future work.",
+      "link": "https://doi.org/10.1038/s41598-026-69589-x",
+      "authors": [
+        "Ahmet Akkaya"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:03+00:00",
+      "last_seen": "2026-10-11T12:48:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75285-7": {
+      "key": "doi:10.1038/s41598-026-75285-7",
+      "doi": "10.1038/s41598-026-75285-7",
+      "title": "An antimicrobial cyclic peptide with multitarget efficacy for acne",
+      "abstract": "Abstract Acne vulgaris is a complex inflammatory disorder, and current treatment options are often limited by antibiotic resistance and cutaneous irritation, underscoring the urgent need for safer multi-target therapeutic alternatives. In this study, a novel antimicrobial cyclic peptide (AMCP) was systematically evaluated for its multidimensional anti-acne efficacy, and a penetration enhancer was developed for improving the topical dermal delivery. At a concentration of 20 µg/mL, AMCP inhibited dihydrotestosterone (DHT)- and linoleic acid (LA)-induced lipid synthesis in SZ95 sebocytes by 40.0% and 29.1%, respectively. Furthermore, it exhibited potent bactericidal activity against C. acnes (MIC or MBC at 0.5 µg/mL) and S. aureus (MIC or MBC at 1.0 µg/mL). AMCP suppressed key inflammatory mediators (IL-6, IL-8, IL-1β, TNF-α, and PGE₂) in a concentration-dependent manner in both HaCaT keratinocytes and SZ95 sebocytes. Additionally, it promoted keratinocyte migration, upregulated the expression of epidermal differentiation genes (FLG, IVL, Claudin-1, and KRT1), and downregulated KLK7 expression. Notably, the combination of 2% propylene glycol and 0.1% sodium surfactin synergistically enhanced topical dermal delivery of AMCP, resulting in a 5-fold increase in cumulative permeation at 8 h. In conclusion, AMCP exerts anti-acne effects through a multi-functional mechanism involving sebum control, antibacterial activity, anti-inflammation, and cell migration, while also overcoming the bottleneck of topical dermal delivery. These findings provide a new cyclic peptide with anti-acne efficacy, positioning AMCP as a promisingly anti-acne ingredient.",
+      "link": "https://doi.org/10.1038/s41598-026-75285-7",
+      "authors": [
+        "Nannan Yu",
+        "Gantong Guo",
+        "Luyao Zhang",
+        "Tao He",
+        "Meng Zhang",
+        "Jingting Wang",
+        "Jinfang Wang",
+        "Robin Yao",
+        "Guang-Li Wang",
+        "Jing Wang"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:03+00:00",
+      "last_seen": "2026-10-11T12:48:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75299-1": {
+      "key": "doi:10.1038/s41598-026-75299-1",
+      "doi": "10.1038/s41598-026-75299-1",
+      "title": "Quantifying and mitigating explanation drift under INT8 quantization in plant disease image classification",
+      "abstract": "Abstract Deep learning image classifiers are routinely compressed to INT8 for edge deployment, yet the effect of quantization on post-hoc saliency explanations has not been quantified at scale. We define explanation drift as the systematic change in a saliency map between a full-precision (FP32) model and its fake-quantized INT8 simulation, and measure it with three metrics reported against explicit random-overlap baselines: top- k Intersection-over-Union, top- k Dice, and Spearman rank correlation. We evaluate four explanation methods (Grad-CAM, Grad-CAM++, Integrated Gradients, LIME) on three architectures spanning distinct design families (EfficientNetV2-S, ResNet-50, MobileNetV3-Large) fine-tuned on the Paddy Disease Classification dataset (10 classes, 10,407 images), yielding 3,240 paired saliency comparisons per operating point on a stratified 320-image subset of the validation split. A central methodological finding is that the choice of Grad-CAM target layer, not quantization, governs whether attribution appears to survive: for all three architectures the last module returned by a naive “final layer” heuristic emits a $$1\\times 1$$ spatial tensor, which forces a constant saliency map and produces spurious attribution collapse in up to $$61.7\\%$$ of images. With architecture-appropriate target layers resolved by an explicit spatial-dimension criterion, no collapse occurs in any of the 3,240 comparisons, and drift is substantial but bounded: mean top- k IoU ranges from 0.366 to 0.790 across architecture–method pairs (4.5–9.7 $$\\times $$ the random-overlap baseline of 0.081) with median Spearman $$\\rho = 0.850$$ . Drift remains strongly method- and architecture-dependent, with Integrated Gradients least preserved and MobileNetV3-Large most affected among architectures. Calibration choice dominates deployment fidelity: on the full validation split, MinMax calibration in ONNX Runtime reduces FP32–INT8 prediction agreement to 0.644 and 0.641 for EfficientNetV2-S and MobileNetV3-Large, whereas percentile calibration restores it to 0.927 and 0.915. Explanation-aware quantization-aware training with a teacher–student CAM consistency loss improves MobileNetV3-Large (top- k IoU $$+16.3\\%$$ ) but degrades EfficientNetV2-S ( $$-8.5\\%$$ to $$-26.0\\%$$ ) relative to post-training quantization; a $$\\lambda = 0$$ control isolates the cause, showing that the direction of these changes is present in standard QAT, while the consistency term improves top- k IoU in all nine architecture–method cells relative to that control ( $$+0.6\\%$$ to $$+14.4\\%$$ , six significant after Holm correction). Stored full-validation CAM summaries differ from the primary subset by at most 1.4 percentage points in IoU; matching per-image records are unavailable, limiting independent verification. Finally, the auxiliary ground-truth localisation summaries (with incompletely verified execution provenance) for annotated SIIM-ACR chest radiographs report low mean FP32 and INT8 overlap with expert masks, illustrating why explanation similarity under quantization must not be read as explanation quality . Analysis code, figure-generation software, and derived result tables are openly archived.",
+      "link": "https://doi.org/10.1038/s41598-026-75299-1",
+      "authors": [
+        "Sunzil Khandaker"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:03+00:00",
+      "last_seen": "2026-10-11T12:48:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70831-9": {
+      "key": "doi:10.1038/s41598-026-70831-9",
+      "doi": "10.1038/s41598-026-70831-9",
+      "title": "Problematic internet use is associated with poorer health behaviours and peripheral serotonin levels in young men",
+      "abstract": "Abstract Problematic Internet Use (PIU) is associated with difficulties in psychological, social, academic, and occupational functioning and is associated with unhealthy behaviours such as poor diet, inactivity, and sleep problems. The post-pandemic period has intensified PIU and Internet addiction, especially among young men, who are more prone to risky health behaviours. This study aimed to assess the relationship between health behaviours, PIU, and serotonin and dopamine levels in young men. A cross-sectional study was conducted among 325 men aged 18–30 from the West Pomeranian region of Poland. PIU severity was measured using the Internet Use Test (IUT), and health behaviours were assessed using the Health-Related Behaviour Inventory (HBI). Blood samples were analysed for serotonin and dopamine levels using ELISA. 17.7% of participants exhibited high or very high PIU. One-third led unhealthy lifestyles. Higher PIU correlated with lower health behaviour scores, with a small effect size. The overall HBI score was moderately negatively associated with non-work Internet use during weekdays and weekends. In the low PIU group, healthy eating habits showed a moderate positive correlation with dopamine levels. The linear correlation analysis, after adjusting for age and BMI, revealed a weak correlation between IUT scores and overall HBI scores, HBI healthy eating habits, HBI positive mental attitudes, and serotonin levels. PIU was linked to poorer health behaviours. These findings underscore the importance of addressing both Internet use patterns and health behaviours in interventions, as they are closely interrelated in this demographic. Further research should explore the neurobiological mechanisms behind these associations.",
+      "link": "https://doi.org/10.1038/s41598-026-70831-9",
+      "authors": [
+        "Marta Kożybska",
+        "Aleksandra Rył",
+        "Natalia Tomska",
+        "Grzegorz Raczyński",
+        "Paulina Rotter",
+        "Iwona Rotter"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:03+00:00",
+      "last_seen": "2026-10-11T12:48:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75195-8": {
+      "key": "doi:10.1038/s41598-026-75195-8",
+      "doi": "10.1038/s41598-026-75195-8",
+      "title": "Enhancing network science with large language models and federated artificial intelligence",
+      "abstract": "Abstract Sixth generation (6G) networks require intelligent and privacy-preserving solutions to handle traffic complexity, resource allocation, and security challenges. While Large Language Models (LLMs) offer advanced reasoning and Federated Artificial Intelligence (FAI) enables distributed learning without directly sharing raw data, their combined application in large-scale network science remains limited. Key issues include non-IID data, decision latency, and limited robustness of centralized models. To address these challenges, this work introduces FALCON-6G (Federated AI and LLM-Oriented Cognitive Optimization in 6G Networks), a novel framework for distributed anomaly detection, traffic prediction, and adaptive resource management. Experiments conducted under federated learning settings with 50 participating clients and 200 global communication rounds on two Open RAN and four intrusion detection datasets show a 22.7% average relative improvement in throughput prediction accuracy and a 17.6% reduction in decision latency compared with FedAvg, along with up to a 23.9% relative improvement in intrusion detection F1-score over FedAvg and a 34.0% reduction in communication overhead. These results demonstrate the potential of FALCON-6G for privacy-aware 6G network optimization. The current evaluation is primarily based on benchmark datasets, and validation in live large-scale 6G/O-RAN environments remains an important direction for future work.",
+      "link": "https://doi.org/10.1038/s41598-026-75195-8",
+      "authors": [
+        "Lalit Kumar",
+        "Surendra Solanki",
+        "Mahendra Kumar Jhariya",
+        "Sandeep Wadekar",
+        "Tabiya Manzoor"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:03+00:00",
+      "last_seen": "2026-10-11T12:48:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "artificial intelligence"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-74771-2": {
+      "key": "doi:10.1038/s41598-026-74771-2",
+      "doi": "10.1038/s41598-026-74771-2",
+      "title": "A QMIX-driven routing protocol for dynamic Underwater Acoustic Sensor Networks",
+      "abstract": "Abstract Reliable and energy-efficient data collection remains a fundamental challenge in Underwater Acoustic Sensor Networks (UASNs) owing to limited battery capacity, high propagation delay, dynamic network topology and unreliable communication links. To address these challenges, we propose a Cooperative Multi-Agent Reinforcement Learning (CMARL)-based data routing framework for dynamic UASNs. The routing problem is modeled as a Decentralized Partially Observable Markov Decision Process (Dec-POMDP), where each relay node acts as an autonomous routing agent using locally available information. The framework adopts a Centralized Training and Decentralized Execution (CTDE) paradigm, in which cooperative routing policies are learned using the QMIX algorithm and executed through trained local Q -networks. Each agent constructs its local observation from residual energy, relative forwarding progress towards the sink, estimated link quality and neighboring node availability, while the action space consists of cooperative next-hop selection. A UASN-oriented reward function that jointly optimizes packet delivery reliability, energy efficiency and network lifetime by encouraging reliable packet forwarding and discouraging inefficient routing decisions. Extensive simulation results show that the proposed framework consistently outperforms representative routing protocols across key metrics - packet delivery rate, end-to-end delay, and network lifetime, providing an effective, scalable and intelligent routing solution for next-generation UASNs.",
+      "link": "https://doi.org/10.1038/s41598-026-74771-2",
+      "authors": [
+        "Adi Surendra Mohanraju M",
+        "Anjaneyulu Lokam",
+        "Kiran Dasari"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:03+00:00",
+      "last_seen": "2026-10-11T12:48:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75233-5": {
+      "key": "doi:10.1038/s41598-026-75233-5",
+      "doi": "10.1038/s41598-026-75233-5",
+      "title": "Paraprobiotics suppress bacterial virulence and promote anti-inflammatory tissue repair in a murine infected burn wound model",
+      "abstract": "Abstract Burn wound infections are a significant clinical problem that requires effective therapeutic interventions. Paraprobiotics, a non-viable form of microbial cells or components of probiotics, retain some health benefits while eliminating the risks associated with live microorganisms, thus providing a safe and natural alternative treatment approach. This paper investigated the therapeutic potential of paraprobiotics for treating second-degree burn infections and promoting wound healing in a mouse model. Twelve groups of mice ( n = 3 per group) with burn injuries and bacterial infections were treated with paraprobiotics, antibiotics, or respective controls. Wound size, bacterial virulence factors, and levels of proinflammatory cytokines (IL-1, IL-6, TNF-α) as well as anti-inflammatory and repair-related genes (IL-10, IGF-1, SMAD2, TGF-β) were evaluated through quantitative gene analysis. Paraprobiotic intervention had a major impact on wound healing and suppression of bacterial virulence factors. Quantitative gene expression analysis showed that proinflammatory cytokines (IL-1, IL-6, TNF-α) were significantly downregulated, while anti-inflammatory and tissue repair genes (IL-10, IGF-1, SMAD2, TGF-β) were upregulated in the paraprobiotic group compared to the control groups. Paraprobiotics possess strong immunomodulatory and regenerative properties that enhance wound repair, making them promising agents for safer and more effective management of infected burn wounds. The results support the development of natural therapeutic approaches to maximise patient outcomes in burn care.",
+      "link": "https://doi.org/10.1038/s41598-026-75233-5",
+      "authors": [
+        "Afsaneh Salimi",
+        "Mahdi Torkamaneh",
+        "Zahra Haghighatshenas",
+        "Fatemeh Sakaki",
+        "Mohsen Chiani",
+        "Ariya Sohrabi",
+        "Shadi Aghamohammad",
+        "Mahdi Rohani"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:03+00:00",
+      "last_seen": "2026-10-11T12:48:03+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75617-7": {
+      "key": "doi:10.1038/s41598-026-75617-7",
+      "doi": "10.1038/s41598-026-75617-7",
+      "title": "Taurine is a functional regulator of transthyretin; implication in transthyretin-induced hypothyroidism and amyloidosis",
+      "abstract": "Transthyretin (TTR) is a homo-tetrameric, 55 kDa, transport protein synthesized mainly in the liver, retinal epithelium, choroid plexus, placental villi and uterus. The main function of TTR is transport of thyroxine (T4) and retinol-binding protein, while it also plays a crucial role in neuroprotection. The binding of thyroxine assists in maintaining the stability of the native tetramer, which is crucial for its functionality. Eventually, dissociation of the tetramer to its monomer results in the formation of toxic oligomeric TTR species and their deposition causes diseases such as cardiomyopathy, polyneuropathy, dementia and preeclampsia. While current kinetic stabilizers occupy the hydrophobic thyroxine-binding pocket, identifying endogenous modulators that maintain TTR homeostasis without impairing hormone transport remains a key objective. In this study, we investigated taurine—a vital neuronal osmolyte and endogenous chemical chaperone—as a functional regulator of TTR dynamics. In the present study, we have systematically evaluated the effect of taurine on the structure-function paradigm of TTR using various biochemical, biophysical tools and cellular model. We discovered that taurine exhibits preferential binding to TTR leading to functional enhancement of T4-binding affinity and exhibits anti-aggregation potential towards TTR amyloidosis. Further examination of the mechanism revealed that taurine exhibits preferential binding to TTR microstates and restricts local conformational fluctuations, without altering the global native structure or thermodynamic folding. Together, these findings identify taurine as a trans-acting allosteric chemical chaperone of TTR. This discovery of functional regulation of TTR by taurine offers a promising, non-toxic therapeutic strategy in repurposing of taurine (an FDA-approved supplement) for TTR amyloidosis and TTR-induced hypothyroidism, especially in neuronal and gestational impairments.",
+      "link": "https://doi.org/10.1038/s41598-026-75617-7",
+      "authors": [
+        "Snigdha Krishna",
+        "Sheeza Khan",
+        "Laishram Rajendrakumar Singh"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:03+00:00",
+      "last_seen": "2026-10-11T12:48:03+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T12:48:03+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74675-1": {
+      "key": "doi:10.1038/s41598-026-74675-1",
+      "doi": "10.1038/s41598-026-74675-1",
+      "title": "An optimized majority-feedback QCA D-latch and SET/RESET-enabled SRAM cell for compact, low-latency nanoelectronic memory design",
+      "abstract": "Quantum-dot cellular automata is a contender to replace the scaling of semiconductor technology as it hits physical limits of complementary metal–oxide–semiconductor technology, with its ability to switch faster, take up less space and consume less power. In this study, the design and functional verification of compact QCA data latch circuit and a memory cell suitable for SRAM operation are presented, which are designed, implemented and simulated in the QCA designer (QCAD) 2.0.3 software. The main contribution is a single-layer 14-cell D-latch with a 0.007 µm2 footprint, reducing the layout area, latency and QCA cost compared with a similar design previously reported in the literature. Another 15-cell variant is proposed, incorporating SET and RESET control, for SRAM-type applications, reducing peak energy dissipation by approximately 22% from the 14-cell baseline. The circuits are found to be compact, low-latency circuits for next-generation nanoelectronics memory and different logic circuit design applications with reduced power dissipation. The power dissipation and polarization map of proposed circuits are implemented in QCAPro Software.",
+      "link": "https://doi.org/10.1038/s41598-026-74675-1",
+      "authors": [
+        "Priyanka Wani",
+        "Sankit Kassa"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:04+00:00",
+      "last_seen": "2026-10-11T12:48:04+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T12:48:04+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74387-6": {
+      "key": "doi:10.1038/s41598-026-74387-6",
+      "doi": "10.1038/s41598-026-74387-6",
+      "title": "Correlating InSAR-derived ground movement rates with landslide activity class and causal factors: a case study from Cyprus",
+      "abstract": "Abstract This study investigates the statistical correlation between ground movement rates in landslide areas, as derived by Interferometric Synthetic Aperture Radar (InSAR) results, with geological, geomorphological, environmental and geotechnical causal factors in southwestern Cyprus. The analysis examines ground velocities derived using Multi-Temporal Interferometric Synthetic Aperture Radar (MT-InSAR) for both active and inactive landslides that are recorded in an existing inventory, using ascending and descending orbit datasets. The results show that the largest Line-of-Sight (LOS) velocities are observed in landslides characterized as active, followed by dormant and relict landslides. The largest displacement rates correspond mostly to outcrops of fine-grained clastic rocks, such as marls, radiolarian mudstones and mélange, due to their weak shear strength. An analysis based on Shapley Additive Explanations (SHAP) identified rainfall as the primary factor influencing the increase in LOS velocity. The Plasticity Index (PI) generally exhibits a positive correlation with the velocity, while the Geological Strength Index (GSI) demonstrates a weak negative correlation. The findings suggest that, while geological and geotechnical characteristics are crucial in the emergence of landslide phenomena, the rate of the ground movement, once initiated, is predominantly influenced by the precipitation height.",
+      "link": "https://doi.org/10.1038/s41598-026-74387-6",
+      "authors": [
+        "Ploutarchos Tzampoglou",
+        "Dimitrios Loukidis",
+        "Cristiano Tolomei",
+        "Nikos Svigkas"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:05+00:00",
+      "last_seen": "2026-10-11T12:48:05+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74317-6": {
+      "key": "doi:10.1038/s41598-026-74317-6",
+      "doi": "10.1038/s41598-026-74317-6",
+      "title": "Nano-eggshell/B(III)as a highly efficient heterogeneous catalyst for the synthesis of 1,3-oxazines in aqueous media, along with DFT simulations",
+      "abstract": "In the present study, a convenient and greener synthesis of a series of naphtho[1,2-e][1,3]oxazines was accomplished via three-component one-pot cyclocondensation between β-naphthol, formaldehyde, and various amines using nano-eggshell/B(III) as a natural catalyst in aqueous medium. The Lewis acid nano-eggshell/B(III) catalyst was investigated by techniques such as Fourier-transform infrared spectroscopy (FTIR), X-ray diffraction (XRD), thermogravimetry analysis (TGA), energy-dispersive X-ray spectroscopy (EDS), mapping, field emission scanning electron microscopy (FESEM) and transmission electron microscopy (TEM). This approach is totally non-polluting and several advantages, such as shorter reaction time, mild reaction conditions, simple workup, and reduced environmental impact. The experimental results are consistent with the data obtained from the DFT calculations.",
+      "link": "https://doi.org/10.1038/s41598-026-74317-6",
+      "authors": [
+        "Arefeh Dehghani Tafti",
+        "Bibi Fatemeh Mirjalili",
+        "Hadi Basharnavaz",
+        "Abdolhamid Bamoniri"
+      ],
+      "published": "2026-10-11T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-11T12:48:05+00:00",
+      "last_seen": "2026-10-11T12:48:05+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-11T12:48:05+00:00",
+      "matched_channels": {}
     }
   }
 }
