@@ -263852,6 +263852,200 @@
       "enrichment_attempts": 0,
       "last_enrichment_attempt": "",
       "matched_channels": {}
+    },
+    "doi:10.1029/2026jd047122": {
+      "key": "doi:10.1029/2026jd047122",
+      "doi": "10.1029/2026jd047122",
+      "title": "A Physics‐Informed Two‐Stage Retrieval Method for EMIT Remote Sensing Methane Plumes",
+      "abstract": "Abstract Hyperspectral satellite missions, particularly EMIT, have revolutionized methane point source monitoring. However, current operational retrieval pipelines typically rely on physically‐based matched filters followed by labor‐intensive manual verification to mitigate high false alarm rates caused by complex background interference. This dependence on human intervention restricts the scalability and efficiency required for rapid, automated global monitoring. To address these limitations, this paper proposes Plume‐Net, a novel Physics‐Informed Guided Two‐Stage Retrieval Method. Unlike conventional approaches, Plume‐Net decouples the task into a “global existence classification” stage and a “local pixel‐level regression” stage to maximize reliability without human‐in‐the‐loop. The core innovation lies in the integration of physical priors with deep learning: In the first stage, a Physics‐Informed Spectral Gating (PISG) module explicitly injects methane spectral absorption knowledge into the network, dynamically recalibrating channel weights to suppress background noise. In the second stage, to overcome the difficulties of regressing sparse, long‐tail plume distributions, we propose a Plume‐Focused Sampling Strategy and an Intensity‐Aware Pixel‐Level Weighted Loss function, forcing the network to prioritize rare but critical high‐concentration signals. Evaluated on real‐world EMIT observations, Plume‐Net achieves an ROC‐AUC of 0.961 in detection and a Mean Absolute Error (MAE) of 33.33 ppm·m in quantification. By significantly reducing false positives while maintaining high precision, this method offers a robust, fully automated alternative to current semi‐manual retrieval workflows.",
+      "link": "https://doi.org/10.1029/2026jd047122",
+      "authors": [
+        "Yong Wan",
+        "Yu Liu",
+        "Qian Xiao",
+        "Shaokun Xu"
+      ],
+      "published": "2026-10-14T00:00:00+00:00",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "journal_label": "Journal of Geophysical Research: Atmospheres",
+      "issn": "2169-897X",
+      "first_seen": "2026-10-14T11:50:25+00:00",
+      "last_seen": "2026-10-14T11:50:25+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1002/qj.70326": {
+      "key": "doi:10.1002/qj.70326",
+      "doi": "10.1002/qj.70326",
+      "title": "Satellite radiance observation error inflation and spatial thinning: Reconciling idealized theory with near‐operational applications",
+      "abstract": "Abstract This study investigates the joint effects of spatial thinning and observation error standard deviation inflation in satellite radiance assimilation, focusing on the common operational setting in which true observation errors are spatially correlated but are assumed to be uncorrelated. Idealized diagnostics are combined with near‐operational experiments from a global deterministic prediction system to reconcile theory and operational practice, providing a unified, physically based interpretation of thinning–inflation interactions and highlighting the underlying mechanisms governing their relationship. An idealized data assimilation framework, scaled to operationally relevant spatial characteristics, is used to diagnose how optimal inflation depends on thinning distance and on background and observation error correlation length scales. Results reveal a robust asymptotic behavior: when both background and observation error correlation length scales exceed the thinning distance, the optimal inflation approaches the square root of the ratio of the thinning distance. Spectral diagnostics explains this behavior and clarifies why the inflation saturates, providing a physical basis for commonly observed empirical tuning values. Conversely, when the observation error correlation length scale is short relative to the thinning distance, the optimal inflation remains close to unity. These theoretical results are evaluated in a near‐operational context using 15 experimental configurations over a 2.5‐month period, with thinning distances of 150 and 100 km and a range of inflation factors. Reducing thinning without inflation improves the analysis fit to radiances while degrading the fits to several other assimilated observation types and forecast performance, suggesting an excessive influence of the radiances. Increasing the inflation by factors of about 1.4–1.5 mitigates this behavior. Forecast scores demonstrate statistically significant improvements when thinning reduction is paired with appropriate inflation, particularly in the tropics and Southern Hemisphere. Overall, near‐operational results are broadly consistent with the mechanisms identified in the idealized framework, suggesting that these remain relevant in more realistic assimilation systems despite their greater complexity.",
+      "link": "https://doi.org/10.1002/qj.70326",
+      "authors": [
+        "Joel Bedard",
+        "Alain Beaulne",
+        "Mark Buehner",
+        "Laurence Coursol"
+      ],
+      "published": "2026-10-14T00:00:00+00:00",
+      "journal": "Quarterly Journal of the Royal Meteorological Society",
+      "journal_label": "Quarterly Journal of the Royal Meteorological Society",
+      "issn": "0035-9009",
+      "first_seen": "2026-10-14T11:50:29+00:00",
+      "last_seen": "2026-10-14T11:50:29+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-77262-0": {
+      "key": "doi:10.1038/s41467-026-77262-0",
+      "doi": "10.1038/s41467-026-77262-0",
+      "title": "Integrated multi-omics identifies distinct immune signatures with diagnostic and therapeutic implications in immune checkpoint inhibitor-induced myocarditis",
+      "abstract": "Abstract Immune checkpoint inhibitor-associated myocarditis (ICI-myocarditis) is a rare but frequently fatal immune-related adverse event. A comprehensive understanding of the cellular and molecular determinants driving ICI-myocarditis is essential for improving diagnostic precision and developing targeted interventions. We delineate the immune landscape of ICI-myocarditis via scRNA-seq, flow cytometry, Olink proteomics, and multiplex cytokine profiling. We demonstrate that high levels of baseline ISG15⁺CD8⁺ T cells are linked to the proinflammatory features of monocytes and in vitro experiments confirm the existence of circulating ISG15⁺CD8⁺ T cells with a high potential to induce cardiomyocyte apoptosis, supporting their pathogenic potential for cardiomyocyte cytotoxicity. Notably, intercellular crosstalk between these subsets is possibly mediated via the CCL2-CCR2 axis, and its blockade attenuated ICI-induced cardiac injury in vivo. Based on the inflammatory signature in ICI-myocarditis, we develop an 8-protein custom panel with promising performance in distinguishing ICI-myocarditis from other ICIs-treated controls. JAK-STAT pathway activation promotes inflammatory programs in both ISG15⁺CD8⁺ T cells and monocytes. Furthermore, JAK-STAT inhibition ameliorates cardiac dysfunction and inflammatory infiltration while enhancing the response to anti-PD-1 therapy in mouse models. In summary, this study implicates immune-pathogenic features of ICI-myocarditis and provides a possible basis for future therapies.",
+      "link": "https://doi.org/10.1038/s41467-026-77262-0",
+      "authors": [
+        "Shi-Long Zhang",
+        "Qing-Qing Cai",
+        "Jian Zhang",
+        "Yuan Liu",
+        "Hao Lu",
+        "Ye-Rui Zhang",
+        "Yu-Chen Xu",
+        "Hai-Xiang Peng",
+        "Hui-Yong Chen",
+        "Yan Wang",
+        "Lei-Lei Cheng",
+        "Jun-Bo Ge"
+      ],
+      "published": "2026-10-14T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-14T11:50:45+00:00",
+      "last_seen": "2026-10-14T11:50:45+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-54970-7": {
+      "key": "doi:10.1038/s41598-026-54970-7",
+      "doi": "10.1038/s41598-026-54970-7",
+      "title": "Intelligent MPPT in PV Systems using metaheuristic-optimised deep neural networks",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-54970-7",
+      "authors": [
+        "M. Sheela",
+        "O. V. Gnana Swathika"
+      ],
+      "published": "2026-10-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-14T11:50:49+00:00",
+      "last_seen": "2026-10-14T11:50:49+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-62195-x": {
+      "key": "doi:10.1038/s41598-026-62195-x",
+      "doi": "10.1038/s41598-026-62195-x",
+      "title": "Blood flow restriction of sport-specific repeated-sprint training enhances acute physiological responses in elite female boxers: a randomized, crossover trial",
+      "abstract": "This study investigated the acute physiological responses during sport-specific repeated sprint training with different levels at blood flow restriction (BFR) in elite boxing athletes. Sixteen female boxers participated in this randomized, cross-over study. All boxers conducted four tests under different conditions, each consisting of 3 sets of 6 repetitions of 10-sec all-out punches in non-BFR, BFR-45%, 60%, 80% arterial occlusion pressure (AOP45, AOP60, and AOP80). The intervals separating repetitions and sets were 20 s and 1 min, respectively. We assessed muscle activation, muscle oxygenation saturation, Serum hormonal changes, muscle discomfort, level of perceived exertion, and punch performance. BFR induced higher levels of muscle activation and changes in muscle oxygenation saturation compared with non-BFR (p < 0.05), especially under the AOP80 condition. BFR can also induce an increase in serum growth hormone and nitric oxide concentrations (p < 0.05). Although these acute physiological changes are accompanied by increased muscle soreness and impaired punching performance, boxers typically recover within 48 h. Applying blood flow restriction during punching trainings can enhance acute physiological responses in elite boxers. AOP80 may serve as an effective strategy to enhance high-intensity punching capacity in boxers.",
+      "link": "https://doi.org/10.1038/s41598-026-62195-x",
+      "authors": [
+        "Shenguang Li",
+        "Dexin Wang",
+        "Pedro G. Morouço",
+        "Chao Chen",
+        "Zixiang Zhou"
+      ],
+      "published": "2026-10-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-14T11:50:49+00:00",
+      "last_seen": "2026-10-14T11:50:49+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-14T11:50:49+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-73605-5": {
+      "key": "doi:10.1038/s41598-026-73605-5",
+      "doi": "10.1038/s41598-026-73605-5",
+      "title": "External cervical spine joint moments in pilots during high +Gz real–flight: a biomechanical analysis using individual opensim models",
+      "abstract": "Abstract The cervical spine of fast jet pilots is exposed to high +Gz accelerations during large range of head movements which may lead to biomechanical impairments. The objective of this study therefore was to quantify and analyze the resulting external cervical spine joint moments experienced by fast jet pilots during standardized head movements in real–flight during +5Gz, +7Gz and +9Gz maneuvers. The in– flight helmet orientation recordings and additional ground based motion capture recordings of isolated head movements of seven Eurofighter pilots were processed using a custom made pipeline. Subsequent inverse kinematics and inverse dynamics simulations of the in–flight head movements using individual OpenSim pilot models showed a significant reduction in the head extension angle with increasing +Gz acceleration. Cervical spine joint moments did not change significantly with increasing +Gz acceleration. However, theory–based model analysis indicated that constant head positions under higher +Gz acceleration would lead to an increase in joint moments. The pilots seemed to exhibit reduced head extension at higher +Gz levels, while external joint moments remained relatively constant. Furthermore, the designed pipeline may support individual cervical spine health assessment and monitoring, as well as to inform strength training or rehabilitation programming.",
+      "link": "https://doi.org/10.1038/s41598-026-73605-5",
+      "authors": [
+        "Fabian Goell",
+        "Bjoern Braunstein",
+        "René Lingscheid",
+        "Roland Nüsse",
+        "Dana Hartmann",
+        "Robert Rein",
+        "Kirsten Albracht"
+      ],
+      "published": "2026-10-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-14T11:50:51+00:00",
+      "last_seen": "2026-10-14T11:50:51+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-61584-6": {
+      "key": "doi:10.1038/s41598-026-61584-6",
+      "doi": "10.1038/s41598-026-61584-6",
+      "title": "Correction of the transient thermal analysis model for the solar extreme ultraviolet imager based on in-orbit data",
+      "abstract": "After obtaining experimental or in-orbit temperature data, the finite element model must be corrected to align the simulation results with the actual measurements. Current research primarily focuses on steady-state corrections, considering only the average temperature. Transient model corrections additionally account for temperature fluctuations. The present study focuses on the correction of transient thermal analysis models for complex satellite systems. Initially, parameter sampling is executed based on an enhanced Latin Hypercube design, thereby enhancing fitting accuracy by improving sample orthogonality. Sensitivity analysis is then employed to select parameters for subsequent correction. Secondly, a transient surrogate model was constructed to link correction parameters and simulated temperatures. The model was created using a multi-layer perceptron. Finally, the Animated Oat Optimization and StarFish Optimization algorithms are employed to optimize the error function between simulation and in-orbit temperatures at β = 57.4° (the angle between the solar vector and the orbital plane). This approach traverses the corrected parameters, thereby determining the true values of thermal-physical parameters. The surrogate model and optimization algorithms further enhance the efficiency and accuracy of the correction process. The correction results demonstrate a reduction of 6.64 °C in the maximum temperature deviation under the β = 57.4° operating condition. Furthermore, the efficacy of the correction was substantiated under the β = 88.6° condition, where the maximum simulation deviation diminished by 3.67 °C. This correction method enhances the accuracy of future in-orbit temperature forecasts and provides valuable reference for the thermal design of second-generation imagers.",
+      "link": "https://doi.org/10.1038/s41598-026-61584-6",
+      "authors": [
+        "Zhengzheng Kang",
+        "Liheng Chen",
+        "Shuai Liu",
+        "Yuan Li",
+        "Mingkai Zhao"
+      ],
+      "published": "2026-10-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-14T11:50:51+00:00",
+      "last_seen": "2026-10-14T11:50:51+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-14T11:50:51+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-71625-9": {
+      "key": "doi:10.1038/s41598-026-71625-9",
+      "doi": "10.1038/s41598-026-71625-9",
+      "title": "Acute transcutaneous auricular vagus nerve stimulation is associated with lower baroreflex sensitivity without detectable Mayer-wave coherence change: an exploratory study",
+      "abstract": "Abstract Transcutaneous auricular vagus nerve stimulation (taVNS) delivers afferent inputs, but cardiovascular responses are heterogeneous and autonomic outcomes are not interchangeable. In this exploratory, non-randomised, open-label study, 18 healthy men completed fixed-order five-minute Pre, left-cymba Stim, and Post phases without sham. Spontaneous sequence baroreflex sensitivity (BRS seq, all ; designated centrally post hoc) was lower during Stim than Pre (8.54 ± 5.57 versus 6.49 ± 3.89 ms/mmHg; paired mean difference − 2.05, BCa 95% CI − 3.81 to − 1.10; Wilcoxon p = 2.29 × 10 − 5 ; Cohen’s d z = − 0.74), with negative differences in 17/18 participants. Mayer-band coherence and representative heart rate variability indices showed no detectable Stim–Pre differences. Systolic blood pressure was higher during Stim. Recovery of BRS was not established. No adverse events were reported after the sessions. Sequence BRS estimates blood pressure–R–R interval gain, whereas heart rate variability and coherence quantify different properties. This pattern supports prospective evaluation of sequence BRS as a session-level physiological response measure. The design does not establish stimulation-specific engagement, direct vagal inhibition, clinical utility, or a monitoring threshold. Sham-controlled replication is required. Trial registration: Japan Registry of Clinical Trials (jRCT), jRCT1032230440. Registered on 9 November 2023.",
+      "link": "https://doi.org/10.1038/s41598-026-71625-9",
+      "authors": [
+        "Yusuke Katahara",
+        "Atsuhiko Iijima",
+        "Kazuki Tainaka"
+      ],
+      "published": "2026-10-14T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-14T11:50:52+00:00",
+      "last_seen": "2026-10-14T11:50:52+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
