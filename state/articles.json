@@ -291272,6 +291272,252 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-10-18T15:51:38+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76482-0": {
+      "key": "doi:10.1038/s41598-026-76482-0",
+      "doi": "10.1038/s41598-026-76482-0",
+      "title": "Hybrid dual attentional-based pyramidal deep learning model for liver tumor detection",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-76482-0",
+      "authors": [
+        "Baswanthrao Patil",
+        "Sachinkumar Veerashetty"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T20:41:15+00:00",
+      "last_seen": "2026-10-18T20:41:15+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-76440-w": {
+      "key": "doi:10.1038/s41598-026-76440-w",
+      "doi": "10.1038/s41598-026-76440-w",
+      "title": "miR-770 as a potential regulator of DNA methylation-related gene expression in glioblastoma: from in silico prediction to functional validation",
+      "abstract": "Glioblastoma multiforme (GBM) remains one of the most aggressive and treatment-resistant brain tumors, in part due to its molecular heterogeneity and dysregulated epigenetic landscape. In this study, the potential tumor-suppressive role of miR-770 and its association with aberrant DNA methylation in GBM was investigated. Using bulk RNA sequencing data from The Cancer Genome Atlas and The Genotype-Tissue Expression, we performed differential expression analysis and introduced a set of genes as methylation-related differentially expressed genes (methylation-DEGs); these are genes involved in DNA methylation and differentially expressed in GBM. Subsequently, employing weighted gene co-expression network analysis, miR-770 was identified as a key microRNA in DNA methylation in GBM progression. Expression analysis confirmed the downregulation of miR-770 in GBM tissues and its co-expression with methylation-related genes, including DNMT1, UHRF1, PCNA, and HDAC1. Functional assays in the U251 glioma cell line revealed that miR-770 overexpression led to reduced cell proliferation, migration, and invasion, while promoting apoptosis. Notably, the co-expression of miR-770 with methylation-related genes was also validated in U251 cells. Taken together, our findings suggest that miR-770 represent a regulator of DNA methylation-related gene expression networks in GBM.",
+      "link": "https://doi.org/10.1038/s41598-026-76440-w",
+      "authors": [
+        "Maryam Rahemi",
+        "Iman Samiei Mosleh",
+        "Saeed Oraee-Yazdani",
+        "Bashir Nazparvar",
+        "Marzieh Mehrabadi",
+        "Fatemeh Kouhkan",
+        "Mousa Kehtari"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T20:41:15+00:00",
+      "last_seen": "2026-10-18T20:41:15+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T20:41:15+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76832-y": {
+      "key": "doi:10.1038/s41598-026-76832-y",
+      "doi": "10.1038/s41598-026-76832-y",
+      "title": "Appropriate load assortment in multiple receiver WPT system driven at receiver’s critical limit",
+      "abstract": "Magnetic coupling based Wireless Power Transfer (WPT) technology is appealing currently due to its potential in delivering power concurrently to multiple receivers. But in the multiple-receiver WPT system, the power level at the individual load decreases by increasing number of receiver loads. Thus, there is a critical limit to the number of receivers which supposed to be driven with predetermined amount of power for specific input power level. The current research is intended to exploit further the optimal load value under the given critical limit for similar load situation in multiple receiver WPT system. To corroborate the concept, the equivalent circuit model analysis of a series-series (SS) compensated n-receivers WPT system has been presented. The analysis reveals the essential parameters such as delivered load power to individual receiver and overall power transfer efficiency of the multiple receiver WPT system under similar load situation. It is well noticed from the results that there exists a unique combination between the numbers of receiver loads and the load value which needs to be maintained for enrichment of the system efficiency. Any deviation from this optimal load value corresponding to load’s critical limit results deterioration in the efficiency of the system. The inferences supported by both theoretical simulation and experimental tests are crucial in the development of a multi-receiver WPT system.",
+      "link": "https://doi.org/10.1038/s41598-026-76832-y",
+      "authors": [
+        "Pragyan P. Mohanty",
+        "Sushree S. Biswal",
+        "Durga P. Kar",
+        "Satyanarayan Bhuyan"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T20:41:18+00:00",
+      "last_seen": "2026-10-18T20:41:18+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T20:41:18+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76928-5": {
+      "key": "doi:10.1038/s41598-026-76928-5",
+      "doi": "10.1038/s41598-026-76928-5",
+      "title": "Comparative phytochemical, antibacterial, in-silico molecular docking and ADMET analysis of Cinnamomum camphora and Cinnamomum tamala ethanolic leaf extracts against Aeromonas salmonicida",
+      "abstract": "The rapid growth of aquaculture has led to the prevalence of infectious diseases and antibiotic resistance. Therefore, new sustainable strategies are required to prevent this situation from growing. The present study evaluated the effect of ethanolic leaf extracts of Cinnamomum tamala (CTE) and Cinnamomum camphora (CCE) against Aeromonas salmonicida. Gas Chromatography-Mass Spectrometry (GC-MS) revealed the presence of total 43 and 56 compounds in CTE and CCE. Both extracts exhibited concentration dependent inhibition from 5 to 25 mg mL-1. CCE showed inhibition zone of 15.33 ± 0.33 mm diameter and relative inhibition of 36.21 ± 0.50% at 25 mg mL-1. Furthermore, MBC/MIC ratio of 4 suggested the bactericidal property of both the extracts. Correlation analysis revealed positive associations between antibacterial activity and several compounds, including camphor, vitamin E, eugenol and sesamin. Molecular docking predicted potential interactions of selected phytochemicals with FabI and MurA, structurally characterized Escherichia coli proteins as representative targets for A. salmonicida. Among the evaluated compounds, β-sitosterol exhibited the most favourable predicted interaction with MurA (docking score: -9.7). ADMET analysis provided preliminary in silico predictions and major phytochemicals complied with Lipinski’s rule of five (bioavailability score: 0.55), while molecular dynamics simulations (100 ns) suggested the relative stability of the predicted MurA–β-sitosterol complex under simulated conditions. MM-PBSA and MM-GBSA analyses estimated total binding free energies of -33.40 and − 25.99 kcal mol-1, respectively These results provide preliminary computational insights and further biochemical, toxicological and in vivo studies are required to validate the efficacy, safety and practical applicability of these extracts under aquaculture conditions.",
+      "link": "https://doi.org/10.1038/s41598-026-76928-5",
+      "authors": [
+        "Neha Sanwal",
+        "Avdhesh Kumar",
+        "Ravendra Kumar",
+        "Shilpi Rawat",
+        "Pranav Kumar Upadhyay"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T20:41:18+00:00",
+      "last_seen": "2026-10-18T20:41:18+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T20:41:18+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75366-7": {
+      "key": "doi:10.1038/s41598-026-75366-7",
+      "doi": "10.1038/s41598-026-75366-7",
+      "title": "Architecture diverse TabNet ensemble for crop type classification using harmonized multisource soil data",
+      "abstract": "Abstract Accurate analysis of heterogeneous soil records can support data-driven agricultural planning, but integrating datasets from different laboratories and public repositories introduces challenges related to inconsistent units, source-dependent distributions, missing values, duplicate observations, and potential information leakage. This study proposes ADWTabNet, an architecture-diverse TabNet ensemble for multiclass crop-type classification using harmonized multi-source soil data. The integrated dataset contained 18,237 observations representing seven crop classes and a broad set of chemical, physical, microbiological, and categorical soil properties. The proposed framework combines unit standardization, duplicate control, source-distribution harmonization, separate categorical and numerical imputation, tree-structured Parzen estimator-based hyperparameter optimization, structurally diverse TabNet models, probability-level ensemble fusion, calibration assessment, and attention-based interpretation. Under the evaluated stratified holdout protocol, XGBoost achieved a test accuracy of 0.8724 and a macro F1-score of 0.8670. Baseline TabNet improved these values to 0.8863 and 0.8822, respectively, while the TPE-optimized TabNet reached an accuracy of 0.8951 and reduced log loss from 0.3325 to 0.2566. The proposed ADWTabNet ensemble obtained the best reported performance, with a test accuracy of 0.9053, macro F1-score of 0.9025, weighted F1-score of 0.9050, macro ROC–AUC of 0.9930, and normalized multiclass Brier score of 0.0193. Repeated-run evaluation confirmed a stable advantage over the optimized individual TabNet, whereas the difference between validation-weighted and equal architecture-diverse averaging was not statistically significant. Aggregated TabNet attention ranked humus, phosphorus, electrical conductivity, nitrogen, and pH among the leading predictors, and this ranking was independently supported by permutation-importance analysis. These findings demonstrate improved crop-type classification within the evaluated integrated multi-source dataset. However, external validation using previously unseen laboratories and geographic regions is required before broader transferability can be established.",
+      "link": "https://doi.org/10.1038/s41598-026-75366-7",
+      "authors": [
+        "Abror Shavkatovich Buriboev",
+        "Akhatov Abror",
+        "Mamatov Narzullo",
+        "Nazarov Fayzullo",
+        "Yuldoshev Yusuf",
+        "Shavkat Buriboyev",
+        "Muratali Bazarbaev",
+        "Abbos Abduvaytov",
+        "Gayrat Achilov",
+        "Jurabek Kuvandikov",
+        "Ravshan Indiaminov",
+        "Heung Seok Jeon",
+        "Cheolwon Lee"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T20:41:19+00:00",
+      "last_seen": "2026-10-18T20:41:19+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75706-7": {
+      "key": "doi:10.1038/s41598-026-75706-7",
+      "doi": "10.1038/s41598-026-75706-7",
+      "title": "Inhibitory characteristics of a surfactant-enhanced sodium salt inhibitor for coal spontaneous combustion",
+      "abstract": "Sodium-salt-based physical inhibitors reduce coal–oxygen interactions through moisture absorption and retention in the prevention of coal spontaneous combustion, but their wetting and spreading performance on coal surfaces can be further improved. To enhance the overall inhibition performance of sodium-salt-based inhibitors, the anionic surfactant sodium dodecyl sulfate (SDS) was introduced to modify the sodium chloride (NaCl) inhibition system, and the optimal composite inhibitor formulation was selected through experimental characterization and comprehensive evaluation using the entropy weight method. The results showed that SDS further enhanced the moisture-regulation capacity of the NaCl system. The coal sample treated with 20% NaCl + 0.15% SDS exhibited an average water absorption of 15.45 g and an average mass loss of 4.76 g during the moisture desorption stage, representing a 99% increase and a 59% decrease, respectively, compared with the sample treated with 20% NaCl alone. Meanwhile, oxygen consumption and CO generation were effectively reduced and suppressed, respectively. Contact-angle and FTIR results showed that SDS improved coal–liquid interfacial wettability, while different inhibitor treatments altered the relative functional-group composition and chemical environment of coal. SDS promoted the wetting, spreading, and effective contact of the NaCl solution on coal surfaces, while the hygroscopic and hydration effects of NaCl enhanced moisture retention, thereby weakening coal–oxygen interactions and retarding low-temperature oxidation. Comprehensive evaluation using the entropy weight method identified 20% NaCl + 0.15% SDS as the optimal formulation. These results provide a reference for formulation optimization and parameter design of surfactant-enhanced sodium-salt inhibitors.",
+      "link": "https://doi.org/10.1038/s41598-026-75706-7",
+      "authors": [
+        "Jiuling Zhang",
+        "Yiran Chuai",
+        "Jiangtao Li",
+        "Jinming Huo"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T20:41:19+00:00",
+      "last_seen": "2026-10-18T20:41:19+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T20:41:19+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76565-y": {
+      "key": "doi:10.1038/s41598-026-76565-y",
+      "doi": "10.1038/s41598-026-76565-y",
+      "title": "An interpretable model for efficient and robust runoff forecasting via causal-linear attention and adaptive KAN decoding",
+      "abstract": "Accurate runoff prediction is essential for water resources management, flood control, and disaster mitigation. However, existing deep learning models often face challenges in efficiently modeling long sequences, representing nonlinear runoff responses, and providing interpretable predictions. To address these issues, this study proposes LiTKAN, a hybrid runoff forecasting model integrating Temporal Causal Encoding (TCE), Global Linear Attention (GLA), and a KAN-based Nonlinear Decoder (KND). The proposed model combines temporal information representation, efficient long-range dependency modeling, and adaptive nonlinear mapping. Specifically, TCE incorporates temporal structural information into runoff sequences; GLA reduces the computational complexity of attention-based dependency modeling from O(N²) to O(N), enabling efficient long-sequence feature extraction; and KND employs learnable B-spline basis functions to characterize nonlinear runoff responses and provide data-driven interpretability. To evaluate LiTKAN under different forecasting configurations, this study conducted experiments across dual temporal scales and four representative basins with different hydrological characteristics, including multi-source meteorological-driven forecasting and univariate runoff forecasting scenarios. Results show that LiTKAN achieved competitive prediction performance under the evaluated conditions, with NSE values ranging from 0.878 to 0.994 across the four basins. The model also demonstrated improved representation of extreme runoff variations compared with baseline models. In terms of computational efficiency, the linear attention mechanism reduced runtime and GPU memory consumption compared with the standard Transformer while maintaining high prediction accuracy. Ablation experiments and interpretability analyses revealed that different model components contribute differently under different forecasting scenarios, and the nonlinear response patterns extracted by KND were generally consistent with known hydrological characteristics. Overall, this study demonstrates the potential of integrating efficient sequence modeling, nonlinear representation, and data-driven interpretability for multi-timescale runoff forecasting.",
+      "link": "https://doi.org/10.1038/s41598-026-76565-y",
+      "authors": [
+        "Wei-can Tian",
+        "Lin Cheng",
+        "Wen-chuan Wang"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T20:41:21+00:00",
+      "last_seen": "2026-10-18T20:41:21+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T20:41:21+00:00",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-76066-y": {
+      "key": "doi:10.1038/s41598-026-76066-y",
+      "doi": "10.1038/s41598-026-76066-y",
+      "title": "Rapid post-earthquake evacuation time prediction in urban bridge networks using a machine-learning-based surrogate model",
+      "abstract": "As the frequency and intensity of earthquakes continue to increase, accurately assessing post-earthquake evacuation performance in urban transportation systems has become a critical challenge. Seismic damage to bridges, which serve as critical links within road networks, can significantly degrade overall network functionality and severely impede vehicular evacuation processes. However, conventional traffic simulation-based approaches require substantial computational resources and time, limiting their applicability for large-scale scenario exploration and real-time decision-making. To address these limitations, this study proposes a machine-learning-based surrogate modeling framework to efficiently predict post-earthquake evacuation performance. The Evacuation Time Estimate (ETE) is adopted as a quantitative indicator of network performance. A large-scale dataset is generated through simulation-based traffic analyses conducted on the real-world road network of Pohang, South Korea, which includes 48 bridges. Bridge damage scenarios are systematically defined based on variations in epicentral locations within road-traffic-dense areas of Pohang City and earthquake magnitudes. In total, 100,000 simulation samples are constructed to train and validate the surrogate model. The trained model is then applied to predict ETE for various earthquake scenarios, achieving a substantial reduction in computational time compared to conventional simulations while maintaining high predictive accuracy. Furthermore, numerical analysis results indicate that evacuation time variability increases with earthquake magnitude, particularly when epicenters are located closer to the road network. These findings demonstrate that the proposed surrogate model effectively captures seismic impacts on transportation systems and provides a practical and efficient tool for rapid post-earthquake evacuation assessment and informed decision-making.",
+      "link": "https://doi.org/10.1038/s41598-026-76066-y",
+      "authors": [
+        "Minjeong Kim",
+        "HyungJoo Lee",
+        "Jinho Song",
+        "Sungsik Yoon"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T20:41:22+00:00",
+      "last_seen": "2026-10-18T20:41:22+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T20:41:22+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76996-7": {
+      "key": "doi:10.1038/s41598-026-76996-7",
+      "doi": "10.1038/s41598-026-76996-7",
+      "title": "Computed tomography-based measurements of fat quality are associated with the prognostic nutritional index in gastric cancer patients",
+      "abstract": "Malnutrition is common among gastric cancer (GC) patients and is associated with poor prognosis. Computed tomography (CT) measurements of the amount of visceral fat (VF) provide insights into nutrition status but the importance of fat density is unknown. The main objective of this prospective study was to examine the association between fat density and a nutrition-related index. The Prognostic Nutritional Index (PNI), which combines serum albumin and total lymphocyte count, was employed. Fat attenuation by 70-keV virtual monochromatic imaging (VMI), fat density by dual-energy CT (DECT), and bioelectrical impedance analysis (BIA) were used to assess the body composition of 54 GC patients. VMI- and DECT-based measurements of fat attenuation and density were negatively correlated. Regardless of sex, the PNI correlated with both VMI and DECT measurements of fat attenuation and density. Serum albumin levels also correlated with both fat attenuation and density. Because serum albumin levels regulate leakage of intravascular fluid into tissues, BIA was used to determine the extracellular water (ECW)/total body water (TBW) ratio. Importantly, the ECW/TBW ratio correlated with PNI, serum albumin, fat attenuation and fat density. Collectively, these findings indicate that PNI and serum albumin levels are associated with extracellular fluid balance and fat imaging characteristics.",
+      "link": "https://doi.org/10.1038/s41598-026-76996-7",
+      "authors": [
+        "Ryohei Nishiguchi",
+        "Shinichi Asaka",
+        "Masano Sagawa",
+        "Takebumi Usui",
+        "Hajime Yokomizo",
+        "Haruhiko Machida",
+        "Toshiya Kariyasu",
+        "Yuta Hirose",
+        "Rika Fukui",
+        "Yoshihiro Furuichi",
+        "Shunichi Shiozawa",
+        "Andrew J. Dannenberg"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T20:41:23+00:00",
+      "last_seen": "2026-10-18T20:41:23+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T20:41:23+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76522-9": {
+      "key": "doi:10.1038/s41598-026-76522-9",
+      "doi": "10.1038/s41598-026-76522-9",
+      "title": "Investigation of the dosimetric characteristics of real-time silicone/Bi2O3 nanocomposites for the diagnostic level X-rays",
+      "abstract": "Abstract This study presents the development of high-sensitivity real-time X-ray dosimeters based on room-temperature-vulcanized (RTV-2) silicone nanocomposites incorporating 0–60 wt% Bi 2 O 3 nanoparticles, fabricated via solution casting. Structural and morphological characterization using X-ray diffraction (XRD), scanning electron microscopy (SEM), energy-dispersive X-ray spectroscopy (EDX) with elemental mapping, and elemental analysis confirmed the uniform dispersion of monoclinic Bi 2 O 3 nanorods within the amorphous RTV-2 matrix. Complementary Fourier-transform infrared spectroscopy (FTIR), Raman spectroscopy, and thermogravimetric analysis (TGA) validated the chemical integrity, thermal stability, and mechanical robustness of the resulting nanocomposites. Dosimetric performance was investigated under diagnostic-range X-ray exposure using a COMET MXR 320/26 source (dose rates: 2.8–12 mGy/min). The I-V characteristics at 4.8 mGy/min exhibited a highly linear response over ± 400 V. At 400 V, the photocurrent increased from ~ 0.56 nA (pure RTV-2) to ~ 1.66 nA (60 wt% Bi 2 O 3 ), corresponding to a ~ 3-fold enhancement in photocurrent. The devices demonstrated good short-term repeatability (standard deviation of 2.3% over ten consecutive measurements) and a signal-to-noise ratio (SNR) of up to ~ 1900 at 400 V. Compared with reported values for commercial MOSFET dosimeters (~ 0.1–1 nA/mGy) and previously reported Bi 2 O 3 -polymer systems, the developed nanocomposites exhibit a higher competitive normalized sensitivity (~ 0.35 nA/(mGy/min), or 878 nC·mGy⁻ 1 ·cm⁻ 3 on a volumetric basis), demonstrating their suitability as lead-free alternatives for low-dose, real-time diagnostic X-ray dosimetry; further evaluation of long-term stability and mechanical durability is needed to establish clinical applicability.",
+      "link": "https://doi.org/10.1038/s41598-026-76522-9",
+      "authors": [
+        "Farideh Keyvani",
+        "Leila Gholamzadeh",
+        "Shahryar Malekie",
+        "Sedigheh Kashian"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T20:41:24+00:00",
+      "last_seen": "2026-10-18T20:41:24+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
