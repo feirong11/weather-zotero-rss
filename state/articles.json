@@ -290066,6 +290066,320 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-10-18T04:31:28+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78940-9": {
+      "key": "doi:10.1038/s41467-026-78940-9",
+      "doi": "10.1038/s41467-026-78940-9",
+      "title": "Molecular architecture of Cryptococcus cell walls reveals species-specific chitosan-dependent remodeling",
+      "abstract": "Abstract Cryptococcus neoformans and Cryptococcus gattii are fungal pathogens that cause life-threatening infections, including cryptococcal meningitis. A distinctive feature of the cryptococcal cell wall is the extensive deacetylation of chitin to chitosan, a modification that is essential for virulence but whose structural role in cell-wall organization remains poorly understood. Here, we analyze the cell walls of wild-type strains of both species and their avirulent chitosan-deficient mutants, which serve as vaccine candidates. Loss of chitosan disrupted cell morphology and altered cell-wall ultrastructure, with more pronounced defects in C. neoformans . Solid-state NMR reveals that aggregated α-(1→3)-glucans form the principal rigid domain of the cell wall in both species and are closely associated with chitin microfibrils, whereas surrounding β-glucans and mannoproteins constitute a more dynamic matrix. Chitosan modulates hydration and flexibility, and its loss increases chitin exposure and triggers species-specific remodeling of the polysaccharide network. In C. neoformans , chitosan depletion increased α-(1→3)-glucan content and reduced β-glucan levels, whereas C. gattii selectively lost one α-(1→3)-glucan subtype while maintaining β-glucan levels. Although capsule production remained intact, chitosan deficiency altered glucuronoxylomannan linkage patterns and mannoprotein composition. These findings reveal how chitosan organizes cryptococcal cell-wall architecture and highlight distinct structural adaptation strategies among pathogenic Cryptococcus species.",
+      "link": "https://doi.org/10.1038/s41467-026-78940-9",
+      "authors": [
+        "Ankur Ankur",
+        "Rajendra Upadhya",
+        "Mahsa Doosti",
+        "Davis Ferreira",
+        "Sara E. Miller",
+        "Li Xie",
+        "Ivan Hung",
+        "Jennifer K. Lodge",
+        "Tuo Wang"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-18T11:02:40+00:00",
+      "last_seen": "2026-10-18T11:02:40+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78132-5": {
+      "key": "doi:10.1038/s41467-026-78132-5",
+      "doi": "10.1038/s41467-026-78132-5",
+      "title": "Bacteroides–Escherichia interactions contribute to colonization resistance against Clostridioides difficile",
+      "abstract": "Abstract Commensal gut bacteria are key contributors to the resilience against pathogen invasion. This is exemplified by the success of faecal microbiota transplantation in treating recurrent Clostridioides difficile infection. Yet, characteristics of communities that can confer colonisation resistance and the underlying mechanisms remain largely unknown. Here we use a synthetic community of 14 commensal gut bacteria to uncover inter-species interactions and metabolic pathways underpinning the emergent resilience against C. difficile invasion. We challenged this synthetic community as well as faecal-matter-derived communities with antibiotic treatment and C. difficile in a continuous flow bioreactor. Using generalised Lotka-Volterra and genome-scale metabolic modelling, we identified interactions between Escherichia coli and Bacteroides/Phocaeicola sp. as key to the pathogen’s suppression. Metabolomics and targeted validation experiments revealed that fructan-derived fructooligosaccharides, vitamin B3 biosynthesis, and competition for Stickland metabolism precursors causally contribute to suppression across multiple C. difficile strains and donor backgrounds. Analysis of metagenomics data from patient cohorts and clinical trials attested the in vivo relevance of the identified metabolic pathways and the ratio between Bacteroides and Escherichia in successful colonisation resistance. The latter was found to be a stronger discriminator than commonly used alpha diversity metrics. Together, our study uncovers emergent microbial interactions in pathogen resistance with implications for rational design of bacteriotherapies.",
+      "link": "https://doi.org/10.1038/s41467-026-78132-5",
+      "authors": [
+        "Achuthan Ambat",
+        "Naomi Iris van den Berg",
+        "Francisco Zorrilla",
+        "Shruti Menon",
+        "Abhijit Maji",
+        "Tanim Islam",
+        "Arianna Basile",
+        "Sudeep Ghimire",
+        "Lajos Kalmar",
+        "Kiran R. Patil",
+        "Joy Scaria"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-18T11:02:40+00:00",
+      "last_seen": "2026-10-18T11:02:40+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75032-y": {
+      "key": "doi:10.1038/s41598-026-75032-y",
+      "doi": "10.1038/s41598-026-75032-y",
+      "title": "Psychological (in)flexibility as a mediator between resilience and psychological outcomes in patients with cancer",
+      "abstract": "Abstract Resilience and psychological flexibility are protective factors for mental health and well-being in the general population as well as in patients with cancer. Additionally, psychological inflexibility is a risk factor for poor wellbeing and psychopathology. Research suggests that psychological flexibility constitutes a resilience factor and mediates the association between resilience and psychological outcomes across various contexts. However, there is only sparse evidence regarding the mediating role of psychological inflexibility and flexibility processes in the relationship between resilience and psychological outcomes in patients with a chronic health condition. This study examined psychological inflexibility and flexibility processes as mediators of the relationship between resilience and psychological outcomes in patients with cancer. A total of N = 222 patients completed an online survey assessing resilience (Resilience Scale-11), psychological inflexibility (Acceptance and Action Questionnaire-2), distress (National Cancer Center Network distress thermometer), depression (Patient Health Questionnaire-8), anxiety (General Anxiety Disorder-7), and mental health-related quality of life (Short Form Health Survey-12). Across all bootstrapped mediation models, psychological inflexibility mediated the relationship between resilience and all psychological outcomes. Secondary analyses of acceptance of versus struggle with illness and value-based living versus obstruction showed partial mediation, with distinct patterns of association for each process. Our findings highlight psychological (in)flexibility as a key mediator between resilience and psychological outcomes in cancer patients. Obstruction showed the strongest association, suggesting that ACT-based interventions targeting psychological barriers may be particularly effective in enhancing resilience and mental health.",
+      "link": "https://doi.org/10.1038/s41598-026-75032-y",
+      "authors": [
+        "Christina Sauer",
+        "Talha Sajjad",
+        "Louise Zinndorf",
+        "Gregor Weißflog"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:41+00:00",
+      "last_seen": "2026-10-18T11:02:41+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76550-5": {
+      "key": "doi:10.1038/s41598-026-76550-5",
+      "doi": "10.1038/s41598-026-76550-5",
+      "title": "Missed nursing care and associated factors among nurses working in critical care units in northern Ghana",
+      "abstract": "In high-pressure clinical environments, essential nursing tasks may be unintentionally omitted, a phenomenon known as missed nursing care. Despite its implications for patient safety and care quality, empirical evidence on missed nursing care in Ghana remains limited. This study aimed to determine missed nursing care and identify factors associated with its occurrence among nurses working in critical care units at a tertiary hospital in northern Ghana. A hospital-based cross-sectional survey was conducted among 217 registered nurses in one tertiary hospital in northern Ghana, selected using proportionate stratified and simple random sampling. Data were collected using the 24-item version of the Missed Nursing Care Questionnaire (MISSCARE Survey), which assesses the frequency of missed nursing care activities using a 4-point response scale (1 = “I miss rarely” to 4 = “I miss always”). The total composite score ranged from 25 to 86, with higher scores indicating more frequently missed nursing care. Participants reported missed nursing care activities in their unit during routine nursing practice. For robust regression, the average missed nursing care score was used as the continuous outcome. Robust regression using an MM-type estimator was used to examine factors associated with missed nursing care. The mean total missed nursing care score was 41.78 ± 12.52. The most frequently missed nursing care activities were participation in interdisciplinary care conferences (75.6%), patient ambulation (70.0%), meal setup for patients able to self-feed (64.5%), mouth care (62.2%), and bathing/skincare (61.8%). In the multivariable robust regression analysis, compared with nurses working in the Medical High Dependency Unit (HDU), those working in the Accident and Emergency (A/E) Unit had higher missed nursing care scores (β = 0.16, 95% CI: 0.01–0.33, p = 0.049), as did those working in the Obstetrics/Gynaecology Emergency Unit (β = 0.61, 95% CI: 0.23–0.99, p = 0.002). Conversely, nurses who reported supportive leadership in addressing patient safety concerns had lower missed nursing care scores (β = −0.17, 95% CI: −0.33 to − 0.01, p = 0.041). Nurses who perceived that they could make a meaningful impact on patient safety also reported lower missed nursing care scores (β = −0.30, 95% CI: −0.53 to − 0.06, p = 0.015). Missed nursing care varied across clinical units and was associated with organizational and professional factors, particularly leadership support and nurses’ perceived ability to make a meaningful impact on patient safety. Strengthening supportive leadership and improving organizational conditions may help reduce missed nursing care. However, given the cross-sectional design and single-hospital setting, the observed associations should not be interpreted as causal, and the findings may have limited generalizability beyond the study setting.",
+      "link": "https://doi.org/10.1038/s41598-026-76550-5",
+      "authors": [
+        "Abubakari Wuni",
+        "Mudasir Mohammed Ibrahim",
+        "Iddrisu Mohammed Sisala",
+        "Mahadi Iddrisu"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:41+00:00",
+      "last_seen": "2026-10-18T11:02:41+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T11:02:41+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-72185-8": {
+      "key": "doi:10.1038/s41598-026-72185-8",
+      "doi": "10.1038/s41598-026-72185-8",
+      "title": "Adaptive entropy-guided access point selection for robust multi-floor Wi-Fi fingerprinting",
+      "abstract": "Abstract Wi-Fi fingerprinting is widely used for indoor localization. Although a large number of observable access points (APs) can provide richer spatial information, retaining all APs introduces significant computational overhead, increased scanning latency, and reduced generalization under heterogeneity across floors, devices, and contexts. This paper presents an entropy-guided dimensionality reduction framework that selects the most informative APs while preserving localization accuracy. First, each AP is ranked using Shannon entropy computed from its empirical RSSI distribution. The approach is evaluated on the multi-floor JUIndoorLoc dataset (172 AP features, three floors, four devices, and multiple contextual conditions) using a Random Forest classifier with stratified 5-fold cross-validation, and robustness is further assessed under additive RSSI noise and random AP dropouts. Across floors, the proposed adaptive entropy selection achieves substantial dimensionality reduction with negligible accuracy loss: it selects 17 APs on F3 ( $$\\approx $$ 90.11% reduction) with only $$-0.41\\%$$ accuracy change, 8 APs on F4 ( $$\\approx $$ 95.34% reduction) with $$-0.51\\%$$ change, and 26 APs on F5 ( $$\\approx $$ 84.88% reduction) with $$-0.42\\%$$ accuracy loss compared to the baseline configuration using all APs. Robustness experiments show that entropy-based selection can improve resilience under measurement noise on certain floors (e.g., on F5, at $$\\sigma $$ =1–3 dB the selected subset achieves 0.8472/0.7748/0.7070 versus 0.7674/0.7084/0.6659 for using all APs), while also revealing floor-dependent trade-offs where extremely compact subsets may become more noise-sensitive under strong perturbations. Overall, the proposed adaptive entropy framework provides a lightweight, floor-aware AP selection mechanism that reduces inference cost and scanning burden while maintaining competitive accuracy and improving robustness in realistic degradation scenarios. The generalizability of these findings to more complex and dynamic real-world environments warrants further investigation.",
+      "link": "https://doi.org/10.1038/s41598-026-72185-8",
+      "authors": [
+        "Ahmed Y. Bahy El-Din",
+        "Hala B. Nafea",
+        "Ahmed Shaaban Samra",
+        "Mohammed A. H. Abozied"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:43+00:00",
+      "last_seen": "2026-10-18T11:02:43+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75162-3": {
+      "key": "doi:10.1038/s41598-026-75162-3",
+      "doi": "10.1038/s41598-026-75162-3",
+      "title": "Comparative performance analysis of adaptive neuro-fuzzy inference system, fuzzy logic, and neural network-based maximum power point tracking controllers for permanent magnet synchronous generator-based variable-speed wind energy conversion systems",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-75162-3",
+      "authors": [
+        "Girmay Desalegn Hadush",
+        "Simon Fkadeamlak Gebremariam",
+        "Solomon Teklehaimanot Meresa",
+        "Belayneh Sisay Alemu"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:43+00:00",
+      "last_seen": "2026-10-18T11:02:43+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-76685-5": {
+      "key": "doi:10.1038/s41598-026-76685-5",
+      "doi": "10.1038/s41598-026-76685-5",
+      "title": "Challenges in cancer diagnosis in Somalia through 35 years of instability (1991–2025): a pathologist’s experience",
+      "abstract": "Somalia’s long-term instability since 1991 has severely disrupted pathology services, the cornerstone of cancer diagnosis, resulting in delayed and inaccurate diagnoses. This study provides a firsthand account of the evolution, current capacity, and systemic challenges of cancer diagnostic pathology in Somalia over 35 years of instability. A convergent mixed-methods study was undertaken to evaluate limitations of cancer diagnostic pathology services in south Somalia between 1991 and 2025. The quantitative component included all nine operational histopathology laboratories and assessed laboratory infrastructure, workforce, workload, and diagnostic capacity using standardised data abstraction from institutional records. The qualitative component consisted of semi-structured interviews with 14 practising pathologists exploring barriers, diagnostic limitations, and priorities for strengthening pathology services. Quantitative and qualitative findings were analysed independently and integrated during interpretation. Nine operational pathology laboratories employing 14 practising pathologists were identified, collectively processing an estimated 25,000–30,000 histopathology specimens annually, increasing the number of operational laboratories from one to nine between 2015 and 2025. Pathology services expanded substantially following the establishment of the Mogadishu Somali-Türkiye Training and Research Hospital (MSTTRH) in 2015. However, immunohistochemistry (IHC) was available in only one laboratory, while frozen section and molecular diagnostic services were unavailable nationwide. Qualitative analysis identified four major themes: inadequate laboratory infrastructure and recurrent reagent shortage; workforce and specialist training limitations; restricted access to advanced diagnostic technologies; and the need for improved quality assurance, multidisciplinary collaboration, and national coordination. In 2024, the Banadir region, Somalia, established its first histopathology-based cancer registry, providing the foundation for systematic national cancer surveillance. Somalia has made substantial progress in rebuilding cancer diagnostic pathology services despite decades of conflict. However, major investments in advanced diagnostics, workforce development, laboratory quality systems, and cancer surveillance remain essential to achieve equitable, high-quality cancer diagnosis. The findings provide evidence to inform national cancer control planning and offer insights relevant to strengthening pathology services in other resource-constrained and conflict-affected settings.",
+      "link": "https://doi.org/10.1038/s41598-026-76685-5",
+      "authors": [
+        "Ismail Mohamoud Abdullahi",
+        "Farah Yusuf Farah"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:43+00:00",
+      "last_seen": "2026-10-18T11:02:43+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T11:02:43+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76741-0": {
+      "key": "doi:10.1038/s41598-026-76741-0",
+      "doi": "10.1038/s41598-026-76741-0",
+      "title": "Detection of Helicobacter pylori in dental plaque among children with gastrointestinal disorders in a hospital-based cross-sectional study",
+      "abstract": "Helicobacter pylori is responsible for gastritis and peptic ulcers, as well as gastric cancer. This bacterium can also be isolated from dental plaque, suggesting that the oral cavity may serve as a reservoir, contributing to reinfection after systemic antibiotic therapy. The present study was conducted to determine the presence of H. pylori and associated virulence genes in dental plaque from children with gastrointestinal disorders using PCR, and to investigate the relationship between the infection and dental caries experience (DMFT/dmft), tooth-brushing frequency, and dental visit frequency. In this cross-sectional study, 100 children with gastrointestinal disorders who were referred to Mofid Children’s Hospital in Tehran between 21 March 2023 and 19 March 2024 were included. A questionnaire was administered to collect data on gender, lifestyle, dental visit frequency, socio-economic status, and toothbrushing frequency. Oral and clinical examinations were performed before dental plaque samples were collected from the first molars or central teeth. During endoscopy, gastric biopsy specimens were obtained. The presence of gastric H. pylori was evaluated histopathologically in endoscopic biopsy specimens. Furthermore, dental plaque samples were analyzed for the presence of the 23 S rRNA, cagA, and sabA genes by polymerase chain reaction (PCR). H. pylori was detected in 54% of biopsy and 41% of dental plaque samples, respectively. All plaque-positive children were also biopsy-positive, although 13 biopsy-positive children were plaque-negative. H. pylori was not significantly associated with gender, age, parental education, or food consumption. Children who never brushed their teeth and those who visited the dentist only when they had a problem had higher odds of plaque H. pylori than those who brushed at least once daily and those with regular dental visits, respectively. Decayed teeth were more numerous in plaque-positive children. cagA was detected in 4.9% of plaque-positive samples, while no sample harbored the sabA gene. The results suggest that the oral cavity may serve as a potential reservoir for H. pylori infection in children and may be associated with dental caries, highlighting the importance of regular tooth brushing, routine dental visits, and timely treatment of dental caries in the management of H. pylori-related oral and gastric health.",
+      "link": "https://doi.org/10.1038/s41598-026-76741-0",
+      "authors": [
+        "Mehrzad Sadredinamin",
+        "Zahra Jamshidi",
+        "Rojin Samani",
+        "Naghi Dara",
+        "Ali Asghar Soleymani",
+        "Mojdeh Hakemi-Vala"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:44+00:00",
+      "last_seen": "2026-10-18T11:02:44+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T11:02:44+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75396-1": {
+      "key": "doi:10.1038/s41598-026-75396-1",
+      "doi": "10.1038/s41598-026-75396-1",
+      "title": "Fuzzy-adaptive MPPT and Kalman-filter SOC estimation for Lyapunov-stable predictive energy management in solar-integrated EV charging stations",
+      "abstract": "This research develops a coordinated control, estimation, and dispatch framework for a solar-photovoltaic-integrated electric-vehicle charging station (EVCS) with battery storage and grid backup, and reports four contributions. First, a fuzzy-adaptive-step perturb-and-observe (P&O) maximum-power-point-tracking (MPPT) algorithm varies its perturbation step with the local power–voltage sensitivity and reaches 98.1% ± 0.1% tracking efficiency over 15 randomised irradiance scenarios with a single fixed parameter set, compared with 95.0% ± 0.6% for fixed-step P&O and 97.8% ± 0.2% for a linear-adaptive law re-tuned for each scenario (Welch’s t-test, t = 5.2, p < 0.0001, fuzzy-adaptive vs. re-tuned). Second, an extended Kalman filter (EKF) fuses Coulomb counting with a second-order Thevenin battery model to estimate state of charge (SOC), the pair is shown observable by a Popov–Belevitch–Hautus (PBH) test and, across 20 Monte Carlo trials, reduces mean SOC estimation RMSE from 2.45% to 0.118%. Third, a model-predictive-control (MPC) energy-management system (EMS) replaces static rule-based dispatch with receding-horizon optimisation, lowering operating cost by 6.8% under a perfect-forecast assumption while revealing an explicit trade-off against grid independence. Fourth, a switched-system stability analysis constructs mode-dependent Lyapunov functions and derives an average-dwell-time bound (τ_a* = 2.31 ms) that certifies exponential stability of the linearised converter dynamics for any mode-switching sequence respecting this bound. The complete simulation delivers 93.6% system efficiency, DC-bus regulation within ± 5%, and grid dependency of 14.2%. Of the four contributions, only the fuzzy-adaptive MPPT and EKF-SOC layers were implemented on an ESP8266 hardware prototype, on that subset, hardware-measured system efficiency (91.2%) agrees with simulation (93.6%) to within 2.4 percentage points. The MPC-EMS dispatch result and the Lyapunov stability proof remain simulation-level findings, and hardware validation of both is set out as a priority for future work.",
+      "link": "https://doi.org/10.1038/s41598-026-75396-1",
+      "authors": [
+        "R. Santhoshkumar",
+        "S. Suresh",
+        "A. Peramanan",
+        "P. Sathishkumar"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:45+00:00",
+      "last_seen": "2026-10-18T11:02:45+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T11:02:45+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76389-w": {
+      "key": "doi:10.1038/s41598-026-76389-w",
+      "doi": "10.1038/s41598-026-76389-w",
+      "title": "Integrating bulk and single-cell RNA sequencing to identify mitochondrial quality control-related key genes in rheumatoid arthritis",
+      "abstract": "Mitochondrial quality control (MQC) dysfunction contributes to rheumatoid arthritis (RA), but MQC-related genes in RA remain incompletely characterized. We integrated two bulk blood transcriptomic datasets and one peripheral blood mononuclear cell (PBMC) single-cell RNA-sequencing dataset (248 RA and 88 control bulk samples; 11,719 cells from 3 RA and 3 healthy donors). Weighted gene co-expression network and differential expression analyses, combined with three machine-learning algorithms, identified candidate genes. Functional enrichment, immune infiltration, regulatory network, single-cell, cell–cell communication, pseudotime, metabolic, and reverse transcription quantitative polymerase chain reaction (RT-qPCR) analyses were performed. Nine MQC-related candidate genes were identified; CDC42 and RBBP7 emerged as key genes, with CDC42 upregulated and RBBP7 downregulated in RA. Gene set enrichment analysis (GSEA) linked CDC42 to JAK–STAT signaling, while translation initiation showed opposite enrichment patterns. After multiple-testing correction, 15 immune-cell subsets differed between RA and controls; monocytes positively correlated with CDC42 and negatively with RBBP7. Single-cell analysis showed relatively high RBBP7 expression in B cells, motivating exploratory analyses of B-cell trajectories, metabolism, and predicted CCL5–CCR1 communication with monocytes. RT-qPCR confirmed the mRNA expression patterns. These findings identify CDC42 and RBBP7 as MQC-related key genes associated with distinct immune and metabolic features in blood-derived samples from patients with RA.",
+      "link": "https://doi.org/10.1038/s41598-026-76389-w",
+      "authors": [
+        "Yuting Xiao",
+        "Jiayou zhang",
+        "Jing Su",
+        "Jing Wu"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:45+00:00",
+      "last_seen": "2026-10-18T11:02:45+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T11:02:45+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75592-z": {
+      "key": "doi:10.1038/s41598-026-75592-z",
+      "doi": "10.1038/s41598-026-75592-z",
+      "title": "Multi-task deep learning framework for brain tumor classification and segmentation using ensemble feature extraction",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-75592-z",
+      "authors": [
+        "Retinderdeep Singh",
+        "Chander Prabha",
+        "Shahab Abdulla"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:46+00:00",
+      "last_seen": "2026-10-18T11:02:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "deep learning"
+        ]
+      }
+    },
+    "doi:10.1038/s41598-026-70531-4": {
+      "key": "doi:10.1038/s41598-026-70531-4",
+      "doi": "10.1038/s41598-026-70531-4",
+      "title": "Prevalence of 406 rare diseases by ethnicity and recorded COVID-19 infection rates among 62.5 million people in England",
+      "abstract": "Abstract Rare diseases (RD) are individually uncommon but collectively affect millions of people. Yet national estimates of their prevalence, especially across ethnic groups, are limited, and how the COVID-19 pandemic affected people with RD across ethnic groups is unknown. We aimed to estimate the prevalence of 406 RD by ethnicity, and to describe recorded COVID-19 infection across these RD and ethnic groups, in England. We conducted a cross-sectional study within the National Health Service (NHS) England Secure Data Environment, accessed via the British Heart Foundation (BHF) Data Science Centre’s CVD-COVID-UK/COVID-IMPACT Consortium, linking primary care, hospital, and mortality records for individuals alive on 31 July 2023. We calculated age- and sex-standardised prevalence for 406 RD, and recorded COVID-19 infection rates for the overall group, for each RD, and across the six-group Office for National Statistics (ONS) and 19-group NHS ethnicity classifications. Of 62.5 million people, 1.05 million (1.7%) had at least one of the 406 RD. Recorded COVID-19 infection was higher in the RD group than in the non-RD population (32.8% vs. 29.0%). Within the RD group, infection rates varied by ethnicity (e.g. 27.7% in the Pakistani and 23.8% in the Black African groups, versus 33.7% in the White British group) and by specific RD (24.6–41.2% among the 25 most common). Age- and sex-standardised prevalence also varied widely across ethnic groups, with substantial heterogeneity emerging only when broad categories were disaggregated into the more granular NHS classifications (for example, markedly elevated discoid lupus erythematosus prevalence in Black Caribbean but not Black African individuals, obscured within the aggregate “Black” category). This national, ethnicity-resolved map shows that rare-disease prevalence varies substantially across ethnic groups, with differences largely hidden within broad categories, and that recorded COVID-19 infection among people with RD varied across ethnic groups, with the highest rates observed in the ONS White and NHS White British groups. These findings provide a baseline to support earlier, fairer diagnosis and more targeted care.",
+      "link": "https://doi.org/10.1038/s41598-026-70531-4",
+      "authors": [
+        "Qingze Gu",
+        "Seyed Alireza Hasheminasab",
+        "Marta Pineda-Moncusí",
+        "Chimweta Chilala",
+        "Johan H. Thygesen",
+        "Honghan Wu",
+        "Sara Khalid",
+        "Amy Coombe"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:46+00:00",
+      "last_seen": "2026-10-18T11:02:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75450-y": {
+      "key": "doi:10.1038/s41598-026-75450-y",
+      "doi": "10.1038/s41598-026-75450-y",
+      "title": "Bilateral M1 tDCS selectively modulates dynamic large-scale brain states associated with sensorimotor control relative to sham stimulation",
+      "abstract": "Transcranial direct current stimulation of the primary motor cortex is widely used to influence sensorimotor performance, yet its large-scale neural mechanisms remain unclear. This study examined how unilateral and bilateral stimulation of the primary motor cortex affect sensorimotor behavior and whole-brain dynamics. Twenty healthy adults participated in a double-blind crossover study that combined robotic motor tasks performed during stimulation (on-task) with resting-state functional magnetic resonance imaging acquired during stimulation (off-task). We found that both unilateral and bilateral stimulation improved bimanual coordination compared to sham, with no difference between montages. Bilateral stimulation additionally increased proprioceptive variability in the left hand. On the neural level, only bilateral stimulation, as compared with sham, altered large-scale dynamics, increasing the occurrence rate of a frontoparietal and dorsal attention state and reducing transitions from a default mode-frontoparietal state to a thalamic-subcortical state. These brain dynamics were associated with sensorimotor performance in an exploratory analysis, thereby potentially linking stimulation-sensitive CAPs to motor performance.",
+      "link": "https://doi.org/10.1038/s41598-026-75450-y",
+      "authors": [
+        "Haya Salameh",
+        "Toni Muffel",
+        "Yvonne Serhan",
+        "Maria Samara",
+        "Karl-Heinz Nenning",
+        "Uri Hertz",
+        "Arno Villringer",
+        "Bernhard Sehm",
+        "Smadar Ovadia-Caro"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-18T11:02:46+00:00",
+      "last_seen": "2026-10-18T11:02:46+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-18T11:02:46+00:00",
+      "matched_channels": {}
     }
   }
 }
