@@ -291518,6 +291518,106 @@
       "enrichment_attempts": 0,
       "last_enrichment_attempt": "",
       "matched_channels": {}
+    },
+    "doi:10.1029/2026gl125263": {
+      "key": "doi:10.1029/2026gl125263",
+      "doi": "10.1029/2026gl125263",
+      "title": "Cloud Controlling Factor Analysis Reveals E3SMv3 Structural Bias and Mean State Controls on Stratocumulus Radiative Sensitivity",
+      "abstract": "Abstract We investigate marine stratocumulus cloud radiative sensitivity to meteorological and aerosol controlling factors in a perturbed parameter ensemble of the Energy Exascale Earth System Model version 3 (E3SMv3). The ensemble perturbs 25 cloud, convection, and aerosol parameters, spanning diverse cloud behavior. The default simulation and many ensemble members capture observed responses to most controlling factors, but not to surface temperature advection, revealing a structural deficiency in processes linking stratocumulus to advection. Many members also overestimate cloud fraction and radiative responses to inversion strength, free‐tropospheric humidity, and sulfate aerosol optical depth. Differences in mean cloud optical depth substantially modify the radiative impact of similar cloud fraction changes, showing that the mean cloud state strongly regulates stratocumulus radiative sensitivity. Across the ensemble, conversion of cloud water to rain controls mean optical depth, identifying autoconversion as a key microphysical control on stratocumulus radiative sensitivity.",
+      "link": "https://doi.org/10.1029/2026gl125263",
+      "authors": [
+        "T. A. Myers",
+        "T. Aerenson",
+        "D. T. McCoy",
+        "M. D. Zelinka",
+        "J. M. Nugent",
+        "H. Brown"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Geophysical Research Letters",
+      "journal_label": "Geophysical Research Letters",
+      "issn": "0094-8276",
+      "first_seen": "2026-10-19T04:38:43+00:00",
+      "last_seen": "2026-10-19T04:38:43+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1002/qj.70334": {
+      "key": "doi:10.1002/qj.70334",
+      "doi": "10.1002/qj.70334",
+      "title": "Long‐term vertical air motion characteristics over the gateway of Indian summer monsoon using direct measurements by the Cochin stratosphere–troposphere radar",
+      "abstract": "Abstract This article presents the first long‐term characteristics of vertical air motion over the gateway of Indian summer monsoon using the Cochin stratosphere–troposphere radar (10.04°N, 76.33°E). It is seen that the lower troposphere (<4 km) generally presents a downward mean motion throughout the year. While centred around June–July–August (JJA), downdrafts below 12–13 km and updrafts above that (both generally <5 cm·s −1 in magnitude) are noted. It is ensured that the dataset considered does not suffer from any significant bias due to several possible factors, including possible jet contamination, and the results are thus representative of real atmospheric features. The structure of mean vertical velocity as seen in JJA represents a ‘two‐step process’ of transport of air mass from the lower troposphere to the lower stratosphere and vice versa. Hourly mean vertical motion shows that the clear two‐step structure persists during JJA with clear reversal around 12–13 km during 1000–1900 Indian Standard Time (IST = UTC + 0530). The consistent downdrafts can be called representative of the region and attributed to the gentle subsidence associated with intermittent yet widespread convective activity away from the location of observation. In contrast, like during December–January–February (DJF), such a mechanism of transport is not discernible.",
+      "link": "https://doi.org/10.1002/qj.70334",
+      "authors": [
+        "Nabarun Poddar",
+        "Siddarth Shankar Das",
+        "Sukumarapillai Abhilash",
+        "Varadarajan Rakesh"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "Quarterly Journal of the Royal Meteorological Society",
+      "journal_label": "Quarterly Journal of the Royal Meteorological Society",
+      "issn": "0035-9009",
+      "first_seen": "2026-10-19T04:38:45+00:00",
+      "last_seen": "2026-10-19T04:38:45+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1002/joc.70643": {
+      "key": "doi:10.1002/joc.70643",
+      "doi": "10.1002/joc.70643",
+      "title": "Narrowing of the Daily Temperature Distribution Biases Threshold Day Estimates in the High Arctic: Evidence From Five Svalbard Stations, 1979 to 2025",
+      "abstract": "ABSTRACT Arctic threshold day indices, which govern permafrost, snow cover and engineering design, are commonly obtained by displacing an observed daily temperature distribution by a projected mean change. That is exact only if warming is a pure translation. We test this on daily records from five Svalbard stations, 1979 to 2025. Between 1979‐2000 and the later period the 5th percentile warmed by 5.14°C against 1.22 at the 95th, and the daily standard deviation fell by 16.6%. The narrowing is significant at every station under a moving block bootstrap and insensitive to the split year, so counts obtained by translation are biased, warm day counts by 12.0–41.6 days per year. It is confined to the cold season, 5.12°C in winter against 0.34 in summer, where the interval contains zero at every station; mean warming therefore remains adequate for summer indices and not for winter ones. The two longest records, from 1922 and 1946, place the onset after about 1980. Of six models tested on withheld years, extrapolating the mean rather than freezing it cuts the threshold count error from 18.8 to 14.1 days per year, and linear quantile regression cuts it to 7.8, improving 16 of 20 cases against that control. That model is promising rather than recommended: its mean advantage is not established and it fails at the warmest and southernmost station. Gradient boosting, unable to extrapolate beyond its training range, is no better than the trend extrapolated shift.",
+      "link": "https://doi.org/10.1002/joc.70643",
+      "authors": [
+        "Anupama Jims",
+        "Mohammed Syed Marjuk",
+        "Felix M. Philip"
+      ],
+      "published": "2026-10-18T00:00:00+00:00",
+      "journal": "International Journal of Climatology",
+      "journal_label": "International Journal of Climatology",
+      "issn": "0899-8418",
+      "first_seen": "2026-10-19T04:38:45+00:00",
+      "last_seen": "2026-10-19T04:38:45+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78685-5": {
+      "key": "doi:10.1038/s41467-026-78685-5",
+      "doi": "10.1038/s41467-026-78685-5",
+      "title": "Laminated structure design accommodates thermal expansion mismatch for mechanically and thermally dual-stable thermoelectric contacts",
+      "abstract": "The quality of the barrier layer (BL) directly determines the long-term stability of thermoelectric (TE) modules. Conventional BLs struggle to simultaneously achieve thermal expansion matching with TE materials and robust diffusion-blocking capability. Here we show a bimetallic multilayer BL strategy that ensures thermal expansion matching while constructing a controllable interfacial stress field to inhibit element diffusion. Taking skutterudite (SKD) as an example, we construct a BL with alternating Nb and Cu layers, in which Nb serves as the primary diffusion barrier, while Cu tailors the effective thermal expansion behavior and regulates the stress field at the SKD/Nb interface via Nb/Cu back stress, thereby achieving mechanical stability and a strong diffusion-blocking effect. After aging at 823 K for 60 days, the SKD/Nb-Cu interface remains intact and maintains a low contact resistivity ( < 1 μΩ·cm²). Furthermore, the strategy proves effective in Bi2Te3- and GeTe-based TE systems, demonstrating its universality. This work proposes a design strategy based on laminated metals, in which thermal expansion of the barrier layer is tailored to regulate interfacial stress–diffusion coupling, enabling mechanically and thermally dual-stable thermoelectric contacts.",
+      "link": "https://doi.org/10.1038/s41467-026-78685-5",
+      "authors": [
+        "Xiao Zhang",
+        "Hao Wu",
+        "Kuai Yu",
+        "Yuxiang Gong",
+        "Haoyang Tong",
+        "Zijian Zhang",
+        "Jiayue Du",
+        "Xusen Qin",
+        "Yuanyuan Deng",
+        "Yuxin Sun",
+        "Xin Li",
+        "Zihang Liu",
+        "Jianbo Zhu",
+        "Fengkai Guo",
+        "Jiehe Sui"
+      ],
+      "published": "2026-10-19T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-19T04:38:48+00:00",
+      "last_seen": "2026-10-19T04:38:48+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-19T04:38:48+00:00",
+      "matched_channels": {}
     }
   }
 }
