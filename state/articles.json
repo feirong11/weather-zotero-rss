@@ -320713,6 +320713,52 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-10-24T15:56:13+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1038/s41467-026-78829-7": {
+      "key": "doi:10.1038/s41467-026-78829-7",
+      "doi": "10.1038/s41467-026-78829-7",
+      "title": "Structural dynamics between Argonaute-2 and CK1α promote target RNA release in microRNA-mediated silencing",
+      "abstract": "Abstract Argonaute (Ago) proteins associate with 20-22 nucleotide (nt) long microRNAs (miRNAs) to constitute the functional RISC core and downregulate mRNAs containing complementarity to the seed sequence. Target RNA engagement in RISC stimulates CK1α-mediated phosphorylation of the conserved eukaryotic insertion (EI) in Ago, releasing the target and enabling the RISC complex to suppress additional target sites for efficient miRNA-mediated silencing. Here, we provide a complete structural view of miRNA guide and target binding to human Ago2, showing Ago2 holding the double-stranded guide-target RNA in an untwisted conformation at its center. We visualize the dynamic changes that RISC undergoes as the guide supplementary region progressively base pairs with the target, enabling CK1α binding. Following seed-helix assembly, initial supplementary pairing restricts RISC to a “closed” form, while with half-supplementary pairing, the PAZ domain moves to open RISC to become receptive to CK1α, exhibiting an initial increase in Ago2 phosphorylation. Complete supplementary pairing supports a full PAZ-CK1α interface, allowing for hierarchical phosphorylation of the EI. The combination of target repulsion by EI phosphorylation with an unwound guide-target enables efficient target release to promote RISC turnover.",
+      "link": "https://doi.org/10.1038/s41467-026-78829-7",
+      "authors": [
+        "Ankur Garg",
+        "Leah Braviner",
+        "Armend Axhemi",
+        "Brianna Bibel",
+        "Leemor Joshua-Tor"
+      ],
+      "published": "2026-10-24T00:00:00+00:00",
+      "journal": "Nature Communications",
+      "journal_label": "Nature Communications",
+      "issn": "2041-1723",
+      "first_seen": "2026-10-24T20:47:53+00:00",
+      "last_seen": "2026-10-24T20:47:53+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77846-2": {
+      "key": "doi:10.1038/s41598-026-77846-2",
+      "doi": "10.1038/s41598-026-77846-2",
+      "title": "Comparative assessment of phytoplankton community using different filtration methods based on environmental DNA metabarcoding—a case study of Caohai Wetland",
+      "abstract": "In environmental DNA (eDNA) metabarcoding, the choice of filter membrane material and pore size governs DNA enrichment, detection sensitivity, and taxonomic representativeness of aquatic communities. This study employed eDNA metabarcoding to evaluate the influence of various filter membranes on the phytoplankton community within Caohai Wetland. Four membrane materials with a pore size of 0.22 μm were tested: mixed cellulose esters (MCE), polyethersulfone (PES), nylon (NY), and polytetrafluoroethylene (PTFE), and three pore sizes were tested with the MCE membranes: 0.22 μm, 0.45 μm, and 0.8 μm. The results demonstrated that among the tested materials, MCE filters achieved the best detection performance, yielding higher eDNA recovery, taxonomic counts, class coverage, and Chao1 richness than PES, NY, and PTFE membranes, owing to their superior retention of eDNA and algal particles. Alpha diversity was broadly consistent across filters, and β-diversity analyses revealed no significant differences in overall community structure. The dominant phytoplankton classes detected via these membranes were Cyanophyceae, Euglenida, and Raphidophyceae. For pore sizes, 0.22 μm and 0.45 μm produced highly congruent communities (> 95% taxon sharing). Considering detection efficiency, practicability, and robustness, 0.45 μm MCE filters we recommend as the optimal filtration medium for phytoplankton eDNA monitoring. This study provided empirical evidence for the selection of filtration methods in eDNA monitoring of shallow plateau lakes, and offered critical reference insights for the assessment and management of regional aquatic ecosystem health.",
+      "link": "https://doi.org/10.1038/s41598-026-77846-2",
+      "authors": [
+        "Jin Guo",
+        "Liangliang Dai",
+        "Juan Jiang",
+        "Guo Yuan",
+        "Yunchuan Long"
+      ],
+      "published": "2026-10-24T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-24T20:47:54+00:00",
+      "last_seen": "2026-10-24T20:47:54+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-24T20:47:54+00:00",
+      "matched_channels": {}
     }
   }
 }
