@@ -322827,6 +322827,146 @@
       "enrichment_attempts": 0,
       "last_enrichment_attempt": "",
       "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76649-9": {
+      "key": "doi:10.1038/s41598-026-76649-9",
+      "doi": "10.1038/s41598-026-76649-9",
+      "title": "Renal hyperfiltration dynamics as a cardiovascular risk stratification marker",
+      "abstract": "Abstract Renal hyperfiltration (RHF) is a precursor to adverse clinical outcomes. However, RHF is a dynamic condition that can develop or disappear over time, and the prognostic implications of this transition remain unclear. This nationwide cohort study included 1,022,062 individuals of Korean ethnicity who underwent consecutive health screening examinations between 2012 and 2015. RHF was defined as an estimated glomerular filtration rate (eGFR) exceeding the 95th percentile after multiple adjustments. The participants were categorized based on their RHF transitions (RHF-free, developed, disappeared, and persistent), and risks of mortality and cardiovascular (CV) events were assessed. Compared with RHF-free individuals, those with persistent RHF had the highest risks of mortality (adjusted hazard ratio [HR], 1.61; 95% confidence interval [CI], 1.24–2.10) and CV events (1.39, 1.13–1.71). Mortality risk increased across all other transition patterns regardless of exposure duration or the slope of hyperfiltration excess. Conversely, CV risk increased primarily in the RHF-disappeared, particularly with longer RHF exposure and declining hyperfiltration excess, but not with RHF-development. RHF dynamics showed distinct outcome-specific associations. Compared with the RHF-free pattern, mortality increased across all other RHF transition patterns, whereas CV events increased only in the RHF-disappeared and RHF-persistent patterns.",
+      "link": "https://doi.org/10.1038/s41598-026-76649-9",
+      "authors": [
+        "Jun Seong Kim",
+        "Su Jin Jeong",
+        "Soo-Young Yoon",
+        "Jin Sug Kim",
+        "Yu Ho Lee",
+        "Kyung Hwan Jeong",
+        "Hyeon Seok Hwang"
+      ],
+      "published": "2026-10-25T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-25T20:49:42+00:00",
+      "last_seen": "2026-10-25T20:49:42+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-67071-2": {
+      "key": "doi:10.1038/s41598-026-67071-2",
+      "doi": "10.1038/s41598-026-67071-2",
+      "title": "Trajectories of leisure-time physical activity behavior and risk of incident cardiovascular disease in middle-aged and older adults",
+      "abstract": "Leisure-time physical activity (LTPA) behaviors in later life are highly dynamic, yet the cardiovascular impact of these longitudinal trajectories remains unclear. This study aimed to characterize distinct trajectories of LTPA behaviors and investigate their association with incident cardiovascular disease (CVD) among middle-aged and older adults. This longitudinal study included 5,412 participants from the English Longitudinal Study of Ageing. LTPA was assessed via a questionnaire at Wave 1 (2002-03), Wave 2 (2004-05), and Wave 3 (2006-07). Trajectories of LTPA behavior were identified using Group-Based Trajectory Modeling. Multivariable Cox proportional hazards models estimated the associations between these trajectories and Incident CVD. A total of 5,412 participants (mean age 65.9 ± 9.31 years; 41.4% male) were followed for a median of 11.8 years, and 571 incident CVD events were recorded. Compared with the Stable Low trajectory, the Increasing group (HR 0.64, 95% CI 0.44–0.92) and the Stable High group (HR 0.61, 0.43–0.86) were associated with lower CVD risk. Conversely, the Decreasing group was not associated with lower CVD risk (HR 1.03, 0.74–1.44). Notably, maintaining moderate activity was associated with lower CVD risk among those with hypertension (HR 0.65, 0.47–0.91) and ever-smokers (HR 0.67, 0.49–0.93). In this national, long-term cohort study of middle-aged and older adults, stable high or increasing trajectories of LTPA behavior were associated with a lower risk of Incident CVD compared with persistently low activity. Among participants with hypertension or a history of smoking, sustaining even moderate levels of LTPA was associated with a reduced CVD risk.",
+      "link": "https://doi.org/10.1038/s41598-026-67071-2",
+      "authors": [
+        "Jiawei Li",
+        "Libo Luo",
+        "Yuhan Zhao",
+        "Namuna Dallakoti",
+        "Zhan Peng",
+        "Yuan Luo",
+        "Yiqun Miao",
+        "Fangqin Wu",
+        "Ying Wu"
+      ],
+      "published": "2026-10-25T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-25T20:49:42+00:00",
+      "last_seen": "2026-10-25T20:49:42+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-25T20:49:42+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-75995-y": {
+      "key": "doi:10.1038/s41598-026-75995-y",
+      "doi": "10.1038/s41598-026-75995-y",
+      "title": "Micro-CT-informed Monte Carlo and experimental dosimetry of transcranial photobiomodulation devices",
+      "abstract": "Abstract Transcranial photobiomodulation (tPBM) is being investigated as a noninvasive strategy for modulating neural metabolism, neurovascular signaling, inflammation, and network activity; however, the field still lacks a quantitative framework that links nominal device parameters to delivered intracranial dose. Here, we combined micro-CT-informed Monte Carlo light transport with ex vivo phantom measurements to determine how wavelength, skull anatomy, cerebrospinal fluid (CSF) thickness, commercial device design, delivery route, and thermal behavior govern tPBM dosimetry. Two human skull models were embedded in four-compartment scalp-skull-blood-filled diploic pore-CSF models and simulated at 23 wavelengths from 610 to 1267 nm using an LED-like source geometry. Experimental benchmarking used a porcine skin-human skull-artificial CSF gelatin phantom measured regionally with a spectroradiometer for three commercial helmet devices, complemented by intranasal-style 810 nm irradiance mapping, brain-gelatin transmission measurements, and infrared thermal imaging. Monte Carlo results showed that transmitted photon weight was highly sensitive to skull thickness, CSF depth, and diploic microstructure, and generally favored the 1064–1070 nm range under controlled source-detector conditions, whereas 1267 nm decreased due to increased long-wavelength absorption. In contrast, commercial-device phantom measurements showed that delivered post-stack output was not determined by wavelength alone: the 810 nm helmet produced substantially higher region-resolved transmittance than the two longer-wavelength devices, while a paired 810 versus 1070 nm comparison showed higher instantaneous post-stack irradiance/transmittance for 810 nm but comparable detector-plane fluence after accounting for the longer 1070 nm exposure duration. Intranasal mapping demonstrated route-dependent redistribution of irradiance, and thermal measurements revealed marked differences in device self-heating despite modest skin-surface temperature changes. These findings show that meaningful tPBM evaluation requires wavelength, anatomy, source geometry, irradiance, exposure time, transmission, fluence, and thermal response to be reported as distinct but interdependent parameters.",
+      "link": "https://doi.org/10.1038/s41598-026-75995-y",
+      "authors": [
+        "Samin Enam",
+        "Loïc Saint-Martin",
+        "Rayyan Manwar",
+        "Kamran Avanaki"
+      ],
+      "published": "2026-10-25T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-25T20:49:45+00:00",
+      "last_seen": "2026-10-25T20:49:45+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77510-9": {
+      "key": "doi:10.1038/s41598-026-77510-9",
+      "doi": "10.1038/s41598-026-77510-9",
+      "title": "Human dignity and its associations with self efficacy and treatment adherence in adults with type 2 diabetes in Iran",
+      "abstract": "Human dignity is a foundational ethical construct in chronic illness care, yet its relationship with self-efficacy and treatment adherence in type 2 diabetes remains insufficiently understood. This cross-sectional descriptive-analytical study examined the associations between perceived human dignity, diabetes self-efficacy, and treatment adherence among 200 adults with type 2 diabetes attending comprehensive health service centers in Isfahan, Iran. Data were collected using validated Persian versions of the Patient Dignity Inventory, Diabetes Management Self-Efficacy Scale, and Modanloo Treatment Adherence Questionnaire and analyzed using descriptive statistics, Pearson correlation, and multiple linear regression. Participants had a mean age of 58.70 ± 9.10 years, and 55.5% were female. The regression models had adjusted R2 values of 0.111 for total self-efficacy and 0.248 for total treatment adherence. These findings indicate that perceived human dignity is associated with self-efficacy and treatment adherence among adults with type 2 diabetes. Longitudinal and interventional studies are needed to clarify the temporal relationships and potential explanations for these associations.",
+      "link": "https://doi.org/10.1038/s41598-026-77510-9",
+      "authors": [
+        "Yasaman Fallah",
+        "Narges Hashemi",
+        "Mahrokh Keshvari",
+        "Leila Mardanian Dehkordi"
+      ],
+      "published": "2026-10-25T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-25T20:49:45+00:00",
+      "last_seen": "2026-10-25T20:49:45+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-25T20:49:45+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76387-y": {
+      "key": "doi:10.1038/s41598-026-76387-y",
+      "doi": "10.1038/s41598-026-76387-y",
+      "title": "Fuzzy logic-based controller strategy for a single-input dual-output DC–DC converter for DC homes",
+      "abstract": "Abstract Effective power management systems in DC household applications have raised interest in the analytical study of specialized converter topologies and control algorithms. This Article presents the design of a Single-Input Dual-Output (SIDO) converter with control strategies, including a Fuzzy Logic (FL) controller and a Proportional-Integral (PI) controller for voltage control. The proposed SIDO converter has a 48 V input and regulated 24 V and 12 V outputs. The experimental results are validated on the TMS320F28379D Microcontroller by maintaining the output voltage at a constant level in a closed-loop configuration with sensor-based feedback. The PI controller demonstrated a settling time of 5.83 ms and a voltage regulation of 4.7%, whereas the FL controller achieved a settling time of 3.24 ms and a voltage regulation of 0.5% for the 24 V output. The FL controller achieved a settling time of 5.29 ms and a voltage regulation of 1.25% for the 12 V output, significantly improving over the PI's 19.95 ms settling time and 2.16% voltage regulation. These results show that the FL controller has a better dynamic response in terms of rise time, settling time, overshoot, undershoot, and reduced ripple during load surges than the PI controller.",
+      "link": "https://doi.org/10.1038/s41598-026-76387-y",
+      "authors": [
+        "Dharavath Ramesh",
+        "Tejaswi Poli",
+        "D. V. Siva Krishna Rao K",
+        "Praveen Kumar Bonthagorla",
+        "Chavali Ravi Varma"
+      ],
+      "published": "2026-10-25T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-25T20:49:46+00:00",
+      "last_seen": "2026-10-25T20:49:46+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77398-5": {
+      "key": "doi:10.1038/s41598-026-77398-5",
+      "doi": "10.1038/s41598-026-77398-5",
+      "title": "Attention specialized multi-view vision transformer for physics interpretable rolling element bearing fault diagnosis",
+      "abstract": "Rolling element bearing fault diagnosis remains challenging because different fault conditions produce complex and overlapping vibration characteristics. This study proposes a physics-guided Multi-View Vision Transformer (MV-ViT) that converts raw vibration signals into six complementary image representations: Short-Time Fourier Transform (STFT), Continuous Wavelet Transform (CWT), Constant-Q Transform (CQT), Spectral Kurtosis (SK), Teager Energy Map (TEM), and Envelope Spectrum (ES). The six representations are jointly processed using a shared Vision Transformer with multi-head self-attention to learn cross-view relationships among time-frequency, spectral, impulsive, and nonlinear energy characteristics. The proposed framework is evaluated for five-class bearing fault diagnosis, including combined faults. MV-ViT achieves a maximum test accuracy of 99.62%, with a mean accuracy of 98.72 ± 0.70% across five random seeds, demonstrating consistent performance across independent training runs. The class-wise results further show F1-scores above 0.96 for the combined-fault class. Transform-level attention analysis identifies the Envelope Spectrum as the most influential representation, accounting for approximately 42.8% of the measured attention energy, followed by CQT at 20.3%. This observation is verified using leave-one-view ablation, where removing the Envelope Spectrum leads to a decrease in the test accuracy by 1.12% points, going from 99.62% to 98.50%, while removing the CQT, CWT, or TEM view results in a decrease in accuracy of 0.75% points. The ablation study on the architecture of the network also shows that decreasing the depth and embedding dimension of the Transformer does not cause noticeable changes in the accuracy, which implies that representation diversity plays a more important role in diagnosis than increasing the model capacity. In Leave-One-Working-Condition-Out experiments, the accuracy for unseen working conditions is achieved at levels of 97.92%, 98.01%, and 97.23%, respectively. The statistical comparison of the results of five repeated experiments shows no significant differences between the validation and test accuracy (p = 0.3125). Finally, post-training quantization leads to a decrease in the size of the model from 77.9 MB in FP32 to 19.7 MB in INT8 and 9.9 MB in FP16Q4, preserving high classification accuracy.",
+      "link": "https://doi.org/10.1038/s41598-026-77398-5",
+      "authors": [
+        "Pratyush Vishal",
+        "Shristi Sahani",
+        "Narendiranath Babu T."
+      ],
+      "published": "2026-10-25T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-10-25T20:49:46+00:00",
+      "last_seen": "2026-10-25T20:49:46+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-10-25T20:49:46+00:00",
+      "matched_channels": {}
     }
   }
 }
