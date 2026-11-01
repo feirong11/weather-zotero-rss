@@ -358148,6 +358148,246 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-11-01T13:22:36+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-74731-w": {
+      "key": "doi:10.1038/s41598-026-74731-w",
+      "doi": "10.1038/s41598-026-74731-w",
+      "title": "Healthy diets and heart rate variability in a cross-sectional analysis of over 7000 adults attending the Maastricht study",
+      "abstract": "A limited and conflicting body of evidence exists on the association between adherence to healthy diets and HRV. The current study aimed to investigate the association between the Mediterranean Diet, Dietary Approaches to Stop Hypertension (DASH), Dutch Healthy Diet (DHD), and the Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) diet and HRV in adults. The baseline data from the Maastricht study were used for this cross-sectional research. Dietary adherence was assessed via a validated Food Frequency Questionnaire. HRV parameters were measured using a 12-lead Holter system over 24 h. Mean HRV parameters across quartiles (Q4 vs. Q1) of diet adherence scores and their linear associations were assessed using analysis of covariance and linear regression in different multivariable adjusted models. A total of 7,256 participants aged 59.19 ± 8.66 years were included in the analysis. After full confounder adjustment, in the total population, none of the diets were associated with HRV time domains. The frequency-domain analyses showed that the DASH and the DHD diets were significantly associated with higher power in the very-low-frequency (VLF) range (linear association, P ≤ 0.001). A significant interaction effect was observed between beta-blocker use and adherence to the DASH diet in association with VLF (P < 0.001). After stratification by beta-blocker use, the DASH and the DHD were significantly associated with higher VLF only among non-users (linear association, P ≤ 0.001). In conclusion, the DASH and DHD dietary patterns were significantly associated with a higher VLF. These associations were more evident among participants not receiving beta-blocker therapy. Future prospective investigations are needed to confirm these findings.",
+      "link": "https://doi.org/10.1038/s41598-026-74731-w",
+      "authors": [
+        "Farahnaz Haeri",
+        "Simone J. P. M. Eussen",
+        "Miranda Schram",
+        "Evan Yi-Wen Yu",
+        "Seyed Mostafa Seyedhosseini",
+        "Mohammadtaghi Sarebanhassanabadi",
+        "Sepideh Soltani",
+        "Amin Salehi-Abargouei",
+        "Maurice P. Zeegers",
+        "Anke Wesselius"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-01T22:00:09+00:00",
+      "last_seen": "2026-11-01T22:00:09+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-01T22:00:09+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77895-7": {
+      "key": "doi:10.1038/s41598-026-77895-7",
+      "doi": "10.1038/s41598-026-77895-7",
+      "title": "Combined application of nanobiochar, silicon, and iron nanoparticles mitigates multiple heavy metal stress in tomato (Solanum lycopersicum)",
+      "abstract": "This study evaluated the efficacy of nanobiochar (NB) and foliar Si/Fe nanoparticles in mitigating multiple heavy metal stress (HMS) in tomato. A three-factor factorial greenhouse experiment (completely randomized design, five replications) was conducted in 2023: soil amendment (control vs. 1% w/w NB), foliar spray (control, Si, Fe, Si + Fe at 2 g L⁻¹), and growth condition (normal vs. HMS from wastewater). HMS induced significant oxidative stress, as evidenced by increased H₂O₂ and malondialdehyde (MDA) levels, reduced photosynthetic pigment levels, and lower fruit yield. However, NB plus foliar nanoparticles, especially in combination, markedly alleviated HMS toxicity. The most effective treatment (NB + Si + Fe) increased key antioxidant enzymes (CAT, SOD, APX) and non-enzymatic antioxidants (proline, sugars, phenols, flavonoids), thereby decreasing H₂O₂ and MDA levels. Consequently, chlorophyll a, b, and carotenoid content increased under HMS. This treatment also reduced Cd, Pb, Cr, Cu, and Zn uptake in plant tissues and enhanced fruit yield by more than 57.14% compared to the stressed control. Integrated Biomarker Response version 2 (IBRv2) showed that NB + Fe (I = − 0.01) and NB + Si+Fe (I = − 0.02) produced the smallest negative deviation in growth indices and the greatest increase in antioxidant defense. Co-application of nanobiochar with Si + Fe nanoparticles is a highly effective strategy for sustaining tomato productivity in heavy-metal-contaminated soils, offering a promising nano-remediation approach for sustainable agriculture that warrants field-scale validation.",
+      "link": "https://doi.org/10.1038/s41598-026-77895-7",
+      "authors": [
+        "Razhan Bakr Mustafa",
+        "Aziz Nawroz Jamal",
+        "Sahar Hussein Hamarashid",
+        "Dastan Jamal Salih",
+        "Hamze Hamze"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-01T22:00:14+00:00",
+      "last_seen": "2026-11-01T22:00:14+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-01T22:00:14+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77887-7": {
+      "key": "doi:10.1038/s41598-026-77887-7",
+      "doi": "10.1038/s41598-026-77887-7",
+      "title": "Community-based RoboGym training improves gross motor function in ambulatory children with cerebral palsy",
+      "abstract": "Children with cerebral palsy (CP) require sustained, intensive, task-specific rehabilitation, yet conventional community-based rehabilitation (CBR) is often limited by insufficient training dose and lack of assistive technologies. In this pragmatic randomized controlled trial, 60 children with CP (mean age 10.4 ± 1.4 years; Gross Motor Function Classification System levels II–III) were allocated 1:1 to a community-based RoboGym (CRG) integrating five robotic modalities in a task-oriented circuit, or to conventional CBR. Both groups received 90-min sessions twice weekly for 6 months. The primary outcome was the Gross Motor Function Measure-66 (GMFM-66); secondary outcomes were the Pediatric Balance Scale (PBS), Functional Independence Measure (FIM), and Pediatric Quality of Life Inventory (PedsQL). Significant Time × Group interactions favored CRG for GMFM-66 (p = 0.048), PBS (p = 0.048), and the PedsQL emotional (p = 0.039) and social functioning (p = 0.015) domains; differences in FIM (p = 0.065) and PedsQL physical functioning (p = 0.076) also favored CRG but were not statistically significant. The CRG mean GMFM-66 percentile advanced from the 36th to the 48th (individual effect size (iES) = 1.14, large), whereas CBR remained near baseline (iES = 0.29). A higher proportion of CRG participants exceeded the minimal detectable change threshold (37–63% vs. 17–27%), a difference that was statistically significant for GMFM-66, PBS, and FIM. Multi-modal robotic circuit training may offer a scalable community-based approach to CP management, although confirmation in larger multicenter trials is required. Clinical Research Information Service, KCT0006417, registered [03 August 2021].",
+      "link": "https://doi.org/10.1038/s41598-026-77887-7",
+      "authors": [
+        "Chaesu Kim",
+        "Hermano I. Krebs",
+        "Tea Chung",
+        "Mooyeon Oh-Park",
+        "Mark Hallett",
+        "Jongeun Choi",
+        "Han Sung Kim",
+        "Sung Joshua H. You"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-01T22:00:17+00:00",
+      "last_seen": "2026-11-01T22:00:17+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-01T22:00:17+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-78527-w": {
+      "key": "doi:10.1038/s41598-026-78527-w",
+      "doi": "10.1038/s41598-026-78527-w",
+      "title": "Performance-based determination of optimal slip force of Pall friction dampers for multiple seismic hazard levels using endurance time method",
+      "abstract": "The incorporation of friction damper devices mitigates damage to primary structural members by dissipating seismic energy through controlled frictional mechanisms. Among the earliest and most extensively implemented friction-based devices are Pall friction dampers (PFDs). The endurance time method (ETM) reduces the computational effort required for obtaining structural responses and enables their estimation across multiple seismic hazard levels through a single analysis. The optimal slip force of PFDs is a key design parameter of these dampers. However, the optimal slip force determined for a specific seismic hazard level does not necessarily ensure satisfactory performance of structures equipped with these dampers across multiple seismic hazard levels. Hence, in this study, using ETM, a practical procedure is suggested for obtaining the optimal slip force of PFDs at multiple hazard levels. To this end, cases including 3-, 6-, 9-, and 12-story moment-resisting frames are considered. Then, the performance of structures with optimal PFDs and without PFDs is compared at different hazard levels. A comparison between the results of the ETM and conventional nonlinear time-history analysis using far-field ground motion records of FEMA P695 revealed a discrepancy of approximately 10%, indicating that the ETM predicts structural responses with acceptable accuracy. The investigation of PFDs' hysteretic behavior showed a more significant contribution by dampers located on the lower stories.",
+      "link": "https://doi.org/10.1038/s41598-026-78527-w",
+      "authors": [
+        "Milad Shams",
+        "Seyed Mehdi Zahrai",
+        "Amir Shirkhani"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-01T22:00:19+00:00",
+      "last_seen": "2026-11-01T22:00:19+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-01T22:00:19+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77252-8": {
+      "key": "doi:10.1038/s41598-026-77252-8",
+      "doi": "10.1038/s41598-026-77252-8",
+      "title": "Red–blue light ratios shape growth, physiological responses and leaf metabolic profiles in tissue-cultured Zingiber officinale plantlets",
+      "abstract": "Light quality regulates in vitro plant development, but the integrated responses of ginger plantlets to different red–blue light ratios remain unclear. Tissue-cultured Zingiber officinale Roscoe plantlets were exposed for eight weeks to white light (W), red light (R), blue light (B), or combined red–blue light at 1:1 (RB11), 1:3 (RB13), or 3:1 (RB31). Morphological traits, physiological and biochemical parameters, and untargeted leaf metabolic profiles were analysed. R primarily promoted stem elongation (mean stem length 46.0% higher than W) but produced relatively fewer buds, leaves and roots. B increased soluble sugar and protein contents and produced the lowest malondialdehyde level (19.7% below W). RB31 showed high catalase and peroxidase activities together with relatively low malondialdehyde. RB13 produced the highest bud and root numbers (root number 21.3% above W), maintained a high leaf number, enhanced carotenoid accumulation, and was associated with candidate responses involving lipid, phenylpropanoid, flavonoid, glutathione, polyamine and carbon–nitrogen metabolism. Only linoleic acid metabolism in B versus W remained significant after false discovery rate correction. Overall, the treatments induced distinct growth, physiological and metabolic response patterns. RB13 showed the most balanced response among the combined red–blue treatments and may be suitable for improving in vitro ginger plantlet quality.",
+      "link": "https://doi.org/10.1038/s41598-026-77252-8",
+      "authors": [
+        "Xiaolin Jiao",
+        "Da Li",
+        "Dwi Kusuma Wahyuni",
+        "Sreeramanan Subramaniam"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-01T22:00:23+00:00",
+      "last_seen": "2026-11-01T22:00:23+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-01T22:00:23+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76975-y": {
+      "key": "doi:10.1038/s41598-026-76975-y",
+      "doi": "10.1038/s41598-026-76975-y",
+      "title": "Groundwater quality dynamics and hydrochemical indicators of water insecurity in the semi-arid Sokoto Basin, Northwestern Nigeria",
+      "abstract": "To determine groundwater quality at a basin level in climate-stressed, data-scarce basins, approaches need to be developed that go beyond traditional descriptive hydrochemistry and interpret the data to provide spatial indicators of water insecurity. Groundwater samples were collected from 54 boreholes and hand-dug wells from the Sokoto Basin across the contrasting basement and sedimentary aquifer systems with the aim of providing an integrated assessment of the quality dynamics of the groundwater. The methodological novelty is the simultaneous testing of controlling processes in a hydrochemical and heavy metal characterisation, quantification of spatial dependence through multivariate statistical analysis, variogram modelling, and ordinary kriging, resulting in the identification of contamination hotspots. The findings show significant variation between the different lithologies and different areas, with values being higher in the basement complex aquifers than the sedimentary aquifers, with respect to the concentrations of minerals such as Mn, Cr, Al, Zn and As. The combined investigation suggests that the composition of groundwater is mainly regulated by mineral weathering, rock-water interaction, evaporation-induced concentrations and locally derived human inputs. The geostatistical modelling also identified specific regions of hydrochemical hotspots, which were mainly located in low-lying locations and areas with high evaporative stress, suggesting that climate stress can enhance the accumulation of solutes. The analysis integrates groundwater water insecurity, hydrochemical processes, spatial prediction and geological setting in a single analytical framework, providing a transferable approach to groundwater assessment in poorly monitored semi-arid groundwater settings. The results offer scientific insights for early warning systems for specific monitoring and for enabling adaptive groundwater management, public health protection and progress towards SDG 6.",
+      "link": "https://doi.org/10.1038/s41598-026-76975-y",
+      "authors": [
+        "Saadu Umar Wali",
+        "Noraliani Binti Alias",
+        "Ismail Usman Kaoje",
+        "Sa’ad Ibrahim",
+        "Abdullahi Umar"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-01T22:00:25+00:00",
+      "last_seen": "2026-11-01T22:00:25+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-01T22:00:25+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-78119-8": {
+      "key": "doi:10.1038/s41598-026-78119-8",
+      "doi": "10.1038/s41598-026-78119-8",
+      "title": "Behavioral deficits in Caenorhabditis elegans raised for six generations under Mars-analog gravity and hypomagnetic fields",
+      "abstract": "Life on Mars will require organisms to endure sustained exposure to reduced gravity and near-absent planetary magnetism, yet little is known about how these factors combine to affect biology across generations. Here, we investigated the effects of Mars-analog gravity and magnetism on neuromuscular, sensory, and morphological function using Caenorhabditis elegans as a model. Animals were reared continuously under ground-based Mars-analog conditions for six generations and assessed at Generations 2, 4, and 6. We reasoned that developmental disruption could manifest at several levels and assayed body morphology, crawling, swimming, and chemotaxis. Animals remained viable and reproduced in every lineage. Body morphology and crawling behavior remained mostly unaffected whereas chemotaxis was unaffected at first but declined progressively across generations. Swimming frequency was reduced from the earliest generation assayed and did not worsen thereafter. The two deficits followed different time courses suggesting that they arise from different mechanisms. Neither was reproduced by six generations of passive housing in Earth conditions in the unpowered apparatus. Because gravity and magnetic field were varied together, these effects cannot be attributed to either factor alone. Our results show that a Mars-analog environment alters behavior in a terrestrial animal without altering its body plan, and that one of these changes was detected only after several generations. Experiments confined to endpoints that do not challenge the organism would have missed the first deficit, and experiments confined to a single generation would have missed the second.",
+      "link": "https://doi.org/10.1038/s41598-026-78119-8",
+      "authors": [
+        "A. Akinosho",
+        "N. Armstrong",
+        "Z. Benefield",
+        "X. Dai",
+        "W. Stein",
+        "A. G. Vidal-Gadea"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-01T22:00:28+00:00",
+      "last_seen": "2026-11-01T22:00:28+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-01T22:00:28+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77613-3": {
+      "key": "doi:10.1038/s41598-026-77613-3",
+      "doi": "10.1038/s41598-026-77613-3",
+      "title": "No detectable BK polyomavirus or JC polyomavirus DNA in FFPE specimens from patients with advanced laryngeal squamous cell carcinoma",
+      "abstract": "Abstract Human polyomaviruses (HPyVs) exhibit oncogenic potential, and Merkel cell polyomavirus (MCPyV) is an established cause of Merkel cell carcinoma. While BK and JC polyomaviruses possess oncogenic properties, their etiological contribution to head and neck squamous cell carcinomas, specifically laryngeal squamous cell carcinoma (LSCC) remains highly controversial. This study aimed to evaluate the presence of BK polyomavirus (BKPyV) and JC polyomavirus (JCPyV) in advanced LSCC to clarify their potential role. Formalin-fixed paraffin-embedded (FFPE) tumor specimens were obtained retrospectively from 35 patients with advanced (pT3–pT4a) LSCC treated with total laryngectomy. BKPyV and JCPyV DNA was investigated by real-time PCR, with co-amplification of the human β-globin gene as an internal control for DNA amplifiability and PCR inhibition. Amplifiable genomic DNA was confirmed in all 35 samples. No JCPyV or BKPyV DNA was detected in any specimen (0/35 for each virus; 95% CI 0–10.0%). The absence of detectable JCPyV and BKPyV genomes in the examined specimens does not support a frequent or persistent presence of BKPyV and JCPyV in advanced LSCC. However, we cannot definitively exclude transient early-stage viral involvement, low-level infection or varying prevalence in different populations.",
+      "link": "https://doi.org/10.1038/s41598-026-77613-3",
+      "authors": [
+        "Maria Doulaptsi",
+        "Melpomeni Tseliou",
+        "Alexander Karatzanis",
+        "Evangelos Akoumianakis",
+        "Maria Tzardi",
+        "Emmanuel Prokopakis",
+        "Georgios Velegrakis",
+        "George Sourvinos"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-01T22:00:30+00:00",
+      "last_seen": "2026-11-01T22:00:30+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76678-4": {
+      "key": "doi:10.1038/s41598-026-76678-4",
+      "doi": "10.1038/s41598-026-76678-4",
+      "title": "Spatial and temporal context effects in visual perception: crowding, serial dependence, and their interaction",
+      "abstract": "Visual perception depends not only on current sensory input but also on its spatial and temporal context. Serial dependence and visual crowding are two well-established phenomena in which perceptual judgments are shaped by recent history and surrounding stimuli, respectively. However, their functional relationship remains unclear. We examined this using orientation and brightness discrimination tasks in which peripheral targets were presented with flankers varying in colour, orientation, and proximity. Robust crowding and reliable trial-to-trial sequential biases emerged in both tasks, with a similar task–stimulus double dissociation, and the two interacted in feature- and location-specific ways. To resolve how crowding shapes serial dependence, we applied a joint logistic decomposition to the two-alternative forced-choice accuracy data, partialling the previous response from the previous stimulus to recover stimulus- and decision-driven contributions separately. The sequential biases were carried predominantly by the previous response, but a reliable stimulus-driven residual remained, particularly for orientation judgments, with opposite sign to the decisional component at both locations: at the same location the decisional was attractive and the residual repulsive; for orientation at different locations both components reversed sign, the decisional becoming repulsive and the residual attractive. Current-trial crowding amplified the decisional carry-over in both tasks. Prior-trial crowding additionally shrank both the decisional and stimulus-driven components for orientation, suggesting that crowding acts upstream of the sequential integration mechanism rather than on the integration itself. Crowding and serial dependence are therefore distinct processes whose interaction is feature-specific and operates through multiple routes: current crowding directly amplifies decisional carry-over; prior crowding both degrades decision reliability and, for orientation only, scales the perceptual representation that sequential integration acts on. These findings recast the link between crowding and serial dependence: rather than parallel manifestations of a single integrative computation, they are dissociable processes whose interaction is asymmetric, feature-specific, and routed through both perceptual and decisional stages.",
+      "link": "https://doi.org/10.1038/s41598-026-76678-4",
+      "authors": [
+        "John Cass",
+        "Robert M. Jertberg",
+        "Erik Van der Burg"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-01T22:00:30+00:00",
+      "last_seen": "2026-11-01T22:00:30+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-01T22:00:30+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76212-6": {
+      "key": "doi:10.1038/s41598-026-76212-6",
+      "doi": "10.1038/s41598-026-76212-6",
+      "title": "Lyapunov-based adaptive path tracking control of wheeled mobile robots using a self-organizing recurrent Gaussian-gating functional-link fuzzy neural network",
+      "abstract": "",
+      "link": "https://doi.org/10.1038/s41598-026-76212-6",
+      "authors": [
+        "A. Aziz Khater",
+        "Yi Chen",
+        "Abderraouf Maoudj",
+        "Abdelhadi Aouaichia"
+      ],
+      "published": "2026-11-01T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-01T22:00:34+00:00",
+      "last_seen": "2026-11-01T22:00:34+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {
+        "machine-learning": [
+          "neural network"
+        ]
+      }
     }
   }
 }
