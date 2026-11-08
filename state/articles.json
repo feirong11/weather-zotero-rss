@@ -393729,6 +393729,167 @@
           "machine learning"
         ]
       }
+    },
+    "doi:10.1038/s41598-026-76747-8": {
+      "key": "doi:10.1038/s41598-026-76747-8",
+      "doi": "10.1038/s41598-026-76747-8",
+      "title": "Prognostic role of 18FDG-PET/CT based biomarker, tumor grading and immunohistochemical markers in breast cancer survival",
+      "abstract": "To determine prognostic strength of 18FDG PET/CT based glucose metabolism, tumor grading and immunohistochemical markers in breast cancer (BC) patients. The cohort study conducted at PET/CT Section of one of the tertiary care hospitals in Karachi, Pakistan. A total of 110 patients with advanced-stage breast cancer (predominantly stage II or higher) who underwent baseline 18F-FDG PET/CT between April 2017 and July 2020 were included. Patients were followed for up to five years from date of baseline 18FDG PET/CT, and metabolic progression-free survival (mPFS) was assessed using serial 18FDG PET/CT findings. Tumor demographics (type, grading, staging) and immunohistochemistry (estrogen receptor ER, human epidermal growth factor receptor-2 HER2/Neu, progesterone receptor PR, Ki-67) were also recorded. Using logistic regression and receiver operating characteristics (ROC) analysis, the significant predictors of complete metabolic response (CMR) based on binary outcome (CMR achieved and not achieved) were analyzed. Kaplan Meier’s survival plots were analyzed to measure mPFS against ROC derived cutoff values of significant predictors. The median age of study group was 57 years (25–86 years), significantly obese and 85% invasive ductal CA with 97% grade II-III on Bloom-Richardson classification and stage IV disease (74%). The significant association of maximum standardized uptake value (SUVmax) and Ki-67 index were found in CMR on logistic regression while no significant association of patients’ age, BMI, tumor grading, ER, PR, HER-2/neu status were found in CMR in BC. SUVmax > 5.4 and Ki-67 > 30% were found to have significant association with failure to achieve CMR (AUC 0.729 and 0.759; p = 0.0002* and p = 0.0001* respectively). The mPFS was significantly shorter in patients with SUVmax > 5.4 (29 vs. 45 months; Logrank = 16.356; p = 0.0001*) and in patients with Ki-67 > 30% index (27 vs. 48 months; Logrank = 14.901; p = 0.0001*). Higher baseline SUVmax (> 5.4) and Ki-67 index (> 30%) on baseline 18FDG were associated with a lower likelihood of achieving CMR and significantly shorter mPFS in breast cancer patients. Integration of metabolic and proliferative biomarkers may improve prognostic risk stratification, particularly in advanced breast cancer.",
+      "link": "https://doi.org/10.1038/s41598-026-76747-8",
+      "authors": [
+        "Nosheen Fatima",
+        "Maseeh uz Zaman"
+      ],
+      "published": "2026-11-08T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-08T13:23:28+00:00",
+      "last_seen": "2026-11-08T13:23:28+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-08T13:23:28+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-78034-y": {
+      "key": "doi:10.1038/s41598-026-78034-y",
+      "doi": "10.1038/s41598-026-78034-y",
+      "title": "Thermal transport and crystallisation in octadecane composites with porous framework coatings and graphene",
+      "abstract": "Low thermal conductivity and leakage limit the use of organic phase change materials for latent heat storage. Confinement can also delay crystallisation. Polyurea capsules containing n-octadecane were coated with either zeolitic imidazolate framework-8 (ZIF-8) or Universitetet i Oslo-66 (UiO-66) and embedded in a polyurethane matrix containing graphene nanoplatelets. Modulated differential scanning calorimetry characterised heat-flow components, while fast scanning calorimetry examined cooling-rate dependence. At a graphene loading of 5 wt%, the ZIF-8-coated composite had an effective thermal conductivity of 0.78 ± 0.04 W m−1 K−1 at 25 °C and an onset-based supercooling of 1.2 ± 0.2 °C. Corresponding values for the UiO-66-coated composite were 0.72 ± 0.03 W m−1 K−1 and 2.4 ± 0.3 °C. Control composites containing only the coating or only the graphene reached 0.31 ± 0.02 and 0.44 ± 0.03 W m−1 K−1, so neither component accounts for the transport of the complete formulation. The ZIF-8-coated composite retained 98.2 ± 1.1% of its initial melting enthalpy after 1000 cycles between 10 and 60 °C, losing 0.34 ± 0.08% of its mass and showing unchanged infrared and diffraction signatures. Values are means and standard deviations across three independently prepared batches. The two coatings differ in thickness, crystallite size, surface area and growth conditions, so the measurements compare complete formulations rather than isolating a topology-dependent nucleation mechanism. Discharge power at device scale remains untested.",
+      "link": "https://doi.org/10.1038/s41598-026-78034-y",
+      "authors": [
+        "Hind Albalawi",
+        "Azfarizal Mukhtar",
+        "Sanatjon Jafarov",
+        "Dilshodbek Sotvoldiav",
+        "Asilbek Abdullayev",
+        "Alisher Abduvokhidov",
+        "Bharosh Kumar Yadav"
+      ],
+      "published": "2026-11-08T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-08T13:23:30+00:00",
+      "last_seen": "2026-11-08T13:23:30+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-08T13:23:30+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77269-z": {
+      "key": "doi:10.1038/s41598-026-77269-z",
+      "doi": "10.1038/s41598-026-77269-z",
+      "title": "Specifics of the growth of lithium-doped KCl single crystals by the Bridgman method in an argon atmosphere",
+      "abstract": "Abstract A purification and growth process for alkali halide crystals (AHCs) is demonstrated using KCl: Li as a model system and employing an experimental crystal growth setup manufactured by Across International, USA. The process involves the following sequential stages: (i) deposition of a thin pyrolytic carbon coating (pyrolysis) onto the inner surface of a quartz ampoule in order to suppress the adhesion of molten alkali halide compounds (AHCs) to the ampoule walls; (ii) generation of a high vacuum (10 –6 Тоrr) inside the quartz reactor to purify the alkali halide raw materials from oxygen-containing impurities; (iii) establishment of an argon atmosphere (1.1–1.3 bar) and the quartz ampoule shielding as a technological approach for suppressing the evaporation of aggressive halogen vapors. Flame photometry, absorption spectroscopy, and luminescence spectroscopy analyses demonstrate that the KCl crystal matrix was purified from oxygen-containing impurities (OH) down to 0.2 ppm, divalent impurities (Me 2+ ) down to 0.1 − 0.3 ppm, and alkali-metal homolog cations (Li + , Na + ) down to 1–3 ppm. Unique capabilities of the facility were further realized in the growth of KCl single crystals doped with hygroscopic lithium ions. Enhanced scintillation and dosimetric properties of KCl: Li crystals were demonstrated.",
+      "link": "https://doi.org/10.1038/s41598-026-77269-z",
+      "authors": [
+        "Kuanyshbek Shunkeyev",
+        "Shynar Sagimbayeva",
+        "Adelya Kenzhebayeva",
+        "Zhiger Ubaev",
+        "Gulnara Beketova",
+        "Dulat Zhumabayev"
+      ],
+      "published": "2026-11-08T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-08T13:23:31+00:00",
+      "last_seen": "2026-11-08T13:23:31+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76857-3": {
+      "key": "doi:10.1038/s41598-026-76857-3",
+      "doi": "10.1038/s41598-026-76857-3",
+      "title": "Efficient greybox fuzzing framework with tabu search",
+      "abstract": "Recently, fuzzing has emerged as a prominent technique for automatically detecting a wide range of security vulnerabilities in cybersecurity. Nevertheless, existing fuzzers remain limited in seed scheduling and energy allocation, as they typically rely on coarse-grained criteria or computationally intensive methods to evaluate seed quality. In this paper, we propose a novel adaptive fuzzing framework, namely TabuFuzz, which aims to prioritize seeds with a higher likelihood of generating interesting variants through mutation and allocate more energy to that seed. Specifically, TabuFuzz utilizes a tabu search (TS) algorithm to model seed scheduling, enabling the precise selection of promising seeds. In addition, we design an adaptive energy allocation strategy that exploits fine-grained dynamic execution information, thereby enhancing overall fuzzing efficiency. We implement TabuFuzz on top of AFL and evaluate it on nine widely-used real-world programs. Across six independent 24-hour trials, TabuFuzz achieved higher observed path exploration and crash discovery than the evaluated baselines on most target programs, with improvements of 19.89% and 160.87% over AFL, respectively. Comparative analyses further show that TabuFuzz recorded higher numbers of paths and crashes than representative fuzzers such as FairFuzz, MOPT, EcoFuzz, and AFL + + under the reported experimental setup.",
+      "link": "https://doi.org/10.1038/s41598-026-76857-3",
+      "authors": [
+        "Xiajing Wang",
+        "Zequn Niu",
+        "Kaile Xiao"
+      ],
+      "published": "2026-11-08T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-08T13:23:31+00:00",
+      "last_seen": "2026-11-08T13:23:31+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-08T13:23:31+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-76583-w": {
+      "key": "doi:10.1038/s41598-026-76583-w",
+      "doi": "10.1038/s41598-026-76583-w",
+      "title": "Experimental investigation of undrained and drained shear behavior of fat clay stabilized with industrial sewage sludge ash and reinforced with PVA fibers",
+      "abstract": "The mechanical properties of industrial sewage sludge ash (ISSA) stabilized and PVA fiber-reinforced fat clay were studied with special reference to the trade-off between strength improvement and brittleness enhancement by stabilization. The experimental program included a complete set of Atterberg limits, standard Proctor compaction, unconsolidated-undrained (UU) triaxial, consolidated-drained direct shear tests, scanning electron microscopy (SEM), and toxicity characteristic leaching procedure (TCLP) analysis. In the study, the effects of ISSA content (0–15%), PVA fiber dosage (0-0.5%), curing period (14–42 days), and moisture condition were examined. The results show that the ISSA stabilization significantly improved the shear strength of the fat clay and also significantly increased its brittleness. Under a confining pressure of 400 kPa, the maximum deviatoric stress increased from 553 kPa for untreated clay to 1602 kPa for soil stabilized with 5% ISSA. Increasing the ISSA content to 10% resulted in only limited additional improvement. The PVA fiber reinforcement improved the post-peak strength, the deformation capacity, and the resistance to shear localization. Within the investigated range, 5% ISSA, 0.3% PVA fibers, and 42 days of curing provided the most balanced performance. SEM observations showed particle aggregation, structural modification, and stronger interaction between fibers and matrix. TCLP results showed that heavy-metal concentrations were below regulatory limits for the tested conditions. The results suggest that ISSA stabilization with PVA fiber reinforcement is a promising method to improve high-plasticity clay and to reduce the brittleness caused by cementitious stabilization.",
+      "link": "https://doi.org/10.1038/s41598-026-76583-w",
+      "authors": [
+        "Javad Jalali",
+        "Reza Noorzad",
+        "Bahram Ta’negonbadi"
+      ],
+      "published": "2026-11-08T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-08T13:23:32+00:00",
+      "last_seen": "2026-11-08T13:23:32+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-08T13:23:32+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77666-4": {
+      "key": "doi:10.1038/s41598-026-77666-4",
+      "doi": "10.1038/s41598-026-77666-4",
+      "title": "Embedded sensing telemetry and a validated explicit finite element digital twin of pressurised uPVC pipe under low velocity impact",
+      "abstract": "Polymeric pipelines are increasingly used for pressurized fluid transport, yet their behavior under accidental low-velocity impact, and the means to monitor it in service, remain underdeveloped relative to metallic systems. This study recasts a combined experimental and numerical investigation of clamped unplasticized poly(vinyl chloride) (uPVC) pipe as the first building block of a physics-based digital twin for polymeric utility pipelines. A drop-weight rig was instrumented with a purpose-built ESP32-S2 sensing unit, using infrared timing gates and a pressure transducer, that streams real impact telemetry: the hammer velocity and the transient internal pressure pulse. Five water-pressurized specimens, spanning 689.48 to 2068.43 kPa, were struck at mid-span by a 4 kg hammer at 5.56 m/s, and a high-fidelity ABAQUS/Explicit counterpart was synchronized against the measured response. As internal pressure rose, the peak contact force increased from 3527 to 4174 N, the permanent deformation fell from 15.1 to 7.0 mm, and the pressure pulse grew while the contact period shortened, all consistent with pressure-induced wall stiffening. The contact-force response was linear up to about 1379 kPa before plateauing at the onset of the burst-pressure regime. Experimental and numerical plastic-zone areas agreed to within 16.9%, a conservative over-prediction the twin corrects during synchronization. On this validated basis, a conceptual digital-twin framework is proposed, enabling real-time damage identification and predictive, surrogate-driven structural health monitoring of polymeric pipelines.",
+      "link": "https://doi.org/10.1038/s41598-026-77666-4",
+      "authors": [
+        "Ha-meem Ahmed",
+        "Golam Kibria",
+        "Shariful Hassan Raphi",
+        "Jummana Benta Bashar",
+        "Md Rownak Afroz"
+      ],
+      "published": "2026-11-08T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-08T13:23:33+00:00",
+      "last_seen": "2026-11-08T13:23:33+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-08T13:23:33+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77493-7": {
+      "key": "doi:10.1038/s41598-026-77493-7",
+      "doi": "10.1038/s41598-026-77493-7",
+      "title": "Experimental investigation and numerical modeling of the behavior of sandwich panels with grooved PVC foam cores and CFRP/GFRP facings",
+      "abstract": "This work presents a thorough experimental and numerical investigation into the mechanical behavior of sandwich panels subjected to three/four-point bending, as well as flatwise and edgewise compression. The studied structure is designed for aerospace and marine applications, aiming to optimize the trade-off between weight and stiffness. The core consists of a 10 mm thick, grooved, closed-cell Airex C70.55 PVC foam. The skins are formed by three-layer laminates combining carbon fiber (CFRP) and glass fiber (GFRP) fabrics of various areal weights. The panels were manufactured using the vacuum resin infusion process with an epoxy matrix. Experimental results reveal that failure initiation consistently manifests as localized compressive wrinkling of the upper skin, which subsequently progresses into direct crushing beneath the load application points. These tests highlight the critical influence of the facing material and the orientation of the grooved core face relative to the loading direction. The sandwich panel with carbon skins (BMS 9 − 8 3 K-70) outperforms all glass fiber configurations, while the “Up” orientation (grooved face positioned in the upper zone) yields the highest flexural strength. This configuration increases the failure load and the apparent ultimate core shear stress by 24% to 38%, an effect attributed to the resin ribs formed in the grooves during infusion, which raise the local indentation resistance of the loaded face by about one order of magnitude. The experimental flexural stiffness ($$\\:{D}_{exp}$$) also exceeds the classical sandwich-theory prediction based on the facing modulus ($$\\:{E}_{f}$$). In parallel, a 3D implicit numerical model was developed in Abaqus. The Hashin progressive damage criterion was implemented to predict composite skin failure, while a Cohesive Zone Model (CZM) based on COH3D8 elements was used to model skin–core interface behavior and delamination. The resin-filled grooves are represented explicitly and the core is described by a hyperfoam model calibrated on compression tests. For the reference configuration (BMS 9 − 8 3 K-70 facings, “Up” orientation, three-point bending), the predicted load–displacement curve agrees with experimental data within 3% for the peak load and 6% for the initial stiffness, with predicted damage localizing at the observed transverse compressive failure of the upper skin.",
+      "link": "https://doi.org/10.1038/s41598-026-77493-7",
+      "authors": [
+        "Chouaib Aribi",
+        "Amin Houari",
+        "Amira Djellab",
+        "Ahmed Chellil",
+        "Samir Lecheb",
+        "Brahim Safi",
+        "Bahria Nekkaa",
+        "Salah Amroune",
+        "Eustache Hakizimana"
+      ],
+      "published": "2026-11-08T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-08T13:23:34+00:00",
+      "last_seen": "2026-11-08T13:23:34+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-08T13:23:34+00:00",
+      "matched_channels": {}
     }
   }
 }
