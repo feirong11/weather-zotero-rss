@@ -393890,6 +393890,85 @@
       "enrichment_attempts": 1,
       "last_enrichment_attempt": "2026-11-08T13:23:34+00:00",
       "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77584-5": {
+      "key": "doi:10.1038/s41598-026-77584-5",
+      "doi": "10.1038/s41598-026-77584-5",
+      "title": "Outcomes of surgically treated type a aortic dissection with malperfusion syndrome: an asian multi-institutional cohort study",
+      "abstract": "This study evaluated mortality in surgically treated type A aortic dissection with malperfusion (mTAAD), identified malperfusion types associated with 30-day mortality, and assessed whether its prognostic impact persists beyond the early postoperative period. We analyzed 1021 patients with TAAD undergoing open surgery in Asia (2002–2018), including 209 with and 812 without preoperative malperfusion. Outcomes were 30-day mortality, overall mortality from surgery, and overall mortality from discharge, assessed using logistic regression and Cox proportional hazards models. Malperfusion was associated with higher 30-day mortality (28.7% vs. 15.8%; adjusted odds ratio [aOR], 1.93; 95% CI 1.32–2.84) and overall mortality from surgery (34.4% vs. 24.0%; adjusted hazard ratio [aHR], 1.36; 95% CI 1.01–1.83), but not mortality from discharge (aHR, 0.84; 95% CI 0.40–1.77). Among single-organ malperfusion, cerebral malperfusion was associated with 30-day mortality (aOR, 2.25; 95% CI 1.08–4.70). Compared with no malperfusion, 30-day mortality was higher with single-organ involvement (aOR, 1.86; 95% CI 1.23–2.86), but not significantly with two organs (aOR, 1.66; 95% CI 0.76–3.66). In surgically treated mTAAD, the prognostic impact of malperfusion is concentrated in the early postoperative period. Cerebral malperfusion is associated with high 30-day mortality, supporting its emphasis in preoperative risk stratification.",
+      "link": "https://doi.org/10.1038/s41598-026-77584-5",
+      "authors": [
+        "Tsung-Han Cheng",
+        "Shao-Wei Chen",
+        "Shuo-Kang Hsieh",
+        "Ming-Jer Hsieh",
+        "Chia-Pin Lin",
+        "Dong-Yi Chen",
+        "Ying-Chang Tung",
+        "Fu-Chih Hsiao",
+        "Pao-Hsien Chu",
+        "Yu-Ting Cheng"
+      ],
+      "published": "2026-11-08T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-08T22:02:26+00:00",
+      "last_seen": "2026-11-08T22:02:26+00:00",
+      "enrichment_attempts": 1,
+      "last_enrichment_attempt": "2026-11-08T22:02:26+00:00",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-78168-z": {
+      "key": "doi:10.1038/s41598-026-78168-z",
+      "doi": "10.1038/s41598-026-78168-z",
+      "title": "A systematic review and meta analysis of early exercise based cardiac rehabilitation in patients hospitalized with acute heart failure",
+      "abstract": "Abstract Early exercise-based cardiac rehabilitation (ExCR) has been increasingly investigated in patients hospitalized with acute heart failure (AHF), but its effects on functional recovery and whether these effects vary across selected study-level characteristics remain uncertain. This systematic review and meta-analysis aimed to evaluate the effects of ExCR initiated during hospitalization on functional capacity in patients with AHF and to explore potential differences according to rehabilitation delivery model, World Bank country income classification, and study-level mean age. PubMed, Embase, the Cochrane Library, Web of Science, and CNKI were searched from inception to May 2026. Randomized controlled trials were eligible if they enrolled adults hospitalized with AHF, initiated a structured ExCR program during hospitalization, compared ExCR with usual care or no structured exercise intervention, and reported 6-minute walk distance (6MWD). The primary outcome was 6MWD, secondary outcomes included health-related quality of life (HRQoL), clinical events and safety. Random-effects models were used, and subgroup analyses were considered exploratory. Twelve independent randomized controlled trials were included. Early ExCR significantly improved 6MWD compared with control group (mean difference [MD] 54.44 m, 95% CI 35.62 to 73.26; I² = 60%). Exploratory subgroup analyses showed no statistically significant differences according to rehabilitation delivery model, World Bank country income classification, or study-level mean age. ExCR also showed potential benefits for disease-specific HRQoL, whereas evidence for HF-related readmission and all-cause mortality remained inconclusive. Sensitivity analyses supported the robustness of the primary 6MWD finding, although the certainty of evidence was rated as low because of risk of bias and inconsistency. Early ExCR initiated during hospitalization may improve functional capacity in patients with AHF. Exploratory subgroup analyses did not identify significant effect modification by rehabilitation delivery model, World Bank country income classification, or study-level mean age. However, the exact magnitude of benefit should be interpreted cautiously, and larger, methodologically rigorous trials are needed to clarify optimal delivery strategies and long-term clinical effects.",
+      "link": "https://doi.org/10.1038/s41598-026-78168-z",
+      "authors": [
+        "Xiu Zhang",
+        "Zeruxin Luo",
+        "Mengxuan Yang",
+        "Wei Huang",
+        "Yuqiang Wang",
+        "Pengming Yu"
+      ],
+      "published": "2026-11-08T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-08T22:02:28+00:00",
+      "last_seen": "2026-11-08T22:02:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
+    },
+    "doi:10.1038/s41598-026-77224-y": {
+      "key": "doi:10.1038/s41598-026-77224-y",
+      "doi": "10.1038/s41598-026-77224-y",
+      "title": "Estimating dispersal, survival and population size of wild Aedes aegypti in Dar es Salaam, Tanzania using self-mark-release-recapture method",
+      "abstract": "Abstract Aedes -borne arboviral diseases represent a major global public health challenge, with vector control remaining the primary preventive strategy because there are no available antivirals or universal vaccines for most of these infections. This study quantified dispersal, survival time and population size of Aedes aegypti using a mosquito mark-release-recapture (MMRR) approach to generate ecological parameters required for implementing a release-based approaches for Ae. aegypti control. Wild Ae. aegypti pupae were placed beneath a marking unit covered with fluorescent dust-coated cloth-grids. Marked mosquitoes were recaptured within a 250 m radius using BG-sentinel traps, Prokopack aspirators, resting buckets and gravid traps. The overall mean distance travelled (MDT) was 94.5 m (95% CI 83.4–105.7) and the maximum distance travelled was 156 m. The average life expectancy (ALE) was 13.5 days (95% CI 12.2–14.8), with an average probability of daily survival (PDS) of 0.93 (95% CI 0.92–0.94). Survival analysis showed that approximately 80% of male and female Ae. aegypti survived up to 10 days. The estimated population size was 1195 mosquitoes/ha. These findings demonstrate that Ae. aegypti exhibit limited dispersal and survive beyond dengue virus’ average extrinsic incubation period (EIP) of 7–12 days, providing ecological conditions conducive to sustain arboviral transmission. The results also provide critical parameters for optimizing release-based control strategies.",
+      "link": "https://doi.org/10.1038/s41598-026-77224-y",
+      "authors": [
+        "Frank S. C. Tenywa",
+        "Haji Makame",
+        "Jason Moore",
+        "Osward Dogan",
+        "Harubu I. Mapipi",
+        "Thomas A. Smith",
+        "Nakul Chitnis",
+        "Sarah J. Moore",
+        "Luzia N. Felber"
+      ],
+      "published": "2026-11-08T00:00:00+00:00",
+      "journal": "Scientific Reports",
+      "journal_label": "Scientific Reports",
+      "issn": "2045-2322",
+      "first_seen": "2026-11-08T22:02:28+00:00",
+      "last_seen": "2026-11-08T22:02:28+00:00",
+      "enrichment_attempts": 0,
+      "last_enrichment_attempt": "",
+      "matched_channels": {}
     }
   }
 }
